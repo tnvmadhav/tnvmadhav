@@ -1,6 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Things I use LLMs for
+
+— summarizing a piece of writing to add as metadata
+— patching grammatical mistakes in my writing (no rewrites)
+— generating function definitions with one specific job
+— generating boilerplate and fixture tools for unit tests 
+— formatting ugly json strings
+— generating example SQL statements for a given DDL (when non-trivial types are involved)
+— finding bugs in pieces of code that I seem to overlook, and learning what I had missed
+— analysing time complexity of a piece of code (as reference to compare with my own analysis)
+
+ -- 2024-08-03T11:15:59.321Z
+
+---
+
 Today, I came across one of my favorite bloggers' GitHub profile, [@Simonw](https://github.com/simonw). What caught my eye was the profile readme section, where Simon lists the latest posts from his blog.
 
 ###  Simon's GitHub Profile
@@ -111,12 +126,6 @@ https://twitter.com/twitter/status/1818477947277525242/ -- 2024-07-31T06:30:03.0
 
 your first step is a draft for the next
 https://twitter.com/twitter/status/1817910451449028619/ -- 2024-07-31T05:00:02.892Z
-
----
-
-You miss 100% of the shots you don't take.
-
-https://www.sequoiacap.com/article/ai-optimism-vs-ai-arms-race/ -- 2024-07-28T12:30:02.984Z
 <!-- feed ends -->
 
 
