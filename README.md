@@ -1,6 +1,27 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I noticed that the footnote cardinality indicators aren't readable and one can easily miss them while skimming the blog posts.
+
+In the process, I learned that Hugo uses Goldmark markdown processor.
+
+
+I also learned that Goldmark markdown processor [is CommonMark 0.31.2 compliant](https://michal.sapka.me/blog/2023/footnotes-in-hugo-and-goldmark/)[^1]
+
+
+Then, I found a blog post from [geek this](https://geekthis.net/post/hugo-footnotes-and-citations/) that answered my question.
+
+
+I finally followed the latter solution that involved adding a nascent/vanilla css code snippet at the root of my blog's HTML
+
+> .footnote-ref::before {content: '[';}
+> .footnote-ref::after {content: ']';}
+
+
+[^1]: Only today I got to know about something called CommonMark that defines markdown specification.  You can refer to this RFC document that describes the protocol to convert markdown to html. https://spec.commonmark.org/0.31.2/.  -- 2024-08-03T12:30:12.658Z
+
+---
+
 Things I use LLMs for
 
 — summarizing a piece of writing to add as metadata
@@ -121,11 +142,6 @@ TIL that Caroline Ellison was one of the toppers in the International Linguistic
 
 Wild.
 https://twitter.com/twitter/status/1818477947277525242/ -- 2024-07-31T06:30:03.052Z
-
----
-
-your first step is a draft for the next
-https://twitter.com/twitter/status/1817910451449028619/ -- 2024-07-31T05:00:02.892Z
 <!-- feed ends -->
 
 
