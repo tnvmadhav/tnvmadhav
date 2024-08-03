@@ -72,7 +72,7 @@ if __name__ == "__main__":
     guide_entries_md = "\n\n".join(guide_entries_md_list[:5])
     blog_entries_md =  "\n\n".join(blog_entries_md_list[:5])
     til_entries_md = "\n\n".join(til_entries_md_list[:5])
-    feed_entries_md = "\n\n".join(feed_entries_md_list[:10])
+    feed_entries_md = "\n\n---\n\n".join(feed_entries_md_list[:10])
 
     blog_entries_md += f"\n\nMore on [MY BLOG POSTS](https://tnvmadhav.me/blog/)"
     guide_entries_md += f"\n\nMore on [MY GUIDES](https://tnvmadhav.me/guides/)"

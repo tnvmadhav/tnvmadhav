@@ -3,6 +3,8 @@
 <!-- feed starts -->
 It’s a beautiful day to thug it out with indomitable human spirit. -- 2024-08-02T06:30:07.436Z
 
+---
+
 After 12 years, Russ Cox is stepping down as Tech Lead of the Go project starting from 1st September 2024. Austin Clements is taking over.
 
 > "I am not leaving the Go project, but I think the time is right for a change." -- rsc
@@ -25,6 +27,8 @@ Thank you, RSC 🫡🫡 for all the hard work on Go. It's an amazing piece of so
 
 You can find the note in the Go Dev google developer group ["passing torches to Austin and Cherry"](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw) -- 2024-08-02T03:30:17.236Z
 
+---
+
 So Telegram has a new in-app browser that is used to support applications built on top of the [Ton](https://ton.org) decentralized network that is designed by telegram https://telegram.org/blog/w3-browser-mini-app-store
 
 
@@ -38,6 +42,8 @@ I tried to check this out myself and it seems as though some apps already have m
 
  -- 2024-08-01T12:30:16.325Z
 
+---
+
 I must say [perplexity](https://perplexity.ai) is a delight to use. I usually find the answer I need in less than 2-3 prompts. I think of it as using a search engine and not an LLM. 
 
 https://x.com/balajis/status/1818848829187539266
@@ -46,24 +52,36 @@ https://x.com/balajis/status/1818848829187539266
 I think what keeps me coming back is not only the citation confidence but the 🤌🏻 UX.
  -- 2024-08-01T06:30:05.411Z
 
+---
+
 >  [...]the services I'm referring to are S3 Select, CloudSearch, Cloud9, SimpleDB, Forecast, Data Pipeline, and CodeCommit.- [Jeff Barr](https://x.com/jeffbarr/status/1818488419347317217 )
 
 
 It looks like it's more than "just" these services. You can find a compiled list on a [GitHub repository called "AWS Breaking Changes and price increases"](https://github.com/SummitRoute/aws_breaking_changes)  -- 2024-08-01T03:56:33.098Z
 
+---
+
 + 10000 Aura -- 2024-07-31T06:30:12.136Z
+
+---
 
 TIL that Caroline Ellison was one of the toppers in the International Linguistics Olympiad (ILO) 2011.
 
 Wild.
 https://twitter.com/twitter/status/1818477947277525242/ -- 2024-07-31T06:30:03.052Z
 
+---
+
 your first step is a draft for the next
 https://twitter.com/twitter/status/1817910451449028619/ -- 2024-07-31T05:00:02.892Z
+
+---
 
 You miss 100% of the shots you don't take.
 
 https://www.sequoiacap.com/article/ai-optimism-vs-ai-arms-race/ -- 2024-07-28T12:30:02.984Z
+
+---
 
 I recently started using RSS feeds for curated content. 
 
