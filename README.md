@@ -1,16 +1,134 @@
-## Hi there 👋
+## My Latest Feed
 
-<!--
-**tnvmadhav/tnvmadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- feed starts -->
+It’s a beautiful day to thug it out with indomitable human spirit. -- 2024-08-02T06:30:07.436Z
 
-Here are some ideas to get you started:
+After 12 years, Russ Cox is stepping down as Tech Lead of the Go project starting from 1st September 2024. Austin Clements is taking over.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "I am not leaving the Go project, but I think the time is right for a change." -- rsc
+
+
+> " In particular, I don’t believe that the “BDFL” (benevolent dictator for life) model is healthy for a person or a project." -- rsc
+
+
+> "I will still be available to talk about Go designs, review CLs, answer obscure history questions, and generally help and support you all in whatever way I can. I will still file issues and send CLs from time to time, ...
+
+
+> (contd)... I have been working on a few potential new standard libraries, I will still advocate for Go across the industry, and I will be speaking about Go at GoLab in Italy in November." -- rsc
+
+
+Russ Cox will be focusing the efforts on Oscar (support for agent-like model baked with @gabybot). You can read more on Oscar [here](https://go.googlesource.com/oscar/+/refs/heads/master/README.md). 
+
+
+Thank you, RSC 🫡🫡 for all the hard work on Go. It's an amazing piece of software.
+
+
+You can find the note in the Go Dev google developer group ["passing torches to Austin and Cherry"](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw) -- 2024-08-02T03:30:17.236Z
+
+So Telegram has a new in-app browser that is used to support applications built on top of the [Ton](https://ton.org) decentralized network that is designed by telegram https://telegram.org/blog/w3-browser-mini-app-store
+
+
+A user on X posted [a neat diagram](https://x.com/ryoheikomy/status/1817139565926481935) that explains how these apps are accessed on the telegram layer while handling contracts on the TON network.
+
+
+[The post was shared by Durov himself on X](https://x.com/durov/status/1818760336537010401)
+
+
+I tried to check this out myself and it seems as though some apps already have more than a million users (hours after launch post on X).
+
+ -- 2024-08-01T12:30:16.325Z
+
+I must say [perplexity](https://perplexity.ai) is a delight to use. I usually find the answer I need in less than 2-3 prompts. I think of it as using a search engine and not an LLM. 
+
+https://x.com/balajis/status/1818848829187539266
+
+
+I think what keeps me coming back is not only the citation confidence but the 🤌🏻 UX.
+ -- 2024-08-01T06:30:05.411Z
+
+>  [...]the services I'm referring to are S3 Select, CloudSearch, Cloud9, SimpleDB, Forecast, Data Pipeline, and CodeCommit.- [Jeff Barr](https://x.com/jeffbarr/status/1818488419347317217 )
+
+
+It looks like it's more than "just" these services. You can find a compiled list on a [GitHub repository called "AWS Breaking Changes and price increases"](https://github.com/SummitRoute/aws_breaking_changes)  -- 2024-08-01T03:56:33.098Z
+
++ 10000 Aura -- 2024-07-31T06:30:12.136Z
+
+TIL that Caroline Ellison was one of the toppers in the International Linguistics Olympiad (ILO) 2011.
+
+Wild.
+https://twitter.com/twitter/status/1818477947277525242/ -- 2024-07-31T06:30:03.052Z
+
+your first step is a draft for the next
+https://twitter.com/twitter/status/1817910451449028619/ -- 2024-07-31T05:00:02.892Z
+
+You miss 100% of the shots you don't take.
+
+https://www.sequoiacap.com/article/ai-optimism-vs-ai-arms-race/ -- 2024-07-28T12:30:02.984Z
+
+I recently started using RSS feeds for curated content. 
+
+I also fixed my (then broken) RSS feed format to include full posts by updating the default template and upgrading to @GoHugoIO v1.121.0.
+
+
+I've written [a post](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/ ) on this on my blog.
+ -- 2024-07-28T11:13:32.510Z
+<!-- feed ends -->
+
+<table><tr><td valign="top" width="33%">
+
+## Latest Blog Posts
+
+<!-- blog starts -->
+[Custom R.S.S. Feed Format in Hugo](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/) -- 2024-07-28T10:49:57+00:00
+
+[Jojo's Bizzare Adventure Season 5 Episode 28](https://tnvmadhav.me/blog/jojos-bizzare-adventure-season-5-episode-28/) -- 2024-07-12T16:29:41+00:00
+
+['Leonardo Da Vinci' by Walter Isaacson](https://tnvmadhav.me/blog/leonardo-da-vinci-by-walter-isaacson/) -- 2024-05-26T10:43:05+00:00
+
+[git angel](https://tnvmadhav.me/blog/good-git-practices/) -- 2024-02-12T04:17:37+00:00
+
+[How to Replace Bad Habits With Good Ones?](https://tnvmadhav.me/blog/how-to-replace-bad-habits-with-good-ones/) -- 2023-08-13T04:44:28+00:00
+
+More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
+<!-- blog ends -->
+
+</td><td valign="top" width="34%">
+
+## Latest Guides
+
+<!-- guide starts -->
+[How to Perform Null Checks for Structs in Golang?](https://tnvmadhav.me/guides/how-to-perform-null-checks-for-structs-in-golang/) -- 2024-02-03T16:10:53+00:00
+
+[How to Build a Simple Websocket Server and Client in Go and Javascript?](https://tnvmadhav.me/guides/how-to-build-a-simple-websocket-server-and-client-in-go/) -- 2023-12-16T14:14:18+00:00
+
+[How to Use Buttons in SwiftUI?](https://tnvmadhav.me/guides/how-to-use-buttons-in-swiftui/) -- 2023-10-26T04:06:07+00:00
+
+[How to go to a Line Number in Visual Studio Code?](https://tnvmadhav.me/guides/how-to-go-to-line-in-visual-studio-code/) -- 2023-09-24T09:55:27+00:00
+
+[How to Copy to Clipboard in Neovim?](https://tnvmadhav.me/guides/how-to-copy-text-to-clipboard-neovim/) -- 2023-08-12T07:10:43+00:00
+
+More on [MY GUIDES](https://tnvmadhav.me/guides/)
+<!-- guide ends -->
+
+</td><td valign="top" width="33%">
+
+## Latest TILs
+
+<!-- til starts -->
+[Nested Functions in Go](https://tnvmadhav.me/til/nested-functions-in-go/) -- 2024-07-07T04:11:51+00:00
+
+[Custom Pagination Html in Django](https://tnvmadhav.me/til/custom-pagination-html-in-django/) -- 2024-07-05T03:17:47+00:00
+
+[Sort Slice of Composite Structures in Go](https://tnvmadhav.me/til/sort-slice-of-composite-structures-in-go/) -- 2024-06-15T05:35:13+00:00
+
+[Slices Package in Golang](https://tnvmadhav.me/til/slices-package-in-golang/) -- 2024-06-14T03:18:00+00:00
+
+[Find point of XSS Trigger in Javascript](https://tnvmadhav.me/til/find-source-of-xss-trigger-in-javascript/) -- 2024-06-13T16:52:43+00:00
+
+More on [My TILS](https://tnvmadhav.me/til/)
+<!-- til ends -->
+
+</td></tr></table>
+
+
+All credits of this idea to [Simon Willison](https://github.com/simonw/simonw/).
