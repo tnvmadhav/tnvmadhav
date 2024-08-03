@@ -1,6 +1,43 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today, I came across one of my favorite bloggers' GitHub profile, [@Simonw](https://github.com/simonw). What caught my eye was the profile readme section, where Simon lists the latest posts from his blog.
+
+###  Simon's GitHub Profile
+
+This content section seemed automated, so I inspected the repository and found that it indeed was. What impressed me (and reaffirmed my respect) was that there was [a blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)[^1] linked to this creative expression, explaining how it was made.
+
+It appeared that a significant portion of the content was hosted elsewhere (if not already on GitHub). All that was done was to compile everything neatly into one place.
+
+### My Existing System
+
+Coincidentally, I also have a feed of my own, both live (where content is hosted on my publishing platform) and RSS-based. This meant that I could set up a similar dynamically generated readme system to showcase my content on my GitHub profile.
+
+So, I spent some time learning from Simon's implementation and setting up a similar workflow. 
+
+
+The readme is generated as a cron task using a GitHub Actions Workflow. The key part is [a simple script, less than 100 lines of Python](https://github.com/tnvmadhav/tnvmadhav/blob/main/build_readme.py).
+
+### My GitHub (New) Profile
+
+[You can find my current feed on my GitHub profile](https://github.com/tnvmadhav).
+
+It feels like an eye sore **but I want to sleep on it**.
+
+The current design is very similar to Simon's (with some noticeable tweaks), but it's prone to changes with time and mood.
+
+➡️ So now, every time I tweet / post on X via my Content Publisher System, if it's among the latest 10 posts (excluding replies and perhaps quotes), it's prone to be part of this new 'Latest Feed' on my GitHub profile.
+
+This was fun.
+
+### References
+
+[^1]: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+
+Alternatively, you can read the HTML version on [my blog]( https://tnvmadhav.me/blog/dynamic-feed-on-my-github-profile/) -- 2024-08-03T08:51:57.604Z
+
+---
+
 It’s a beautiful day to thug it out with indomitable human spirit. -- 2024-08-02T06:30:07.436Z
 
 ---
@@ -80,16 +117,6 @@ https://twitter.com/twitter/status/1817910451449028619/ -- 2024-07-31T05:00:02.8
 You miss 100% of the shots you don't take.
 
 https://www.sequoiacap.com/article/ai-optimism-vs-ai-arms-race/ -- 2024-07-28T12:30:02.984Z
-
----
-
-I recently started using RSS feeds for curated content. 
-
-I also fixed my (then broken) RSS feed format to include full posts by updating the default template and upgrading to @GoHugoIO v1.121.0.
-
-
-I've written [a post](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/ ) on this on my blog.
- -- 2024-07-28T11:13:32.510Z
 <!-- feed ends -->
 
 
@@ -101,6 +128,8 @@ I've written [a post](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/ 
 ## Latest Blog Posts
 
 <!-- blog starts -->
+[Dynamic Feed on My Github Profile](https://tnvmadhav.me/blog/dynamic-feed-on-my-github-profile/) -- 2024-08-03T08:16:05+00:00
+
 [Custom R.S.S. Feed Format in Hugo](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/) -- 2024-07-28T10:49:57+00:00
 
 [Jojo's Bizzare Adventure Season 5 Episode 28](https://tnvmadhav.me/blog/jojos-bizzare-adventure-season-5-episode-28/) -- 2024-07-12T16:29:41+00:00
@@ -108,8 +137,6 @@ I've written [a post](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/ 
 ['Leonardo Da Vinci' by Walter Isaacson](https://tnvmadhav.me/blog/leonardo-da-vinci-by-walter-isaacson/) -- 2024-05-26T10:43:05+00:00
 
 [git angel](https://tnvmadhav.me/blog/good-git-practices/) -- 2024-02-12T04:17:37+00:00
-
-[How to Replace Bad Habits With Good Ones?](https://tnvmadhav.me/blog/how-to-replace-bad-habits-with-good-ones/) -- 2023-08-13T04:44:28+00:00
 
 More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 <!-- blog ends -->
