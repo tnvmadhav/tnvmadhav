@@ -1,12 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL that by default, top level functions in Golang core are concurrent safe (i.e. they are okay to be invoked from multiple goroutines) unless stated otherwise.
+
+🔗 go.dev/doc/comment
+ -- 2024-08-07T10:26:11.785Z
+
+---
+
+### On Using Godoc tool for your Go Programs
+
 [“Go takes documentation seriously”](https://go.dev/blog/godoc)[^1] 
 
 The go official team have developed godoc — a useful documentation tool.
 This tool parses the source code and formats docstrings and comments into a readable HTML format.
 This HTML can be read by starting the documentation HTTP server locally.
-One can use to navigate to function implementation from the documentation
+One can use to navigate to function implementation from the documentation.
 
 In this guide, I’ll show you how you can get started.
 
@@ -22,10 +31,10 @@ In this guide, I’ll show you how you can get started.
 The guide to writing documentation for your Go programs can be found on [the official guide](https://go.dev/doc/comment)[^2].
 
 
-# References:
+### References:
 [^1]: https://go.dev/blog/godoc
 [^2]: https://go.dev/doc/comment
- -- 2024-08-07T09:55:08.616Z
+ -- 2024-08-07T09:57:37.079Z
 
 ---
 
@@ -159,10 +168,6 @@ I think what keeps me coming back is not only the citation confidence but the �
 
 
 It looks like it's more than "just" these services. You can find a compiled list on a [GitHub repository called "AWS Breaking Changes and price increases"](https://github.com/SummitRoute/aws_breaking_changes)  -- 2024-08-01T03:56:33.098Z
-
----
-
-+ 10000 Aura -- 2024-07-31T06:30:12.136Z
 <!-- feed ends -->
 
 
