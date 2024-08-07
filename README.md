@@ -1,6 +1,34 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+[“Go takes documentation seriously”](https://go.dev/blog/godoc)[^1] 
+
+The go official team have developed godoc — a useful documentation tool.
+This tool parses the source code and formats docstrings and comments into a readable HTML format.
+This HTML can be read by starting the documentation HTTP server locally.
+One can use to navigate to function implementation from the documentation
+
+In this guide, I’ll show you how you can get started.
+
+1. Install godoc binary
+    `go install http://golang.org/x/tools/cmd/godoc`
+2. If all goes good, the godoc binary should’ve been stored in the `$GOPATH/bin/`
+3. Initialise the $GOPATH environment variable (if not set correctly already)
+    `export GOPATH=$HOME/go`
+4. Now you can go to the folder that you’re working on and run the following command
+    `$GOPATH/bin/godoc -http=:6060`
+5. HTTP server is now running, open `http://localhost:6060` and go through the source code documentation 😊
+
+The guide to writing documentation for your Go programs can be found on [the official guide](https://go.dev/doc/comment)[^2].
+
+
+# References:
+[^1]: https://go.dev/blog/godoc
+[^2]: https://go.dev/doc/comment
+ -- 2024-08-07T09:55:08.616Z
+
+---
+
 I noticed that the footnote cardinality indicators aren't readable and one can easily miss them while skimming the blog posts.
 
 In the process, I learned that Hugo uses Goldmark markdown processor.
@@ -135,13 +163,6 @@ It looks like it's more than "just" these services. You can find a compiled list
 ---
 
 + 10000 Aura -- 2024-07-31T06:30:12.136Z
-
----
-
-TIL that Caroline Ellison was one of the toppers in the International Linguistics Olympiad (ILO) 2011.
-
-Wild.
-https://twitter.com/twitter/status/1818477947277525242/ -- 2024-07-31T06:30:03.052Z
 <!-- feed ends -->
 
 
