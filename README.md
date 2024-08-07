@@ -1,10 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+While using Godoc I noticed that the `internal/` directory in my golang repository wasn't showing up. 
+
+...
+
+
+I searched around and learned that by 
+default, the `internal/` directory is hidden.
+
+[To make it visible in the godoc HTTP server you have to use the `?m=all` query parameter](https://stackoverflow.com/questions/67185294/cant-godoc-create-documentation-for-packages-within-internal-folder). -- 2024-08-07T10:32:01.409Z
+
+---
+
 TIL that by default, top level functions in Golang core are concurrent safe (i.e. they are okay to be invoked from multiple goroutines) unless stated otherwise.
 
-🔗 go.dev/doc/comment
- -- 2024-08-07T10:26:11.785Z
+🔗 [go.dev/doc/comment](https://go.dev/doc/comment)
+ -- 2024-08-07T10:31:26.858Z
 
 ---
 
@@ -161,13 +173,6 @@ https://x.com/balajis/status/1818848829187539266
 
 I think what keeps me coming back is not only the citation confidence but the 🤌🏻 UX.
  -- 2024-08-01T06:30:05.411Z
-
----
-
->  [...]the services I'm referring to are S3 Select, CloudSearch, Cloud9, SimpleDB, Forecast, Data Pipeline, and CodeCommit.- [Jeff Barr](https://x.com/jeffbarr/status/1818488419347317217 )
-
-
-It looks like it's more than "just" these services. You can find a compiled list on a [GitHub repository called "AWS Breaking Changes and price increases"](https://github.com/SummitRoute/aws_breaking_changes)  -- 2024-08-01T03:56:33.098Z
 <!-- feed ends -->
 
 
