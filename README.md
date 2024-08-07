@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL that by default, top level functions in Golang core are concurrent safe (i.e. they are okay to be invoked from multiple goroutines) unless stated otherwise.
+
+🔗 [go.dev/doc/comment](https://go.dev/doc/comment)
+ -- 2024-08-07T12:30:03.060Z
+
+---
+
 While using Godoc I noticed that the `internal/` directory in my golang repository wasn't showing up. 
 
 ...
@@ -10,13 +17,6 @@ I searched around and learned that by
 default, the `internal/` directory is hidden.
 
 [To make it visible in the godoc HTTP server you have to use the `?m=all` query parameter](https://stackoverflow.com/questions/67185294/cant-godoc-create-documentation-for-packages-within-internal-folder). -- 2024-08-07T10:32:01.409Z
-
----
-
-TIL that by default, top level functions in Golang core are concurrent safe (i.e. they are okay to be invoked from multiple goroutines) unless stated otherwise.
-
-🔗 [go.dev/doc/comment](https://go.dev/doc/comment)
- -- 2024-08-07T10:31:26.858Z
 
 ---
 
