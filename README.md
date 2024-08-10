@@ -9,14 +9,12 @@ This research was conducted on maximum of 27 programming languages to understand
 
 The results were compared with Rosetta's energy[^1] efficiency tier list.[^2]
 
-Here's a screenshot of the normalized global ranking in terms of energy, time and memory efficient languages based on different benchmarks.
-
 I'd recommend software engineers to go through this white-paper especially those who deal with energy efficient ways to solve problems on embedded systems like watches or IoT systems. Choosing programming languages can help a ton here.
 
 You can find the whole white paper [here](https://haslab.github.io/SAFER/scp21.pdf).
 
 [^1]: https://rosettacode.org/wiki/Rosetta_Code
-[^2]: https://github.com/greensoftwarelab/RosettaExamples -- 2024-08-10T09:33:35.659Z
+[^2]: https://github.com/greensoftwarelab/RosettaExamples -- 2024-08-10T09:38:35.607Z
 
 ---
 
