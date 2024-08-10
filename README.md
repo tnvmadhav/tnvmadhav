@@ -1,6 +1,25 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I recently went through a research paper publication on the CLBG method of calculating energy efficiency of various programming languages.
+
+This is an insightful read.
+
+This research was conducted on maximum of 27 programming languages to understand how time and memory correlated to energy efficiency. 
+
+The results were compared with Rosetta's energy[^1] efficiency tier list.[^2]
+
+Here's a screenshot of the normalized global ranking in terms of energy, time and memory efficient languages based on different benchmarks.
+
+I'd recommend software engineers to go through this white-paper especially those who deal with energy efficient ways to solve problems on embedded systems like watches or IoT systems. Choosing programming languages can help a ton here.
+
+You can find the whole white paper [here](https://haslab.github.io/SAFER/scp21.pdf).
+
+[^1]: https://rosettacode.org/wiki/Rosetta_Code
+[^2]: https://github.com/greensoftwarelab/RosettaExamples -- 2024-08-10T09:33:35.659Z
+
+---
+
 While using Godoc I noticed that the `internal/` directory in my golang repository wasn't showing up. 
 
 ...
@@ -163,16 +182,6 @@ A user on X posted [a neat diagram](https://x.com/ryoheikomy/status/181713956592
 I tried to check this out myself and it seems as though some apps already have more than a million users (hours after launch post on X).
 
  -- 2024-08-01T12:30:16.325Z
-
----
-
-I must say [perplexity](https://perplexity.ai) is a delight to use. I usually find the answer I need in less than 2-3 prompts. I think of it as using a search engine and not an LLM. 
-
-https://x.com/balajis/status/1818848829187539266
-
-
-I think what keeps me coming back is not only the citation confidence but the 🤌🏻 UX.
- -- 2024-08-01T06:30:05.411Z
 <!-- feed ends -->
 
 
