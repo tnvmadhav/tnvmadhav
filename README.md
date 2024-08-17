@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+🥲 stumbled across an old (in this economy) branch of mine -- 2024-08-17T12:34:56.603Z
+
+---
+
 I recently went through a research paper publication on the CLBG method of calculating energy efficiency of various programming languages.
 
 This is an insightful read.
@@ -165,21 +169,6 @@ Thank you, RSC 🫡🫡 for all the hard work on Go. It's an amazing piece of so
 
 
 You can find the note in the Go Dev google developer group ["passing torches to Austin and Cherry"](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw) -- 2024-08-02T03:30:17.236Z
-
----
-
-So Telegram has a new in-app browser that is used to support applications built on top of the [Ton](https://ton.org) decentralized network that is designed by telegram https://telegram.org/blog/w3-browser-mini-app-store
-
-
-A user on X posted [a neat diagram](https://x.com/ryoheikomy/status/1817139565926481935) that explains how these apps are accessed on the telegram layer while handling contracts on the TON network.
-
-
-[The post was shared by Durov himself on X](https://x.com/durov/status/1818760336537010401)
-
-
-I tried to check this out myself and it seems as though some apps already have more than a million users (hours after launch post on X).
-
- -- 2024-08-01T12:30:16.325Z
 <!-- feed ends -->
 
 
