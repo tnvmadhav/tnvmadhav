@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+In light of X (finally) increasing the character limit in their POST 2/tweet endpoint [^1], I've reciprocated on my publishing application.
+
+This was verified on [my premium account](https://x.com/TnvMadhav/status/1824789749762077146).
+
+[^1]: https://x.com/tapshah21/status/1823480895678165142 -- 2024-08-17T13:32:43.564Z
+
+---
+
 🥲 stumbled across an old (in this economy) branch of mine -- 2024-08-17T12:34:56.603Z
 
 ---
@@ -145,30 +153,6 @@ Alternatively, you can read the HTML version on [my blog]( https://tnvmadhav.me/
 ---
 
 It’s a beautiful day to thug it out with indomitable human spirit. -- 2024-08-02T06:30:07.436Z
-
----
-
-After 12 years, Russ Cox is stepping down as Tech Lead of the Go project starting from 1st September 2024. Austin Clements is taking over.
-
-> "I am not leaving the Go project, but I think the time is right for a change." -- rsc
-
-
-> " In particular, I don’t believe that the “BDFL” (benevolent dictator for life) model is healthy for a person or a project." -- rsc
-
-
-> "I will still be available to talk about Go designs, review CLs, answer obscure history questions, and generally help and support you all in whatever way I can. I will still file issues and send CLs from time to time, ...
-
-
-> (contd)... I have been working on a few potential new standard libraries, I will still advocate for Go across the industry, and I will be speaking about Go at GoLab in Italy in November." -- rsc
-
-
-Russ Cox will be focusing the efforts on Oscar (support for agent-like model baked with @gabybot). You can read more on Oscar [here](https://go.googlesource.com/oscar/+/refs/heads/master/README.md). 
-
-
-Thank you, RSC 🫡🫡 for all the hard work on Go. It's an amazing piece of software.
-
-
-You can find the note in the Go Dev google developer group ["passing torches to Austin and Cherry"](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw) -- 2024-08-02T03:30:17.236Z
 <!-- feed ends -->
 
 
