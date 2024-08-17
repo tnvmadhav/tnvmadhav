@@ -1,6 +1,35 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+### On Using Godoc tool for your Go Programs
+
+[“Go takes documentation seriously”](https://go.dev/blog/godoc)[^1] 
+
+The go official team have developed godoc — a useful documentation tool.
+This tool parses the source code and formats docstrings and comments into a readable HTML format.
+This HTML can be read by starting the documentation HTTP server locally.
+One can use to navigate to function implementation from the documentation.
+
+In this guide, I’ll show you how you can get started.
+
+1. Install godoc binary
+    `go install http://golang.org/x/tools/cmd/godoc`
+2. If all goes good, the godoc binary should’ve been stored in the `$GOPATH/bin/`
+3. Initialise the $GOPATH environment variable (if not set correctly already)
+    `export GOPATH=$HOME/go`
+4. Now you can go to the folder that you’re working on and run the following command
+    `$GOPATH/bin/godoc -http=:6060`
+5. HTTP server is now running, open `http://localhost:6060` and go through the source code documentation 😊
+
+The guide to writing documentation for your Go programs can be found on [the official guide](https://go.dev/doc/comment)[^2].
+
+### References:
+[^1]: https://go.dev/blog/godoc
+[^2]: https://go.dev/doc/comment
+ -- 2024-08-17T14:04:46.680Z
+
+---
+
 In light of X (finally) increasing the character limit in their POST 2/tweet endpoint [^1], I've reciprocated on my publishing application.
 
 This was verified on [my premium account](https://x.com/TnvMadhav/status/1824789749762077146).
@@ -46,36 +75,6 @@ TIL that by default, top level functions in Golang core are concurrent safe (i.e
 
 🔗 [go.dev/doc/comment](https://go.dev/doc/comment)
  -- 2024-08-07T12:30:03.060Z
-
----
-
-### On Using Godoc tool for your Go Programs
-
-[“Go takes documentation seriously”](https://go.dev/blog/godoc)[^1] 
-
-The go official team have developed godoc — a useful documentation tool.
-This tool parses the source code and formats docstrings and comments into a readable HTML format.
-This HTML can be read by starting the documentation HTTP server locally.
-One can use to navigate to function implementation from the documentation.
-
-In this guide, I’ll show you how you can get started.
-
-1. Install godoc binary
-    `go install http://golang.org/x/tools/cmd/godoc`
-2. If all goes good, the godoc binary should’ve been stored in the `$GOPATH/bin/`
-3. Initialise the $GOPATH environment variable (if not set correctly already)
-    `export GOPATH=$HOME/go`
-4. Now you can go to the folder that you’re working on and run the following command
-    `$GOPATH/bin/godoc -http=:6060`
-5. HTTP server is now running, open `http://localhost:6060` and go through the source code documentation 😊
-
-The guide to writing documentation for your Go programs can be found on [the official guide](https://go.dev/doc/comment)[^2].
-
-
-### References:
-[^1]: https://go.dev/blog/godoc
-[^2]: https://go.dev/doc/comment
- -- 2024-08-07T09:57:37.079Z
 
 ---
 
