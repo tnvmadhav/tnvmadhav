@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+We’re all NPCs until you look 🗿into the bathroom mirror at 3 AM
+https://twitter.com/twitter/status/1825954366337200272/ -- 2024-08-21T12:57:48.389Z
+
+---
+
 While scrolling on X, I came across an intriguing and deep question from a profile I follow:
 
 [**“Would you quit your job for $1M?”**](https://x.com/LiveDigitalArt/status/1826213407306944547)
@@ -29,7 +34,9 @@ You can understand a person by what they choose to do in their free time.
 
 I think this question can be extended or rephrased as:  **“What projects would you work on if money weren’t a problem?”**
 
-Everyone wants to build their life’s work. -- 2024-08-21T12:39:51.700Z
+Everyone wants to pursue their life’s work.
+
+➡️ *Almost everyone’s answer to the original question would be “yes” but, answers for latter would truly be fun to read and think about.* -- 2024-08-21T12:43:16.179Z
 
 ---
 
@@ -143,43 +150,6 @@ Things I use LLMs for
 — analysing time complexity of a piece of code (as reference to compare with my own analysis)
 
  -- 2024-08-03T11:15:59.321Z
-
----
-
-Today, I came across one of my favorite bloggers' GitHub profile, [@Simonw](https://github.com/simonw). What caught my eye was the profile readme section, where Simon lists the latest posts from his blog.
-
-###  Simon's GitHub Profile
-
-This content section seemed automated, so I inspected the repository and found that it indeed was. What impressed me (and reaffirmed my respect) was that there was [a blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)[^1] linked to this creative expression, explaining how it was made.
-
-It appeared that a significant portion of the content was hosted elsewhere (if not already on GitHub). All that was done was to compile everything neatly into one place.
-
-### My Existing System
-
-Coincidentally, I also have a feed of my own, both live (where content is hosted on my publishing platform) and RSS-based. This meant that I could set up a similar dynamically generated readme system to showcase my content on my GitHub profile.
-
-So, I spent some time learning from Simon's implementation and setting up a similar workflow. 
-
-
-The readme is generated as a cron task using a GitHub Actions Workflow. The key part is [a simple script, less than 100 lines of Python](https://github.com/tnvmadhav/tnvmadhav/blob/main/build_readme.py).
-
-### My GitHub (New) Profile
-
-[You can find my current feed on my GitHub profile](https://github.com/tnvmadhav).
-
-It feels like an eye sore **but I want to sleep on it**.
-
-The current design is very similar to Simon's (with some noticeable tweaks), but it's prone to changes with time and mood.
-
-➡️ So now, every time I tweet / post on X via my Content Publisher System, if it's among the latest 10 posts (excluding replies and perhaps quotes), it's prone to be part of this new 'Latest Feed' on my GitHub profile.
-
-This was fun.
-
-### References
-
-[^1]: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
-
-Alternatively, you can read the HTML version on [my blog]( https://tnvmadhav.me/blog/dynamic-feed-on-my-github-profile/) -- 2024-08-03T08:51:57.604Z
 <!-- feed ends -->
 
 
