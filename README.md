@@ -1,6 +1,38 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+While scrolling on X, I came across an intriguing and deep question from a profile I follow:
+
+[**“Would you quit your job for $1M?”**](https://x.com/LiveDigitalArt/status/1826213407306944547)
+
+A million dollars is life-changing money for 99% of the current human population. 
+
+So, unless someone lives well beyond their means, they could realistically quit their job, even in certain places within first-world nations.
+
+But what would a person do afterward?
+
+Surely, everyone desires the freedom to pursue their own interests. 
+
+Perhaps a person could completely change their life, start over, if you will. 
+
+So what comes next? 
+
+Now that you’re no longer forced to work on things out of necessity, you can do whatever you please.
+
+This scenario is somewhat akin to a life where Universal Basic Income (UBI) is normalized and enforced.
+
+So, what makes this question intriguing?
+
+It’s about what comes after you break free of an obligation. 
+
+You can understand a person by what they choose to do in their free time. 
+
+I think this question can be extended or rephrased as:  **“What projects would you work on if money weren’t a problem?”**
+
+Everyone wants to build their life’s work. -- 2024-08-21T12:39:51.700Z
+
+---
+
 ### On Using Godoc tool for your Go Programs
 
 [“Go takes documentation seriously”](https://go.dev/blog/godoc)[^1] 
@@ -148,10 +180,6 @@ This was fun.
 [^1]: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 
 Alternatively, you can read the HTML version on [my blog]( https://tnvmadhav.me/blog/dynamic-feed-on-my-github-profile/) -- 2024-08-03T08:51:57.604Z
-
----
-
-It’s a beautiful day to thug it out with indomitable human spirit. -- 2024-08-02T06:30:07.436Z
 <!-- feed ends -->
 
 
