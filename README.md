@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Your Agency. Your Credit Card.
+https://twitter.com/twitter/status/1826609242767495255/ -- 2024-08-22T13:22:36.164Z
+
+---
+
 While scrolling on X, I came across an intriguing and deep question from a profile I follow:
 
 [**“Would you quit your job for $1M?”**](https://x.com/LiveDigitalArt/status/1826213407306944547)
@@ -135,21 +140,6 @@ I finally followed the latter solution that involved adding a nascent/vanilla cs
 
 
 [^1]: Only today I got to know about something called CommonMark that defines markdown specification.  You can refer to this RFC document that describes the protocol to convert markdown to html. https://spec.commonmark.org/0.31.2/.  -- 2024-08-03T12:30:12.658Z
-
----
-
-Things I use LLMs for
-
-— summarizing a piece of writing to add as metadata
-— patching grammatical mistakes in my writing (no rewrites)
-— generating function definitions with one specific job
-— generating boilerplate and fixture tools for unit tests 
-— formatting ugly json strings
-— generating example SQL statements for a given DDL (when non-trivial types are involved)
-— finding bugs in pieces of code that I seem to overlook, and learning what I had missed
-— analysing time complexity of a piece of code (as reference to compare with my own analysis)
-
- -- 2024-08-03T11:15:59.321Z
 <!-- feed ends -->
 
 
