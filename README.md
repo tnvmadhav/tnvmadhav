@@ -1,6 +1,26 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+This is an [interesting infographic](https://a16z.com/100-gen-ai-apps/) from a16z (based on the watermark) depicting Top 50 Gen AI Products by Unique Monthy Visits.
+
+I'd like to think I do keep myself up to date on the latest GenAI products and releases on X.
+
+But, (to my surprise) I found that `character.ai` is placed at Number 2 😳 above Perplexity and Claude.
+
+Strangely not many (in my X feed) talk about it that much. I didn't even know what they did exactly.
+
+It's about chatting with AI avatars of characters mainly from pop culture.
+
+I see >100 million conversations with fictional anime characters like Tatsuki Bakugo (from BHA anime/story) and characters from the popular game called Genshin Impact.
+
+And it makes so much sense (to me). This is something people don't usually talk about because it could be private.
+
+Once again I'm reminded that I'm only in the tech development bubble and do not have a grasp of the full scale of the proliferation of A.I. in all segments of the internet.
+
+And this is just one segment. I have only used 3-4 of these. Definitely worth a deep dive on. -- 2024-08-22T05:19:07.411Z
+
+---
+
 We’re all NPCs until you look 🗿into the bathroom mirror at 3 AM
 https://twitter.com/twitter/status/1825954366337200272/ -- 2024-08-21T12:57:48.389Z
 
@@ -135,21 +155,6 @@ I finally followed the latter solution that involved adding a nascent/vanilla cs
 
 
 [^1]: Only today I got to know about something called CommonMark that defines markdown specification.  You can refer to this RFC document that describes the protocol to convert markdown to html. https://spec.commonmark.org/0.31.2/.  -- 2024-08-03T12:30:12.658Z
-
----
-
-Things I use LLMs for
-
-— summarizing a piece of writing to add as metadata
-— patching grammatical mistakes in my writing (no rewrites)
-— generating function definitions with one specific job
-— generating boilerplate and fixture tools for unit tests 
-— formatting ugly json strings
-— generating example SQL statements for a given DDL (when non-trivial types are involved)
-— finding bugs in pieces of code that I seem to overlook, and learning what I had missed
-— analysing time complexity of a piece of code (as reference to compare with my own analysis)
-
- -- 2024-08-03T11:15:59.321Z
 <!-- feed ends -->
 
 
