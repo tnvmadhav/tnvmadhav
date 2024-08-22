@@ -1,6 +1,26 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+This is an [interesting infographic](https://a16z.com/100-gen-ai-apps/) from a16z depicting the top 50 Gen A.I. products by unique monthly visitors.
+
+I'd like to think I do keep myself up to date on the latest GenAI products and releases on X.
+
+But, (to my surprise) I found that `character.ai` is placed at Number 2 😳 above Perplexity and Claude.
+
+Strangely not many (in my X feed) talk about it that much. I didn't even know what they did exactly.
+
+It's about chatting with AI avatars of characters mainly from pop culture.
+
+I see >100 million conversations with fictional anime characters like Tatsuki Bakugo (from BHA anime/story) and characters from the popular game called Genshin Impact.
+
+And it makes so much sense (to me). This is something people don't usually talk about because it could be private.
+
+Once again I'm reminded that I'm only in the tech development bubble and do not have a grasp of the full scale of the proliferation of A.I. in all segments of the internet.
+
+And this is just one segment. I have only used 3-4 of these. Worth a deeper dive on. -- 2024-08-22T14:30:28.199Z
+
+---
+
 Your Agency. Your Credit Card.
 https://twitter.com/twitter/status/1826609242767495255/ -- 2024-08-22T13:22:36.164Z
 
@@ -119,27 +139,6 @@ TIL that by default, top level functions in Golang core are concurrent safe (i.e
 
 🔗 [go.dev/doc/comment](https://go.dev/doc/comment)
  -- 2024-08-07T12:30:03.060Z
-
----
-
-I noticed that the footnote cardinality indicators aren't readable and one can easily miss them while skimming the blog posts.
-
-In the process, I learned that Hugo uses Goldmark markdown processor.
-
-
-I also learned that Goldmark markdown processor [is CommonMark 0.31.2 compliant](https://michal.sapka.me/blog/2023/footnotes-in-hugo-and-goldmark/)[^1]
-
-
-Then, I found a blog post from [geek this](https://geekthis.net/post/hugo-footnotes-and-citations/) that answered my question.
-
-
-I finally followed the latter solution that involved adding a nascent/vanilla css code snippet at the root of my blog's HTML
-
-> .footnote-ref::before {content: '[';}
-> .footnote-ref::after {content: ']';}
-
-
-[^1]: Only today I got to know about something called CommonMark that defines markdown specification.  You can refer to this RFC document that describes the protocol to convert markdown to html. https://spec.commonmark.org/0.31.2/.  -- 2024-08-03T12:30:12.658Z
 <!-- feed ends -->
 
 
