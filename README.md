@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Just migrated to GPT 4 [structured outputs](https://platform.openai.com/docs/guides/structured-outputs) (out of sheer frustration) in my hobby project. It's so much better now. 
+
+More deterministic I should say in terms of NOT getting an `unexpected end of JSON input` error message intermittently.
+
+Thank you @openai for this productivity boost :) -- 2024-08-23T04:20:23.517Z
+
+---
+
 I don't understand why people hold absolutist ideals (for others) on building stuff.
 
 Like do what you want and eventually stick to something that works for you and your team.
@@ -129,18 +137,6 @@ You can find the whole white paper [here](https://haslab.github.io/SAFER/scp21.p
 
 [^1]: https://rosettacode.org/wiki/Rosetta_Code
 [^2]: https://github.com/greensoftwarelab/RosettaExamples -- 2024-08-10T09:38:35.607Z
-
----
-
-While using Godoc I noticed that the `internal/` directory in my golang repository wasn't showing up. 
-
-...
-
-
-I searched around and learned that by 
-default, the `internal/` directory is hidden.
-
-[To make it visible in the godoc HTTP server you have to use the `?m=all` query parameter](https://stackoverflow.com/questions/67185294/cant-godoc-create-documentation-for-packages-within-internal-folder). -- 2024-08-07T15:30:05.312Z
 <!-- feed ends -->
 
 
