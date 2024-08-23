@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I don't understand why people hold absolutist ideals (for others) on building stuff.
+
+Like do what you want and eventually stick to something that works for you and your team.
+
+
+https://twitter.com/twitter/status/1826314475860840500/ -- 2024-08-23T02:43:11.954Z
+
+---
+
 This is an [interesting infographic](https://a16z.com/100-gen-ai-apps/) from a16z depicting the top 50 Gen A.I. products by unique monthly visitors.
 
 I'd like to think I do keep myself up to date on the latest GenAI products and releases on X.
@@ -132,13 +141,6 @@ I searched around and learned that by
 default, the `internal/` directory is hidden.
 
 [To make it visible in the godoc HTTP server you have to use the `?m=all` query parameter](https://stackoverflow.com/questions/67185294/cant-godoc-create-documentation-for-packages-within-internal-folder). -- 2024-08-07T15:30:05.312Z
-
----
-
-TIL that by default, top level functions in Golang core are concurrent safe (i.e. they are okay to be invoked from multiple goroutines) unless stated otherwise.
-
-🔗 [go.dev/doc/comment](https://go.dev/doc/comment)
- -- 2024-08-07T12:30:03.060Z
 <!-- feed ends -->
 
 
