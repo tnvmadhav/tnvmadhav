@@ -1,6 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL that there's a whole package (I mean it was obvious in-retrospect) called `Charts` in SwiftUI. [^1] 
+
+I was experimenting with bar graphs and charts (for an iOS app - hobby project) and was planning on raw dogging rectangles (ik LMFAO).
+
+But now the Charts package can help cut down on time. I'm yet to dive deep but it looks super easy (thanks to SwiftUI's simplicity) but I'm sure I can get results faster.
+
+After playing with Bar Graphs and referring to example implementations [^2], I noticed that one could create the same types of charts baked in iOS apps like screentime, health, etc support.
+
+This is great news (in general but) especially for backend developers like myself who are dabbling with design and client-side application development for (limited scope) hobby projects.
+
+[^1]: https://developer.apple.com/documentation/charts
+[^2]: https://github.com/jordibruin/Swift-Charts-Examples/blob/d9189ba2feb1460d39fc44a236cbb5976d0970a0/Swift%20Charts%20Examples/Charts/AppleCharts/ScreenTime.swift -- 2024-08-24T13:20:22.069Z
+
+---
+
 If this happens to anyone on @X, you should immediately log in to x.com and go to [Sessions page](https://x.com/settings/apps_and_sessions) and check if this is true. 
 
 If you're still unsure, click `log out all other sessions` button only via the official x.com app/website's sessions page.
@@ -125,10 +140,6 @@ In light of X (finally) increasing the character limit in their POST 2/tweet end
 This was verified on [my premium account](https://x.com/TnvMadhav/status/1824789749762077146).
 
 [^1]: https://x.com/tapshah21/status/1823480895678165142 -- 2024-08-17T13:32:43.564Z
-
----
-
-🥲 stumbled across an old (in this economy) branch of mine -- 2024-08-17T12:34:56.603Z
 <!-- feed ends -->
 
 
