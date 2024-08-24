@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If this happens to anyone on @X, you should immediately log in to x.com and go to [Sessions page](https://x.com/settings/apps_and_sessions) and check if this is true. 
+
+If you're still unsure, click `log out all other sessions` button only via the official x.com app/website's sessions page.
+
+Keep safe!
+https://twitter.com/twitter/status/1827057965784015169/ -- 2024-08-24T04:56:15.916Z
+
+---
+
 Just migrated to GPT 4 [structured outputs](https://platform.openai.com/docs/guides/structured-outputs) (out of sheer frustration) in my hobby project. It's so much better now. 
 
 More deterministic I should say in terms of NOT getting an `unexpected end of JSON input` error message intermittently.
@@ -120,23 +129,6 @@ This was verified on [my premium account](https://x.com/TnvMadhav/status/1824789
 ---
 
 🥲 stumbled across an old (in this economy) branch of mine -- 2024-08-17T12:34:56.603Z
-
----
-
-I recently went through a research paper publication on the CLBG method of calculating energy efficiency of various programming languages.
-
-This is an insightful read.
-
-This research was conducted on maximum of 27 programming languages to understand how time and memory correlated to energy efficiency. 
-
-The results were compared with Rosetta's energy[^1] efficiency tier list.[^2]
-
-I'd recommend software engineers to go through this white-paper especially those who deal with energy efficient ways to solve problems on embedded systems like watches or IoT systems. Choosing programming languages can help a ton here.
-
-You can find the whole white paper [here](https://haslab.github.io/SAFER/scp21.pdf).
-
-[^1]: https://rosettacode.org/wiki/Rosetta_Code
-[^2]: https://github.com/greensoftwarelab/RosettaExamples -- 2024-08-10T09:38:35.607Z
 <!-- feed ends -->
 
 
