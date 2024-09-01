@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Becoming a generator, not a renderer.
+
+"[...]think about what you'd like to become more often than thinking about what you'd like to get" - DHH
+
+🔗 https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c -- 2024-09-01T08:54:21.530Z
+
+---
+
+Start writing for clarity until don't have to. Then, start writing with clarity. -- 2024-09-01T08:47:04.362Z
+
+---
+
 TIL that there's a whole package (I mean it was obvious in-retrospect) called `Charts` in SwiftUI. [^1] 
 
 I was experimenting with bar graphs and charts (for an iOS app - hobby project) and was planning on raw dogging rectangles (ik LMFAO).
@@ -103,43 +115,6 @@ Everyone wants to pursue their life’s work.
 
 We’re all NPCs until you look 🗿into the bathroom mirror at 3 AM
 https://twitter.com/twitter/status/1825954366337200272/ -- 2024-08-21T12:57:48.389Z
-
----
-
-### On Using Godoc tool for your Go Programs
-
-[“Go takes documentation seriously”](https://go.dev/blog/godoc)[^1] 
-
-The go official team have developed godoc — a useful documentation tool.
-This tool parses the source code and formats docstrings and comments into a readable HTML format.
-This HTML can be read by starting the documentation HTTP server locally.
-One can use to navigate to function implementation from the documentation.
-
-In this guide, I’ll show you how you can get started.
-
-1. Install godoc binary
-    `go install http://golang.org/x/tools/cmd/godoc`
-2. If all goes good, the godoc binary should’ve been stored in the `$GOPATH/bin/`
-3. Initialise the $GOPATH environment variable (if not set correctly already)
-    `export GOPATH=$HOME/go`
-4. Now you can go to the folder that you’re working on and run the following command
-    `$GOPATH/bin/godoc -http=:6060`
-5. HTTP server is now running, open `http://localhost:6060` and go through the source code documentation 😊
-
-The guide to writing documentation for your Go programs can be found on [the official guide](https://go.dev/doc/comment)[^2].
-
-### References:
-[^1]: https://go.dev/blog/godoc
-[^2]: https://go.dev/doc/comment
- -- 2024-08-17T14:04:46.680Z
-
----
-
-In light of X (finally) increasing the character limit in their POST 2/tweet endpoint [^1], I've reciprocated on my publishing application.
-
-This was verified on [my premium account](https://x.com/TnvMadhav/status/1824789749762077146).
-
-[^1]: https://x.com/tapshah21/status/1823480895678165142 -- 2024-08-17T13:32:43.564Z
 <!-- feed ends -->
 
 
