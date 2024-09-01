@@ -1,15 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Start writing for clarity until don't have to. Then, start writing with clarity. -- 2024-09-01T12:30:02.932Z
-
----
-
 Becoming a generator, not a renderer.
 
 "[...]think about what you'd like to become more often than thinking about what you'd like to get" - DHH
 
-🔗 https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c -- 2024-09-01T08:54:21.530Z
+🔗 https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c -- 2024-09-01T16:30:02.994Z
+
+---
+
+Start writing for clarity until don't have to. Then, start writing with clarity. -- 2024-09-01T12:30:02.932Z
 
 ---
 
