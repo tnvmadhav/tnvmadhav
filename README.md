@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+To rephrase, take an idea and take it seriously. 
+https://twitter.com/twitter/status/1832555694798549183/ -- 2024-09-08T06:30:03.020Z
+
+---
+
 Becoming a generator, not a renderer.
 
 "[...]think about what you'd like to become more often than thinking about what you'd like to get" - DHH
@@ -110,11 +115,6 @@ I think this question can be extended or rephrased as:  **“What projects would
 Everyone wants to pursue their life’s work.
 
 ➡️ *Almost everyone’s answer to the original question would be “yes” but, answers for latter would truly be fun to read and think about.* -- 2024-08-22T06:30:03.072Z
-
----
-
-We’re all NPCs until you look 🗿into the bathroom mirror at 3 AM
-https://twitter.com/twitter/status/1825954366337200272/ -- 2024-08-21T12:57:48.389Z
 <!-- feed ends -->
 
 
