@@ -13,7 +13,7 @@ This helps you add/edit stuff to the list rather quickly.
 
 This is no answer. Just do things.
 
-[via Hacker News](https://news.ycombinator.com/item?id=41473997) -- 2024-09-10T09:06:41.777Z
+[via Hacker News](https://news.ycombinator.com/item?id=41473997) -- 2024-09-10T12:30:03.301Z
 
 ---
 
