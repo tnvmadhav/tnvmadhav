@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+## How do you organize work as a solo developer?
+
+I've tried Notion Databases. It's great to see history of projects. Notion feels clunky nowadays but ok.
+
+For simple, lightweight, fast organisation, I'd recommend maintaining a single file as a todo list.
+
+A file per project. This can be markdown (todo.md) with checkboxes or just a simple todo.txt
+
+This helps you add/edit stuff to the list rather quickly.
+
+This is no answer. Just do things.
+
+[via Hacker News](https://news.ycombinator.com/item?id=41473997) -- 2024-09-10T09:06:41.777Z
+
+---
+
 To rephrase, take an idea and take it seriously. 
 https://twitter.com/twitter/status/1832555694798549183/ -- 2024-09-08T06:30:03.020Z
 
@@ -81,40 +97,6 @@ And this is just one segment. I have only used 3-4 of these. Worth a deeper dive
 
 Your Agency. Your Credit Card.
 https://twitter.com/twitter/status/1826609242767495255/ -- 2024-08-22T13:22:36.164Z
-
----
-
-While scrolling on X, I came across an intriguing and deep question from a profile I follow:
-
-[**“Would you quit your job for $1M?”**](https://x.com/LiveDigitalArt/status/1826213407306944547)
-
-A million dollars is life-changing money for 99% of the current human population. 
-
-So, unless someone lives well beyond their means, they could realistically quit their job, even in certain places within first-world nations.
-
-But what would a person do afterward?
-
-Surely, everyone desires the freedom to pursue their own interests. 
-
-Perhaps a person could completely change their life, start over, if you will. 
-
-So what comes next? 
-
-Now that you’re no longer forced to work on things out of necessity, you can do whatever you please.
-
-This scenario is somewhat akin to a life where Universal Basic Income (UBI) is normalized and enforced.
-
-So, what makes this question intriguing?
-
-It’s about what comes after you break free of an obligation. 
-
-You can understand a person by what they choose to do in their free time. 
-
-I think this question can be extended or rephrased as:  **“What projects would you work on if money weren’t a problem?”**
-
-Everyone wants to pursue their life’s work.
-
-➡️ *Almost everyone’s answer to the original question would be “yes” but, answers for latter would truly be fun to read and think about.* -- 2024-08-22T06:30:03.072Z
 <!-- feed ends -->
 
 
