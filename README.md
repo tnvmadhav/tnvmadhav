@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+wild
+https://twitter.com/twitter/status/1835436015731061116/ -- 2024-09-16T12:30:03.223Z
+
+---
+
 TIL configuring and using custom bash/shell functions on Linux/Unix systems. I use overly long commands almost daily, so a short and crisp shell function boosts productivity.
 
 All this while, I'd been using command line auto-complete to run overly long shell commands to perform daily tasks 🤦🏻‍♂️ smh -- 2024-09-16T03:22:22.168Z
@@ -78,26 +83,6 @@ Like do what you want and eventually stick to something that works for you and y
 
 
 https://twitter.com/twitter/status/1826314475860840500/ -- 2024-08-23T02:43:11.954Z
-
----
-
-This is an [interesting infographic](https://a16z.com/100-gen-ai-apps/) from a16z depicting the top 50 Gen A.I. products by unique monthly visitors.
-
-I'd like to think I do keep myself up to date on the latest GenAI products and releases on X.
-
-But, (to my surprise) I found that `character.ai` is placed at Number 2 😳 above Perplexity and Claude.
-
-Strangely not many (in my X feed) talk about it that much. I didn't even know what they did exactly.
-
-It's about chatting with AI avatars of characters mainly from pop culture.
-
-I see >100 million conversations with fictional anime characters like Tatsuki Bakugo (from BHA anime/story) and characters from the popular game called Genshin Impact.
-
-And it makes so much sense (to me). This is something people don't usually talk about because it could be private.
-
-Once again I'm reminded that I'm only in the tech development bubble and do not have a grasp of the full scale of the proliferation of A.I. in all segments of the internet.
-
-And this is just one segment. I have only used 3-4 of these. Worth a deeper dive on. -- 2024-08-22T14:30:28.199Z
 <!-- feed ends -->
 
 
