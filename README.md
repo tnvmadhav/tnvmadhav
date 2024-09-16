@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL configuring and using custom bash/shell functions on Linux/Unix systems. I use overly long commands almost daily, so a short and crisp shell function boosts productivity.
+
+All this while, I'd been using command line auto-complete to run overly long shell commands to perform daily tasks 🤦🏻‍♂️ smh -- 2024-09-16T03:22:22.168Z
+
+---
+
 ## How do you organize work as a solo developer?
 
 I've tried Notion Databases. It's great to see history of projects. Notion feels clunky nowadays but ok.
@@ -92,11 +98,6 @@ And it makes so much sense (to me). This is something people don't usually talk 
 Once again I'm reminded that I'm only in the tech development bubble and do not have a grasp of the full scale of the proliferation of A.I. in all segments of the internet.
 
 And this is just one segment. I have only used 3-4 of these. Worth a deeper dive on. -- 2024-08-22T14:30:28.199Z
-
----
-
-Your Agency. Your Credit Card.
-https://twitter.com/twitter/status/1826609242767495255/ -- 2024-08-22T13:22:36.164Z
 <!-- feed ends -->
 
 
