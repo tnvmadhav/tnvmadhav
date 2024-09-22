@@ -94,6 +94,8 @@ https://twitter.com/twitter/status/1826314475860840500/ -- 2024-08-23T02:43:11.9
 ## Latest Blog Posts
 
 <!-- blog starts -->
+[White Screen of Death on my iPhone](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/) -- 2024-09-22T10:00:35+00:00
+
 [Dynamic Feed on My Github Profile](https://tnvmadhav.me/blog/dynamic-feed-on-my-github-profile/) -- 2024-08-03T08:16:05+00:00
 
 [Custom R.S.S. Feed Format in Hugo](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/) -- 2024-07-28T10:49:57+00:00
@@ -101,8 +103,6 @@ https://twitter.com/twitter/status/1826314475860840500/ -- 2024-08-23T02:43:11.9
 [Jojo's Bizzare Adventure Season 5 Episode 28](https://tnvmadhav.me/blog/jojos-bizzare-adventure-season-5-episode-28/) -- 2024-07-12T16:29:41+00:00
 
 ['Leonardo Da Vinci' by Walter Isaacson](https://tnvmadhav.me/blog/leonardo-da-vinci-by-walter-isaacson/) -- 2024-05-26T10:43:05+00:00
-
-[git angel](https://tnvmadhav.me/blog/good-git-practices/) -- 2024-02-12T04:17:37+00:00
 
 More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 <!-- blog ends -->
