@@ -1,14 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-They’re perfect for airpods
-https://twitter.com/twitter/status/1839351084630028749/ -- 2024-09-27T06:30:03.003Z
+If your AWS deployments seem unnecessarily slow, you could do something about it.
+
+I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/) that could help. -- 2024-09-27T12:30:03.052Z
 
 ---
 
-If your AWS deployments seem unnecessarily slow, you could do something about it.
-
-I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/) that could help. -- 2024-09-27T05:24:42.832Z
+They’re perfect for airpods
+https://twitter.com/twitter/status/1839351084630028749/ -- 2024-09-27T06:30:03.003Z
 
 ---
 
