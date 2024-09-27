@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If your AWS deployments seem unnecessarily slow, you could do something about it.
+
+I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/) that could help. -- 2024-09-27T05:24:42.832Z
+
+---
+
 wild
 https://twitter.com/twitter/status/1835436015731061116/ -- 2024-09-16T12:30:03.223Z
 
@@ -74,15 +80,6 @@ Just migrated to GPT 4 [structured outputs](https://platform.openai.com/docs/gui
 More deterministic I should say in terms of NOT getting an `unexpected end of JSON input` error message intermittently.
 
 Thank you @openai for this productivity boost :) -- 2024-08-23T04:20:23.517Z
-
----
-
-I don't understand why people hold absolutist ideals (for others) on building stuff.
-
-Like do what you want and eventually stick to something that works for you and your team.
-
-
-https://twitter.com/twitter/status/1826314475860840500/ -- 2024-08-23T02:43:11.954Z
 <!-- feed ends -->
 
 
