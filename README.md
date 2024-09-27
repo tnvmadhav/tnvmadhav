@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+They’re perfect for airpods
+https://twitter.com/twitter/status/1839351084630028749/ -- 2024-09-27T06:30:03.003Z
+
+---
+
 If your AWS deployments seem unnecessarily slow, you could do something about it.
 
 I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/) that could help. -- 2024-09-27T05:24:42.832Z
@@ -72,14 +77,6 @@ If you're still unsure, click `log out all other sessions` button only via the o
 
 Keep safe!
 https://twitter.com/twitter/status/1827057965784015169/ -- 2024-08-24T04:56:15.916Z
-
----
-
-Just migrated to GPT 4 [structured outputs](https://platform.openai.com/docs/guides/structured-outputs) (out of sheer frustration) in my hobby project. It's so much better now. 
-
-More deterministic I should say in terms of NOT getting an `unexpected end of JSON input` error message intermittently.
-
-Thank you @openai for this productivity boost :) -- 2024-08-23T04:20:23.517Z
 <!-- feed ends -->
 
 
