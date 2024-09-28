@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I found [a really useful refresher/guide](https://ssoready.com/docs/saml/saml-technical-primer) to get back to while working with SAML
+
+Worthy of a bookmark! -- 2024-09-28T12:30:03.033Z
+
+---
+
 Some text snippets from the white paper on reading comprehension on plain paper vs on a screen
 
 > "If texts are longer than a page, scrolling and the lack of spatiotemporal markers of the digital texts to aid memory and reading comprehension might impede reading performance."
@@ -14,12 +20,6 @@ via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T09:30:03.0
 ---
 
 TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T08:01:03.290Z
-
----
-
-I found [a really useful refresher/guide](https://ssoready.com/docs/saml/saml-technical-primer) to get back to while working with SAML
-
-Worthy of a bookmark! -- 2024-09-28T07:21:22.925Z
 
 ---
 
