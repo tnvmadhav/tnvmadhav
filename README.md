@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T16:30:03.005Z
+
+---
+
 I found [a really useful refresher/guide](https://ssoready.com/docs/saml/saml-technical-primer) to get back to while working with SAML
 
 Worthy of a bookmark! -- 2024-09-28T12:30:03.033Z
@@ -16,10 +20,6 @@ Some text snippets from the white paper on reading comprehension on plain paper 
 > ".... Scrolling is known to hamper the process of reading, by imposing a spatial instability which may negatively affect the reader’s mental representation of the text and, by implication, comprehension."
 
 via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T09:30:03.016Z
-
----
-
-TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T08:01:03.290Z
 
 ---
 
