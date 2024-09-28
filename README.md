@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL there is a site pyvideo.org that curates videos from community and related events. -- 2024-09-28T07:23:25.794Z
+
+---
+
 Some text snippets from the white paper on reading comprehension on plain paper vs on a screen
 
 > "If texts are longer than a page, scrolling and the lack of spatiotemporal markers of the digital texts to aid memory and reading comprehension might impede reading performance."
@@ -67,10 +71,6 @@ Becoming a generator, not a renderer.
 "[...]think about what you'd like to become more often than thinking about what you'd like to get" - DHH
 
 🔗 https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c -- 2024-09-01T16:30:02.994Z
-
----
-
-Start writing for clarity until don't have to. Then, start writing with clarity. -- 2024-09-01T12:30:02.932Z
 <!-- feed ends -->
 
 
