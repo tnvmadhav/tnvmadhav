@@ -1,7 +1,7 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-TIL there is a site pyvideo.org that curates videos from community and related events. -- 2024-09-28T07:23:25.794Z
+TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T08:01:03.290Z
 
 ---
 
