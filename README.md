@@ -1,10 +1,6 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T08:01:03.290Z
-
----
-
 Some text snippets from the white paper on reading comprehension on plain paper vs on a screen
 
 > "If texts are longer than a page, scrolling and the lack of spatiotemporal markers of the digital texts to aid memory and reading comprehension might impede reading performance."
@@ -13,7 +9,11 @@ Some text snippets from the white paper on reading comprehension on plain paper 
 
 > ".... Scrolling is known to hamper the process of reading, by imposing a spatial instability which may negatively affect the reader’s mental representation of the text and, by implication, comprehension."
 
-via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T07:21:39.343Z
+via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T09:30:03.016Z
+
+---
+
+TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T08:01:03.290Z
 
 ---
 
