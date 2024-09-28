@@ -1,6 +1,24 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Some text snippets from the white paper on reading comprehension on plain paper vs on a screen
+
+> "If texts are longer than a page, scrolling and the lack of spatiotemporal markers of the digital texts to aid memory and reading comprehension might impede reading performance."
+
+> "...Hence, we cannot say whether the visual ergonomics of the laptop computer screens hurt subjects’ reading. In future studies, employing online measures including eye tracking methods would appropriately address this important issue."
+
+> ".... Scrolling is known to hamper the process of reading, by imposing a spatial instability which may negatively affect the reader’s mental representation of the text and, by implication, comprehension."
+
+via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T07:21:39.343Z
+
+---
+
+I found [a really useful refresher/guide](https://ssoready.com/docs/saml/saml-technical-primer) to get back to while working with SAML
+
+Worthy of a bookmark! -- 2024-09-28T07:21:22.925Z
+
+---
+
 If your AWS deployments seem unnecessarily slow, you could do something about it.
 
 I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/) that could help. -- 2024-09-27T12:30:03.052Z
@@ -53,30 +71,6 @@ Becoming a generator, not a renderer.
 ---
 
 Start writing for clarity until don't have to. Then, start writing with clarity. -- 2024-09-01T12:30:02.932Z
-
----
-
-TIL that there's a whole package (I mean it was obvious in-retrospect) called `Charts` in SwiftUI. [^1] 
-
-I was experimenting with bar graphs and charts (for an iOS app - hobby project) and was planning on raw dogging rectangles (ik LMFAO).
-
-But now the Charts package can help cut down on time. I'm yet to dive deep but it looks super easy (thanks to SwiftUI's simplicity) but I'm sure I can get results faster.
-
-After playing with Bar Graphs and referring to example implementations [^2], I noticed that one could create the same types of charts baked in iOS apps like screentime, health, etc support.
-
-This is great news (in general but) especially for backend developers like myself who are dabbling with design and client-side application development for (limited scope) hobby projects.
-
-[^1]: https://developer.apple.com/documentation/charts
-[^2]: https://github.com/jordibruin/Swift-Charts-Examples/blob/d9189ba2feb1460d39fc44a236cbb5976d0970a0/Swift%20Charts%20Examples/Charts/AppleCharts/ScreenTime.swift -- 2024-08-24T13:20:22.069Z
-
----
-
-If this happens to anyone on @X, you should immediately log in to x.com and go to [Sessions page](https://x.com/settings/apps_and_sessions) and check if this is true. 
-
-If you're still unsure, click `log out all other sessions` button only via the official x.com app/website's sessions page.
-
-Keep safe!
-https://twitter.com/twitter/status/1827057965784015169/ -- 2024-08-24T04:56:15.916Z
 <!-- feed ends -->
 
 
