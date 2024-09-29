@@ -1,7 +1,7 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Excerpts from [Using Progressive Enhancement bu GOV dot UK](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+Excerpts from [Using Progressive Enhancement by GOV dot UK](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 
 > "Progressive enhancement is a way of building websites and applications based on the idea that you should make your page work with HTML first."
 
@@ -62,7 +62,7 @@ The UK government has [written another piece](https://technology.blog.gov.uk/201
 
 ### Quoting architect of gov dot uk
 
-> "Progressive enhancement is about resilience as much as it is about inclusiveness." -- 2024-09-29T04:24:44.392Z
+> "Progressive enhancement is about resilience as much as it is about inclusiveness." -- 2024-09-29T04:39:18.497Z
 
 ---
 
