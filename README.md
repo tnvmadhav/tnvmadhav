@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I finally bit the bullet and learned to use SwiftData and it turned out to be simple to use (as a beginner). 
+
+I'm playing around to try and learn how the data is modeled.
+
+I could go from ephemeral to persistent storage in a couple of hours.  -- 2024-09-29T14:59:30.158Z
+
+---
+
 Excerpts from [Using Progressive Enhancement by GOV dot UK](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 
 > "Progressive enhancement is a way of building websites and applications based on the idea that you should make your page work with HTML first."
@@ -123,11 +131,6 @@ This helps you add/edit stuff to the list rather quickly.
 This is no answer. Just do things.
 
 [via Hacker News](https://news.ycombinator.com/item?id=41473997) -- 2024-09-10T12:30:03.301Z
-
----
-
-To rephrase, take an idea and take it seriously. 
-https://twitter.com/twitter/status/1832555694798549183/ -- 2024-09-08T06:30:03.020Z
 <!-- feed ends -->
 
 
