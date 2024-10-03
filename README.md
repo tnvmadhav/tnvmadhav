@@ -8,7 +8,7 @@ Luckily, we've a [nice and detailed write up](https://til.simonwillison.net/djan
 If you missed the live blog, you can check it out [here](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
 
 
-And, this changes are [available on GitHub](https://github.com/simonw/simonwillisonblog/commits/910d2c3be68de7198c76dd25d75662a81c4d76e2/) -- 2024-10-03T04:04:44.963Z
+And, this changes are [available on GitHub](https://github.com/simonw/simonwillisonblog/commits/910d2c3be68de7198c76dd25d75662a81c4d76e2/) -- 2024-10-03T05:00:05.329Z
 
 ---
 
