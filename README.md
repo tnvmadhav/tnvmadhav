@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+When I checked simon's openai-dev-day live text stream, I noticed something different (than the usual posts). The structure of the blog post itself.
+
+Luckily, we've a [nice and detailed write up](https://til.simonwillison.net/django/live-blog) on how it was implemented  (using LLM help) in a very short span of time.
+
+If you missed the live blog, you can check it out [here](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
+
+
+And, this changes are [available on GitHub](https://github.com/simonw/simonwillisonblog/commits/910d2c3be68de7198c76dd25d75662a81c4d76e2/) -- 2024-10-03T04:04:44.963Z
+
+---
+
 I finally bit the bullet and learned to use SwiftData and it turned out to be simple to use (as a beginner). 
 
 I'm playing around to try and learn how the data is modeled.
@@ -115,22 +126,6 @@ https://twitter.com/twitter/status/1835436015731061116/ -- 2024-09-16T12:30:03.2
 TIL configuring and using custom bash/shell functions on Linux/Unix systems. I use overly long commands almost daily, so a short and crisp shell function boosts productivity.
 
 All this while, I'd been using command line auto-complete to run overly long shell commands to perform daily tasks 🤦🏻‍♂️ smh -- 2024-09-16T03:22:22.168Z
-
----
-
-## How do you organize work as a solo developer?
-
-I've tried Notion Databases. It's great to see history of projects. Notion feels clunky nowadays but ok.
-
-For simple, lightweight, fast organisation, I'd recommend maintaining a single file as a todo list.
-
-A file per project. This can be markdown (todo.md) with checkboxes or just a simple todo.txt
-
-This helps you add/edit stuff to the list rather quickly.
-
-This is no answer. Just do things.
-
-[via Hacker News](https://news.ycombinator.com/item?id=41473997) -- 2024-09-10T12:30:03.301Z
 <!-- feed ends -->
 
 
