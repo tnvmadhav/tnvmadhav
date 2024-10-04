@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL that the .me is country code based TLD (ccTLD) for Montenegro.
+
+And that it's not some individualistic / personal branding thing that we could take as granted.
+
+
+Reference:
+[Wix](https://www.wix.com/encyclopedia/definition/me-domain)
+[Perplexity](https://www.perplexity.ai/search/is-the-me-tld-associated-with-NyGlFbWATfGHTs0qM6ATPA) -- 2024-10-04T04:30:09.183Z
+
+---
+
 Linus Torvalds on [working with GitHub Pull Requests](https://github.com/torvalds/linux/pull/17#issuecomment-5654674) -- 2024-10-04T03:52:45.601Z
 
 ---
@@ -119,11 +130,6 @@ I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-
 
 They’re perfect for airpods
 https://twitter.com/twitter/status/1839351084630028749/ -- 2024-09-27T06:30:03.003Z
-
----
-
-wild
-https://twitter.com/twitter/status/1835436015731061116/ -- 2024-09-16T12:30:03.223Z
 <!-- feed ends -->
 
 
