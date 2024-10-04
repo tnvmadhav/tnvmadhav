@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Linus Torvalds on [working with GitHub Pull Requests](https://github.com/torvalds/linux/pull/17#issuecomment-5654674) -- 2024-10-04T03:52:45.601Z
+
+---
+
 When I checked simon's openai-dev-day live text stream, I noticed something different (than the usual posts). The structure of the blog post itself.
 
 Luckily, we've a [nice and detailed write up](https://til.simonwillison.net/django/live-blog) on how it was implemented  (using LLM help) in a very short span of time.
@@ -120,12 +124,6 @@ https://twitter.com/twitter/status/1839351084630028749/ -- 2024-09-27T06:30:03.0
 
 wild
 https://twitter.com/twitter/status/1835436015731061116/ -- 2024-09-16T12:30:03.223Z
-
----
-
-TIL configuring and using custom bash/shell functions on Linux/Unix systems. I use overly long commands almost daily, so a short and crisp shell function boosts productivity.
-
-All this while, I'd been using command line auto-complete to run overly long shell commands to perform daily tasks 🤦🏻‍♂️ smh -- 2024-09-16T03:22:22.168Z
 <!-- feed ends -->
 
 
