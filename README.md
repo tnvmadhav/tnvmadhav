@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'm reminded of [Kernighan's Law](https://github.com/dwmkerr/hacker-laws?tab=readme-ov-file#kernighans-law).
+
+> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. ~ Brian Kernighan 
+
+But here's the thing, if you stick to simple solutions, you'll not be prepared for inevitable scenarios where your debugging skills aren't up to the mark.
+
+There is great risk in coming up with clever solutions but this actually pays off when you constantly push this boundary by debugging and finding faults in said clever solutions.
+https://twitter.com/twitter/status/1845062132326449455/ -- 2024-10-12T12:30:03.243Z
+
+---
+
 Linus Torvalds on [working with GitHub Pull Requests](https://github.com/torvalds/linux/pull/17#issuecomment-5654674) -- 2024-10-04T06:30:03.070Z
 
 ---
@@ -125,11 +136,6 @@ via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T09:30:03.0
 If your AWS deployments seem unnecessarily slow, you could do something about it.
 
 I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/) that could help. -- 2024-09-27T12:30:03.052Z
-
----
-
-They’re perfect for airpods
-https://twitter.com/twitter/status/1839351084630028749/ -- 2024-09-27T06:30:03.003Z
 <!-- feed ends -->
 
 
