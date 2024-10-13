@@ -7,16 +7,25 @@ Excerpts from [Machines of Loving Grace](https://darioamodei.com/machines-of-lov
 
 Yes, it's mostly not (just) about doing what we already do... just faster. But, having enough brain juice (left) to be open to doing other things.
 
-
 > "While that might sound crazy, the fact is that civilization has successfully navigated major economic shifts in the past: from hunter-gathering to farming, farming to feudalism, and feudalism to industrialism. I suspect that some new and stranger thing will be needed, and that it’s something no one today has done a good job of envisioning."
 
 I try to believe that cost of executing and applying "solved problems" will go down eventually with machines taking over the replication part. 
 
-It's then up to humans to pick up new challenges. This could be improving lifespan, brain capacity, low latency and efficient modes of communication, transport, climate change, food and water scarcity, supply chain consistency, etc.
+It's then up to humans to pick up new challenges. This could be improving lifespan, brain capacity, low latency and efficient modes of communication, transport, energy efficiency, climate control/repair, food and water scarcity, etc.
 
-To know about what lies beyond the horizon, which appears to be approaching quite rapidly, we must practice, observe the work of researchers right now. What they think / dream about. 
+To know about what lies beyond the horizon (which appears to be approaching quite rapidly), we must practice research ourselves, observe the work of researchers right now. What they think / dream about. 
 
-Human creativity will have to be put to the test. -- 2024-10-13T08:56:11.758Z
+Human creativity will have to be put to the test to find meaning on this [pale blue dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot). -- 2024-10-13T09:19:31.606Z
+
+---
+
+I'm (obviously) not there yet but doing stuff like this makes you competent.
+
+You're either doing it for fun/satisfaction/requirement (or) you're doing it to learn. 
+
+Either way you'll gain enough skills to pick more ambitious projects.
+
+https://twitter.com/twitter/status/1845186558414159875/ -- 2024-10-13T09:13:33.290Z
 
 ---
 
@@ -137,18 +146,6 @@ TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from 
 I found [a really useful refresher/guide](https://ssoready.com/docs/saml/saml-technical-primer) to get back to while working with SAML
 
 Worthy of a bookmark! -- 2024-09-28T12:30:03.033Z
-
----
-
-Some text snippets from the white paper on reading comprehension on plain paper vs on a screen
-
-> "If texts are longer than a page, scrolling and the lack of spatiotemporal markers of the digital texts to aid memory and reading comprehension might impede reading performance."
-
-> "...Hence, we cannot say whether the visual ergonomics of the laptop computer screens hurt subjects’ reading. In future studies, employing online measures including eye tracking methods would appropriately address this important issue."
-
-> ".... Scrolling is known to hamper the process of reading, by imposing a spatial instability which may negatively affect the reader’s mental representation of the text and, by implication, comprehension."
-
-via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T09:30:03.016Z
 <!-- feed ends -->
 
 
