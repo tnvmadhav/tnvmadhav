@@ -1,6 +1,25 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Excerpts from [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) by the CEO of [Anthropic](https://www.anthropic.com)
+
+>  ..."I think their rate of discovery could be increased by 10x or more if there were a lot more talented, creative researchers. Or, put another way, I think the returns to intelligence are high for these discoveries, and that everything else in biology and medicine mostly follows from them."
+
+Yes, it's mostly not (just) about doing what we already do... just faster. But, having enough brain juice (left) to be open to doing other things.
+
+
+> "While that might sound crazy, the fact is that civilization has successfully navigated major economic shifts in the past: from hunter-gathering to farming, farming to feudalism, and feudalism to industrialism. I suspect that some new and stranger thing will be needed, and that it’s something no one today has done a good job of envisioning."
+
+I try to believe that cost of executing and applying "solved problems" will go down eventually with machines taking over the replication part. 
+
+It's then up to humans to pick up new challenges. This could be improving lifespan, brain capacity, low latency and efficient modes of communication, transport, climate change, food and water scarcity, supply chain consistency, etc.
+
+To know about what lies beyond the horizon, which appears to be approaching quite rapidly, we must practice, observe the work of researchers right now. What they think / dream about. 
+
+Human creativity will have to be put to the test. -- 2024-10-13T08:56:11.758Z
+
+---
+
 I'm reminded of [Kernighan's Law](https://github.com/dwmkerr/hacker-laws?tab=readme-ov-file#kernighans-law).
 
 > Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. ~ Brian Kernighan 
@@ -130,12 +149,6 @@ Some text snippets from the white paper on reading comprehension on plain paper 
 > ".... Scrolling is known to hamper the process of reading, by imposing a spatial instability which may negatively affect the reader’s mental representation of the text and, by implication, comprehension."
 
 via [HN](https://news.ycombinator.com/item?id=41644086) -- 2024-09-28T09:30:03.016Z
-
----
-
-If your AWS deployments seem unnecessarily slow, you could do something about it.
-
-I've found a [well-written piece](https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/) that could help. -- 2024-09-27T12:30:03.052Z
 <!-- feed ends -->
 
 
