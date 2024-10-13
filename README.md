@@ -15,7 +15,7 @@ It's then up to humans to pick up new challenges. This could be improving lifesp
 
 To know about what lies beyond the horizon (which appears to be approaching quite rapidly), we must practice research ourselves, observe the work of researchers right now. What they think / dream about. 
 
-Human creativity will have to be put to the test to find meaning on this [pale blue dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot). -- 2024-10-13T09:19:31.606Z
+Human creativity will have to be put to the test to find meaning on this [pale blue dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot). -- 2024-10-13T12:30:03.176Z
 
 ---
 
