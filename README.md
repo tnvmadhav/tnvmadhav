@@ -1,6 +1,26 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL you can inspect a CLI command using the `type <cmd>` CLI command.
+
+I usually use  `which <cmd>` to verify this but `type` provides a human-readable description/comment of the command.
+
+Here's an example from my terminal:
+
+```bash
+$ type openai-env
+openai-env is a shell function from /Users/<user>/.zshrc
+
+$ which openai-env
+openai-env () {
+	export $(cat $PYTHON_PROJECT_PATH/.env)
+}
+```
+
+I learned this from [Julia Evans' recent comic strip on PATH](https://wizardzines.com/comics/path-tips/ ) -- 2024-10-16T03:28:30.965Z
+
+---
+
 Excerpts from [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) by the CEO of [Anthropic](https://www.anthropic.com)
 
 >  ..."I think their rate of discovery could be increased by 10x or more if there were a lot more talented, creative researchers. Or, put another way, I think the returns to intelligence are high for these discoveries, and that everything else in biology and medicine mostly follows from them."
@@ -140,12 +160,6 @@ The UK government has [written another piece](https://technology.blog.gov.uk/201
 ---
 
 TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T16:30:03.005Z
-
----
-
-I found [a really useful refresher/guide](https://ssoready.com/docs/saml/saml-technical-primer) to get back to while working with SAML
-
-Worthy of a bookmark! -- 2024-09-28T12:30:03.033Z
 <!-- feed ends -->
 
 
