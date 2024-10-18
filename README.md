@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Great timing.
+
+I looked forward to the customizability of NotebookLM's, audio podcast generation (Solid Product!).
+
+I can now customize and provide instructions on what to focus on when given a particularly technical document.
+
+Thank you @Google and team!
+https://twitter.com/twitter/status/1846946225251406039/
+
+
+I can't wait to start implementing this today! -- 2024-10-18T03:38:04.022Z
+
+---
+
 TIL you can inspect a CLI command using the `type <cmd>` CLI command.
 
 I usually use  `which <cmd>` to verify this but `type` provides a human-readable description/comment of the command.
@@ -156,10 +170,6 @@ The UK government has [written another piece](https://technology.blog.gov.uk/201
 ### Quoting architect of gov dot uk
 
 > "Progressive enhancement is about resilience as much as it is about inclusiveness." -- 2024-09-29T04:39:18.497Z
-
----
-
-TIL there is a site [pyvideo.org](https://pyvideo.org) that curates videos from community and related events. -- 2024-09-28T16:30:03.005Z
 <!-- feed ends -->
 
 
