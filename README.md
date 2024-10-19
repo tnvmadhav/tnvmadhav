@@ -1,7 +1,7 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Notes from [Local First Development](https://martin.kleppmann.com/papers/local-first.pdf):
+Notes from [Local First Software](https://martin.kleppmann.com/papers/local-first.pdf):
 
 With the introduction and proliferation of "cloud-hosted" Software as a Service (SaaS), especially for consumer software, it becomes unclear who owns the data that flows through them.
 
@@ -9,10 +9,9 @@ Many times, the users who upload/generate data don't have complete control over 
 
 Moreover, the experience of using application software has become unnecessarily complex and painful.
 
-The paper proposes an alternative concept called "Local First", a guide for software developers to support experiences w.r.t. speed, ownership of data, and quality of use.
-
 > If you’re a software engineer, designer, product manager, or independent app developer working on production-ready software today, how can you help? 
-> We suggest taking incremental steps toward a local-first future.
+
+The paper proposes an alternative concept called "Local First", a guide for software developers to support experiences w.r.t. speed, ownership of data, and quality of use.
 
 Seven points to use as guideways for the uninitiated:
 
@@ -48,7 +47,7 @@ Data that is private must be able to remain private. Local First Development sup
 
 > 7. User Control
 
-The user must be able to choose where the data is stored. The user should be able to have 100% ownership of the data. The user can choose to do whatever they want with it. -- 2024-10-19T08:29:54.138Z
+The user must be able to choose where the data is stored. The user should be able to have 100% ownership of the data. The user can choose to do whatever they want with it. -- 2024-10-19T08:34:42.678Z
 
 ---
 
