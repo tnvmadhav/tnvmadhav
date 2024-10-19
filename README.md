@@ -1,6 +1,57 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Notes from [Local First Development](https://martin.kleppmann.com/papers/local-first.pdf):
+
+With the introduction and proliferation of "cloud-hosted" Software as a Service (SaaS), especially for consumer software, it becomes unclear who owns the data that flows through them.
+
+Many times, the users who upload/generate data don't have complete control over what happens to them.
+
+Moreover, the experience of using application software has become unnecessarily complex and painful.
+
+The paper proposes an alternative concept called "Local First", a guide for software developers to support experiences w.r.t. speed, ownership of data, and quality of use.
+
+> If you’re a software engineer, designer, product manager, or independent app developer working on production-ready software today, how can you help? 
+> We suggest taking incremental steps toward a local-first future.
+
+Seven points to use as guideways for the uninitiated:
+
+> 1. Make it Fast
+
+Feedback has to be instant and non-blocking. Network calls (to servers or stores for example) affect this the most.
+
+> 2. Multi-Device
+
+As the name suggests, "local first" doesn't mean data and software should always be offline; rather, the "sync" if necessary, needs to be quiet, in the background, and non-blocking.
+
+> 3. Offline Support
+
+Not all software / client-side applications, need to interact with remote servers for all tasks.
+
+Offline support means having a copy of all relevant resources available to work on without internet access.
+
+> 4. Collaborative
+
+When a large enough ecosystem supports local first development, there needs to be a system to support collision detection and resolution systems. 
+
+This is highly relevant for Google, GitHub, etc.
+
+> 5. Longevity
+
+This is purely data-centric. Data needs to persist independently of the software that creates/processes it.
+
+This means data should be importable/exportable into standard formats.
+
+> 6. Privacy
+
+Data that is private must be able to remain private. Local First Development supports this philosophy.
+
+> 7. User Control
+
+The user must be able to choose where the data is stored. The user should be able to have 100% ownership of the data. The user can choose to do whatever they want with it. -- 2024-10-19T08:29:54.138Z
+
+---
+
 Great timing.
 
 I looked forward to the customizability of NotebookLM's, audio podcast generation (Solid Product!).
@@ -105,71 +156,6 @@ I finally bit the bullet and learned to use SwiftData and it turned out to be si
 I'm playing around to try and learn how the data is modeled.
 
 I could go from ephemeral to persistent storage in a couple of hours.  -- 2024-09-29T14:59:30.158Z
-
----
-
-Excerpts from [Using Progressive Enhancement by GOV dot UK](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
-
-> "Progressive enhancement is a way of building websites and applications based on the idea that you should make your page work with HTML first."
-
-HTML and CSS layers are fault-tolerant (browsers will ignore declarations that it doesn't understand). 
-
-Javascript must only be used to enhance user experience in necessary parts of data that are already in HTML.
-
->"Where possible the JavaScript should enhance HTML and CSS that provide the same core functionality. For example, an autocomplete could enhance an element, or something similar. This still lets the user do what they need to do, even if the JavaScript fails."
-
-HTML and CSS offer the bottom layer (Layer 1) where things can happen but rather slowly. Javascript layer to exist to make a certain action faster. If the javascript layer is to be removed, the required functionality would still be possible albeit slowly as initially intended.
-
-This way, no process is "blocked" during Javascript-based failures, etc.
-
-> "If you believe your service can only be built using JavaScript, you should think about using simpler solutions that are built using HTML and CSS and will meet user needs."
-> For example, if you want to use JavaScript to provide interactive graphs, other options are to:
-> 
-> Display the data in a table
-> Allow the data to be exported so that it can analysed in another application
-> Pre-render the graphs as images
->
-> If the core functionality of your service cannot be provided without JavaScript, you’ll need to consider how users can access your service through other channels. This might be telephone calls or in-person visits to offices.
-
-Looks like the UK gov prefers in-person processes rather than injecting Javascript into government websites. This a highly opinionated decision.
-
-> If you do choose to use client-side JavaScript frameworks, be aware that although they can be helpful when building a service with a complex user interface, they can introduce problems.
->
-> Using a client-side JavaScript framework can:
->
-> Increase the overall size of your code base and push processing to the client side, causing performance issues for users with a slower network connection or lower-powered device
-> Create a reliance on third-party code that your developers do not have control over, requiring you to make major changes to your service to stay up to date with changes in the framework
-> make it difficult to find people with the skills required to maintain the code, if the frameworks lose popularity over time
-> If you use a JavaScript framework you should:
->
-> Be able to justify with evidence, how using JavaScript would benefit users
-> Be aware of any negative impacts and be able to mitigate them
-> Consider whether the benefits of using it outweigh the potential problems
-> Only use the framework for parts of the user interface that cannot be built using HTML and CSS alone
-design each part of the user interface as a separate component
->
-> Having separate components means that if the JavaScript fails to load, it will only be that single component that fails. The rest of the page will load as normal.
-
-I can understand this approach, keeping things light and simple is a win, and keeping the user base in mind (literally everyone in the country in this example), it's important to ensure stability and dependency-less design.
-
-The userbase for a normal corporate may or may not be the same, so the design for the userbase is a good way to think about problem-solving.
-
-> "If you use JavaScript, it should only be used to enhance the HTML and CSS so users can still use the service if the JavaScript fails."
-
-> "Some users may deliberately turn off features in their browsers. You should respect their decision and make sure those users can still use your service. Some users may deliberately turn off features in their browsers. You should respect their decision and make sure those users can still use your service."
-
-A user can turn off JavaScript in their browsers AND direly need certain services.
-
-
-> "Do not build your service as a single-page application (SPA). This is where the loading of pages within your service is handled by JavaScript, rather than the browser."
-
-A subset of users using accessibility features may get a sub-optimal or dead-end experience. The heavy use of back and forward buttons and page refresh can cause states that they don't intend or understand.
-
-The UK government has [written another piece](https://technology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)  on why progressive enhancement is good (I agree in favor of incremental improvements as good engineering practice): 
-
-### Quoting architect of gov dot uk
-
-> "Progressive enhancement is about resilience as much as it is about inclusiveness." -- 2024-09-29T04:39:18.497Z
 <!-- feed ends -->
 
 
