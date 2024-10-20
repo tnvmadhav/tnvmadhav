@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Moving slowly is much better than giving up. -- 2024-10-20T15:44:28.929Z
+
+---
+
 Notes from [Local First Software](https://martin.kleppmann.com/papers/local-first.pdf):
 
 With the introduction and proliferation of "cloud-hosted" Software as a Service (SaaS), especially for consumer software, it becomes unclear who owns the data that flows through them.
@@ -147,14 +151,6 @@ If you missed the live blog, you can check it out [here](https://simonwillison.n
 
 
 And, this changes are [available on GitHub](https://github.com/simonw/simonwillisonblog/commits/910d2c3be68de7198c76dd25d75662a81c4d76e2/) -- 2024-10-03T05:00:05.329Z
-
----
-
-I finally bit the bullet and learned to use SwiftData and it turned out to be simple to use (as a beginner). 
-
-I'm playing around to try and learn how the data is modeled.
-
-I could go from ephemeral to persistent storage in a couple of hours.  -- 2024-09-29T14:59:30.158Z
 <!-- feed ends -->
 
 
