@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+This takes the general concept of "put your money where your mouth is" and zooms out a bit IMO.
+
+Reframe as "if your mouth isn't where your money is, where is it?"
+https://twitter.com/twitter/status/1848025357061926957/ -- 2024-10-20T22:00:02.964Z
+
+---
+
 Perhaps goals are just misaligned.
 
 It's not about the immediate output but how it interacts with the world.
@@ -137,17 +144,6 @@ https://twitter.com/twitter/status/1845062132326449455/ -- 2024-10-12T12:30:03.2
 ---
 
 Linus Torvalds on [working with GitHub Pull Requests](https://github.com/torvalds/linux/pull/17#issuecomment-5654674) -- 2024-10-04T06:30:03.070Z
-
----
-
-TIL that the .me is country code based TLD (ccTLD) for Montenegro.
-
-And that it's not some individualistic / personal branding thing that we could take as granted.
-
-
-Reference:
-[Wix](https://www.wix.com/encyclopedia/definition/me-domain)
-[Perplexity](https://www.perplexity.ai/search/is-the-me-tld-associated-with-NyGlFbWATfGHTs0qM6ATPA) -- 2024-10-04T04:30:09.183Z
 <!-- feed ends -->
 
 
