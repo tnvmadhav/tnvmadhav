@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Perhaps goals are just misaligned.
+
+It's not about the immediate output but how it interacts with the world.
+
+Zooming out every now and then, helps in keeping tunnel vision at bay. -- 2024-10-20T18:30:03.007Z
+
+---
+
 Moving slowly is much better than giving up. -- 2024-10-20T15:44:28.929Z
 
 ---
@@ -140,17 +148,6 @@ And that it's not some individualistic / personal branding thing that we could t
 Reference:
 [Wix](https://www.wix.com/encyclopedia/definition/me-domain)
 [Perplexity](https://www.perplexity.ai/search/is-the-me-tld-associated-with-NyGlFbWATfGHTs0qM6ATPA) -- 2024-10-04T04:30:09.183Z
-
----
-
-When I checked simon's openai-dev-day live text stream, I noticed something different (than the usual posts). The structure of the blog post itself.
-
-Luckily, we've a [nice and detailed write up](https://til.simonwillison.net/django/live-blog) on how it was implemented  (using LLM help) in a very short span of time.
-
-If you missed the live blog, you can check it out [here](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
-
-
-And, this changes are [available on GitHub](https://github.com/simonw/simonwillisonblog/commits/910d2c3be68de7198c76dd25d75662a81c4d76e2/) -- 2024-10-03T05:00:05.329Z
 <!-- feed ends -->
 
 
