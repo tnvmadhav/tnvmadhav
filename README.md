@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Ownership is important. Start your own blog!
+https://twitter.com/twitter/status/1848261668024807887/ -- 2024-10-21T09:53:34.719Z
+
+---
+
 Notes from [leetcode's editorial section](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/editorial/
 ) on solving data structures and algorithm problems in general.
 
@@ -164,17 +169,6 @@ You're either doing it for fun/satisfaction/requirement (or) you're doing it to 
 Either way you'll gain enough skills to pick more ambitious projects.
 
 https://twitter.com/twitter/status/1845186558414159875/ -- 2024-10-13T09:13:33.290Z
-
----
-
-I'm reminded of [Kernighan's Law](https://github.com/dwmkerr/hacker-laws?tab=readme-ov-file#kernighans-law).
-
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. ~ Brian Kernighan 
-
-But here's the thing, if you stick to simple solutions, you'll not be prepared for inevitable scenarios where your debugging skills aren't up to the mark.
-
-There is great risk in coming up with clever solutions but this actually pays off when you constantly push this boundary by debugging and finding faults in said clever solutions.
-https://twitter.com/twitter/status/1845062132326449455/ -- 2024-10-12T12:30:03.243Z
 <!-- feed ends -->
 
 
