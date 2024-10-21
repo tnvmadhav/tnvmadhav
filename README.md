@@ -1,6 +1,41 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Notes from [leetcode's editorial section](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/editorial/
+) on solving data structures and algorithm problems in general.
+
+After solving a leet-code problem, found myself checking out an editorial section to see what other approaches I could've missed. What I found was unexpected.
+
+A guide to identifying patterns and choosing approaches. This is something I could've used when I was a couple of years younger just starting out.
+
+> So this time before diving into the answer, let’s understand a few general patterns that you can use in your future journey:
+>
+> Sorted Input:
+>
+> Apply binary search for efficient element lookup.
+> Use the two-pointer technique for problems involving pairs or segments.
+> Unsorted Input:
+>
+> Apply dynamic programming for questions related to counting ways or optimizing values.
+> Use backtracking for problems that ask for all possibilities or combinations (this is also a suitable fallback if dynamic programming isn’t going to work).
+> Use a Trie for prefix matching and string-building scenarios.
+> Use a hash map or set to find specific elements quickly.
+> Implement a monotonic stack or sliding window technique for managing elements while continuously finding maximum or minimum values.
+> Input is a Graph or Tree:
+
+> Use DFS to explore all paths or when the question does not require finding the shortest path.
+> Use BFS when the question asks for the shortest path or fewest steps.
+> For binary trees, use DFS if the problem involves exploring specific depths or levels.
+> Linked List Input:
+
+> Use techniques involving slow and fast pointers or "prev" and "dummy" pointers to facilitate certain operations if you are unsure how to achieve a specific outcome.
+
+> Note: There's so much more to this pattern! We just wanted to give you a glimpse of what pattern recognition boils down to in its simplest form. Feel free to add your own flair and create a detailed chart!
+
+Here's [a useful mindmap of techniques to use](https://assets.leetcode.com/static_assets/media/original_images/1593/1593_mintotal.png) per problem type -- 2024-10-21T03:30:24.935Z
+
+---
+
 This takes the general concept of "put your money where your mouth is" and zooms out a bit IMO.
 
 Reframe as "if your mouth isn't where your money is, where is it?"
@@ -140,10 +175,6 @@ But here's the thing, if you stick to simple solutions, you'll not be prepared f
 
 There is great risk in coming up with clever solutions but this actually pays off when you constantly push this boundary by debugging and finding faults in said clever solutions.
 https://twitter.com/twitter/status/1845062132326449455/ -- 2024-10-12T12:30:03.243Z
-
----
-
-Linus Torvalds on [working with GitHub Pull Requests](https://github.com/torvalds/linux/pull/17#issuecomment-5654674) -- 2024-10-04T06:30:03.070Z
 <!-- feed ends -->
 
 
