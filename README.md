@@ -2,7 +2,7 @@
 
 <!-- feed starts -->
 Ownership is important. Start your own blog!
-https://twitter.com/twitter/status/1848261668024807887/ -- 2024-10-21T09:53:34.719Z
+https://twitter.com/twitter/status/1848261668024807887/ -- 2024-10-21T12:30:03.083Z
 
 ---
 
