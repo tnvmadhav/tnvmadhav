@@ -4,7 +4,7 @@
 Notes from [leetcode's editorial section](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/editorial/
 ) on solving data structures and algorithm problems in general.
 
-After solving a leet-code problem, found myself checking out an editorial section to see what other approaches I could've missed. What I found was unexpected.
+After solving a leetcode problem, found myself checking out an editorial section to see what other approaches I could've missed. What I found was unexpected.
 
 A guide to identifying patterns and choosing approaches. This is something I could've used when I was a couple of years younger just starting out.
 
@@ -32,7 +32,7 @@ A guide to identifying patterns and choosing approaches. This is something I cou
 
 > Note: There's so much more to this pattern! We just wanted to give you a glimpse of what pattern recognition boils down to in its simplest form. Feel free to add your own flair and create a detailed chart!
 
-Here's [a useful mindmap of techniques to use](https://assets.leetcode.com/static_assets/media/original_images/1593/1593_mintotal.png) per problem type -- 2024-10-21T03:30:24.935Z
+Here's [a useful mindmap of techniques to use](https://assets.leetcode.com/static_assets/media/original_images/1593/1593_mintotal.png) per problem type -- 2024-10-21T03:50:20.239Z
 
 ---
 
