@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'd stumbled upon a rather brilliant @leetcode editorial piece and a useful mind map on solving problems. 
+
+This something that a younger version of me would've appreciated especially when starting out.
+
+I've shared some notes and excerpts on my [blog](https://tnvmadhav.me/feed/2024/10/21/ ) -- 2024-10-22T03:37:31.352Z
+
+---
+
 Ownership is important. Start your own blog!
 https://twitter.com/twitter/status/1848261668024807887/ -- 2024-10-21T12:30:03.083Z
 
@@ -159,16 +167,6 @@ It's then up to humans to pick up new challenges. This could be improving lifesp
 To know about what lies beyond the horizon (which appears to be approaching quite rapidly), we must practice research ourselves, observe the work of researchers right now. What they think / dream about. 
 
 Human creativity will have to be put to the test to find meaning on this [pale blue dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot). -- 2024-10-13T12:30:03.176Z
-
----
-
-I'm (obviously) not there yet but doing stuff like this makes you competent.
-
-You're either doing it for fun/satisfaction/requirement (or) you're doing it to learn. 
-
-Either way you'll gain enough skills to pick more ambitious projects.
-
-https://twitter.com/twitter/status/1845186558414159875/ -- 2024-10-13T09:13:33.290Z
 <!-- feed ends -->
 
 
