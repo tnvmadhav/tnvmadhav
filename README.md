@@ -1,6 +1,28 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Excerpts from ["Desperation Induced Focus"](https://www.rkg.blog/desperation-induced-focus.php )
+
+> "Most big companies aren’t focused on creating things out of nothing. Someone else made the magic money-making machine, and they assume that it will just keep working."
+>
+> "This lack of focus is a luxury and a disease."
+
+This is called peace time thinking. Thoughts generated out of seemingly derived notions or non-axioms. Sometimes too much trust in the system.
+
+> My advice to people when they are thinking about instituting a new process is to go to a whiteboard and write down the answer to this question: “If you could only get one thing done this year, what would it be?”. 
+
+>  Desperation inspires creativity and intense focus. It is an essential ingredient to building great products and services.
+
+> So, the next time you feel desperate, lean in. Embrace it. Use it as the fuel to create the next founding moment4 for your company.
+
+> And the next time someone tries to tell you to do something because a big company does it, be suspicious.
+
+One must arrive at something from first principles and not because someone told them (a.k.a. by proxy). Keep the advice in mind and use it as a reminder but never an axiom.
+
+To the builders of the future, you need to relive the pain that it has genuinely relieved. -- 2024-10-23T17:18:52.500Z
+
+---
+
 I'd stumbled upon a rather brilliant @leetcode editorial piece and a useful mind map on solving problems. 
 
 This something that a younger version of me would've appreciated especially when starting out.
@@ -149,24 +171,6 @@ openai-env () {
 ```
 
 I learned this from [Julia Evans' recent comic strip on PATH](https://wizardzines.com/comics/path-tips/ ) -- 2024-10-16T03:28:30.965Z
-
----
-
-Excerpts from [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) by the CEO of [Anthropic](https://www.anthropic.com)
-
->  ..."I think their rate of discovery could be increased by 10x or more if there were a lot more talented, creative researchers. Or, put another way, I think the returns to intelligence are high for these discoveries, and that everything else in biology and medicine mostly follows from them."
-
-Yes, it's mostly not (just) about doing what we already do... just faster. But, having enough brain juice (left) to be open to doing other things.
-
-> "While that might sound crazy, the fact is that civilization has successfully navigated major economic shifts in the past: from hunter-gathering to farming, farming to feudalism, and feudalism to industrialism. I suspect that some new and stranger thing will be needed, and that it’s something no one today has done a good job of envisioning."
-
-I try to believe that cost of executing and applying "solved problems" will go down eventually with machines taking over the replication part. 
-
-It's then up to humans to pick up new challenges. This could be improving lifespan, brain capacity, low latency and efficient modes of communication, transport, energy efficiency, climate control/repair, food and water scarcity, etc.
-
-To know about what lies beyond the horizon (which appears to be approaching quite rapidly), we must practice research ourselves, observe the work of researchers right now. What they think / dream about. 
-
-Human creativity will have to be put to the test to find meaning on this [pale blue dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot). -- 2024-10-13T12:30:03.176Z
 <!-- feed ends -->
 
 
