@@ -19,7 +19,7 @@ This is called peace time thinking. Thoughts generated out of seemingly derived 
 
 One must arrive at something from first principles and not because someone told them (a.k.a. by proxy). Keep the advice in mind and use it as a reminder but never an axiom.
 
-To the builders of the future, you need to relive the pain that it has genuinely relieved. -- 2024-10-23T17:18:52.500Z
+To the builders of the future, you need to relive the pain that it has genuinely relieved. -- 2024-10-23T17:30:03.050Z
 
 ---
 
