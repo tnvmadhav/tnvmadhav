@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+To the builders of the future, you need to relive the pain that the thing has genuinely relieved. -- 2024-10-24T06:30:02.956Z
+
+---
+
 Excerpts from ["Desperation Induced Focus"](https://www.rkg.blog/desperation-induced-focus.php )
 
 > "Most big companies aren’t focused on creating things out of nothing. Someone else made the magic money-making machine, and they assume that it will just keep working."
@@ -151,26 +155,6 @@ https://twitter.com/twitter/status/1846946225251406039/
 
 
 I can't wait to start implementing this today! -- 2024-10-18T03:38:04.022Z
-
----
-
-TIL you can inspect a CLI command using the `type <cmd>` CLI command.
-
-I usually use  `which <cmd>` to verify this but `type` provides a human-readable description/comment of the command.
-
-Here's an example from my terminal:
-
-```bash
-$ type openai-env
-openai-env is a shell function from /Users/<user>/.zshrc
-
-$ which openai-env
-openai-env () {
-	export $(cat $PYTHON_PROJECT_PATH/.env)
-}
-```
-
-I learned this from [Julia Evans' recent comic strip on PATH](https://wizardzines.com/comics/path-tips/ ) -- 2024-10-16T03:28:30.965Z
 <!-- feed ends -->
 
 
