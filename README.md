@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL that ICE TSUNAMIS are a thing!
+
+https://en.wikipedia.org/wiki/Ice_shove
+https://twitter.com/twitter/status/1849163888895599031/ -- 2024-10-24T12:07:14.479Z
+
+---
+
 To the builders of the future, you need to relive the pain that the thing has genuinely relieved. -- 2024-10-24T06:30:02.956Z
 
 ---
@@ -141,20 +148,6 @@ Data that is private must be able to remain private. Local First Development sup
 > 7. User Control
 
 The user must be able to choose where the data is stored. The user should be able to have 100% ownership of the data. The user can choose to do whatever they want with it. -- 2024-10-19T08:34:42.678Z
-
----
-
-Great timing.
-
-I looked forward to the customizability of NotebookLM's, audio podcast generation (Solid Product!).
-
-I can now customize and provide instructions on what to focus on when given a particularly technical document.
-
-Thank you @Google and team!
-https://twitter.com/twitter/status/1846946225251406039/
-
-
-I can't wait to start implementing this today! -- 2024-10-18T03:38:04.022Z
 <!-- feed ends -->
 
 
