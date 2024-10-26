@@ -2,7 +2,7 @@
 
 <!-- feed starts -->
 If you don’t know how something impacts the world around you, you don’t fully understand.
-https://twitter.com/twitter/status/1849773180136599989/ -- 2024-10-26T04:55:40.437Z
+https://twitter.com/twitter/status/1849773180136599989/ -- 2024-10-26T06:30:03.189Z
 
 ---
 
