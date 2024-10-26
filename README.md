@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If you don’t know how something impacts the world around you, you don’t fully understand.
+https://twitter.com/twitter/status/1849773180136599989/ -- 2024-10-26T04:55:40.437Z
+
+---
+
 TIL that ICE TSUNAMIS are a thing!
 
 https://en.wikipedia.org/wiki/Ice_shove
@@ -98,56 +103,6 @@ Zooming out every now and then, helps in keeping tunnel vision at bay. -- 2024-1
 ---
 
 Moving slowly is much better than giving up. -- 2024-10-20T15:44:28.929Z
-
----
-
-Notes from [Local First Software](https://martin.kleppmann.com/papers/local-first.pdf):
-
-With the introduction and proliferation of "cloud-hosted" Software as a Service (SaaS), especially for consumer software, it becomes unclear who owns the data that flows through them.
-
-Many times, the users who upload/generate data don't have complete control over what happens to them.
-
-Moreover, the experience of using application software has become unnecessarily complex and painful.
-
-> If you’re a software engineer, designer, product manager, or independent app developer working on production-ready software today, how can you help? 
-
-The paper proposes an alternative concept called "Local First", a guide for software developers to support experiences w.r.t. speed, ownership of data, and quality of use.
-
-Seven points to use as guideways for the uninitiated:
-
-> 1. Make it Fast
-
-Feedback has to be instant and non-blocking. Network calls (to servers or stores for example) affect this the most.
-
-> 2. Multi-Device
-
-As the name suggests, "local first" doesn't mean data and software should always be offline; rather, the "sync" if necessary, needs to be quiet, in the background, and non-blocking.
-
-> 3. Offline Support
-
-Not all software / client-side applications, need to interact with remote servers for all tasks.
-
-Offline support means having a copy of all relevant resources available to work on without internet access.
-
-> 4. Collaborative
-
-When a large enough ecosystem supports local first development, there needs to be a system to support collision detection and resolution systems. 
-
-This is highly relevant for Google, GitHub, etc.
-
-> 5. Longevity
-
-This is purely data-centric. Data needs to persist independently of the software that creates/processes it.
-
-This means data should be importable/exportable into standard formats.
-
-> 6. Privacy
-
-Data that is private must be able to remain private. Local First Development supports this philosophy.
-
-> 7. User Control
-
-The user must be able to choose where the data is stored. The user should be able to have 100% ownership of the data. The user can choose to do whatever they want with it. -- 2024-10-19T08:34:42.678Z
 <!-- feed ends -->
 
 
