@@ -1,6 +1,27 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+AI is (unsurprisingly) good at converting technical notes into Anki Flashcards.
+
+For the uninitiated, it would've taken several minutes to construct questions and answers after taking hours worth of notes but with a relatively small LLM like GPT-4o-mini, one could churn out Q&A list in seconds.
+
+I believe certain unnecessary hurdles of the theoretical learning process is eliminated.
+
+
+And yes, all one needs now is to be able to actually import said compilation onto Anki in bulk. And most importantly, eat the damn frog! -- 2024-10-26T12:40:45.173Z
+
+---
+
+TIL about the cookiecutter PyPi package
+
+It's a quick way to scaffold new python packages, plugins, django projects and [many more](https://cookiecutter.readthedocs.io/en/stable/README.html#special-templates ) from pre-built templates.
+
+Using jinja2 template syntax, one can create an entire cookiecutter project template for use and reuse.
+
+A comprehensive documentation can be found [on the internet](https://cookiecutter.readthedocs.io/en/stable/README.html#cookiecutter ). -- 2024-10-26T12:09:58.785Z
+
+---
+
 If you don’t know how something impacts the world around you, you don’t fully understand.
 https://twitter.com/twitter/status/1849773180136599989/ -- 2024-10-26T06:30:03.189Z
 
@@ -91,18 +112,6 @@ This takes the general concept of "put your money where your mouth is" and zooms
 
 Reframe as "if your mouth isn't where your money is, where is it?"
 https://twitter.com/twitter/status/1848025357061926957/ -- 2024-10-20T22:00:02.964Z
-
----
-
-Perhaps goals are just misaligned.
-
-It's not about the immediate output but how it interacts with the world.
-
-Zooming out every now and then, helps in keeping tunnel vision at bay. -- 2024-10-20T18:30:03.007Z
-
----
-
-Moving slowly is much better than giving up. -- 2024-10-20T15:44:28.929Z
 <!-- feed ends -->
 
 
