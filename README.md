@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I was able to convert, and load some of my computer science related notes in .txt files like HTTP and Redis onto Anki in seconds.
+
+I was able to revise in matter of minutes!
+
+Thank you @openai :)
+
+
+One can find [this script useful](https://gist.github.com/tnvmadhav/8bc0070b65b263034815127f9974677e) if you wanna automate Anki flashcard generation with Python and ChatGPT.
+https://twitter.com/twitter/status/1850163990296433051/ -- 2024-10-27T05:19:13.605Z
+
+---
+
 TIL about the cookiecutter PyPi package
 
 It's a quick way to scaffold new python packages, plugins, django projects and [many more](https://cookiecutter.readthedocs.io/en/stable/README.html#special-templates ) from pre-built templates.
@@ -122,13 +134,6 @@ A guide to identifying patterns and choosing approaches. This is something I cou
 > Note: There's so much more to this pattern! We just wanted to give you a glimpse of what pattern recognition boils down to in its simplest form. Feel free to add your own flair and create a detailed chart!
 
 Here's [a useful mindmap of techniques to use](https://assets.leetcode.com/static_assets/media/original_images/1593/1593_mintotal.png) per problem type -- 2024-10-21T03:50:20.239Z
-
----
-
-This takes the general concept of "put your money where your mouth is" and zooms out a bit IMO.
-
-Reframe as "if your mouth isn't where your money is, where is it?"
-https://twitter.com/twitter/status/1848025357061926957/ -- 2024-10-20T22:00:02.964Z
 <!-- feed ends -->
 
 
