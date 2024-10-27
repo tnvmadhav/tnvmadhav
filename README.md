@@ -9,7 +9,7 @@ Thank you @openai :)
 
 
 One can find [this script useful](https://gist.github.com/tnvmadhav/8bc0070b65b263034815127f9974677e) if you wanna automate Anki flashcard generation with Python and ChatGPT.
-https://twitter.com/twitter/status/1850163990296433051/ -- 2024-10-27T05:19:13.605Z
+https://twitter.com/twitter/status/1850163990296433051/ -- 2024-10-27T06:30:17.002Z
 
 ---
 
