@@ -1,15 +1,6 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-This is a dumbed down (simple) take.
-
-A.I. is to “building” as what client side javascript is to HTML.
-
-Elimination of extra time and effort to gain a certain outcome.
-https://twitter.com/twitter/status/1850940029155373382/ -- 2024-10-29T04:16:30.096Z
-
----
-
 [1] [Open Source AI Definition as per Open Source Initiative](https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition)
 
 > The OSAID offers a standard by which community-led, open and public evaluations will be conducted to validate whether or not an AI system can be deemed Open Source AI.
@@ -25,7 +16,16 @@ https://twitter.com/twitter/status/1850940029155373382/ -- 2024-10-29T04:16:30.0
 
 > These freedoms apply both to a fully functional system and to discrete elements of a system. A precondition to exercising these freedoms is to have access to the preferred form to make modifications to the system.
 
-This involves data, code and weights. -- 2024-10-29T04:07:09.104Z
+This involves data, code and weights. -- 2024-10-29T06:30:05.879Z
+
+---
+
+This is a dumbed down (simple) take.
+
+A.I. is to “building” as what client side javascript is to HTML.
+
+Elimination of extra time and effort to gain a certain outcome.
+https://twitter.com/twitter/status/1850940029155373382/ -- 2024-10-29T06:30:03.058Z
 
 ---
 
