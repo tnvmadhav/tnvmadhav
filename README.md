@@ -1,6 +1,34 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+This is a dumbed down (simple) take.
+
+A.I. is to “building” as what client side javascript is to HTML.
+
+Elimination of extra time and effort to gain a certain outcome.
+https://twitter.com/twitter/status/1850940029155373382/ -- 2024-10-29T04:16:30.096Z
+
+---
+
+[1] [Open Source AI Definition as per Open Source Initiative](https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition)
+
+> The OSAID offers a standard by which community-led, open and public evaluations will be conducted to validate whether or not an AI system can be deemed Open Source AI.
+
+> "The new definition requires Open Source models to provide enough information about their training data so that a ‘skilled person can recreate a substantially equivalent system using the same or similar data,’ which goes further than what many proprietary or ostensibly Open Source models do today,” said Ayah Bdeir, who leads AI strategy at Mozilla"
+
+[2] [Open Source AI Definition 1.0](https://opensource.org/ai/open-source-ai-definition)
+
+1. Free to use without permission
+2. Study the components to learn how it works
+3. Modify for use to change the output
+4. Share with other with or without modification
+
+> These freedoms apply both to a fully functional system and to discrete elements of a system. A precondition to exercising these freedoms is to have access to the preferred form to make modifications to the system.
+
+This involves data, code and weights. -- 2024-10-29T04:07:09.104Z
+
+---
+
 I was able to convert, and load some of my computer science related notes in .txt files like HTTP and Redis onto Anki in seconds.
 
 I was able to revise in matter of minutes!
@@ -94,46 +122,6 @@ I'd stumbled upon a rather brilliant @leetcode editorial piece and a useful mind
 This something that a younger version of me would've appreciated especially when starting out.
 
 I've shared some notes and excerpts on my [blog](https://tnvmadhav.me/feed/2024/10/21/ ) -- 2024-10-22T03:37:31.352Z
-
----
-
-Ownership is important. Start your own blog!
-https://twitter.com/twitter/status/1848261668024807887/ -- 2024-10-21T12:30:03.083Z
-
----
-
-Notes from [leetcode's editorial section](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/editorial/
-) on solving data structures and algorithm problems in general.
-
-After solving a leetcode problem, found myself checking out an editorial section to see what other approaches I could've missed. What I found was unexpected.
-
-A guide to identifying patterns and choosing approaches. This is something I could've used when I was a couple of years younger just starting out.
-
-> So this time before diving into the answer, let’s understand a few general patterns that you can use in your future journey:
->
-> Sorted Input:
->
-> Apply binary search for efficient element lookup.
-> Use the two-pointer technique for problems involving pairs or segments.
-> Unsorted Input:
->
-> Apply dynamic programming for questions related to counting ways or optimizing values.
-> Use backtracking for problems that ask for all possibilities or combinations (this is also a suitable fallback if dynamic programming isn’t going to work).
-> Use a Trie for prefix matching and string-building scenarios.
-> Use a hash map or set to find specific elements quickly.
-> Implement a monotonic stack or sliding window technique for managing elements while continuously finding maximum or minimum values.
-> Input is a Graph or Tree:
-
-> Use DFS to explore all paths or when the question does not require finding the shortest path.
-> Use BFS when the question asks for the shortest path or fewest steps.
-> For binary trees, use DFS if the problem involves exploring specific depths or levels.
-> Linked List Input:
-
-> Use techniques involving slow and fast pointers or "prev" and "dummy" pointers to facilitate certain operations if you are unsure how to achieve a specific outcome.
-
-> Note: There's so much more to this pattern! We just wanted to give you a glimpse of what pattern recognition boils down to in its simplest form. Feel free to add your own flair and create a detailed chart!
-
-Here's [a useful mindmap of techniques to use](https://assets.leetcode.com/static_assets/media/original_images/1593/1593_mintotal.png) per problem type -- 2024-10-21T03:50:20.239Z
 <!-- feed ends -->
 
 
