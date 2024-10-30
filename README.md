@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL we can prevent bash script from prematurely exiting using `set +e`.
+
+```bash
+set +e
+<some command>
+set -e
+```
+
+This knowledge is useful if you want to run certain scripts and perform custom actions on the resultant exit code without losing information due to premature exits.
+
+[From bash reference manual](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html) -- 2024-10-30T12:43:30.749Z
+
+---
+
 [1] [Open Source AI Definition as per Open Source Initiative](https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition)
 
 > The OSAID offers a standard by which community-led, open and public evaluations will be conducted to validate whether or not an AI system can be deemed Open Source AI.
@@ -114,14 +128,6 @@ This is called peace time thinking. Thoughts generated out of seemingly derived 
 One must arrive at something from first principles and not because someone told them (a.k.a. by proxy). Keep the advice in mind and use it as a reminder but never an axiom.
 
 To the builders of the future, you need to relive the pain that it has genuinely relieved. -- 2024-10-23T17:30:03.050Z
-
----
-
-I'd stumbled upon a rather brilliant @leetcode editorial piece and a useful mind map on solving problems. 
-
-This something that a younger version of me would've appreciated especially when starting out.
-
-I've shared some notes and excerpts on my [blog](https://tnvmadhav.me/feed/2024/10/21/ ) -- 2024-10-22T03:37:31.352Z
 <!-- feed ends -->
 
 
