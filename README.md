@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I spent some time to make some significant performance improvements (low hanging) to my blog. 
+
+The lighthouse score on the mobile looks pretty good now.
+
+I'd also run [a scan](https://radar.cloudflare.com/scan/956526a3-8907-43a8-b445-051873a77989/summary) on @cloudflare's radar tool and found that total bytes score was less than 512kB.
+
+This means that my little site has (unofficially) entered the [512kb.club](https://512kb.club) 🥳
+
+I [opened a pull request](https://github.com/kevquirk/512kb.club/pull/1661) to make it official. Fingers crossed 🤞🏻 -- 2024-11-01T15:46:09.891Z
+
+---
+
 I'm experimenting with chatgpt's ability to count calories of the food and suggest wait time before having the next meal.
 
 1. Click picture of food
@@ -108,13 +120,6 @@ I could configure a LaunchAgent or Daemon perhaps using .plist configuration.
 
 If you don’t know how something impacts the world around you, you don’t fully understand.
 https://twitter.com/twitter/status/1849773180136599989/ -- 2024-10-26T06:30:03.189Z
-
----
-
-TIL that ICE TSUNAMIS are a thing!
-
-https://en.wikipedia.org/wiki/Ice_shove
-https://twitter.com/twitter/status/1849163888895599031/ -- 2024-10-24T12:07:14.479Z
 <!-- feed ends -->
 
 
