@@ -1,7 +1,7 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-what? nothing. just me thinking about "the boy on the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- 2024-11-01T04:27:07.317Z
+what? nothing. just me thinking about "the boy and the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- 2024-11-01T04:41:08.425Z
 
 ---
 
