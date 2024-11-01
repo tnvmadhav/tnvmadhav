@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+what? nothing. just me thinking about "the boy on the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- 2024-11-01T04:27:07.317Z
+
+---
+
 TIL we can prevent bash script from prematurely exiting using `set +e`.
 
 ```bash
@@ -106,28 +110,6 @@ https://twitter.com/twitter/status/1849163888895599031/ -- 2024-10-24T12:07:14.4
 ---
 
 To the builders of the future, you need to relive the pain that the thing has genuinely relieved. -- 2024-10-24T06:30:02.956Z
-
----
-
-Excerpts from ["Desperation Induced Focus"](https://www.rkg.blog/desperation-induced-focus.php )
-
-> "Most big companies aren’t focused on creating things out of nothing. Someone else made the magic money-making machine, and they assume that it will just keep working."
->
-> "This lack of focus is a luxury and a disease."
-
-This is called peace time thinking. Thoughts generated out of seemingly derived notions or non-axioms. Sometimes too much trust in the system.
-
-> My advice to people when they are thinking about instituting a new process is to go to a whiteboard and write down the answer to this question: “If you could only get one thing done this year, what would it be?”. 
-
->  Desperation inspires creativity and intense focus. It is an essential ingredient to building great products and services.
-
-> So, the next time you feel desperate, lean in. Embrace it. Use it as the fuel to create the next founding moment4 for your company.
-
-> And the next time someone tries to tell you to do something because a big company does it, be suspicious.
-
-One must arrive at something from first principles and not because someone told them (a.k.a. by proxy). Keep the advice in mind and use it as a reminder but never an axiom.
-
-To the builders of the future, you need to relive the pain that it has genuinely relieved. -- 2024-10-23T17:30:03.050Z
 <!-- feed ends -->
 
 
