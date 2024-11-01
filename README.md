@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'm experimenting with chatgpt's ability to count calories of the food and suggest wait time before having the next meal.
+
+1. Click picture of food
+2. Send to chatGPT
+3. Receive rough time gap in hours
+3. Set a timer to wait before having next meal -- 2024-11-01T12:29:27.349Z
+
+---
+
 what? nothing. just me thinking about "the boy and the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- 2024-11-01T04:41:08.425Z
 
 ---
@@ -106,10 +115,6 @@ TIL that ICE TSUNAMIS are a thing!
 
 https://en.wikipedia.org/wiki/Ice_shove
 https://twitter.com/twitter/status/1849163888895599031/ -- 2024-10-24T12:07:14.479Z
-
----
-
-To the builders of the future, you need to relive the pain that the thing has genuinely relieved. -- 2024-10-24T06:30:02.956Z
 <!-- feed ends -->
 
 
