@@ -12,7 +12,7 @@ Some conditions apply but you can check with your iPhone’s serial number on [A
 
 I’ve had a similar issue but with the iPhone 13 series where the display hardware was faulty and Apple Authorized Service Provider verified and fixed it for free.
 
-I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ). -- 2024-11-02T07:35:04.757Z
+I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ). -- 2024-11-02T08:30:05.489Z
 
 ---
 
