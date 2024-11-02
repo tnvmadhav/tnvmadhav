@@ -1,6 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+A small % of iPhone 14 plus phones have a camera hardware issue.
+
+Apple says it or an Authorized Service Provider could service your phone for free.
+
+Some conditions apply but you can check with your iPhone’s serial number on [Apple’s support page](https://support.apple.com/iphone-14-plus-service-program-for-rear-camera-issue)
+
+[via The Verge](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free)
+
+
+I’ve had a similar issue but with the iPhone 13 series where the display hardware was faulty and Apple Authorized Service Provider verified and fixed it for free.
+
+I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ). -- 2024-11-02T07:35:04.757Z
+
+---
+
 A successful founder gets things done.
 
 A person who has an intense *want* will find ways to get things done.  
@@ -100,34 +115,6 @@ It's a quick way to scaffold new python packages, plugins, django projects and [
 Using jinja2 template syntax, one can create an entire cookiecutter project template for use and reuse.
 
 A comprehensive documentation can be found [on the internet](https://cookiecutter.readthedocs.io/en/stable/README.html#cookiecutter ). -- 2024-10-26T13:30:03.046Z
-
----
-
-AI is (unsurprisingly) good at converting technical notes into Anki Flashcards.
-
-For the uninitiated, it would've taken several minutes to construct questions and answers after taking hours worth of notes but with a relatively small LLM like GPT-4o-mini, one could churn out Q&A list in seconds.
-
-I believe certain unnecessary hurdles of the theoretical learning process is eliminated.
-
-
-And yes, all one needs now is to be able to actually import said compilation onto Anki in bulk. And most importantly, eat the damn frog!
-
-
-It seems like AnkiWeb doesn't support export or imports.
-
-
-I've installed Anki Desktop app so I could bulk import new flashcards.
-
-I've generated [a simple python script to process a text file using GPT-4 (customize prompts) and output a anki importable .txt file.](https://gist.github.com/tnvmadhav/8bc0070b65b263034815127f9974677e)
-
-
-The process of taking a note file and generating flashcards is now streamlined.
-
-I could setup a local cron job to run everyday, that processes the notes from my local notes directory for the day and generate anki flashcards with the learnings.
-
-I could configure a LaunchAgent or Daemon perhaps using .plist configuration.
-
- -- 2024-10-26T13:14:16.350Z
 <!-- feed ends -->
 
 
