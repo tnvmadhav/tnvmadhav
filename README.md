@@ -12,7 +12,7 @@ Some conditions apply but you can check with your iPhone’s serial number on [A
 
 I’ve had a similar issue but with the iPhone 13 series where the display hardware was faulty and Apple Authorized Service Provider verified and fixed it for free.
 
-I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ).  -- 2024-11-02T08:30:05.489Z
+I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ). -- 2024-11-02T08:30:05.489Z
 
 ---
 
@@ -25,7 +25,8 @@ This intensity comes from life experiences.
 Bad childhood can build character and lead to strong *wants*.
 
 See where the road converges?
-https://twitter.com/twitter/status/1852017824971264177/  -- 2024-11-02T01:39:09.985Z
+
+https://twitter.com/twitter/status/1852017824971264177/ -- 2024-11-02T01:39:09.985Z
 
 ---
 
@@ -51,7 +52,6 @@ I'm experimenting with chatgpt's ability to count calories of the food and sugge
 ---
 
 what? nothing. just me thinking about "the boy and the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_1dttvnP.png) -- 2024-11-01T04:41:08.425Z
-
 ---
 
 TIL we can prevent bash script from prematurely exiting using `set +e`.
@@ -64,7 +64,7 @@ set -e
 
 This knowledge is useful if you want to run certain scripts and perform custom actions on the resultant exit code without losing information due to premature exits.
 
-[From bash reference manual](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html)  -- 2024-10-30T12:43:30.749Z
+[From bash reference manual](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html) -- 2024-10-30T12:43:30.749Z
 
 ---
 
@@ -83,7 +83,7 @@ This knowledge is useful if you want to run certain scripts and perform custom a
 
 > These freedoms apply both to a fully functional system and to discrete elements of a system. A precondition to exercising these freedoms is to have access to the preferred form to make modifications to the system.
 
-This involves data, code and weights.  -- 2024-10-29T06:30:05.879Z
+This involves data, code and weights. -- 2024-10-29T06:30:05.879Z
 
 ---
 
@@ -92,7 +92,7 @@ This is a dumbed down (simple) take.
 A.I. is to “building” as what client side javascript is to HTML.
 
 Elimination of extra time and effort to gain a certain outcome.
-https://twitter.com/twitter/status/1850940029155373382/  -- 2024-10-29T06:30:03.058Z
+witter.com/twitter/status/1850940029155373382/ -- 2024-10-29T06:30:03.058Z
 
 ---
 
@@ -104,6 +104,7 @@ Thank you @openai :)
 
 
 One can find [this script useful](https://gist.github.com/tnvmadhav/8bc0070b65b263034815127f9974677e) if you wanna automate Anki flashcard generation with Python and ChatGPT.
+
 https://twitter.com/twitter/status/1850163990296433051/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_WefZQbR.png) -- 2024-10-27T06:30:17.002Z
 
 ---
@@ -114,7 +115,8 @@ It's a quick way to scaffold new python packages, plugins, django projects and [
 
 Using jinja2 template syntax, one can create an entire cookiecutter project template for use and reuse.
 
-A comprehensive documentation can be found [on the internet](https://cookiecutter.readthedocs.io/en/stable/README.html#cookiecutter ).  -- 2024-10-26T13:30:03.046Z
+A comprehensive documentation can be found [on the internet](https://cookiecutter.readthedocs.io/en/stable/README.html#cookiecutter ). -- 2024-10-26T13:30:03.046Z
+
 <!-- feed ends -->
 
 
