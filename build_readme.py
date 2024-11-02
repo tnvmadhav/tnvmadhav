@@ -54,8 +54,11 @@ if __name__ == "__main__":
     ) = [], [], [], []
 
     for feed_json in feed_json_list:
+        media_list = " ".join(
+            [f"[🏞️ Context #{i+1}]({url})" for i, url in enumerate(feed_json['media'])]
+        )
         feed_entries_md_list.append(
-            f"{feed_json['text']} -- {feed_json['updated_at']}"
+            f"{feed_json['text']} {'-- ' + media_list if media_list else ''} -- {feed_json['updated_at']}"
         )
 
     for blog_json in blog_json_list:
