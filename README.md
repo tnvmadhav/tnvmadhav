@@ -1,95 +1,120 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-It’s a beautiful day to thug it out with indomitable human spirit. -- 2024-08-02T06:30:07.436Z
+A small % of iPhone 14 plus phones have a camera hardware issue.
+
+Apple says it or an Authorized Service Provider could service your phone for free.
+
+Some conditions apply but you can check with your iPhone’s serial number on [Apple’s support page](https://support.apple.com/iphone-14-plus-service-program-for-rear-camera-issue)
+
+[via The Verge](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free)
+
+
+I’ve had a similar issue but with the iPhone 13 series where the display hardware was faulty and Apple Authorized Service Provider verified and fixed it for free.
+
+I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ).  -- 2024-11-02T08:30:05.489Z
 
 ---
 
-After 12 years, Russ Cox is stepping down as Tech Lead of the Go project starting from 1st September 2024. Austin Clements is taking over.
+A successful founder gets things done.
 
-> "I am not leaving the Go project, but I think the time is right for a change." -- rsc
+A person who has an intense *want* will find ways to get things done.  
 
+This intensity comes from life experiences.
 
-> " In particular, I don’t believe that the “BDFL” (benevolent dictator for life) model is healthy for a person or a project." -- rsc
+Bad childhood can build character and lead to strong *wants*.
 
-
-> "I will still be available to talk about Go designs, review CLs, answer obscure history questions, and generally help and support you all in whatever way I can. I will still file issues and send CLs from time to time, ...
-
-
-> (contd)... I have been working on a few potential new standard libraries, I will still advocate for Go across the industry, and I will be speaking about Go at GoLab in Italy in November." -- rsc
-
-
-Russ Cox will be focusing the efforts on Oscar (support for agent-like model baked with @gabybot). You can read more on Oscar [here](https://go.googlesource.com/oscar/+/refs/heads/master/README.md). 
-
-
-Thank you, RSC 🫡🫡 for all the hard work on Go. It's an amazing piece of software.
-
-
-You can find the note in the Go Dev google developer group ["passing torches to Austin and Cherry"](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw) -- 2024-08-02T03:30:17.236Z
+See where the road converges?
+https://twitter.com/twitter/status/1852017824971264177/  -- 2024-11-02T01:39:09.985Z
 
 ---
 
-So Telegram has a new in-app browser that is used to support applications built on top of the [Ton](https://ton.org) decentralized network that is designed by telegram https://telegram.org/blog/w3-browser-mini-app-store
+I spent some time to make some significant performance improvements (low hanging) to my blog. 
 
+The lighthouse score on the mobile looks pretty good now.
 
-A user on X posted [a neat diagram](https://x.com/ryoheikomy/status/1817139565926481935) that explains how these apps are accessed on the telegram layer while handling contracts on the TON network.
+I'd also run [a scan](https://radar.cloudflare.com/scan/956526a3-8907-43a8-b445-051873a77989/summary) on @cloudflare's radar tool and found that total bytes score was less than 512kB.
 
+This means that my little site has (unofficially) entered the [512kb.club](https://512kb.club) 🥳
 
-[The post was shared by Durov himself on X](https://x.com/durov/status/1818760336537010401)
-
-
-I tried to check this out myself and it seems as though some apps already have more than a million users (hours after launch post on X).
-
- -- 2024-08-01T12:30:16.325Z
+I [opened a pull request](https://github.com/kevquirk/512kb.club/pull/1661) to make it official. Fingers crossed 🤞🏻 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_tiE1nZK.png) -- 2024-11-01T15:46:09.891Z
 
 ---
 
-I must say [perplexity](https://perplexity.ai) is a delight to use. I usually find the answer I need in less than 2-3 prompts. I think of it as using a search engine and not an LLM. 
+I'm experimenting with chatgpt's ability to count calories of the food and suggest wait time before having the next meal.
 
-https://x.com/balajis/status/1818848829187539266
-
-
-I think what keeps me coming back is not only the citation confidence but the 🤌🏻 UX.
- -- 2024-08-01T06:30:05.411Z
-
----
-
->  [...]the services I'm referring to are S3 Select, CloudSearch, Cloud9, SimpleDB, Forecast, Data Pipeline, and CodeCommit.- [Jeff Barr](https://x.com/jeffbarr/status/1818488419347317217 )
-
-
-It looks like it's more than "just" these services. You can find a compiled list on a [GitHub repository called "AWS Breaking Changes and price increases"](https://github.com/SummitRoute/aws_breaking_changes)  -- 2024-08-01T03:56:33.098Z
+1. Click picture of food
+2. Send to chatGPT
+3. Receive rough time gap in hours
+3. Set a timer to wait before having next meal -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/calorie-genie-demo.gif) -- 2024-11-01T12:29:27.349Z
 
 ---
 
-+ 10000 Aura -- 2024-07-31T06:30:12.136Z
+what? nothing. just me thinking about "the boy and the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_1dttvnP.png) -- 2024-11-01T04:41:08.425Z
 
 ---
 
-TIL that Caroline Ellison was one of the toppers in the International Linguistics Olympiad (ILO) 2011.
+TIL we can prevent bash script from prematurely exiting using `set +e`.
 
-Wild.
-https://twitter.com/twitter/status/1818477947277525242/ -- 2024-07-31T06:30:03.052Z
+```bash
+set +e
+<some command>
+set -e
+```
 
----
+This knowledge is useful if you want to run certain scripts and perform custom actions on the resultant exit code without losing information due to premature exits.
 
-your first step is a draft for the next
-https://twitter.com/twitter/status/1817910451449028619/ -- 2024-07-31T05:00:02.892Z
-
----
-
-You miss 100% of the shots you don't take.
-
-https://www.sequoiacap.com/article/ai-optimism-vs-ai-arms-race/ -- 2024-07-28T12:30:02.984Z
+[From bash reference manual](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html)  -- 2024-10-30T12:43:30.749Z
 
 ---
 
-I recently started using RSS feeds for curated content. 
+[1] [Open Source AI Definition as per Open Source Initiative](https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition)
 
-I also fixed my (then broken) RSS feed format to include full posts by updating the default template and upgrading to @GoHugoIO v1.121.0.
+> The OSAID offers a standard by which community-led, open and public evaluations will be conducted to validate whether or not an AI system can be deemed Open Source AI.
+
+> "The new definition requires Open Source models to provide enough information about their training data so that a ‘skilled person can recreate a substantially equivalent system using the same or similar data,’ which goes further than what many proprietary or ostensibly Open Source models do today,” said Ayah Bdeir, who leads AI strategy at Mozilla"
+
+[2] [Open Source AI Definition 1.0](https://opensource.org/ai/open-source-ai-definition)
+
+1. Free to use without permission
+2. Study the components to learn how it works
+3. Modify for use to change the output
+4. Share with other with or without modification
+
+> These freedoms apply both to a fully functional system and to discrete elements of a system. A precondition to exercising these freedoms is to have access to the preferred form to make modifications to the system.
+
+This involves data, code and weights.  -- 2024-10-29T06:30:05.879Z
+
+---
+
+This is a dumbed down (simple) take.
+
+A.I. is to “building” as what client side javascript is to HTML.
+
+Elimination of extra time and effort to gain a certain outcome.
+https://twitter.com/twitter/status/1850940029155373382/  -- 2024-10-29T06:30:03.058Z
+
+---
+
+I was able to convert, and load some of my computer science related notes in .txt files like HTTP and Redis onto Anki in seconds.
+
+I was able to revise in matter of minutes!
+
+Thank you @openai :)
 
 
-I've written [a post](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/ ) on this on my blog.
- -- 2024-07-28T11:13:32.510Z
+One can find [this script useful](https://gist.github.com/tnvmadhav/8bc0070b65b263034815127f9974677e) if you wanna automate Anki flashcard generation with Python and ChatGPT.
+https://twitter.com/twitter/status/1850163990296433051/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_WefZQbR.png) -- 2024-10-27T06:30:17.002Z
+
+---
+
+TIL about the cookiecutter PyPi package
+
+It's a quick way to scaffold new python packages, plugins, django projects and [many more](https://cookiecutter.readthedocs.io/en/stable/README.html#special-templates ) from pre-built templates.
+
+Using jinja2 template syntax, one can create an entire cookiecutter project template for use and reuse.
+
+A comprehensive documentation can be found [on the internet](https://cookiecutter.readthedocs.io/en/stable/README.html#cookiecutter ).  -- 2024-10-26T13:30:03.046Z
 <!-- feed ends -->
 
 
@@ -101,15 +126,15 @@ I've written [a post](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/ 
 ## Latest Blog Posts
 
 <!-- blog starts -->
+[White Screen of Death on my iPhone](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/) -- 2024-09-22T10:00:35+00:00
+
+[Dynamic Feed on My Github Profile](https://tnvmadhav.me/blog/dynamic-feed-on-my-github-profile/) -- 2024-08-03T08:16:05+00:00
+
 [Custom R.S.S. Feed Format in Hugo](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/) -- 2024-07-28T10:49:57+00:00
 
 [Jojo's Bizzare Adventure Season 5 Episode 28](https://tnvmadhav.me/blog/jojos-bizzare-adventure-season-5-episode-28/) -- 2024-07-12T16:29:41+00:00
 
 ['Leonardo Da Vinci' by Walter Isaacson](https://tnvmadhav.me/blog/leonardo-da-vinci-by-walter-isaacson/) -- 2024-05-26T10:43:05+00:00
-
-[git angel](https://tnvmadhav.me/blog/good-git-practices/) -- 2024-02-12T04:17:37+00:00
-
-[How to Replace Bad Habits With Good Ones?](https://tnvmadhav.me/blog/how-to-replace-bad-habits-with-good-ones/) -- 2023-08-13T04:44:28+00:00
 
 More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 <!-- blog ends -->
@@ -119,6 +144,8 @@ More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 ## Latest Guides
 
 <!-- guide starts -->
+[On Using Godoc tool for your Go Programs](https://tnvmadhav.me/guides/on-using-godoc-tool/) -- 2024-08-07T08:18:53+00:00
+
 [How to Perform Null Checks for Structs in Golang?](https://tnvmadhav.me/guides/how-to-perform-null-checks-for-structs-in-golang/) -- 2024-02-03T16:10:53+00:00
 
 [How to Build a Simple Websocket Server and Client in Go and Javascript?](https://tnvmadhav.me/guides/how-to-build-a-simple-websocket-server-and-client-in-go/) -- 2023-12-16T14:14:18+00:00
@@ -126,8 +153,6 @@ More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 [How to Use Buttons in SwiftUI?](https://tnvmadhav.me/guides/how-to-use-buttons-in-swiftui/) -- 2023-10-26T04:06:07+00:00
 
 [How to go to a Line Number in Visual Studio Code?](https://tnvmadhav.me/guides/how-to-go-to-line-in-visual-studio-code/) -- 2023-09-24T09:55:27+00:00
-
-[How to Copy to Clipboard in Neovim?](https://tnvmadhav.me/guides/how-to-copy-text-to-clipboard-neovim/) -- 2023-08-12T07:10:43+00:00
 
 More on [MY GUIDES](https://tnvmadhav.me/guides/)
 <!-- guide ends -->
@@ -137,15 +162,15 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 ## Latest TILs
 
 <!-- til starts -->
+[About SSH Host Key Verification](https://tnvmadhav.me/til/ssh-host-key-verification/) -- 2024-09-12T15:11:31+00:00
+
+[Network Address Types in Postgres](https://tnvmadhav.me/til/network-address-types-in-postgres/) -- 2024-09-10T04:03:27+00:00
+
 [Nested Functions in Go](https://tnvmadhav.me/til/nested-functions-in-go/) -- 2024-07-07T04:11:51+00:00
 
 [Custom Pagination Html in Django](https://tnvmadhav.me/til/custom-pagination-html-in-django/) -- 2024-07-05T03:17:47+00:00
 
 [Sort Slice of Composite Structures in Go](https://tnvmadhav.me/til/sort-slice-of-composite-structures-in-go/) -- 2024-06-15T05:35:13+00:00
-
-[Slices Package in Golang](https://tnvmadhav.me/til/slices-package-in-golang/) -- 2024-06-14T03:18:00+00:00
-
-[Find point of XSS Trigger in Javascript](https://tnvmadhav.me/til/find-source-of-xss-trigger-in-javascript/) -- 2024-06-13T16:52:43+00:00
 
 More on [My TILS](https://tnvmadhav.me/til/)
 <!-- til ends -->
