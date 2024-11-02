@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+A successful founder gets things done.
+
+A person who has an intense *want* will find ways to get things done.  
+
+This intensity comes from life experiences.
+
+Bad childhood can build character and lead to strong *wants*.
+
+See where the road converges?
+https://twitter.com/twitter/status/1852017824971264177/ -- 2024-11-02T01:39:09.985Z
+
+---
+
 I spent some time to make some significant performance improvements (low hanging) to my blog. 
 
 The lighthouse score on the mobile looks pretty good now.
@@ -115,11 +128,6 @@ I could setup a local cron job to run everyday, that processes the notes from my
 I could configure a LaunchAgent or Daemon perhaps using .plist configuration.
 
  -- 2024-10-26T13:14:16.350Z
-
----
-
-If you don’t know how something impacts the world around you, you don’t fully understand.
-https://twitter.com/twitter/status/1849773180136599989/ -- 2024-10-26T06:30:03.189Z
 <!-- feed ends -->
 
 
