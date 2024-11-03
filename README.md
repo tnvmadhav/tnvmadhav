@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Can you solve your way through a problem through sheer spaced repetition?  -- 2024-11-03T12:43:53.373Z
+
+---
+
+Clarity breeding action doesn’t take into consideration the baseline habitual tendencies.  -- 2024-11-03T12:30:05.713Z
+
+---
+
+Fleeting thoughts influenced by the spark of moments in the universe instead of steady build up of logical implications is the flywheel that trades your time for life experiences.  -- 2024-11-03T12:30:02.989Z
+
+---
+
 A chunk of my public content feed via my content publisher system goes along with media (mostly images). Sometimes the media attachments contain a significant amount of context that may be lost with text only compilation.
 
 So I decided to send static media links of images/assets hosted on my content publisher application to [my public feed](https://cpx.tnvmadhav.me/content/tnvmadhav/stream/).
@@ -73,46 +85,6 @@ set -e
 This knowledge is useful if you want to run certain scripts and perform custom actions on the resultant exit code without losing information due to premature exits.
 
 [From bash reference manual](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html)  -- 2024-10-30T12:43:30.749Z
-
----
-
-[1] [Open Source AI Definition as per Open Source Initiative](https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition)
-
-> The OSAID offers a standard by which community-led, open and public evaluations will be conducted to validate whether or not an AI system can be deemed Open Source AI.
-
-> "The new definition requires Open Source models to provide enough information about their training data so that a ‘skilled person can recreate a substantially equivalent system using the same or similar data,’ which goes further than what many proprietary or ostensibly Open Source models do today,” said Ayah Bdeir, who leads AI strategy at Mozilla"
-
-[2] [Open Source AI Definition 1.0](https://opensource.org/ai/open-source-ai-definition)
-
-1. Free to use without permission
-2. Study the components to learn how it works
-3. Modify for use to change the output
-4. Share with other with or without modification
-
-> These freedoms apply both to a fully functional system and to discrete elements of a system. A precondition to exercising these freedoms is to have access to the preferred form to make modifications to the system.
-
-This involves data, code and weights.  -- 2024-10-29T06:30:05.879Z
-
----
-
-This is a dumbed down (simple) take.
-
-A.I. is to “building” as what client side javascript is to HTML.
-
-Elimination of extra time and effort to gain a certain outcome.
-https://twitter.com/twitter/status/1850940029155373382/  -- 2024-10-29T06:30:03.058Z
-
----
-
-I was able to convert, and load some of my computer science related notes in .txt files like HTTP and Redis onto Anki in seconds.
-
-I was able to revise in matter of minutes!
-
-Thank you @openai :)
-
-
-One can find [this script useful](https://gist.github.com/tnvmadhav/8bc0070b65b263034815127f9974677e) if you wanna automate Anki flashcard generation with Python and ChatGPT.
-https://twitter.com/twitter/status/1850163990296433051/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_WefZQbR.png) -- 2024-10-27T06:30:17.002Z
 <!-- feed ends -->
 
 
