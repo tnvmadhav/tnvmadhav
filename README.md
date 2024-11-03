@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+A chunk of my public content feed via my content publisher system goes along with media (mostly images). Sometimes the media attachments contain a significant amount of context that may be lost with text only compilation.
+
+So I decided to send static media links of images/assets hosted on my content publisher application to [my public feed](https://cpx.tnvmadhav.me/content/tnvmadhav/stream/).
+
+This feed is used by several feed renders that are live on [my blog site](https://tnvmadhav.me)[1] , [my GitHub profile](https://github.com/tnvmadhav)[2] and my post archiver cronjob. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_6mxvqqe.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_1j0fmyM.png) -- 2024-11-03T03:00:23.143Z
+
+---
+
 A small % of iPhone 14 plus phones have a camera hardware issue.
 
 Apple says it or an Authorized Service Provider could service your phone for free.
@@ -105,16 +113,6 @@ Thank you @openai :)
 
 One can find [this script useful](https://gist.github.com/tnvmadhav/8bc0070b65b263034815127f9974677e) if you wanna automate Anki flashcard generation with Python and ChatGPT.
 https://twitter.com/twitter/status/1850163990296433051/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_WefZQbR.png) -- 2024-10-27T06:30:17.002Z
-
----
-
-TIL about the cookiecutter PyPi package
-
-It's a quick way to scaffold new python packages, plugins, django projects and [many more](https://cookiecutter.readthedocs.io/en/stable/README.html#special-templates ) from pre-built templates.
-
-Using jinja2 template syntax, one can create an entire cookiecutter project template for use and reuse.
-
-A comprehensive documentation can be found [on the internet](https://cookiecutter.readthedocs.io/en/stable/README.html#cookiecutter ).  -- 2024-10-26T13:30:03.046Z
 <!-- feed ends -->
 
 
