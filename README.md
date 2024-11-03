@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The funny thing about the human perception of hard work is that the apparent hurdle to subsequent attempts to utter failures is not a psychological one.  -- 2024-11-03T13:05:54.130Z
+
+---
+
 Can you solve your way through a problem through sheer spaced repetition?  -- 2024-11-03T12:43:53.373Z
 
 ---
@@ -71,20 +75,6 @@ I'm experimenting with chatgpt's ability to count calories of the food and sugge
 ---
 
 what? nothing. just me thinking about "the boy and the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_1dttvnP.png) -- 2024-11-01T04:41:08.425Z
-
----
-
-TIL we can prevent bash script from prematurely exiting using `set +e`.
-
-```bash
-set +e
-<some command>
-set -e
-```
-
-This knowledge is useful if you want to run certain scripts and perform custom actions on the resultant exit code without losing information due to premature exits.
-
-[From bash reference manual](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html)  -- 2024-10-30T12:43:30.749Z
 <!-- feed ends -->
 
 
