@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Can you solve your way through a problem through sheer spaced repetition?  -- 2024-11-04T06:30:03.510Z
+
+---
+
+A developer knows how straining and  difficult it is to document a debugging session especially in hindsight where a certain optimum spurs out of the void that all suboptimal attempts look pale in comparison so much so that sometimes you start feeling a little embarrassed (I do).
+
+I enjoyed reading and appreciate [this post](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/ ) on improving memory usage performance by @b0rk. Also learned about many packages along the way.
+
+I’d like to practice doing this more often.  -- 2024-11-04T06:11:31.292Z
+
+---
+
 If this doesn't make you go "hell yeah" or "hell no", you're not on the spectrum because there is no spectrum here.
 
 via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_O9VMWPl.png) -- 2024-11-04T03:30:58.288Z
@@ -8,10 +20,6 @@ via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Con
 ---
 
 The funny thing about the human perception of hard work is that the apparent hurdle to subsequent attempts to utter failures is not a psychological one.  -- 2024-11-03T13:05:54.130Z
-
----
-
-Can you solve your way through a problem through sheer spaced repetition?  -- 2024-11-03T12:43:53.373Z
 
 ---
 
@@ -68,15 +76,6 @@ I'd also run [a scan](https://radar.cloudflare.com/scan/956526a3-8907-43a8-b445-
 This means that my little site has (unofficially) entered the [512kb.club](https://512kb.club) 🥳
 
 I [opened a pull request](https://github.com/kevquirk/512kb.club/pull/1661) to make it official. Fingers crossed 🤞🏻 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_tiE1nZK.png) -- 2024-11-01T15:46:09.891Z
-
----
-
-I'm experimenting with chatgpt's ability to count calories of the food and suggest wait time before having the next meal.
-
-1. Click picture of food
-2. Send to chatGPT
-3. Receive rough time gap in hours
-3. Set a timer to wait before having next meal -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/calorie-genie-demo.gif) -- 2024-11-01T12:29:27.349Z
 <!-- feed ends -->
 
 
