@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+One can confidently say that they’ve “learned to learn” by breathing the fact that real learning happens through living the reality rather than surfing a commentary on said reality.  -- 2024-11-04T14:49:50.662Z
+
+---
+
+If this doesn't make you go "hell yeah" or "hell no", you're not on the spectrum because there is no spectrum here.
+
+via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_O9VMWPl.png) -- 2024-11-04T14:30:17.297Z
+
+---
+
 The funny thing about the human perception of hard work is that the apparent hurdle to subsequent attempts to utter failures is not a psychological one.  -- 2024-11-04T13:00:02.953Z
 
 ---
@@ -14,12 +24,6 @@ A developer knows how straining and  difficult it is to document a debugging ses
 I enjoyed reading and appreciate [this post](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/ ) on improving memory usage performance by @b0rk. Also learned about many packages along the way.
 
 I’d like to practice doing this more often.  -- 2024-11-04T06:11:31.292Z
-
----
-
-If this doesn't make you go "hell yeah" or "hell no", you're not on the spectrum because there is no spectrum here.
-
-via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_O9VMWPl.png) -- 2024-11-04T03:30:58.288Z
 
 ---
 
@@ -64,18 +68,6 @@ Bad childhood can build character and lead to strong *wants*.
 
 See where the road converges?
 https://twitter.com/twitter/status/1852017824971264177/  -- 2024-11-02T01:39:09.985Z
-
----
-
-I spent some time to make some significant performance improvements (low hanging) to my blog. 
-
-The lighthouse score on the mobile looks pretty good now.
-
-I'd also run [a scan](https://radar.cloudflare.com/scan/956526a3-8907-43a8-b445-051873a77989/summary) on @cloudflare's radar tool and found that total bytes score was less than 512kB.
-
-This means that my little site has (unofficially) entered the [512kb.club](https://512kb.club) 🥳
-
-I [opened a pull request](https://github.com/kevquirk/512kb.club/pull/1661) to make it official. Fingers crossed 🤞🏻 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_tiE1nZK.png) -- 2024-11-01T15:46:09.891Z
 <!-- feed ends -->
 
 
