@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If this doesn't make you go "hell yeah" or "hell no", you're not on the spectrum because there is no spectrum here.
+
+via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_O9VMWPl.png) -- 2024-11-04T03:30:58.288Z
+
+---
+
 The funny thing about the human perception of hard work is that the apparent hurdle to subsequent attempts to utter failures is not a psychological one.  -- 2024-11-03T13:05:54.130Z
 
 ---
@@ -71,10 +77,6 @@ I'm experimenting with chatgpt's ability to count calories of the food and sugge
 2. Send to chatGPT
 3. Receive rough time gap in hours
 3. Set a timer to wait before having next meal -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/calorie-genie-demo.gif) -- 2024-11-01T12:29:27.349Z
-
----
-
-what? nothing. just me thinking about "the boy and the heron" / "how to live" an entire week after watching it. i thought i knew hayao miyazaki but he surprised me with this incredible feat. again. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_1dttvnP.png) -- 2024-11-01T04:41:08.425Z
 <!-- feed ends -->
 
 
