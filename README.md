@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+One can confidently say that they’ve “learned to learn” by breathing the fact that real learning happens through living the reality rather than surfing a commentary on said reality.  -- 2024-11-05T06:30:03.143Z
+
+---
+
 I'm experimenting with chatgpt's ability to count calories of the food and suggest wait time before having the next meal.
 
 1. Click picture of food
@@ -15,10 +19,6 @@ Since I'd already had a web tools application provisioned up and running. I'd us
 I've now exposed it [via the web](https://smolkit.com/calorie-genie/ ).
 
 Bring your own chatGPT API Key! -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9XMX4cn.png) -- 2024-11-05T02:48:45.828Z
-
----
-
-One can confidently say that they’ve “learned to learn” by breathing the fact that real learning happens through living the reality rather than surfing a commentary on said reality.  -- 2024-11-04T14:49:50.662Z
 
 ---
 
