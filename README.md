@@ -1,6 +1,23 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'm experimenting with chatgpt's ability to count calories of the food and suggest wait time before having the next meal.
+
+1. Click picture of food
+2. Send to chatGPT
+3. Receive rough time gap in hours
+3. Set a timer to wait before having next meal
+
+I've initially thought of using [it in my local machine](https://github.com/tnvmadhav/calorie-genie ) but I immediately realized this is useful to me on the go via my mobile browser.
+
+Since I'd already had a web tools application provisioned up and running. I'd used chatGPT to convert the flask app to a @golang HTTP handler.
+
+I've now exposed it [via the web](https://smolkit.com/calorie-genie/ ).
+
+Bring your own chatGPT API Key! -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9XMX4cn.png) -- 2024-11-05T02:48:45.828Z
+
+---
+
 One can confidently say that they’ve “learned to learn” by breathing the fact that real learning happens through living the reality rather than surfing a commentary on said reality.  -- 2024-11-04T14:49:50.662Z
 
 ---
@@ -55,19 +72,6 @@ Some conditions apply but you can check with your iPhone’s serial number on [A
 I’ve had a similar issue but with the iPhone 13 series where the display hardware was faulty and Apple Authorized Service Provider verified and fixed it for free.
 
 I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ).  -- 2024-11-02T08:30:05.489Z
-
----
-
-A successful founder gets things done.
-
-A person who has an intense *want* will find ways to get things done.  
-
-This intensity comes from life experiences.
-
-Bad childhood can build character and lead to strong *wants*.
-
-See where the road converges?
-https://twitter.com/twitter/status/1852017824971264177/  -- 2024-11-02T01:39:09.985Z
 <!-- feed ends -->
 
 
