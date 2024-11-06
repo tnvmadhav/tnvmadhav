@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+POV you’re a basic crud app facing a man and his $20/mo cursor subscription.
+
+(he could’ve used a google sheet template but no). -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3856.jpeg) -- 2024-11-06T01:50:00.913Z
+
+---
+
 One can confidently say that they’ve “learned to learn” by breathing the fact that real learning happens through living the reality rather than surfing a commentary on said reality.  -- 2024-11-05T06:30:03.143Z
 
 ---
@@ -57,21 +63,6 @@ A chunk of my public content feed via my content publisher system goes along wit
 So I decided to send static media links of images/assets hosted on my content publisher application to [my public feed](https://cpx.tnvmadhav.me/content/tnvmadhav/stream/).
 
 This feed is used by several feed renders that are live on [my blog site](https://tnvmadhav.me)[1] , [my GitHub profile](https://github.com/tnvmadhav)[2] and my post archiver cronjob. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_6mxvqqe.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_1j0fmyM.png) -- 2024-11-03T03:30:23.369Z
-
----
-
-A small % of iPhone 14 plus phones have a camera hardware issue.
-
-Apple says it or an Authorized Service Provider could service your phone for free.
-
-Some conditions apply but you can check with your iPhone’s serial number on [Apple’s support page](https://support.apple.com/iphone-14-plus-service-program-for-rear-camera-issue)
-
-[via The Verge](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free)
-
-
-I’ve had a similar issue but with the iPhone 13 series where the display hardware was faulty and Apple Authorized Service Provider verified and fixed it for free.
-
-I’d written and shared a post about it and you can read about [my experience on my blog](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/ ).  -- 2024-11-02T08:30:05.489Z
 <!-- feed ends -->
 
 
