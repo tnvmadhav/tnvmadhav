@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+notes & excepts from [What you know that just ain't so](https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1)
+
+> We don't need to know everything for sure before taking action.
+
+> [...]Convinced that half the opportunities in the world just don't apply to your situation and the other half is a slam dunk. Nonsense.
+
+Unlike school and university, where there is reward to those who focus on rigid inputs and outputs, the real world is absurd. The real world doesn't reward all (apparently equal) attempts equally. There is luck / timing aspect. But the main point remains same, there is trade-off. You MAY become more successful from half knowledge about something than doing it absolutely right.
+
+Don't take anything as gospel. Learn that every bit of success / failure was influenced by the (seeming) absurdity of the world.
+
+It's not a bad day (in business or otherwise) if you're reminded of this.  -- 2024-11-06T02:46:37.649Z
+
+---
+
 POV you’re a basic crud app facing a man and his $20/mo cursor subscription.
 
 (he could’ve used a google sheet template but no). -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3856.jpeg) -- 2024-11-06T01:50:00.913Z
@@ -55,14 +69,6 @@ Clarity breeding action doesn’t take into consideration the baseline habitual 
 ---
 
 Fleeting thoughts influenced by the spark of moments in the universe instead of steady build up of logical implications is the flywheel that trades your time for life experiences.  -- 2024-11-03T12:30:02.989Z
-
----
-
-A chunk of my public content feed via my content publisher system goes along with media (mostly images). Sometimes the media attachments contain a significant amount of context that may be lost with text only compilation.
-
-So I decided to send static media links of images/assets hosted on my content publisher application to [my public feed](https://cpx.tnvmadhav.me/content/tnvmadhav/stream/).
-
-This feed is used by several feed renders that are live on [my blog site](https://tnvmadhav.me)[1] , [my GitHub profile](https://github.com/tnvmadhav)[2] and my post archiver cronjob. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_6mxvqqe.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_1j0fmyM.png) -- 2024-11-03T03:30:23.369Z
 <!-- feed ends -->
 
 
