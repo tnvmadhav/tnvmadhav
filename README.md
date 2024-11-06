@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"Struggling to document your TILs not because you're learning so many new things but you're balancing a backlog load of them and churning mental load in retrospect" isn't something one should be comfortable with.  -- 2024-11-06T11:00:02.988Z
+
+---
+
 notes & excepts from [What you know that just ain't so](https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1)
 
 > We don't need to know everything for sure before taking action.
@@ -65,10 +69,6 @@ I’d like to practice doing this more often.  -- 2024-11-04T06:11:31.292Z
 ---
 
 Clarity breeding action doesn’t take into consideration the baseline habitual tendencies.  -- 2024-11-03T12:30:05.713Z
-
----
-
-Fleeting thoughts influenced by the spark of moments in the universe instead of steady build up of logical implications is the flywheel that trades your time for life experiences.  -- 2024-11-03T12:30:02.989Z
 <!-- feed ends -->
 
 
