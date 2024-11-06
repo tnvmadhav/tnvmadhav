@@ -11,7 +11,7 @@ Unlike school and university, where there is reward to those who focus on rigid 
 
 Don't take anything as gospel. Learn that every bit of success / failure was influenced by the (seeming) absurdity of the world.
 
-It's not a bad day (in business or otherwise) if you're reminded of this.  -- 2024-11-06T02:46:37.649Z
+It's not a bad day (in business or otherwise) if you're reminded of this.  -- 2024-11-06T06:30:03.156Z
 
 ---
 
