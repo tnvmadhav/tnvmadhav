@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I really missed gdb's coding tweets. I'm glad to know he is back at @openai shipping software.
+
+-[X](https://x.com/gdb/status/1856441156281753908)  -- 2024-11-13T06:23:11.120Z
+
+---
+
+Damn the latest mkbhd video getting a lot of comments like this but speeding in school zone isn’t just a misdemeanour.
+
+The section of the video was cut out and people are getting angrier because of this.
+
+
+Ok, [he apologised](https://x.com/MKBHD/status/1856456570420257166)
+ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_vUlElck.png) -- 2024-11-13T06:03:28.503Z
+
+---
+
 "Struggling to document your TILs not because you're learning so many new things but you're balancing a backlog load of them and churning mental load in retrospect" isn't something one should be comfortable with.  -- 2024-11-06T11:00:02.988Z
 
 ---
@@ -57,18 +73,6 @@ The funny thing about the human perception of hard work is that the apparent hur
 ---
 
 Can you solve your way through a problem through sheer spaced repetition?  -- 2024-11-04T06:30:03.510Z
-
----
-
-A developer knows how straining and  difficult it is to document a debugging session especially in hindsight where a certain optimum spurs out of the void that all suboptimal attempts look pale in comparison so much so that sometimes you start feeling a little embarrassed (I do).
-
-I enjoyed reading and appreciate [this post](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/ ) on improving memory usage performance by @b0rk. Also learned about many packages along the way.
-
-I’d like to practice doing this more often.  -- 2024-11-04T06:11:31.292Z
-
----
-
-Clarity breeding action doesn’t take into consideration the baseline habitual tendencies.  -- 2024-11-03T12:30:05.713Z
 <!-- feed ends -->
 
 
