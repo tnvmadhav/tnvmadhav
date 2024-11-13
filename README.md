@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL about a YAML file validation using `yq` command line tool.
+
+If you have a .{YAML/YML} file, you can run `yq eval -v {path/to/file}` to do a quick verification on the file format.
+
+https://github.com/mikefarah/yq
+  -- 2024-11-13T07:27:06.785Z
+
+---
+
 I really missed gdb's coding tweets. I'm glad to know he is back at @openai shipping software.
 
 -[X](https://x.com/gdb/status/1856441156281753908)  -- 2024-11-13T06:23:11.120Z
@@ -69,10 +78,6 @@ via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Con
 ---
 
 The funny thing about the human perception of hard work is that the apparent hurdle to subsequent attempts to utter failures is not a psychological one.  -- 2024-11-04T13:00:02.953Z
-
----
-
-Can you solve your way through a problem through sheer spaced repetition?  -- 2024-11-04T06:30:03.510Z
 <!-- feed ends -->
 
 
