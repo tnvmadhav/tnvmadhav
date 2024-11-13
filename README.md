@@ -6,7 +6,7 @@ TIL about a YAML file validation using `yq` command line tool.
 If you have a .{YAML/YML} file, you can run `yq eval -v {path/to/file}` to do a quick verification on the file format.
 
 https://github.com/mikefarah/yq
-  -- 2024-11-13T07:27:06.785Z
+  -- 2024-11-13T12:30:03.143Z
 
 ---
 
