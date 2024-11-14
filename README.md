@@ -1,6 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Two huge podcast episodes dropped this week:
+
+— [Interview with Dario Amodei by Lex Fridman](https://m.youtube.com/watch?v=ugvHCXCOmm4)
+
+It’s about time Anthropic’s C.E.O. got into the limelight to fan the flame that is the narrative of journey to A.G.I. I had recently read his essay and hopefully he talks more about it on lex fridman.
+
+— [Interview with Gwern Branwen by Dwarkesh Patel](https://youtu.be/a42key59cZQ)
+
+This one caught me by surprise, I thought he finally did a face reveal when I first saw it in my feed only to know both voice and avatar were modulated.
+
+I’ve been a long time fan of his famous essays at gwern.net and this one is gonna be an all timer.
+  -- 2024-11-14T17:07:54.193Z
+
+---
+
 TIL about a YAML file validation using `yq` command line tool.
 
 If you have a .{YAML/YML} file, you can run `yq eval -v {path/to/file}` to do a quick verification on the file format.
@@ -74,10 +89,6 @@ Bring your own chatGPT API Key! -- [🏞️ Context #1](https://cpx.tnvmadhav.me
 If this doesn't make you go "hell yeah" or "hell no", you're not on the spectrum because there is no spectrum here.
 
 via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_O9VMWPl.png) -- 2024-11-04T14:30:17.297Z
-
----
-
-The funny thing about the human perception of hard work is that the apparent hurdle to subsequent attempts to utter failures is not a psychological one.  -- 2024-11-04T13:00:02.953Z
 <!-- feed ends -->
 
 
