@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+It's not everyday something like [this](https://x.com/sundarpichai/status/1857114106928718329) happens. 
+
+Google comeback a certainty? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_cNy1QYq.png) -- 2024-11-14T18:49:09.684Z
+
+---
+
 Opportunities come and go. You have to catch and squeeze it dry. It's like catching lightning in a bottle. This happens rarely but you know it when it's happening. You get into the zone. 
 
 Sometimes you feel something strong is approaching but you know you're not skilled enough to properly make use of the opportunity.
@@ -81,23 +87,6 @@ POV you’re a basic crud app facing a man and his $20/mo cursor subscription.
 ---
 
 One can confidently say that they’ve “learned to learn” by breathing the fact that real learning happens through living the reality rather than surfing a commentary on said reality.  -- 2024-11-05T06:30:03.143Z
-
----
-
-I'm experimenting with chatgpt's ability to count calories of the food and suggest wait time before having the next meal.
-
-1. Click picture of food
-2. Send to chatGPT
-3. Receive rough time gap in hours
-3. Set a timer to wait before having next meal
-
-I've initially thought of using [it in my local machine](https://github.com/tnvmadhav/calorie-genie ) but I immediately realized this is useful to me on the go via my mobile browser.
-
-Since I'd already had a web tools application provisioned up and running. I'd used chatGPT to convert the flask app to a @golang HTTP handler.
-
-I've now exposed it [via the web](https://smolkit.com/calorie-genie/ ).
-
-Bring your own chatGPT API Key! -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9XMX4cn.png) -- 2024-11-05T02:48:45.828Z
 <!-- feed ends -->
 
 
