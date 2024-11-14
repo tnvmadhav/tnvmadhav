@@ -1,6 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Opportunities come and go. You have to catch and squeeze it dry. It's like catching lightning in a bottle. This happens rarely but you know it when it's happening. You get into the zone. 
+
+Sometimes you feel something strong is approaching but you know you're not skilled enough to properly make use of the opportunity.
+
+The only solution is to keep improving such that the chances of missing out on sure-shot opportunities due to mere "skill issue" are drastically curtailed.
+
+The next big thing is either approaching quickly or is already here.
+
+> my answer to the usual question of "what's next?": I don't know! Because if I did, I'd already be half-way done doing it. And then it wouldn't really be next, it'd be now.
+>
+> Finding the next now is the art of wandering, and wandering well takes practice and patience. Don't rush it.
+> - via [https://world.hey.com/dhh](https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a)  -- 2024-11-14T18:04:53.148Z
+
+---
+
 Two huge podcast episodes dropped this week:
 
 — [Interview with Dario Amodei by Lex Fridman](https://m.youtube.com/watch?v=ugvHCXCOmm4)
@@ -83,12 +98,6 @@ Since I'd already had a web tools application provisioned up and running. I'd us
 I've now exposed it [via the web](https://smolkit.com/calorie-genie/ ).
 
 Bring your own chatGPT API Key! -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9XMX4cn.png) -- 2024-11-05T02:48:45.828Z
-
----
-
-If this doesn't make you go "hell yeah" or "hell no", you're not on the spectrum because there is no spectrum here.
-
-via [X](https://twitter.com/twitter/status/1852821795415441825/) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_O9VMWPl.png) -- 2024-11-04T14:30:17.297Z
 <!-- feed ends -->
 
 
