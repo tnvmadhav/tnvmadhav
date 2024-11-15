@@ -3,7 +3,7 @@
 <!-- feed starts -->
 It's not everyday something like [this](https://x.com/sundarpichai/status/1857114106928718329) happens. 
 
-Google comeback a certainty? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_cNy1QYq.png) -- 2024-11-14T18:49:09.684Z
+Google comeback a certainty? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_cNy1QYq.png) -- 2024-11-15T06:30:09.130Z
 
 ---
 
@@ -18,7 +18,7 @@ The next big thing is either approaching quickly or is already here.
 > my answer to the usual question of "what's next?": I don't know! Because if I did, I'd already be half-way done doing it. And then it wouldn't really be next, it'd be now.
 >
 > Finding the next now is the art of wandering, and wandering well takes practice and patience. Don't rush it.
-> - via [https://world.hey.com/dhh](https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a)  -- 2024-11-14T18:04:53.148Z
+> - via [https://world.hey.com/dhh](https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a)  -- 2024-11-15T06:30:03.077Z
 
 ---
 
