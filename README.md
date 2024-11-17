@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+John Carmack writes about his (visibly) weird a game engine debugging dream and he suspects that the game engine must’ve been written in C++ and the bug could’ve been a uninitialised variable without doing an RCA.
+
+A level domain knowledge in anything that leaves you guessing causes of uncommon scenarios in most cases is desirable. 
+ 
+- via [X](https://twitter.com/twitter/status/1857816125423100130/)  -- 2024-11-17T06:30:03.034Z
+
+---
+
 It's not everyday something like [this](https://x.com/sundarpichai/status/1857114106928718329) happens. 
 
 Google comeback a certainty? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_cNy1QYq.png) -- 2024-11-15T06:30:09.130Z
@@ -83,10 +91,6 @@ It's not a bad day (in business or otherwise) if you're reminded of this.  -- 20
 POV you’re a basic crud app facing a man and his $20/mo cursor subscription.
 
 (he could’ve used a google sheet template but no). -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3856.jpeg) -- 2024-11-06T01:50:00.913Z
-
----
-
-One can confidently say that they’ve “learned to learn” by breathing the fact that real learning happens through living the reality rather than surfing a commentary on said reality.  -- 2024-11-05T06:30:03.143Z
 <!-- feed ends -->
 
 
