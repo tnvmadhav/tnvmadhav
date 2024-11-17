@@ -93,6 +93,7 @@ POV you’re a basic crud app facing a man and his $20/mo cursor subscription.
 (he could’ve used a google sheet template but no). -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3856.jpeg) -- 2024-11-06T01:50:00.913Z
 <!-- feed ends -->
 
+NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
 
 ---
 
