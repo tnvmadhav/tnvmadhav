@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"Mistakes are a portal to creativity" -- Cillian Murphy on working with Christopher Nolan and experiences in his film set. He implies that most of brilliant moments on the cinema screen are a result of capturing those lightning in the bottle moments.
+
+- [via X](https://twitter.com/twitter/status/1858276331223429260/)
+
+I was fortunate to come across a documentation of one such example in [a tweet](https://x.com/NolanAnalyst/status/1857381028614066570) from a Nolan specific Fan account. 
+
+A must follow account for film enthusiasts 👉🏻 [https://x.com/NolanAnalyst](https://x.com/NolanAnalyst)
+  -- 2024-11-18T01:58:58.306Z
+
+---
+
 John Carmack writes about his (visibly) weird a game engine debugging dream and he suspects that the game engine must’ve been written in C++ and the bug could’ve been a uninitialised variable without doing an RCA.
 
 A level domain knowledge in anything that leaves you guessing causes of uncommon scenarios in most cases is desirable. 
@@ -85,12 +96,6 @@ Unlike school and university, where there is reward to those who focus on rigid 
 Don't take anything as gospel. Learn that every bit of success / failure was influenced by the (seeming) absurdity of the world.
 
 It's not a bad day (in business or otherwise) if you're reminded of this.  -- 2024-11-06T06:30:03.156Z
-
----
-
-POV you’re a basic crud app facing a man and his $20/mo cursor subscription.
-
-(he could’ve used a google sheet template but no). -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3856.jpeg) -- 2024-11-06T01:50:00.913Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
