@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"Art" as we know it "could" become replicable (non-lossy).
+
+And this is totally subjective, but in a world where every art is replicable, the question as what is the "new art" becomes bigger.
+
+I believe for better or worse, "we" could be grandfathered in.
+
+- [Via X](https://twitter.com/twitter/status/1858301976934834452/)  -- 2024-11-19T03:32:53.144Z
+
+---
+
 "Mistakes are a portal to creativity" -- Cillian Murphy on working with Christopher Nolan and experiences in his film set. He implies that most of brilliant moments on the cinema screen are a result of capturing those lightning in the bottle moments.
 
 - [via X](https://twitter.com/twitter/status/1858276331223429260/)
@@ -82,20 +92,6 @@ Ok, [he apologised](https://x.com/MKBHD/status/1856456570420257166)
 ---
 
 "Struggling to document your TILs not because you're learning so many new things but you're balancing a backlog load of them and churning mental load in retrospect" isn't something one should be comfortable with.  -- 2024-11-06T11:00:02.988Z
-
----
-
-notes & excepts from [What you know that just ain't so](https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1)
-
-> We don't need to know everything for sure before taking action.
-
-> [...]Convinced that half the opportunities in the world just don't apply to your situation and the other half is a slam dunk. Nonsense.
-
-Unlike school and university, where there is reward to those who focus on rigid inputs and outputs, the real world is absurd. The real world doesn't reward all (apparently equal) attempts equally. There is luck / timing aspect. But the main point remains same, there is trade-off. You MAY become more successful from half knowledge about something than doing it absolutely right.
-
-Don't take anything as gospel. Learn that every bit of success / failure was influenced by the (seeming) absurdity of the world.
-
-It's not a bad day (in business or otherwise) if you're reminded of this.  -- 2024-11-06T06:30:03.156Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
