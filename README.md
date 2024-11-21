@@ -1,12 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-if I already didn’t think that dude was built different, I would’ve been mind-blown 🤯 
-https://twitter.com/twitter/status/1859378984577876097/  -- 2024-11-21T09:07:09.668Z
+I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dGWl2SY.png) -- 2024-11-21T12:30:33.678Z
 
 ---
 
-I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dGWl2SY.png) -- 2024-11-21T07:06:03.064Z
+if I already didn’t think that dude was built different, I would’ve been mind-blown 🤯 
+https://twitter.com/twitter/status/1859378984577876097/  -- 2024-11-21T09:07:09.668Z
 
 ---
 
