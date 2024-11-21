@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+if I already didn’t think that dude was built different, I would’ve been mind-blown 🤯 
+https://twitter.com/twitter/status/1859378984577876097/  -- 2024-11-21T09:07:09.668Z
+
+---
+
 I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dGWl2SY.png) -- 2024-11-21T07:06:03.064Z
 
 ---
@@ -82,16 +87,6 @@ https://github.com/mikefarah/yq
 I really missed gdb's coding tweets. I'm glad to know he is back at @openai shipping software.
 
 -[X](https://x.com/gdb/status/1856441156281753908)  -- 2024-11-13T06:23:11.120Z
-
----
-
-Damn the latest mkbhd video getting a lot of comments like this but speeding in school zone isn’t just a misdemeanour.
-
-The section of the video was cut out and people are getting angrier because of this.
-
-
-Ok, [he apologised](https://x.com/MKBHD/status/1856456570420257166)
- -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_vUlElck.png) -- 2024-11-13T06:03:28.503Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
