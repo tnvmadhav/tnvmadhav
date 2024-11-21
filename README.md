@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dGWl2SY.png) -- 2024-11-21T07:06:03.064Z
+
+---
+
 "Art" as we know it "could" become replicable (non-lossy).
 
 And this is totally subjective, but in a world where every art is replicable, the question as what is the "new art" becomes bigger.
@@ -88,10 +92,6 @@ The section of the video was cut out and people are getting angrier because of t
 
 Ok, [he apologised](https://x.com/MKBHD/status/1856456570420257166)
  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_vUlElck.png) -- 2024-11-13T06:03:28.503Z
-
----
-
-"Struggling to document your TILs not because you're learning so many new things but you're balancing a backlog load of them and churning mental load in retrospect" isn't something one should be comfortable with.  -- 2024-11-06T11:00:02.988Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
