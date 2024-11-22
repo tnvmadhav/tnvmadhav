@@ -19,7 +19,7 @@ Rabbit Hole
 [1] https://news.ycombinator.com/item?id=42201892
 [2] https://abenezer.org/blog/hyrum-law-in-golang
 [3] https://www.hyrumslaw.com
-[4] https://xkcd.com/1172/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_JwO9B7y.png) -- 2024-11-22T05:18:28.526Z
+[4] https://xkcd.com/1172/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_JwO9B7y.png) -- 2024-11-22T06:30:11.909Z
 
 ---
 
