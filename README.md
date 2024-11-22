@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+mkbhd is (not lowkey) getting cooked in the comments 🥶🌶️ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_26WQ6nW.png) -- 2024-11-22T13:31:46.998Z
+
+---
+
 Today I learned about the term "Hyrum's Law" in software engineering.
 
 It refers that even though implementation specifics are hidden, breadcrumbs of implementation will be expected to be consistent when there's no apparent change the interface signature.
@@ -94,15 +98,6 @@ This one caught me by surprise, I thought he finally did a face reveal when I fi
 
 I’ve been a long time fan of his famous essays at gwern.net and this one is gonna be an all timer.
   -- 2024-11-14T17:07:54.193Z
-
----
-
-TIL about a YAML file validation using `yq` command line tool.
-
-If you have a .{YAML/YML} file, you can run `yq eval -v {path/to/file}` to do a quick verification on the file format.
-
-https://github.com/mikefarah/yq
-  -- 2024-11-13T12:30:03.143Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
