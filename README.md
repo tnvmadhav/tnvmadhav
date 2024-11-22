@@ -1,6 +1,28 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today I learned about the term "Hyrum's Law" in software engineering.
+
+It refers that even though implementation specifics are hidden, breadcrumbs of implementation will be expected to be consistent when there's no apparent change the interface signature.
+
+And any implementation change can and will break a small subset of users' workflow. 
+
+And yes there's an XKCD for it.
+
+
+Quoting one of Go's package author:
+
+"I wrote the crypto/rsa comments. We take Hyrum's Law (and backwards compatibility [1]) extremely seriously in Go. Here are a couple more examples" - [via HN](https://news.ycombinator.com/item?id=42202326)
+
+
+Rabbit Hole
+[1] https://news.ycombinator.com/item?id=42201892
+[2] https://abenezer.org/blog/hyrum-law-in-golang
+[3] https://www.hyrumslaw.com
+[4] https://xkcd.com/1172/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_JwO9B7y.png) -- 2024-11-22T05:18:28.526Z
+
+---
+
 I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dGWl2SY.png) -- 2024-11-21T12:30:33.678Z
 
 ---
@@ -81,12 +103,6 @@ If you have a .{YAML/YML} file, you can run `yq eval -v {path/to/file}` to do a 
 
 https://github.com/mikefarah/yq
   -- 2024-11-13T12:30:03.143Z
-
----
-
-I really missed gdb's coding tweets. I'm glad to know he is back at @openai shipping software.
-
--[X](https://x.com/gdb/status/1856441156281753908)  -- 2024-11-13T06:23:11.120Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
