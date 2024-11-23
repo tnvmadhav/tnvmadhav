@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Unread @verge posts are piling up in my RSS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dN8eg19.png) -- 2024-11-23T04:24:56.840Z
+
+---
+
 mkbhd is (not lowkey) getting cooked in the comments 🥶🌶️ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_26WQ6nW.png) -- 2024-11-22T13:31:46.998Z
 
 ---
@@ -83,21 +87,6 @@ The next big thing is either approaching quickly or is already here.
 >
 > Finding the next now is the art of wandering, and wandering well takes practice and patience. Don't rush it.
 > - via [https://world.hey.com/dhh](https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a)  -- 2024-11-15T06:30:03.077Z
-
----
-
-Two huge podcast episodes dropped this week:
-
-— [Interview with Dario Amodei by Lex Fridman](https://m.youtube.com/watch?v=ugvHCXCOmm4)
-
-It’s about time Anthropic’s C.E.O. got into the limelight to fan the flame that is the narrative of journey to A.G.I. I had recently read his essay and hopefully he talks more about it on lex fridman.
-
-— [Interview with Gwern Branwen by Dwarkesh Patel](https://youtu.be/a42key59cZQ)
-
-This one caught me by surprise, I thought he finally did a face reveal when I first saw it in my feed only to know both voice and avatar were modulated.
-
-I’ve been a long time fan of his famous essays at gwern.net and this one is gonna be an all timer.
-  -- 2024-11-14T17:07:54.193Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
