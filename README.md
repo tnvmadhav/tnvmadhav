@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I've finally added my 🦋 bluesky profile to my 'link in bio' page (bagel.ink/@tnvmadhav)
+
+
+I took this beautiful iPhone Mockup of my link in the bio page using the WebShotPro iPhone application.
+
+Get it here -> bagel.ink/c/DhLwv0
+
+
+WebShotPro also generates an editable open graph image of the website based on the HTML metatags -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_0X0mval.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_s0XKcuo.png) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/_com.apple.Foundation.NSItemProvider.0asmzr.png) -- 2024-11-23T12:54:48.910Z
+
+---
+
 Unread @verge posts are piling up in my RSS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dN8eg19.png) -- 2024-11-23T04:24:56.840Z
 
 ---
@@ -72,21 +84,6 @@ A level domain knowledge in anything that leaves you guessing causes of uncommon
 It's not everyday something like [this](https://x.com/sundarpichai/status/1857114106928718329) happens. 
 
 Google comeback a certainty? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_cNy1QYq.png) -- 2024-11-15T06:30:09.130Z
-
----
-
-Opportunities come and go. You have to catch and squeeze it dry. It's like catching lightning in a bottle. This happens rarely but you know it when it's happening. You get into the zone. 
-
-Sometimes you feel something strong is approaching but you know you're not skilled enough to properly make use of the opportunity.
-
-The only solution is to keep improving such that the chances of missing out on sure-shot opportunities due to mere "skill issue" are drastically curtailed.
-
-The next big thing is either approaching quickly or is already here.
-
-> my answer to the usual question of "what's next?": I don't know! Because if I did, I'd already be half-way done doing it. And then it wouldn't really be next, it'd be now.
->
-> Finding the next now is the art of wandering, and wandering well takes practice and patience. Don't rush it.
-> - via [https://world.hey.com/dhh](https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a)  -- 2024-11-15T06:30:03.077Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
