@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Sony has expressed interest in purchasing Kadokawa.
+
+https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga  -- 2024-11-24T11:19:19.011Z
+
+---
+
 Kendrick Lamar's Link in Bio Page [my-gnx.com](https://my-gnx.com) is hosted on Vercel.
 
 I was wondering if it's because he was using a link in the bio service. If you inspect the dev console, it appears that there is some relation to [Linkfire](https://linkfire.com), but loosely so.
@@ -79,14 +85,6 @@ I was fortunate to come across a documentation of one such example in [a tweet](
 
 A must follow account for film enthusiasts 👉🏻 [https://x.com/NolanAnalyst](https://x.com/NolanAnalyst)
   -- 2024-11-18T01:58:58.306Z
-
----
-
-John Carmack writes about his (visibly) weird a game engine debugging dream and he suspects that the game engine must’ve been written in C++ and the bug could’ve been a uninitialised variable without doing an RCA.
-
-A level domain knowledge in anything that leaves you guessing causes of uncommon scenarios in most cases is desirable. 
- 
-- via [X](https://twitter.com/twitter/status/1857816125423100130/)  -- 2024-11-17T06:30:03.034Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
