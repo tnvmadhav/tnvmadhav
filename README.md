@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Kendrick Lamar's Link in Bio Page [my-gnx.com](https://my-gnx.com) is hosted on Vercel.
+
+I was wondering if it's because he was using a link in the bio service. If you inspect the dev console, it appears that there is some relation to [Linkfire](https://linkfire.com), but loosely so.
+
+Guillermo Rauch [jokes](
+https://x.com/rauchg/status/1860031290772455814) about Vercel's default favicon still being used  -- 2024-11-24T02:40:02.070Z
+
+---
+
 I've finally added my 🦋 bluesky profile to my 'link in bio' page (bagel.ink/@tnvmadhav)
 
 
@@ -78,12 +87,6 @@ John Carmack writes about his (visibly) weird a game engine debugging dream and 
 A level domain knowledge in anything that leaves you guessing causes of uncommon scenarios in most cases is desirable. 
  
 - via [X](https://twitter.com/twitter/status/1857816125423100130/)  -- 2024-11-17T06:30:03.034Z
-
----
-
-It's not everyday something like [this](https://x.com/sundarpichai/status/1857114106928718329) happens. 
-
-Google comeback a certainty? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_cNy1QYq.png) -- 2024-11-15T06:30:09.130Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
