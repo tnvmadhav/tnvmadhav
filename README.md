@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Stripe Press is a really well designed & implemented website 👏
+https://press.stripe.com/  -- 2024-12-08T10:47:26.468Z
+
+---
+
 Someone tried to inject a crypto miner into the ultralytics PyPi package (v8.3.41 & v8.3.42)
 
 While these versions no longer are downloadable, if it already is (cached or otherwise) because you're using it, Please delete those versions / update immediately.
@@ -77,16 +82,6 @@ I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](htt
 
 if I already didn’t think that dude was built different, I would’ve been mind-blown 🤯 
 https://twitter.com/twitter/status/1859378984577876097/  -- 2024-11-21T09:07:09.668Z
-
----
-
-"Art" as we know it "could" become replicable (non-lossy).
-
-And this is totally subjective, but in a world where every art is replicable, the question as what is the "new art" becomes bigger.
-
-I believe for better or worse, "we" could be grandfathered in.
-
-- [Via X](https://twitter.com/twitter/status/1858301976934834452/)  -- 2024-11-19T03:32:53.144Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
