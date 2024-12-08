@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Someone tried to inject a crypto miner into the ultralytics PyPi package (v8.3.41 & v8.3.42)
+
+While these versions no longer are downloadable, if it already is (cached or otherwise) because you're using it, Please delete those versions / update immediately.
+
+The GitHub issue is still ongoing with what could've been done to avoid this.
+https://github.com/ultralytics/ultralytics/issues/18027
+
+
+Here's a comprehensive writeup by the yossarian (@8x5clPW2) on what happened.
+https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection  -- 2024-12-08T03:06:10.259Z
+
+---
+
 Sony has expressed interest in purchasing Kadokawa.
 
 https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga  -- 2024-11-24T11:19:19.011Z
@@ -74,17 +87,6 @@ And this is totally subjective, but in a world where every art is replicable, th
 I believe for better or worse, "we" could be grandfathered in.
 
 - [Via X](https://twitter.com/twitter/status/1858301976934834452/)  -- 2024-11-19T03:32:53.144Z
-
----
-
-"Mistakes are a portal to creativity" -- Cillian Murphy on working with Christopher Nolan and experiences in his film set. He implies that most of brilliant moments on the cinema screen are a result of capturing those lightning in the bottle moments.
-
-- [via X](https://twitter.com/twitter/status/1858276331223429260/)
-
-I was fortunate to come across a documentation of one such example in [a tweet](https://x.com/NolanAnalyst/status/1857381028614066570) from a Nolan specific Fan account. 
-
-A must follow account for film enthusiasts 👉🏻 [https://x.com/NolanAnalyst](https://x.com/NolanAnalyst)
-  -- 2024-11-18T01:58:58.306Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
