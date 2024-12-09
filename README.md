@@ -1,6 +1,38 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Andrej Karpathy’s book recommends 
+
+Science Fiction:
+All short stories by Ted Chiang
+Especially: Exhalation, Division By Zero, Understand, The Story of Your Life, Liking What You See, The Lifecycle of Software Objects, What's Expected of Us
+The Martian by Andy Weir
+A Fire Upon the Deep by Vernor Vinge (Chapter one for its portrayal of superintelligence)
+Flowers for Algernon by Daniel Keyes
+Atlas Shrugged by Ayn Rand
+
+Nonfiction:
+The Selfish Gene by Richard Dawkins
+The Vital Question by Nick Lane
+How To Live by Derek Sivers
+1984 by George Orwell
+In Defense of Food by Michael Pollan
+The Accidental Superpower by Peter Zeihan
+Countdown to Zero Day by Kim Zetter
+Guns, Germs, and Steel by Jared Diamond
+An Immense World by Ed Yong
+The Master Switch by Tim Wu
+
+Fantasy:
+The Lord of the Rings by J.R.R. Tolkien
+
+[Summarized and Compiled by Grok](https://x.com/i/grok/share/Ryu3Hp9OmytkO7u6SrduZS99o)
+
+
+[Karpathy’s Post on X](https://x.com/karpathy/status/1865924776214327360)  -- 2024-12-09T02:36:09.898Z
+
+---
+
 Stripe Press is a really well designed & implemented website 👏
 https://press.stripe.com/  -- 2024-12-08T10:47:26.468Z
 
@@ -77,11 +109,6 @@ Rabbit Hole
 ---
 
 I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dGWl2SY.png) -- 2024-11-21T12:30:33.678Z
-
----
-
-if I already didn’t think that dude was built different, I would’ve been mind-blown 🤯 
-https://twitter.com/twitter/status/1859378984577876097/  -- 2024-11-21T09:07:09.668Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
