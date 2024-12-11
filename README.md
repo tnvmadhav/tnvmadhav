@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+While diving into @google's Willow Quantum AI chip rabbit hole, as a physical reaction to the exponential error correction nature, I couldn't help but correlated qubit lattices to this meme. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_iWpeMfv.png) -- 2024-12-11T08:25:38.680Z
+
+---
+
 Andrej Karpathy’s book recommends 
 
 Science Fiction:
@@ -105,10 +109,6 @@ Rabbit Hole
 [2] https://abenezer.org/blog/hyrum-law-in-golang
 [3] https://www.hyrumslaw.com
 [4] https://xkcd.com/1172/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_JwO9B7y.png) -- 2024-11-22T06:30:11.909Z
-
----
-
-I like the HTTP 418 Teapot joke but I had to do this -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dGWl2SY.png) -- 2024-11-21T12:30:33.678Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
