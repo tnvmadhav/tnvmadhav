@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Lowkey asking for Tex support on Netnewswire RSS client.
+
+I've attached a screenshot of the @NetNewsWire macOS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_0YZ5rz8.png) -- 2024-12-13T06:30:13.350Z
+
+---
+
 We can certainly say A.G.I. is on the horizon when Rick and Morty's Inter-dimensional cable is recreated with A.I. slop. 
 
 (It's almost on the horizon) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_xyQ3SKA.png) -- 2024-12-13T05:21:50.452Z
@@ -91,10 +97,6 @@ Get it here -> bagel.ink/c/DhLwv0
 
 
 WebShotPro also generates an editable open graph image of the website based on the HTML metatags -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_0X0mval.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_s0XKcuo.png) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/_com.apple.Foundation.NSItemProvider.0asmzr.png) -- 2024-11-23T12:54:48.910Z
-
----
-
-Unread @verge posts are piling up in my RSS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dN8eg19.png) -- 2024-11-23T04:24:56.840Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
