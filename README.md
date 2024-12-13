@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Interesting! but we need to pump up those academic research numbers.
+
+https://x.com/simonw/status/1867362623098171499 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XzlAC3Y.png) -- 2024-12-13T03:28:23.713Z
+
+---
+
 While diving into @google's Willow Quantum AI chip rabbit hole, as a physical reaction to the exponential error correction nature, I couldn't help but correlated qubit lattices to this meme. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_iWpeMfv.png) -- 2024-12-11T08:25:38.680Z
 
 ---
@@ -87,28 +93,6 @@ Unread @verge posts are piling up in my RSS client. -- [🏞️ Context #1](http
 ---
 
 mkbhd is (not lowkey) getting cooked in the comments 🥶🌶️ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_26WQ6nW.png) -- 2024-11-22T13:31:46.998Z
-
----
-
-Today I learned about the term "Hyrum's Law" in software engineering.
-
-It refers that even though implementation specifics are hidden, breadcrumbs of implementation will be expected to be consistent when there's no apparent change the interface signature.
-
-And any implementation change can and will break a small subset of users' workflow. 
-
-And yes there's an XKCD for it.
-
-
-Quoting one of Go's package author:
-
-"I wrote the crypto/rsa comments. We take Hyrum's Law (and backwards compatibility [1]) extremely seriously in Go. Here are a couple more examples" - [via HN](https://news.ycombinator.com/item?id=42202326)
-
-
-Rabbit Hole
-[1] https://news.ycombinator.com/item?id=42201892
-[2] https://abenezer.org/blog/hyrum-law-in-golang
-[3] https://www.hyrumslaw.com
-[4] https://xkcd.com/1172/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_JwO9B7y.png) -- 2024-11-22T06:30:11.909Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
