@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+We can certainly say A.G.I. is on the horizon when Rick and Morty's Inter-dimensional cable is recreated with A.I. slop. 
+
+(It's almost on the horizon) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_xyQ3SKA.png) -- 2024-12-13T05:21:50.452Z
+
+---
+
 Interesting! but we need to pump up those academic research numbers.
 
 https://x.com/simonw/status/1867362623098171499 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XzlAC3Y.png) -- 2024-12-13T03:28:23.713Z
@@ -89,10 +95,6 @@ WebShotPro also generates an editable open graph image of the website based on t
 ---
 
 Unread @verge posts are piling up in my RSS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_dN8eg19.png) -- 2024-11-23T04:24:56.840Z
-
----
-
-mkbhd is (not lowkey) getting cooked in the comments 🥶🌶️ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_26WQ6nW.png) -- 2024-11-22T13:31:46.998Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
