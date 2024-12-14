@@ -1,6 +1,25 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I found myself revisiting rauchg's 7 principles of rich web applications:
+
+1. Pre-rendering isn't optional
+2. React immediately to user input
+3. React to data changes (server side included)
+4. Control data exchange between client and server
+5. Don't break history, enhance it
+6. Push code updates (yes client code updates)
+7. Predict Behaviour (I honestly think this is overkill — but brilliant if pulled off)
+
+This (re-)read was part of my dive into "how vercel ships good quality software so quickly" assumption.
+
+
+And oh, here's the link to the article from 2014, — the examples are really helpful to wrap your mind around the concepts that are seemingly complex (at first). 
+
+🔗 https://rauchg.com/2014/7-principles-of-rich-web-applications  -- 2024-12-14T16:07:15.740Z
+
+---
+
 Interesting observation:
 
 X has started crawling the “link” in my bio every time i post (or even repost).  -- 2024-12-14T08:26:46.050Z
@@ -82,15 +101,6 @@ https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection  -- 2024-12-0
 Sony has expressed interest in purchasing Kadokawa.
 
 https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga  -- 2024-11-24T11:19:19.011Z
-
----
-
-Kendrick Lamar's Link in Bio Page [my-gnx.com](https://my-gnx.com) is hosted on Vercel.
-
-I was wondering if it's because he was using a link in the bio service. If you inspect the dev console, it appears that there is some relation to [Linkfire](https://linkfire.com), but loosely so.
-
-Guillermo Rauch [jokes](
-https://x.com/rauchg/status/1860031290772455814) about Vercel's default favicon still being used  -- 2024-11-24T02:40:02.070Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
