@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I stumbled upon a succinct piece from Paul Irish, about 'how to enhance website visitor experience on a website using considerable tools at disposal', while continuing my dive into vercel.
+
+The below points to keep the 'why's pickled:
+
+1. Slow TCP ramp up
+2. The first 14kb is crucial (because of point 1)
+3. Critical CSS for above the fold renders
+
+This talk was referenced in the "7 Principles of Rich Web Applications".
+
+
+🔗 I'm attaching the said "Delivering the goods" talk/keynote in this post for reference:
+https://www.youtube.com/watch?v=R8W_6xWphtw  -- 2024-12-14T16:53:18.195Z
+
+---
+
 I found myself revisiting rauchg's 7 principles of rich web applications:
 
 1. Pre-rendering isn't optional
@@ -95,12 +111,6 @@ https://github.com/ultralytics/ultralytics/issues/18027
 
 Here's a comprehensive writeup by the yossarian (@8x5clPW2) on what happened.
 https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection  -- 2024-12-08T03:06:10.259Z
-
----
-
-Sony has expressed interest in purchasing Kadokawa.
-
-https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga  -- 2024-11-24T11:19:19.011Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
