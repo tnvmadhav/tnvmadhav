@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Interesting observation:
+
+X has started crawling the “link” in my bio every time i post (or even repost).  -- 2024-12-14T08:26:46.050Z
+
+---
+
 Lowkey asking for Tex support on Netnewswire RSS client.
 
 I've attached a screenshot of the @NetNewsWire macOS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_0YZ5rz8.png) -- 2024-12-13T06:30:13.350Z
@@ -85,18 +91,6 @@ I was wondering if it's because he was using a link in the bio service. If you i
 
 Guillermo Rauch [jokes](
 https://x.com/rauchg/status/1860031290772455814) about Vercel's default favicon still being used  -- 2024-11-24T02:40:02.070Z
-
----
-
-I've finally added my 🦋 bluesky profile to my 'link in bio' page (bagel.ink/@tnvmadhav)
-
-
-I took this beautiful iPhone Mockup of my link in the bio page using the WebShotPro iPhone application.
-
-Get it here -> bagel.ink/c/DhLwv0
-
-
-WebShotPro also generates an editable open graph image of the website based on the HTML metatags -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_0X0mval.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_s0XKcuo.png) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/_com.apple.Foundation.NSItemProvider.0asmzr.png) -- 2024-11-23T12:54:48.910Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
