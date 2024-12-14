@@ -13,7 +13,7 @@ This talk was referenced in the "7 Principles of Rich Web Applications".
 
 
 🔗 I'm attaching the said "Delivering the goods" talk/keynote in this post for reference:
-https://www.youtube.com/watch?v=R8W_6xWphtw  -- 2024-12-14T16:53:18.195Z
+https://www.youtube.com/watch?v=R8W_6xWphtw  -- 2024-12-14T18:00:05.954Z
 
 ---
 
