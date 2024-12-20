@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I use A.I. to warm up the execution process on task chains planned beforehand.
+
+Still majority of time is still spent problem solving (using brain 🧠 ) that finally involving the aforementioned task chains
+https://twitter.com/twitter/status/1869737000213061648/  -- 2024-12-20T07:53:48.432Z
+
+---
+
 My brain still hasn’t fully accepted Nicholas Hoult as Lex Luthor.
 
 Might not be the best casting decision but I hope he proves this wrong. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_LY9FRjZ.png) -- 2024-12-20T02:29:53.889Z
@@ -99,11 +106,6 @@ The Lord of the Rings by J.R.R. Tolkien
 
 
 [Karpathy’s Post on X](https://x.com/karpathy/status/1865924776214327360)  -- 2024-12-09T02:36:09.898Z
-
----
-
-Stripe Press is a really well designed & implemented website 👏
-https://press.stripe.com/  -- 2024-12-08T10:47:26.468Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
