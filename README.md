@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+My brain still hasn’t fully accepted Nicholas Hoult as Lex Luthor.
+
+Might not be the best casting decision but I hope he proves this wrong. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_LY9FRjZ.png) -- 2024-12-20T02:29:53.889Z
+
+---
+
 I stumbled upon a succinct piece from Paul Irish, about 'how to enhance website visitor experience on a website using considerable tools at disposal', while continuing my dive into vercel.
 
 The below points to keep the 'why's pickled:
@@ -98,19 +104,6 @@ The Lord of the Rings by J.R.R. Tolkien
 
 Stripe Press is a really well designed & implemented website 👏
 https://press.stripe.com/  -- 2024-12-08T10:47:26.468Z
-
----
-
-Someone tried to inject a crypto miner into the ultralytics PyPi package (v8.3.41 & v8.3.42)
-
-While these versions no longer are downloadable, if it already is (cached or otherwise) because you're using it, Please delete those versions / update immediately.
-
-The GitHub issue is still ongoing with what could've been done to avoid this.
-https://github.com/ultralytics/ultralytics/issues/18027
-
-
-Here's a comprehensive writeup by the yossarian (@8x5clPW2) on what happened.
-https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection  -- 2024-12-08T03:06:10.259Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
