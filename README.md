@@ -1,6 +1,24 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I’ve always wanted idea threads that easy to use. I try to use Excalidraw to create chain of ideas rendered as bubbles / nodes in a network.
+
+I can’t help but think about the new Pocket hardware that launched this week. 
+
+One catch phrase caught my attention. “Conversation threads” if I remember it correctly.
+
+This could help me out but I can’t say for sure. 
+
+Sometimes I wanna build it from scratch 🥹 because i genuinely believe being able to navigate idea chains without losing context is crucial in my professional life as of yet.  -- 2024-12-20T08:16:42.469Z
+
+---
+
+The cycle of centuries
+
+https://x.com/pertorstensson/status/1869879675507347755 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3970.jpeg) -- 2024-12-20T08:05:35.424Z
+
+---
+
 I use A.I. to warm up the execution process on task chains planned beforehand.
 
 Still majority of time is still spent problem solving (using brain 🧠 ) that finally involving the aforementioned task chains
@@ -70,42 +88,6 @@ We can certainly say A.G.I. is on the horizon when Rick and Morty's Inter-dimens
 Interesting! but we need to pump up those academic research numbers.
 
 https://x.com/simonw/status/1867362623098171499 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XzlAC3Y.png) -- 2024-12-13T03:28:23.713Z
-
----
-
-While diving into @google's Willow Quantum AI chip rabbit hole, as a physical reaction to the exponential error correction nature, I couldn't help but correlated qubit lattices to this meme. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_iWpeMfv.png) -- 2024-12-11T08:25:38.680Z
-
----
-
-Andrej Karpathy’s book recommends 
-
-Science Fiction:
-All short stories by Ted Chiang
-Especially: Exhalation, Division By Zero, Understand, The Story of Your Life, Liking What You See, The Lifecycle of Software Objects, What's Expected of Us
-The Martian by Andy Weir
-A Fire Upon the Deep by Vernor Vinge (Chapter one for its portrayal of superintelligence)
-Flowers for Algernon by Daniel Keyes
-Atlas Shrugged by Ayn Rand
-
-Nonfiction:
-The Selfish Gene by Richard Dawkins
-The Vital Question by Nick Lane
-How To Live by Derek Sivers
-1984 by George Orwell
-In Defense of Food by Michael Pollan
-The Accidental Superpower by Peter Zeihan
-Countdown to Zero Day by Kim Zetter
-Guns, Germs, and Steel by Jared Diamond
-An Immense World by Ed Yong
-The Master Switch by Tim Wu
-
-Fantasy:
-The Lord of the Rings by J.R.R. Tolkien
-
-[Summarized and Compiled by Grok](https://x.com/i/grok/share/Ryu3Hp9OmytkO7u6SrduZS99o)
-
-
-[Karpathy’s Post on X](https://x.com/karpathy/status/1865924776214327360)  -- 2024-12-09T02:36:09.898Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
