@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Learning in long, uninterrupted flow states.
+
+Executing in short, fast time boxes.   -- 2024-12-21T13:37:31.068Z
+
+---
+
 agi has been achieved externally  -- 2024-12-21T04:20:16.860Z
 
 ---
@@ -80,12 +86,6 @@ X has started crawling the “link” in my bio every time i post (or even repos
 Lowkey asking for Tex support on Netnewswire RSS client.
 
 I've attached a screenshot of the @NetNewsWire macOS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_0YZ5rz8.png) -- 2024-12-13T06:30:13.350Z
-
----
-
-We can certainly say A.G.I. is on the horizon when Rick and Morty's Inter-dimensional cable is recreated with A.I. slop. 
-
-(It's almost on the horizon) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_xyQ3SKA.png) -- 2024-12-13T05:21:50.452Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
