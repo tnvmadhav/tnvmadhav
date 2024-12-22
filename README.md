@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+This doesn’t need to be said but There is so much compressed into this single sentence. Hopes of mankind. 
+
+If 2020s had a lesson, I must say this is a good reminder that one can try and learn a lot with A.I. assistants patiently helping you out. 
+
+https://twitter.com/twitter/status/1870527558783218106/  -- 2024-12-22T09:52:44.404Z
+
+---
+
 Eustress is all you need  -- 2024-12-22T06:03:16.268Z
 
 ---
@@ -78,12 +86,6 @@ This (re-)read was part of my dive into "how vercel ships good quality software 
 And oh, here's the link to the article from 2014, — the examples are really helpful to wrap your mind around the concepts that are seemingly complex (at first). 
 
 🔗 https://rauchg.com/2014/7-principles-of-rich-web-applications  -- 2024-12-14T16:07:15.740Z
-
----
-
-Interesting observation:
-
-X has started crawling the “link” in my bio every time i post (or even repost).  -- 2024-12-14T08:26:46.050Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
