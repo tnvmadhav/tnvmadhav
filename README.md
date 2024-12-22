@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Eustress is all you need  -- 2024-12-22T06:03:16.268Z
+
+---
+
 Learning in long, uninterrupted flow states.
 
 Executing in short, fast time boxes.   -- 2024-12-21T13:37:31.068Z
@@ -80,12 +84,6 @@ And oh, here's the link to the article from 2014, — the examples are really he
 Interesting observation:
 
 X has started crawling the “link” in my bio every time i post (or even repost).  -- 2024-12-14T08:26:46.050Z
-
----
-
-Lowkey asking for Tex support on Netnewswire RSS client.
-
-I've attached a screenshot of the @NetNewsWire macOS client. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_0YZ5rz8.png) -- 2024-12-13T06:30:13.350Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
