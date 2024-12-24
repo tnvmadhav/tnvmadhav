@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I found this great explainer by Welch Labs on Mechanistic Interpretability:
+
+
+https://www.youtube.com/watch?v=UGO_Ehywuxc
+
+
+I cannot believe I didn't come across this channel before.  -- 2024-12-24T17:01:19.645Z
+
+---
+
 Wow! I just came across news that Christopher Nolan’s next movie (2026) is based on Homer’s The Odyssey
 
 
@@ -58,22 +68,6 @@ https://twitter.com/twitter/status/1869737000213061648/  -- 2024-12-20T07:53:48.
 My brain still hasn’t fully accepted Nicholas Hoult as Lex Luthor.
 
 Might not be the best casting decision but I hope he proves this wrong. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_LY9FRjZ.png) -- 2024-12-20T02:29:53.889Z
-
----
-
-I stumbled upon a succinct piece from Paul Irish, about 'how to enhance website visitor experience on a website using considerable tools at disposal', while continuing my dive into vercel.
-
-The below points to keep the 'why's pickled:
-
-1. Slow TCP ramp up
-2. The first 14kb is crucial (because of point 1)
-3. Critical CSS for above the fold renders
-
-This talk was referenced in the "7 Principles of Rich Web Applications".
-
-
-🔗 I'm attaching the said "Delivering the goods" talk/keynote in this post for reference:
-https://www.youtube.com/watch?v=R8W_6xWphtw  -- 2024-12-14T18:00:05.954Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
