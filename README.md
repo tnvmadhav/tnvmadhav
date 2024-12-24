@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Wow! I just came across news that Christopher Nolan’s next movie (2026) is based on Homer’s The Odyssey
+
+
+Source: https://twitter.com/twitter/status/1871320030773727587/  -- 2024-12-24T02:43:17.934Z
+
+---
+
 This doesn’t need to be said but There is so much compressed into this single sentence. Hopes of mankind. 
 
 If 2020s had a lesson, I must say this is a good reminder that one can try and learn a lot with A.I. assistants patiently helping you out. 
@@ -67,25 +74,6 @@ This talk was referenced in the "7 Principles of Rich Web Applications".
 
 🔗 I'm attaching the said "Delivering the goods" talk/keynote in this post for reference:
 https://www.youtube.com/watch?v=R8W_6xWphtw  -- 2024-12-14T18:00:05.954Z
-
----
-
-I found myself revisiting rauchg's 7 principles of rich web applications:
-
-1. Pre-rendering isn't optional
-2. React immediately to user input
-3. React to data changes (server side included)
-4. Control data exchange between client and server
-5. Don't break history, enhance it
-6. Push code updates (yes client code updates)
-7. Predict Behaviour (I honestly think this is overkill — but brilliant if pulled off)
-
-This (re-)read was part of my dive into "how vercel ships good quality software so quickly" assumption.
-
-
-And oh, here's the link to the article from 2014, — the examples are really helpful to wrap your mind around the concepts that are seemingly complex (at first). 
-
-🔗 https://rauchg.com/2014/7-principles-of-rich-web-applications  -- 2024-12-14T16:07:15.740Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
