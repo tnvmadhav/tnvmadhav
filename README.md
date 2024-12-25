@@ -3,6 +3,12 @@
 <!-- feed starts -->
 I was able to build this feature in my content publisher application quickly (thanks to LLMs)
 
+I can now post to X and Bsky from this app. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_zlcLKzK.png) -- 2024-12-25T12:25:51.557Z
+
+---
+
+I was able to build this feature in my content publisher application quickly (thanks to LLMs)
+
 I can now post to X and Bsky from this app. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_DgCxiaK.png) -- 2024-12-25T11:34:45.303Z
 
 ---
@@ -59,12 +65,6 @@ One catch phrase caught my attention. “Conversation threads” if I remember i
 This could help me out but I can’t say for sure. 
 
 Sometimes I wanna build it from scratch 🥹 because i genuinely believe being able to navigate idea chains without losing context is crucial in my professional life as of yet.  -- 2024-12-20T08:16:42.469Z
-
----
-
-The cycle of centuries
-
-https://x.com/pertorstensson/status/1869879675507347755 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3970.jpeg) -- 2024-12-20T08:05:35.424Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
