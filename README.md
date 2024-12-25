@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I was able to build this feature in my content publisher application quickly (thanks to LLMs)
+
+I can now post to X and Bsky from this app. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_DgCxiaK.png) -- 2024-12-25T11:34:45.303Z
+
+---
+
 The urge to rewatch The Big Short for like the gazillionth time.  -- 2024-12-25T07:44:25.624Z
 
 ---
@@ -59,13 +65,6 @@ Sometimes I wanna build it from scratch 🥹 because i genuinely believe being a
 The cycle of centuries
 
 https://x.com/pertorstensson/status/1869879675507347755 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_3970.jpeg) -- 2024-12-20T08:05:35.424Z
-
----
-
-I use A.I. to warm up the execution process on task chains planned beforehand.
-
-Still majority of time is still spent problem solving (using brain 🧠 ) that finally involving the aforementioned task chains
-https://twitter.com/twitter/status/1869737000213061648/  -- 2024-12-20T07:53:48.432Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
