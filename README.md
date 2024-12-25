@@ -7,7 +7,7 @@ I found this great explainer by Welch Labs on Mechanistic Interpretability:
 https://www.youtube.com/watch?v=UGO_Ehywuxc
 
 
-I cannot believe I didn't come across this channel before.  -- 2024-12-24T17:01:19.645Z
+I cannot believe I didn't come across this channel before.  -- 2024-12-25T07:11:57.775Z
 
 ---
 
