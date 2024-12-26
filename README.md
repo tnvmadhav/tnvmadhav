@@ -1,6 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+“The outcome of any given company is the vector sum of the people within it. Improve the alignment of the individual vectors and their amplitude and the outcome will improve accordingly.” — Elon Musk
+
+
+He is talking of effectiveness of constructive interference and how it can be applied to running businesses or nations in the current timeline. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_I8R66hf.jpeg) -- 2024-12-26T04:47:04.678Z
+
+---
+
+Elon loosely talks about what makes companies succeed (or not)
+
+> “The outcome of any given company is the vector sum of the people within it. Improve the alignment of the individual vectors and their amplitude and the outcome will improve accordingly.”
+
+He is talking of effectiveness of constructive interference and how it can be applied to running businesses or nations in the current timeline. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_z8fMr42.png) -- 2024-12-26T04:44:43.961Z
+
+---
+
 I was able to build this feature in my content publisher application quickly (thanks to LLMs)
 
 I can now post to X and Bsky from this app. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_zlcLKzK.png) -- 2024-12-25T12:25:51.557Z
@@ -49,22 +64,6 @@ Eustress is all you need  -- 2024-12-22T06:03:16.268Z
 Learning in long, uninterrupted flow states.
 
 Executing in short, fast time boxes.   -- 2024-12-21T13:37:31.068Z
-
----
-
-agi has been achieved externally  -- 2024-12-21T04:20:16.860Z
-
----
-
-I’ve always wanted idea threads that easy to use. I try to use Excalidraw to create chain of ideas rendered as bubbles / nodes in a network.
-
-I can’t help but think about the new Pocket hardware that launched this week. 
-
-One catch phrase caught my attention. “Conversation threads” if I remember it correctly.
-
-This could help me out but I can’t say for sure. 
-
-Sometimes I wanna build it from scratch 🥹 because i genuinely believe being able to navigate idea chains without losing context is crucial in my professional life as of yet.  -- 2024-12-20T08:16:42.469Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
