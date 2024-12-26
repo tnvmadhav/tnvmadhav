@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Post of the day 😂 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_YweXi6C.png) -- 2024-12-26T07:35:22.697Z
+
+---
+
 “The outcome of any given company is the vector sum of the people within it. Improve the alignment of the individual vectors and their amplitude and the outcome will improve accordingly.” — Elon Musk
 
 
@@ -58,12 +62,6 @@ https://twitter.com/twitter/status/1870527558783218106/  -- 2024-12-22T09:52:44.
 ---
 
 Eustress is all you need  -- 2024-12-22T06:03:16.268Z
-
----
-
-Learning in long, uninterrupted flow states.
-
-Executing in short, fast time boxes.   -- 2024-12-21T13:37:31.068Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
