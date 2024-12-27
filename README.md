@@ -1,12 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> “there’s an ancient class war at play. the culture of the euro/anglo aristocracy is of elegant leisure, art patronage, athletics. the culture of the capitalist bourgeoisie is of constant striving, sheer Faustian drive, efficiency”
+
+> “the former is much more tasteful but the latter pays the civilizational dues”
+
+— [Roon](https://x.com/tszzl/status/1872477047085482442)
+
+There are times when every other role comes into play with increased ROI (civilization scale)  -- 2024-12-27T05:04:37.136Z
+
+---
+
 > More movies like Whiplash, fewer reruns of “Friends.” More math tutoring, fewer sleepovers. More weekend science competitions, fewer Saturday morning cartoons. More books, less TV. More creating, less “chillin.” More extracurriculars, less “hanging out at the mall.”
 
 -- [Vivek Ramaswamy](https://x.com/VivekGRamaswamy/status/1872312139945234507)
 
 
-Humans need to go harder.  -- 2024-12-27T04:33:27.517Z
+Vivek believes these are the times (of acc) where humans need to go harder to push humanity towards Kardeshev Type I and beyond.  -- 2024-12-27T05:01:21.953Z
 
 ---
 
@@ -56,13 +66,6 @@ https://www.youtube.com/watch?v=UGO_Ehywuxc
 
 
 I cannot believe I didn't come across this channel before.  -- 2024-12-25T07:11:57.775Z
-
----
-
-Wow! I just came across news that Christopher Nolan’s next movie (2026) is based on Homer’s The Odyssey
-
-
-Source: https://twitter.com/twitter/status/1871320030773727587/  -- 2024-12-24T02:43:17.934Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
