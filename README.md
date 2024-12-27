@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> More movies like Whiplash, fewer reruns of “Friends.” More math tutoring, fewer sleepovers. More weekend science competitions, fewer Saturday morning cartoons. More books, less TV. More creating, less “chillin.” More extracurriculars, less “hanging out at the mall.”
+
+-- [Vivek Ramaswamy](https://x.com/VivekGRamaswamy/status/1872312139945234507)
+
+
+Humans need to go harder.  -- 2024-12-27T04:33:27.517Z
+
+---
+
 I generated this activity aggregate report using https://git-wrapped.com -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XFrLK1L.png) -- 2024-12-27T04:15:03.120Z
 
 ---
@@ -54,14 +63,6 @@ Wow! I just came across news that Christopher Nolan’s next movie (2026) is bas
 
 
 Source: https://twitter.com/twitter/status/1871320030773727587/  -- 2024-12-24T02:43:17.934Z
-
----
-
-This doesn’t need to be said but There is so much compressed into this single sentence. Hopes of mankind. 
-
-If 2020s had a lesson, I must say this is a good reminder that one can try and learn a lot with A.I. assistants patiently helping you out. 
-
-https://twitter.com/twitter/status/1870527558783218106/  -- 2024-12-22T09:52:44.404Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
