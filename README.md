@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"Today I will do what I couldn't yesterday"
+
+I am yet again reminded of this and I think growth and motivation come down to this.  -- 2024-12-29T09:51:08.998Z
+
+---
+
 > “there’s an ancient class war at play. the culture of the euro/anglo aristocracy is of elegant leisure, art patronage, athletics. the culture of the capitalist bourgeoisie is of constant striving, sheer Faustian drive, efficiency”
 
 > “the former is much more tasteful but the latter pays the civilizational dues”
@@ -56,16 +62,6 @@ I can now post to X and Bsky from this app. -- [🏞️ Context #1](https://cpx.
 ---
 
 The urge to rewatch The Big Short for like the gazillionth time.  -- 2024-12-25T07:44:25.624Z
-
----
-
-I found this great explainer by Welch Labs on Mechanistic Interpretability:
-
-
-https://www.youtube.com/watch?v=UGO_Ehywuxc
-
-
-I cannot believe I didn't come across this channel before.  -- 2024-12-25T07:11:57.775Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
