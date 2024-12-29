@@ -74,6 +74,8 @@ NOTE: This feed is a sliding window. One can find [a significant portion of a fe
 ## Latest Blog Posts
 
 <!-- blog starts -->
+[Pieces of Media That I Often Have Thought About](https://tnvmadhav.me/blog/pieces-of-media-that-i-often-have-thought-about/) -- 2024-12-29T10:28:06+00:00
+
 [White Screen of Death on my iPhone](https://tnvmadhav.me/blog/white-screen-of-death-on-my-iphone/) -- 2024-09-22T10:00:35+00:00
 
 [Dynamic Feed on My Github Profile](https://tnvmadhav.me/blog/dynamic-feed-on-my-github-profile/) -- 2024-08-03T08:16:05+00:00
@@ -81,8 +83,6 @@ NOTE: This feed is a sliding window. One can find [a significant portion of a fe
 [Custom R.S.S. Feed Format in Hugo](https://tnvmadhav.me/blog/custom-rss-feed-format-in-hugo/) -- 2024-07-28T10:49:57+00:00
 
 [Jojo's Bizzare Adventure Season 5 Episode 28](https://tnvmadhav.me/blog/jojos-bizzare-adventure-season-5-episode-28/) -- 2024-07-12T16:29:41+00:00
-
-['Leonardo Da Vinci' by Walter Isaacson](https://tnvmadhav.me/blog/leonardo-da-vinci-by-walter-isaacson/) -- 2024-05-26T10:43:05+00:00
 
 More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 <!-- blog ends -->
