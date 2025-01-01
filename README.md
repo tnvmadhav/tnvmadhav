@@ -1,6 +1,24 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+John Carmack on LLMs and Interfaces:
+
+> LLM assistants are going to be a good forcing function to make sure all app features are accessible from a textual interface as well as a gui. Yes, a strong enough AI can drive a gui, but it makes so much more sense to just make the gui a wrapper around a command line interface that an LLM can talk to directly. ~ [John Carmack](https://x.com/ID_AA_Carmack/status/1874124927130886501)
+
+> "The question is will top AIs get better at gui faster than all apps add text. I think I have a guess" - [Andrej Karpathy](https://x.com/karpathy/status/1874150440289657237)
+
+> "There will probably be more conventional software written in the coming decade than ever before; the architecture of that software still matters! Better and worse affordances for AI should make a difference." - [John Carmack](https://x.com/ID_AA_Carmack/status/1874491960737792172)
+
+When developing software, we tend to generally first try to build a Linux program that works on the terminal via CLI command, etc, with the intention of running unit tests like preliminary runs to satisfy the human mind.
+
+Then, we integrate the said feature into whatever the product is.
+
+This thread reminds me of Stripe's DEV console CLI experience where every action that is possible via GUI can also be done via the Stripe CLI tool.
+
+So building tools and apps must be looked at as layers/ levels where level 1 is a functional CLI app and level 2 is a GUI that is catered to a human being and their ease of use. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_nbjr7EI.png) -- 2025-01-01T16:44:42.771Z
+
+---
+
 Guillermo Rauch, CEO of Vercel published a DOOM game-based captcha.
 
 Kill 3 enemies to pass the captcha.
@@ -82,14 +100,6 @@ Post of the day 😂 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/im
 
 
 He is talking of effectiveness of constructive interference and how it can be applied to running businesses or nations in the current timeline. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_I8R66hf.jpeg) -- 2024-12-26T04:47:04.678Z
-
----
-
-Elon loosely talks about what makes companies succeed (or not)
-
-> “The outcome of any given company is the vector sum of the people within it. Improve the alignment of the individual vectors and their amplitude and the outcome will improve accordingly.”
-
-He is talking of effectiveness of constructive interference and how it can be applied to running businesses or nations in the current timeline. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_z8fMr42.png) -- 2024-12-26T04:44:43.961Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
