@@ -1,6 +1,44 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Guillermo Rauch, CEO of Vercel published a DOOM game-based captcha.
+
+Kill 3 enemies to pass the captcha.
+
+Surprisingly difficult if you move away from the spawn point.
+
+[doom-captcha.vercel.app](https://doom-captcha.vercel.app)
+
+There's a "How it works" section but there doesn't seem to be a hard link to this section because it's all controlled by Javascript (spectacular RauchG fashion :wink: :wink:) but [here's the source code](https://github.com/rauchg/doom-captcha)
+
+
+Here's an X post by RauchG
+https://x.com/rauchg/status/1874130110120706556  -- 2025-01-01T16:15:32.679Z
+
+---
+
+I just stumbled upon a short and sweet post [via Hacker News](https://allenpike.com/2024/an-unreasonable-amount-of-time)
+
+It's essentially a note about getting started with something and a mindset to keep going forward.
+
+This post served as a good reminder to envision growth in the next quarter of the 21st century.
+
+A few points inspired from the post:
+
+1. Start small because expecting a big change will be overwhelming to the pondering mind
+
+2. It's okay even if you try to copy others because unconsciously and fortunately, you'll eventually add your spin onto it, and with the aid of time, whatever you're nurturing will turn out into something unique
+
+3. What looks like overnight success for others, is just an insane amount of work and discipline put behind the scene
+
+4. The effort someone who is at a stage you're striving towards has put will be more or less in the same ballpark as how much you will have to put so no point in comparing yourself to others
+
+> Sometimes magic is just someone spending more time on something than anyone else might reasonably expect.
+
+  -- 2025-01-01T15:59:38.001Z
+
+---
+
 I just realized that the century is 25% done and a lot has happened. 
 
 Here's to the next and stronger 25%!  -- 2025-01-01T13:54:07.343Z
@@ -52,18 +90,6 @@ Elon loosely talks about what makes companies succeed (or not)
 > “The outcome of any given company is the vector sum of the people within it. Improve the alignment of the individual vectors and their amplitude and the outcome will improve accordingly.”
 
 He is talking of effectiveness of constructive interference and how it can be applied to running businesses or nations in the current timeline. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_z8fMr42.png) -- 2024-12-26T04:44:43.961Z
-
----
-
-I was able to build this feature in my content publisher application quickly (thanks to LLMs)
-
-I can now post to X and Bsky from this app. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_zlcLKzK.png) -- 2024-12-25T12:25:51.557Z
-
----
-
-I was able to build this feature in my content publisher application quickly (thanks to LLMs)
-
-I can now post to X and Bsky from this app. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_DgCxiaK.png) -- 2024-12-25T11:34:45.303Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
