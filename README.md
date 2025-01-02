@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"One of my papers got declined today by the journal[...]This paper was also submitted elsewhere, and accepted" -- Terence Tao, [via Mastodon](https://mathstodon.xyz/@tao/113721192051328193)
+
+> [...]Because of this, a perception can be created that all of one's peers are achieving either success or controversy, with one's own personal career ending up becoming the only known source of examples of "mundane" failure.  I speculate that this may be a contributor to the "impostor syndrome" that is prevalent in this field (though, again, not widely disseminated, due to the aforementioned reporting bias, and perhaps also due to some stigma regarding the topic).
+
+> Rejection is actually a relatively common occurrence for me, happening once or twice a year on average.
+
+> I find it best not to take these sorts of rejections personally, and move on to other journals, of course after revising the paper to address any issues brought up by the rejection.
+
+
+You only fail if you give up.  -- 2025-01-02T03:54:43.113Z
+
+---
+
 John Carmack on LLMs and Interfaces:
 
 > LLM assistants are going to be a good forcing function to make sure all app features are accessible from a textual interface as well as a gui. Yes, a strong enough AI can drive a gui, but it makes so much more sense to just make the gui a wrapper around a command line interface that an LLM can talk to directly. ~ [John Carmack](https://x.com/ID_AA_Carmack/status/1874124927130886501)
@@ -93,13 +106,6 @@ I generated this activity aggregate report using https://git-wrapped.com -- [�
 ---
 
 Post of the day 😂 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_YweXi6C.png) -- 2024-12-26T07:35:22.697Z
-
----
-
-“The outcome of any given company is the vector sum of the people within it. Improve the alignment of the individual vectors and their amplitude and the outcome will improve accordingly.” — Elon Musk
-
-
-He is talking of effectiveness of constructive interference and how it can be applied to running businesses or nations in the current timeline. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_I8R66hf.jpeg) -- 2024-12-26T04:47:04.678Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
