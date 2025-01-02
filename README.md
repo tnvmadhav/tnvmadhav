@@ -10,7 +10,7 @@
 > I find it best not to take these sorts of rejections personally, and move on to other journals, of course after revising the paper to address any issues brought up by the rejection.
 
 
-You only fail if you give up.  -- 2025-01-02T03:55:44.756Z
+You only fail if you give up.  -- 2025-01-02T06:30:05.896Z
 
 ---
 
