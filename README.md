@@ -1,6 +1,26 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If you plan on levelling up your technical writing / blog post (meant for education), you'd like to visit this guide once in a while.
+ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_U0jlrsM.png) -- 2025-01-03T12:34:54.244Z
+
+---
+
+I found myself reading the (well-written) [Rules of Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)[^1].
+
+I'd started [publishing guides](https://tnvmadhav.me/guides/) for beginners[^2] and I found some value in the aforementioned post, that I will be inculcating in my future guides.
+
+I'd highly recommend a read if you're a developer planning to write guides or technical documentation.
+
+
+[^1]: which I found on visiting [the front page of hacker news.](https://news.ycombinator.com/item?id=42574641 )
+
+[^2]: Or just... me in a couple of years where I might be needing a refresher.
+
+  -- 2025-01-03T12:20:17.146Z
+
+---
+
 I think it’s about time where we need be able to build stuff incredibly quickly like physically build infrastructure, incredibly quickly with technology.  -- 2025-01-03T07:00:03.320Z
 
 ---
@@ -87,25 +107,6 @@ Here's to the next and stronger 25%!  -- 2025-01-01T13:54:07.343Z
 "Today I will do what I couldn't yesterday"
 
 I am yet again reminded of this and I think growth and motivation come down to this.  -- 2024-12-29T09:51:08.998Z
-
----
-
-> “there’s an ancient class war at play. the culture of the euro/anglo aristocracy is of elegant leisure, art patronage, athletics. the culture of the capitalist bourgeoisie is of constant striving, sheer Faustian drive, efficiency”
-
-> “the former is much more tasteful but the latter pays the civilizational dues”
-
-— [Roon](https://x.com/tszzl/status/1872477047085482442)
-
-There are times when every other role comes into play with increased ROI (civilization scale)  -- 2024-12-27T05:04:37.136Z
-
----
-
-> More movies like Whiplash, fewer reruns of “Friends.” More math tutoring, fewer sleepovers. More weekend science competitions, fewer Saturday morning cartoons. More books, less TV. More creating, less “chillin.” More extracurriculars, less “hanging out at the mall.”
-
--- [Vivek Ramaswamy](https://x.com/VivekGRamaswamy/status/1872312139945234507)
-
-
-Vivek believes these are the times (of acc) where humans need to go harder to push humanity towards Kardeshev Type I and beyond.  -- 2024-12-27T05:01:21.953Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
