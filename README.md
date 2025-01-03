@@ -1,6 +1,31 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+How to learn marketing and sales as a solo entrepreneur?
+
+
+[BitBasher](https://news.ycombinator.com/item?id=42561176)
+
+> "I built and run a saas product solo (> $500k/year). Honestly, I have never found any advice useful[...]
+
+>[...]My business is b2b and it's a platform for certain kinds of professionals as well as an API that powers many well known businesses.
+
+1. Networking
+2. Long Game w/ SEO, Word of Mouth
+
+> "I'd say focus on the long game from day one (blog posts, good marketing pages, etc)."
+
+> "If no one wants to talk to you about it, no one is going to want to pay for it."
+
+More...
+[A bunch of resources linked in replies](https://news.ycombinator.com/item?id=42558603)
+
+
+
+  -- 2025-01-03T15:55:05.498Z
+
+---
+
 If you plan on levelling up your technical writing / blog post (meant for education), you'd like to visit this guide once in a while.
  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_U0jlrsM.png) -- 2025-01-03T12:34:54.244Z
 
@@ -101,12 +126,6 @@ A few points inspired from the post:
 I just realized that the century is 25% done and a lot has happened. 
 
 Here's to the next and stronger 25%!  -- 2025-01-01T13:54:07.343Z
-
----
-
-"Today I will do what I couldn't yesterday"
-
-I am yet again reminded of this and I think growth and motivation come down to this.  -- 2024-12-29T09:51:08.998Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
