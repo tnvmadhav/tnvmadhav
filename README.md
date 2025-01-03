@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I think it’s about time where we need be able to build stuff incredibly quickly like physically build infrastructure, incredibly quickly with technology.  -- 2025-01-03T06:53:03.831Z
+
+---
+
+it’s funny that it has to be said this way, but programming today is being mainly used to apply solved problems and build stuff on top of that but believe programming was introduced for different reason, to find solutions to problems that a human brain cannot explore, naturally with ease.  -- 2025-01-03T06:46:27.806Z
+
+---
+
 "One of my papers got declined today by the journal[...]This paper was also submitted elsewhere, and accepted" -- Terence Tao, [via Mastodon](https://mathstodon.xyz/@tao/113721192051328193)
 
 > [...]Because of this, a perception can be created that all of one's peers are achieving either success or controversy, with one's own personal career ending up becoming the only known source of examples of "mundane" failure.  I speculate that this may be a contributor to the "impostor syndrome" that is prevalent in this field (though, again, not widely disseminated, due to the aforementioned reporting bias, and perhaps also due to some stigma regarding the topic).
@@ -98,14 +106,6 @@ There are times when every other role comes into play with increased ROI (civili
 
 
 Vivek believes these are the times (of acc) where humans need to go harder to push humanity towards Kardeshev Type I and beyond.  -- 2024-12-27T05:01:21.953Z
-
----
-
-I generated this activity aggregate report using https://git-wrapped.com -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XFrLK1L.png) -- 2024-12-27T04:15:03.120Z
-
----
-
-Post of the day 😂 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_YweXi6C.png) -- 2024-12-26T07:35:22.697Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
