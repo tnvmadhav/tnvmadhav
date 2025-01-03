@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Yet again reminded of this. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_aJ5OlkK.png) -- 2025-01-03T15:58:07.497Z
+
+---
+
 How to learn marketing and sales as a solo entrepreneur?
 
 
@@ -120,12 +124,6 @@ A few points inspired from the post:
 > Sometimes magic is just someone spending more time on something than anyone else might reasonably expect.
 
   -- 2025-01-01T15:59:38.001Z
-
----
-
-I just realized that the century is 25% done and a lot has happened. 
-
-Here's to the next and stronger 25%!  -- 2025-01-01T13:54:07.343Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
