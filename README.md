@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+every time I see Adam interacting with a nakamoto post, I’m reminded that he could most definitely be nakamoto 😆  -- 2025-01-04T04:28:16.127Z
+
+---
+
 Yet again reminded of this. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_aJ5OlkK.png) -- 2025-01-03T15:58:07.497Z
 
 ---
@@ -102,28 +106,6 @@ There's a "How it works" section but there doesn't seem to be a hard link to thi
 
 Here's an X post by RauchG
 https://x.com/rauchg/status/1874130110120706556  -- 2025-01-01T16:15:32.679Z
-
----
-
-I just stumbled upon a short and sweet post [via Hacker News](https://allenpike.com/2024/an-unreasonable-amount-of-time)
-
-It's essentially a note about getting started with something and a mindset to keep going forward.
-
-This post served as a good reminder to envision growth in the next quarter of the 21st century.
-
-A few points inspired from the post:
-
-1. Start small because expecting a big change will be overwhelming to the pondering mind
-
-2. It's okay even if you try to copy others because unconsciously and fortunately, you'll eventually add your spin onto it, and with the aid of time, whatever you're nurturing will turn out into something unique
-
-3. What looks like overnight success for others, is just an insane amount of work and discipline put behind the scene
-
-4. The effort someone who is at a stage you're striving towards has put will be more or less in the same ballpark as how much you will have to put so no point in comparing yourself to others
-
-> Sometimes magic is just someone spending more time on something than anyone else might reasonably expect.
-
-  -- 2025-01-01T15:59:38.001Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
