@@ -1,11 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-every time I see Adam interacting with a nakamoto post, I’m reminded that he could most definitely be nakamoto 😆  -- 2025-01-04T04:28:16.127Z
+If you plan on levelling up your technical writing / blog post (meant for education), you'd like to visit this guide once in a while.
+ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_U0jlrsM.png) -- 2025-01-04T06:30:18.727Z
 
 ---
 
-Yet again reminded of this. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_aJ5OlkK.png) -- 2025-01-03T15:58:07.497Z
+Yet again reminded of this. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_aJ5OlkK.png) -- 2025-01-04T06:30:07.062Z
+
+---
+
+every time I see Adam interacting with a nakamoto post, I’m reminded that he could most definitely be nakamoto 😆  -- 2025-01-04T04:28:16.127Z
 
 ---
 
@@ -31,11 +36,6 @@ More...
 
 
   -- 2025-01-03T15:55:05.498Z
-
----
-
-If you plan on levelling up your technical writing / blog post (meant for education), you'd like to visit this guide once in a while.
- -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_U0jlrsM.png) -- 2025-01-03T12:34:54.244Z
 
 ---
 
