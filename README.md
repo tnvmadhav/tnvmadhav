@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+An A.I. agent that is trained on your taste.
+You tell it what you want (regularly or just ad-hoc), and give it constraints if you're in a hurry.
+It scours the web, finds links, measures as per your taste, and gives you a compilation.
+You should be able to let it know what taste you'd like to develop.
+Inherit this agent and deploy it to learning, shopping, exploring, etc.
+
+In short, it is all aspects of life that you want to grow in.  -- 2025-01-05T04:04:00.072Z
+
+---
+
 I really don't know why but this snippet reminds me of the phrase
 
 "[...]an unstoppable force meets an immovable object"
@@ -86,24 +96,6 @@ it’s funny that it has to be said this way, but programming today is being mai
 
 
 You only fail if you give up.  -- 2025-01-02T06:30:05.896Z
-
----
-
-John Carmack on LLMs and Interfaces:
-
-> LLM assistants are going to be a good forcing function to make sure all app features are accessible from a textual interface as well as a gui. Yes, a strong enough AI can drive a gui, but it makes so much more sense to just make the gui a wrapper around a command line interface that an LLM can talk to directly. ~ [John Carmack](https://x.com/ID_AA_Carmack/status/1874124927130886501)
-
-> "The question is will top AIs get better at gui faster than all apps add text. I think I have a guess" - [Andrej Karpathy](https://x.com/karpathy/status/1874150440289657237)
-
-> "There will probably be more conventional software written in the coming decade than ever before; the architecture of that software still matters! Better and worse affordances for AI should make a difference." - [John Carmack](https://x.com/ID_AA_Carmack/status/1874491960737792172)
-
-When developing software, we tend to generally first try to build a Linux program that works on the terminal via CLI command, etc, with the intention of running unit tests like preliminary runs to satisfy the human mind.
-
-Then, we integrate the said feature into whatever the product is.
-
-This thread reminds me of Stripe's DEV console CLI experience where every action that is possible via GUI can also be done via the Stripe CLI tool.
-
-So building tools and apps must be looked at as layers/ levels where level 1 is a functional CLI app and level 2 is a GUI that is catered to a human being and their ease of use. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_nbjr7EI.png) -- 2025-01-01T16:44:42.771Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
