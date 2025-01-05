@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Pacific Rim (2013) is such a good movie.  -- 2025-01-05T13:25:28.373Z
+
+---
+
 An A.I. agent that is trained on your taste.
 You tell it what you want (regularly or just ad-hoc), and give it constraints if you're in a hurry.
 It scours the web, finds links, measures as per your taste, and gives you a compilation.
@@ -83,19 +87,6 @@ I think it’s about time where we need be able to build stuff incredibly quickl
 ---
 
 it’s funny that it has to be said this way, but programming today is being mainly used to apply solved problems and build stuff on top of that but believe programming was introduced for different reason, to find solutions to problems that a human brain cannot explore, naturally with ease.  -- 2025-01-03T06:46:27.806Z
-
----
-
-"One of my papers got declined today by the journal[...]This paper was also submitted elsewhere, and accepted" -- Terence Tao, [via Mastodon](https://mathstodon.xyz/@tao/113721192051328193)
-
-> [...]Because of this, a perception can be created that all of one's peers are achieving either success or controversy, with one's own personal career ending up becoming the only known source of examples of "mundane" failure.  I speculate that this may be a contributor to the "impostor syndrome" that is prevalent in this field (though, again, not widely disseminated, due to the aforementioned reporting bias, and perhaps also due to some stigma regarding the topic).
-
-> Rejection is actually a relatively common occurrence for me, happening once or twice a year on average.
-
-> I find it best not to take these sorts of rejections personally, and move on to other journals, of course after revising the paper to address any issues brought up by the rejection.
-
-
-You only fail if you give up.  -- 2025-01-02T06:30:05.896Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
