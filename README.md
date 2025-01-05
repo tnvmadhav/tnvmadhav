@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I really don't know why but this snippet reminds me of the phrase
+
+"[...]an unstoppable force meets an immovable object"
+
+Not because I think there is a 1:1 mapping to this phrase but reminiscence.
+
+
+[Source](https://x.com/bryan_johnson/status/1871953918076531023)
+
+
+[more for context](https://x.com/Gregoresate/status/1875378652722139253) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_VEH8OtL.png) -- 2025-01-05T03:03:36.929Z
+
+---
+
 If you plan on levelling up your technical writing / blog post (meant for education), you'd like to visit this guide once in a while.
  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_U0jlrsM.png) -- 2025-01-04T06:30:18.727Z
 
@@ -90,22 +104,6 @@ Then, we integrate the said feature into whatever the product is.
 This thread reminds me of Stripe's DEV console CLI experience where every action that is possible via GUI can also be done via the Stripe CLI tool.
 
 So building tools and apps must be looked at as layers/ levels where level 1 is a functional CLI app and level 2 is a GUI that is catered to a human being and their ease of use. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_nbjr7EI.png) -- 2025-01-01T16:44:42.771Z
-
----
-
-Guillermo Rauch, CEO of Vercel published a DOOM game-based captcha.
-
-Kill 3 enemies to pass the captcha.
-
-Surprisingly difficult if you move away from the spawn point.
-
-[doom-captcha.vercel.app](https://doom-captcha.vercel.app)
-
-There's a "How it works" section but there doesn't seem to be a hard link to this section because it's all controlled by Javascript (spectacular RauchG fashion :wink: :wink:) but [here's the source code](https://github.com/rauchg/doom-captcha)
-
-
-Here's an X post by RauchG
-https://x.com/rauchg/status/1874130110120706556  -- 2025-01-01T16:15:32.679Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
