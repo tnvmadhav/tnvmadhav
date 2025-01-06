@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Excerpts from [Reflections (2025), a post by Sam Altman](https://blog.samaltman.com/reflections)
+
+> "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents “join the workforce” and materially change the output of companies. We continue to believe that iteratively putting great tools in the hands of people leads to great, broadly-distributed outcomes."
+
+> " Superintelligent tools could massively accelerate scientific discovery and innovation well beyond what we are capable of doing on our own, and in turn massively increase abundance and prosperity."
+
+Two years after incredible growth, OpenAI is moving the goalpost to A.S.I. beyond the relatively myopic A.G.I. goalpost[^1].
+
+What sort of scaling laws apply here?
+
+If A.S.I. is the goal, then is it okay for a "product" company to be the one to lead it's efforts? No clear answers but the mind is curious.
+
+[^1] I'm curious to see what sort of approach one(by that I mean an entire  organization of industry-leading teams of researchers) would take to move to A.S.I.  -- 2025-01-06T01:54:06.149Z
+
+---
+
 Pacific Rim (2013) is such a good movie.  -- 2025-01-05T13:25:28.373Z
 
 ---
@@ -83,10 +99,6 @@ I'd highly recommend a read if you're a developer planning to write guides or te
 ---
 
 I think it’s about time where we need be able to build stuff incredibly quickly like physically build infrastructure, incredibly quickly with technology.  -- 2025-01-03T07:00:03.320Z
-
----
-
-it’s funny that it has to be said this way, but programming today is being mainly used to apply solved problems and build stuff on top of that but believe programming was introduced for different reason, to find solutions to problems that a human brain cannot explore, naturally with ease.  -- 2025-01-03T06:46:27.806Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
