@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> What beautiful irony: The prize for catching the carrot is the realization that chasing it was more fun -- DHH on the recent post by the CEO of Loom
+
+Source: [Delusional dreams of excess freedom](https://world.hey.com/dhh/delusional-dreams-of-excess-freedom-e7507662) 
+
+
+This reminds me of the quote from Ging Freecss from [Hunter X Hunter](https://en.wikipedia.org/wiki/Hunter_×_Hunter)
+
+> "You should enjoy the little detours to the fullest. Because that's where you'll find things more important than what you want" -- Ging Freecss -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AYHqVPg.png) -- 2025-01-07T03:09:41.790Z
+
+---
+
 Excerpts from [Reflections (2025), a post by Sam Altman](https://blog.samaltman.com/reflections)
 
 > "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents “join the workforce” and materially change the output of companies. We continue to believe that iteratively putting great tools in the hands of people leads to great, broadly-distributed outcomes."
@@ -95,10 +106,6 @@ I'd highly recommend a read if you're a developer planning to write guides or te
 [^2]: Or just... me in a couple of years where I might be needing a refresher.
 
   -- 2025-01-03T12:20:17.146Z
-
----
-
-I think it’s about time where we need be able to build stuff incredibly quickly like physically build infrastructure, incredibly quickly with technology.  -- 2025-01-03T07:00:03.320Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
