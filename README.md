@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+A nice post[^1] on dealing with large codebases in general:
+
+> Summary
+> - Large codebases are worth working in because they usually pay your salary
+> - By far the most important thing is consistency
+> - Never start a feature without first researching prior art in the codebase
+> - If you don’t follow existing patterns, you better have a very good reason for it
+> - Understand the production footprint of the codebase
+> - Don’t expect to be able to test every case - instead, rely on monitoring
+> - Remove code any chance you get, but be very careful about it
+> - Make it as easy as possible for domain experts to catch your mistakes
+
+[^1]: Source: [Large Established Codebases by Sean Goedecke](https://www.seangoedecke.com/large-established-codebases/)  -- 2025-01-08T07:38:00.749Z
+
+---
+
 The state of AI assisted programming by Gergely Orosz and Addy Osmani
 
 https://open.substack.com/pub/pragmaticengineer/p/how-ai-will-change-software-engineering  -- 2025-01-08T07:22:39.151Z
@@ -72,31 +88,6 @@ Yet again reminded of this. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/con
 ---
 
 every time I see Adam interacting with a nakamoto post, I’m reminded that he could most definitely be nakamoto 😆  -- 2025-01-04T04:28:16.127Z
-
----
-
-How to learn marketing and sales as a solo entrepreneur?
-
-
-[BitBasher](https://news.ycombinator.com/item?id=42561176)
-
-> "I built and run a saas product solo (> $500k/year). Honestly, I have never found any advice useful[...]
-
->[...]My business is b2b and it's a platform for certain kinds of professionals as well as an API that powers many well known businesses.
-
-1. Networking
-2. Long Game w/ SEO, Word of Mouth
-
-> "I'd say focus on the long game from day one (blog posts, good marketing pages, etc)."
-
-> "If no one wants to talk to you about it, no one is going to want to pay for it."
-
-More...
-[A bunch of resources linked in replies](https://news.ycombinator.com/item?id=42558603)
-
-
-
-  -- 2025-01-03T15:55:05.498Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
