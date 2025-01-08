@@ -3,7 +3,7 @@
 <!-- feed starts -->
 The state of AI assisted programming by Gergely Orosz and Addy Osmani
 
-https://open.substack.com/pub/pragmaticengineer/p/how-ai-will-change-software-engineering  -- 2025-01-07T05:12:26.464Z
+https://open.substack.com/pub/pragmaticengineer/p/how-ai-will-change-software-engineering  -- 2025-01-08T07:22:39.151Z
 
 ---
 
