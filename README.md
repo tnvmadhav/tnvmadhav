@@ -13,7 +13,7 @@ A nice post[^1] on dealing with large codebases in general:
 > - Remove code any chance you get, but be very careful about it
 > - Make it as easy as possible for domain experts to catch your mistakes
 
-[^1]: Source: [Large Established Codebases by Sean Goedecke](https://www.seangoedecke.com/large-established-codebases/)  -- 2025-01-08T07:38:00.749Z
+[^1]: Source: [Large Established Codebases by Sean Goedecke](https://www.seangoedecke.com/large-established-codebases/)  -- 2025-01-08T12:30:03.744Z
 
 ---
 
