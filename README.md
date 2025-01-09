@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Paul Graham [posted](https://twitter.com/twitter/status/1877109333269360719/) images of his workspace/library, and it’s remarkable.  -- 2025-01-09T03:20:59.152Z
+
+---
+
 A nice post[^1] on dealing with large codebases in general:
 
 > Summary
@@ -84,10 +88,6 @@ If you plan on levelling up your technical writing / blog post (meant for educat
 ---
 
 Yet again reminded of this. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_aJ5OlkK.png) -- 2025-01-04T06:30:07.062Z
-
----
-
-every time I see Adam interacting with a nakamoto post, I’m reminded that he could most definitely be nakamoto 😆  -- 2025-01-04T04:28:16.127Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
