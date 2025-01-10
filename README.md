@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I came across the term "impedance mismatch" when revisiting the concept of demultiplexing. 
+
+It turns out that the term is used in multiple contexts like in database management, demultiplexing (and now in just about anything that involves comparison of expectation vs reality).
+
+
+I stumbled upon [this devblog](https://devblogs.microsoft.com/oldnewthing/20180123-00/?p=97865) by Raymond Chen.   -- 2025-01-10T10:55:40.906Z
+
+---
+
 Paul Graham [posted](https://twitter.com/twitter/status/1877109333269360719/) images of his workspace/library, and it’s remarkable.  -- 2025-01-09T06:30:03.366Z
 
 ---
@@ -84,10 +93,6 @@ Not because I think there is a 1:1 mapping to this phrase but reminiscence.
 
 If you plan on levelling up your technical writing / blog post (meant for education), you'd like to visit this guide once in a while.
  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_U0jlrsM.png) -- 2025-01-04T06:30:18.727Z
-
----
-
-Yet again reminded of this. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_aJ5OlkK.png) -- 2025-01-04T06:30:07.062Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
