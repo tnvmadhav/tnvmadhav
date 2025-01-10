@@ -6,7 +6,7 @@ I came across the term "impedance mismatch" when revisiting the concept of demul
 It turns out that the term is used in multiple contexts like in database management, demultiplexing (and now in just about anything that involves comparison of expectation vs reality).
 
 
-I stumbled upon [this devblog](https://devblogs.microsoft.com/oldnewthing/20180123-00/?p=97865) by Raymond Chen.   -- 2025-01-10T10:55:40.906Z
+I stumbled upon [this devblog](https://devblogs.microsoft.com/oldnewthing/20180123-00/?p=97865) by Raymond Chen.   -- 2025-01-10T12:30:05.467Z
 
 ---
 
