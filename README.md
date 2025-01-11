@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The 'Grok please explain this tweet' button is such as good feature.
+
+nice work @X  -- 2025-01-11T04:27:07.315Z
+
+---
+
 I came across the term "impedance mismatch" when revisiting the concept of demultiplexing. 
 
 It turns out that the term is used in multiple contexts like in database management, demultiplexing (and now in just about anything that involves comparison of expectation vs reality).
@@ -88,11 +94,6 @@ Not because I think there is a 1:1 mapping to this phrase but reminiscence.
 
 
 [more for context](https://x.com/Gregoresate/status/1875378652722139253) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_VEH8OtL.png) -- 2025-01-05T03:03:36.929Z
-
----
-
-If you plan on levelling up your technical writing / blog post (meant for education), you'd like to visit this guide once in a while.
- -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_U0jlrsM.png) -- 2025-01-04T06:30:18.727Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
