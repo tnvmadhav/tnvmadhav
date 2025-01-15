@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+So much to do so little time and energy.  -- 2025-01-15T13:58:42.539Z
+
+---
+
 The 'Grok please explain this tweet' button is such as good feature.
 
 nice work @X  -- 2025-01-11T04:27:07.315Z
@@ -80,20 +84,6 @@ You should be able to let it know what taste you'd like to develop.
 Inherit this agent and deploy it to learning, shopping, exploring, etc.
 
 In short, it is all aspects of life that you want to grow in.  -- 2025-01-05T04:04:00.072Z
-
----
-
-I really don't know why but this snippet reminds me of the phrase
-
-"[...]an unstoppable force meets an immovable object"
-
-Not because I think there is a 1:1 mapping to this phrase but reminiscence.
-
-
-[Source](https://x.com/bryan_johnson/status/1871953918076531023)
-
-
-[more for context](https://x.com/Gregoresate/status/1875378652722139253) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_VEH8OtL.png) -- 2025-01-05T03:03:36.929Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
