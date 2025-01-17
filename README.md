@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Here's a curated list of software stories about crazy bugs.
+
+
+Source: [Software Folklore](http://beza1e1.tuxen.de/lore/index.html) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_oKLgN9K.png) -- 2025-01-17T04:01:06.208Z
+
+---
+
 So much to do so little time and energy.  -- 2025-01-15T13:58:42.539Z
 
 ---
@@ -74,16 +81,6 @@ If A.S.I. is the goal, then is it okay for a "product" company to be the one to 
 ---
 
 Pacific Rim (2013) is such a good movie.  -- 2025-01-05T13:25:28.373Z
-
----
-
-An A.I. agent that is trained on your taste.
-You tell it what you want (regularly or just ad-hoc), and give it constraints if you're in a hurry.
-It scours the web, finds links, measures as per your taste, and gives you a compilation.
-You should be able to let it know what taste you'd like to develop.
-Inherit this agent and deploy it to learning, shopping, exploring, etc.
-
-In short, it is all aspects of life that you want to grow in.  -- 2025-01-05T04:04:00.072Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
