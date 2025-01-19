@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The first step is the draft for the next.
+
+Laying down the first brick gives you perspective to help lay down the next.  -- 2025-01-19T16:49:52.877Z
+
+---
+
 Here's a curated list of software stories about crazy bugs.
 
 
@@ -77,10 +83,6 @@ What sort of scaling laws apply here?
 If A.S.I. is the goal, then is it okay for a "product" company to be the one to lead it's efforts? No clear answers but the mind is curious.
 
 [^1] I'm curious to see what sort of approach one(by that I mean an entire  organization of industry-leading teams of researchers) would take to move to A.S.I.  -- 2025-01-06T01:54:06.149Z
-
----
-
-Pacific Rim (2013) is such a good movie.  -- 2025-01-05T13:25:28.373Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
