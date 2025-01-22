@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"LLMs are awesome and limited"
+
+LLMs are great at things that require relatively lesser effort than generating the input itself[^1].
+
+
+[^1]: https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far  -- 2025-01-22T11:16:57.395Z
+
+---
+
 I found this super interesting HN thread[^1] of instances/spaces where people are using small language models to solve specific problems
 
 [^1]: https://news.ycombinator.com/item?id=42784365  -- 2025-01-22T02:43:50.560Z
@@ -62,17 +71,6 @@ A nice post[^1] on dealing with large codebases in general:
 The state of AI assisted programming by Gergely Orosz and Addy Osmani
 
 https://open.substack.com/pub/pragmaticengineer/p/how-ai-will-change-software-engineering  -- 2025-01-08T07:22:39.151Z
-
----
-
-> What beautiful irony: The prize for catching the carrot is the realization that chasing it was more fun -- DHH on the recent post by the CEO of Loom
-
-Source: [Delusional dreams of excess freedom](https://world.hey.com/dhh/delusional-dreams-of-excess-freedom-e7507662) 
-
-
-This reminds me of the quote from Ging Freecss from [Hunter X Hunter](https://en.wikipedia.org/wiki/Hunter_×_Hunter)
-
-> "You should enjoy the little detours to the fullest. Because that's where you'll find things more important than what you want" -- Ging Freecss -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AYHqVPg.png) -- 2025-01-07T03:09:41.790Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
