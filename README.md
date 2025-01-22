@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I found this super interesting HN thread[^1] of instances/spaces where people are using small language models to solve specific problems
+
+[^1]: https://news.ycombinator.com/item?id=42784365  -- 2025-01-22T02:43:50.560Z
+
+---
+
 The first step is the draft for the next.
 
 Laying down the first brick gives you perspective to help lay down the next.  -- 2025-01-19T16:49:52.877Z
@@ -67,22 +73,6 @@ Source: [Delusional dreams of excess freedom](https://world.hey.com/dhh/delusion
 This reminds me of the quote from Ging Freecss from [Hunter X Hunter](https://en.wikipedia.org/wiki/Hunter_×_Hunter)
 
 > "You should enjoy the little detours to the fullest. Because that's where you'll find things more important than what you want" -- Ging Freecss -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AYHqVPg.png) -- 2025-01-07T03:09:41.790Z
-
----
-
-Excerpts from [Reflections (2025), a post by Sam Altman](https://blog.samaltman.com/reflections)
-
-> "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents “join the workforce” and materially change the output of companies. We continue to believe that iteratively putting great tools in the hands of people leads to great, broadly-distributed outcomes."
-
-> " Superintelligent tools could massively accelerate scientific discovery and innovation well beyond what we are capable of doing on our own, and in turn massively increase abundance and prosperity."
-
-Two years after incredible growth, OpenAI is moving the goalpost to A.S.I. beyond the relatively myopic A.G.I. goalpost[^1].
-
-What sort of scaling laws apply here?
-
-If A.S.I. is the goal, then is it okay for a "product" company to be the one to lead it's efforts? No clear answers but the mind is curious.
-
-[^1] I'm curious to see what sort of approach one(by that I mean an entire  organization of industry-leading teams of researchers) would take to move to A.S.I.  -- 2025-01-06T01:54:06.149Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
