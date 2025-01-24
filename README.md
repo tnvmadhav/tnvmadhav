@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+majority of dopamine rush in software engineering comes from being able to reproduce bugs that couldn't be easily before.  -- 2025-01-24T11:43:23.105Z
+
+---
+
 "LLMs are awesome and limited"
 
 LLMs are great at things that require relatively lesser effort than generating the input itself[^1].
@@ -65,12 +69,6 @@ A nice post[^1] on dealing with large codebases in general:
 > - Make it as easy as possible for domain experts to catch your mistakes
 
 [^1]: Source: [Large Established Codebases by Sean Goedecke](https://www.seangoedecke.com/large-established-codebases/)  -- 2025-01-08T12:30:03.744Z
-
----
-
-The state of AI assisted programming by Gergely Orosz and Addy Osmani
-
-https://open.substack.com/pub/pragmaticengineer/p/how-ai-will-change-software-engineering  -- 2025-01-08T07:22:39.151Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
