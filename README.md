@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Cal Newport on TikTok[^1]
+
+> When I sign in for the first time, TikTok asks me to choose my interests from a long list illustrated by cheerful emojis. I select “Life Hacks,” “Science and Education,” and “Sports.” Then I’m off. The first video shows the Clemson University baseball team playing an exhibition game against the Savannah Bananas, a professional touring squad. The Clemson infield, for some inscrutable reason, starts dancing. I swipe up. A new video begins, showing someone selecting shoes at a store. The video is only ten seconds long; by the time I’ve finished jotting down some notes, it has already started replaying. I hastily swipe again. The next video plays tranquil music while a car slowly drives toward Yosemite National Park. The algorithm must have noticed that I lingered on the wintry scene: the next video shows someone sweeping snow off a porch with some kind of rotating broom contraption. Then the feed takes a darker turn, which makes me want to scroll even faster. I see a news story about a person being pushed onto subway tracks in Manhattan—swipe—a Trump video set to ominous music—swipe—“Top 15 Most Ghetto High Schools in New Jersey”—swipe—and someone making fun of a server’s accent in a restaurant. I shut down the app.
+
+But if he were to again, I really hope he doesn't come across "brain rot" ever but a part of me wants him to go down that rabbit hole (and write about how he felt).
+
+
+[^1]: https://archive.ph/PgFeC#selection-705.0-705.1232  -- 2025-01-25T05:09:48.650Z
+
+---
+
 majority of dopamine rush in software engineering comes from being able to reproduce bugs that couldn't be easily before.  -- 2025-01-24T11:43:23.105Z
 
 ---
@@ -53,22 +64,6 @@ I stumbled upon [this devblog](https://devblogs.microsoft.com/oldnewthing/201801
 ---
 
 Paul Graham [posted](https://twitter.com/twitter/status/1877109333269360719/) images of his workspace/library, and it’s remarkable.  -- 2025-01-09T06:30:03.366Z
-
----
-
-A nice post[^1] on dealing with large codebases in general:
-
-> Summary
-> - Large codebases are worth working in because they usually pay your salary
-> - By far the most important thing is consistency
-> - Never start a feature without first researching prior art in the codebase
-> - If you don’t follow existing patterns, you better have a very good reason for it
-> - Understand the production footprint of the codebase
-> - Don’t expect to be able to test every case - instead, rely on monitoring
-> - Remove code any chance you get, but be very careful about it
-> - Make it as easy as possible for domain experts to catch your mistakes
-
-[^1]: Source: [Large Established Codebases by Sean Goedecke](https://www.seangoedecke.com/large-established-codebases/)  -- 2025-01-08T12:30:03.744Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
