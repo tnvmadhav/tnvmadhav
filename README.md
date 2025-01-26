@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+me waiting for filmbuff to upload that one much awaited review and analysis episode. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_4101.gif) -- 2025-01-26T04:01:46.221Z
+
+---
+
 Cal Newport on TikTok[^1]
 
 > When I sign in for the first time, TikTok asks me to choose my interests from a long list illustrated by cheerful emojis. I select “Life Hacks,” “Science and Education,” and “Sports.” Then I’m off. The first video shows the Clemson University baseball team playing an exhibition game against the Savannah Bananas, a professional touring squad. The Clemson infield, for some inscrutable reason, starts dancing. I swipe up. A new video begins, showing someone selecting shoes at a store. The video is only ten seconds long; by the time I’ve finished jotting down some notes, it has already started replaying. I hastily swipe again. The next video plays tranquil music while a car slowly drives toward Yosemite National Park. The algorithm must have noticed that I lingered on the wintry scene: the next video shows someone sweeping snow off a porch with some kind of rotating broom contraption. Then the feed takes a darker turn, which makes me want to scroll even faster. I see a news story about a person being pushed onto subway tracks in Manhattan—swipe—a Trump video set to ominous music—swipe—“Top 15 Most Ghetto High Schools in New Jersey”—swipe—and someone making fun of a server’s accent in a restaurant. I shut down the app.
@@ -60,10 +64,6 @@ It turns out that the term is used in multiple contexts like in database managem
 
 
 I stumbled upon [this devblog](https://devblogs.microsoft.com/oldnewthing/20180123-00/?p=97865) by Raymond Chen.   -- 2025-01-10T12:30:05.467Z
-
----
-
-Paul Graham [posted](https://twitter.com/twitter/status/1877109333269360719/) images of his workspace/library, and it’s remarkable.  -- 2025-01-09T06:30:03.366Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
