@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"...and oh yes almost forgot that deepseek was a side project"
+
+https://x.com/karpathy/status/1872362712958906460  -- 2025-01-27T13:51:45.657Z
+
+---
+
 me waiting for filmbuff to upload that one much awaited review and analysis episode. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_4101.gif) -- 2025-01-26T04:01:46.221Z
 
 ---
@@ -55,15 +61,6 @@ So much to do so little time and energy.  -- 2025-01-15T13:58:42.539Z
 The 'Grok please explain this tweet' button is such as good feature.
 
 nice work @X  -- 2025-01-11T04:27:07.315Z
-
----
-
-I came across the term "impedance mismatch" when revisiting the concept of demultiplexing. 
-
-It turns out that the term is used in multiple contexts like in database management, demultiplexing (and now in just about anything that involves comparison of expectation vs reality).
-
-
-I stumbled upon [this devblog](https://devblogs.microsoft.com/oldnewthing/20180123-00/?p=97865) by Raymond Chen.   -- 2025-01-10T12:30:05.467Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
