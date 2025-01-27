@@ -3,7 +3,7 @@
 <!-- feed starts -->
 "...and oh yes almost forgot that deepseek was a side project"
 
-https://x.com/karpathy/status/1872362712958906460  -- 2025-01-27T13:51:45.657Z
+https://x.com/karpathy/status/1872362712958906460  -- 2025-01-27T14:00:24.691Z
 
 ---
 
