@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Genuinely think the race to A.G.I. needs the rivalry of this ilk and yes it has begun.
+
+https://x.com/LiangWenfeng_/status/1884080875450818754  -- 2025-01-28T03:34:05.894Z
+
+---
+
 "...and oh yes almost forgot that deepseek was a side project"
 
 https://x.com/karpathy/status/1872362712958906460  -- 2025-01-27T14:00:24.691Z
@@ -55,12 +61,6 @@ Source: [Software Folklore](http://beza1e1.tuxen.de/lore/index.html) -- [🏞️
 ---
 
 So much to do so little time and energy.  -- 2025-01-15T13:58:42.539Z
-
----
-
-The 'Grok please explain this tweet' button is such as good feature.
-
-nice work @X  -- 2025-01-11T04:27:07.315Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
