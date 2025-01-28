@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
+
+  -- 2025-01-28T11:19:34.846Z
+
+---
+
+listening to marc andreessen on lex fridman...
+
+https://x.com/TnvMadhav/status/1862128639531499725  -- 2025-01-28T11:17:22.951Z
+
+---
+
 Genuinely think the race to A.G.I. needs the rivalry of this ilk and yes it has begun.
 
 https://x.com/LiangWenfeng_/status/1884080875450818754
@@ -53,17 +65,6 @@ I found this super interesting HN thread[^1] of instances/spaces where people ar
 The first step is the draft for the next.
 
 Laying down the first brick gives you perspective to help lay down the next.  -- 2025-01-19T16:49:52.877Z
-
----
-
-Here's a curated list of software stories about crazy bugs.
-
-
-Source: [Software Folklore](http://beza1e1.tuxen.de/lore/index.html) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_oKLgN9K.png) -- 2025-01-17T04:01:06.208Z
-
----
-
-So much to do so little time and energy.  -- 2025-01-15T13:58:42.539Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
