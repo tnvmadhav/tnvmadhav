@@ -1,15 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-> "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
+listening to marc andreessen on lex fridman...
 
-  -- 2025-01-28T11:26:20.936Z
+https://x.com/TnvMadhav/status/1862128639531499725  -- 2025-01-28T13:30:02.882Z
 
 ---
 
-listening to marc andreessen on lex fridman...
+> "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
 
-https://x.com/TnvMadhav/status/1862128639531499725  -- 2025-01-28T11:17:22.951Z
+  -- 2025-01-28T11:26:20.936Z
 
 ---
 
