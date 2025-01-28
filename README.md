@@ -3,7 +3,10 @@
 <!-- feed starts -->
 Genuinely think the race to A.G.I. needs the rivalry of this ilk and yes it has begun.
 
-https://x.com/LiangWenfeng_/status/1884080875450818754  -- 2025-01-28T03:34:05.894Z
+https://x.com/LiangWenfeng_/status/1884080875450818754
+
+
+Ok this account is not the official wenfeng lmao  -- 2025-01-28T04:47:05.898Z
 
 ---
 
