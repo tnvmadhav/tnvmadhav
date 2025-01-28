@@ -3,7 +3,7 @@
 <!-- feed starts -->
 > "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
 
-  -- 2025-01-28T11:19:34.846Z
+  -- 2025-01-28T11:26:20.936Z
 
 ---
 
