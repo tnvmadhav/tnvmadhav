@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
+
+  -- 2025-01-28T15:00:03.002Z
+
+---
+
 Genuinely think the race to A.G.I. needs the rivalry of this ilk and yes it has begun.
 
 https://x.com/LiangWenfeng_/status/1884080875450818754
@@ -13,12 +19,6 @@ Ok this account is not the official wenfeng lmao  -- 2025-01-28T14:03:42.890Z
 listening to marc andreessen on lex fridman...
 
 https://x.com/TnvMadhav/status/1862128639531499725  -- 2025-01-28T13:30:02.882Z
-
----
-
-> "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
-
-  -- 2025-01-28T11:26:20.936Z
 
 ---
 
