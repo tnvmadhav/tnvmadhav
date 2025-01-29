@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> “In a world where the cost of intelligence will continue to drop rapidly, more value will accrues back into the app layer." - Aaron Levie, Box[^1]
+
+> “The App Layer is the only durable category. Intelligence is going to continue to compress at unprecedented levels.” - Suhail, Playground, Mixpanel[^2]
+
+
+[^1]: https://x.com/levie/status/1884053695626875123
+
+[^2]: https://x.com/Suhail/status/1884353125362065559
+
+  -- 2025-01-29T03:13:11.612Z
+
+---
+
 > "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
 
   -- 2025-01-28T15:00:03.002Z
@@ -59,12 +72,6 @@ LLMs are great at things that require relatively lesser effort than generating t
 I found this super interesting HN thread[^1] of instances/spaces where people are using small language models to solve specific problems
 
 [^1]: https://news.ycombinator.com/item?id=42784365  -- 2025-01-22T02:43:50.560Z
-
----
-
-The first step is the draft for the next.
-
-Laying down the first brick gives you perspective to help lay down the next.  -- 2025-01-19T16:49:52.877Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
