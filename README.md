@@ -1,6 +1,47 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+List of phrases from lives of high agency people:
+
+you can just do things
+you need to be more delusional
+fuck around and find out
+it’s time to build
+don’t ask for permission
+move fast and break things
+the quick shall inherit the earth
+live players
+go direct
+founder mode
+man in the arena
+don’t die [^1]
+—-
+does it defy the laws of physics?
+there's no unsolvable problem
+everything is a skill issue
+adults don't exist
+there's no way
+all normal behaviour is forgotten. only weird behaviour survives.
+one giant game of Roy
+optimise for the best story
+the amygdala is outdated hardware
+experiments > decisions
+end of day > end of week
+what have you got done this week?
+what is ignored by the media that will be studied by historians?
+questions are the answers you might need
+have you tried just doing the thing 100 times?
+specific ambition gives direction. general ambition gives anxiety.
+modern schooling is the low agency industrial complex
+everyone too busy worried what u think of them to notice u [^2]
+
+
+[^1]: https://x.com/anuatluru/status/1884748104550752573
+
+[^2]: https://x.com/george__mack/status/1884854028950970605  -- 2025-01-30T09:29:43.034Z
+
+---
+
 > “In a world where the cost of intelligence will continue to drop rapidly, more value will accrues back into the app layer." - Aaron Levie, Box[^1]
 
 > “The App Layer is the only durable category. Intelligence is going to continue to compress at unprecedented levels.” - Suhail, Playground, Mixpanel[^2]
@@ -66,12 +107,6 @@ LLMs are great at things that require relatively lesser effort than generating t
 
 
 [^1]: https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far  -- 2025-01-22T11:16:57.395Z
-
----
-
-I found this super interesting HN thread[^1] of instances/spaces where people are using small language models to solve specific problems
-
-[^1]: https://news.ycombinator.com/item?id=42784365  -- 2025-01-22T02:43:50.560Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
