@@ -5,7 +5,6 @@ List of phrases from lives of high agency people:
 
 you can just do things
 you need to be more delusional
-fuck around and find out
 it’s time to build
 don’t ask for permission
 move fast and break things
@@ -38,7 +37,7 @@ everyone too busy worried what u think of them to notice u [^2]
 
 [^1]: https://x.com/anuatluru/status/1884748104550752573
 
-[^2]: https://x.com/george__mack/status/1884854028950970605  -- 2025-01-30T09:29:43.034Z
+[^2]: https://x.com/george__mack/status/1884854028950970605  -- 2025-01-30T13:19:35.632Z
 
 ---
 
