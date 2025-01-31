@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+so much to do so little time...  -- 2025-01-31T07:06:42.798Z
+
+---
+
 List of phrases from lives of high agency people:
 
 you can just do things
@@ -97,15 +101,6 @@ But if he were to again, I really hope he doesn't come across "brain rot" ever b
 ---
 
 majority of dopamine rush in software engineering comes from being able to reproduce bugs that couldn't be easily before.  -- 2025-01-24T11:43:23.105Z
-
----
-
-"LLMs are awesome and limited"
-
-LLMs are great at things that require relatively lesser effort than generating the input itself[^1].
-
-
-[^1]: https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far  -- 2025-01-22T11:16:57.395Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
