@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+asking yourself "what would carmack do?" -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AeAnRrF.png) -- 2025-02-01T16:41:15.772Z
+
+---
+
 But to increase collective IQ (rather than collective output), there needs to be something else.
 
 — Think about problems differently than they’re used to
@@ -104,10 +108,6 @@ https://x.com/TnvMadhav/status/1862128639531499725  -- 2025-01-28T13:30:02.882Z
 "...and oh yes almost forgot that deepseek was a side project"
 
 https://x.com/karpathy/status/1872362712958906460  -- 2025-01-27T14:00:24.691Z
-
----
-
-me waiting for filmbuff to upload that one much awaited review and analysis episode. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_4101.gif) -- 2025-01-26T04:01:46.221Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
