@@ -1,6 +1,28 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+But to increase collective IQ (rather than collective output), there needs to be something else.
+
+— Think about problems differently than they’re used to
+
+— For people who want to grind and solve problems in a better way, you now have a infinitely patient copilot/agent to help you complete the journey that you couldn’t complete before
+
+— So, Intrinsic motivation is also necessary
+
+— People need to start believing in increased individual agency and gain hunger to do things better
+
+— Seems like we’re gonna be stuck in a local maxima otherwise
+https://twitter.com/twitter/status/1885560914000437650/  -- 2025-02-01T05:37:26.664Z
+
+---
+
+plain text only interaction for only those who prefer it.
+
+For full utilisation, app layer innovation is the key (to support a larger part of market). 
+https://twitter.com/twitter/status/1885179324224925752/  -- 2025-02-01T05:28:50.825Z
+
+---
+
 so much to do so little time...  -- 2025-01-31T07:06:42.798Z
 
 ---
@@ -86,21 +108,6 @@ https://x.com/karpathy/status/1872362712958906460  -- 2025-01-27T14:00:24.691Z
 ---
 
 me waiting for filmbuff to upload that one much awaited review and analysis episode. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_4101.gif) -- 2025-01-26T04:01:46.221Z
-
----
-
-Cal Newport on TikTok[^1]
-
-> When I sign in for the first time, TikTok asks me to choose my interests from a long list illustrated by cheerful emojis. I select “Life Hacks,” “Science and Education,” and “Sports.” Then I’m off. The first video shows the Clemson University baseball team playing an exhibition game against the Savannah Bananas, a professional touring squad. The Clemson infield, for some inscrutable reason, starts dancing. I swipe up. A new video begins, showing someone selecting shoes at a store. The video is only ten seconds long; by the time I’ve finished jotting down some notes, it has already started replaying. I hastily swipe again. The next video plays tranquil music while a car slowly drives toward Yosemite National Park. The algorithm must have noticed that I lingered on the wintry scene: the next video shows someone sweeping snow off a porch with some kind of rotating broom contraption. Then the feed takes a darker turn, which makes me want to scroll even faster. I see a news story about a person being pushed onto subway tracks in Manhattan—swipe—a Trump video set to ominous music—swipe—“Top 15 Most Ghetto High Schools in New Jersey”—swipe—and someone making fun of a server’s accent in a restaurant. I shut down the app.
-
-But if he were to again, I really hope he doesn't come across "brain rot" ever but a part of me wants him to go down that rabbit hole (and write about how he felt).
-
-
-[^1]: https://archive.ph/PgFeC#selection-705.0-705.1232  -- 2025-01-25T05:09:48.650Z
-
----
-
-majority of dopamine rush in software engineering comes from being able to reproduce bugs that couldn't be easily before.  -- 2025-01-24T11:43:23.105Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
