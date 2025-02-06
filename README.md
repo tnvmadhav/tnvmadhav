@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+🎧😌🧘🎶 listening to 'To Give a Marionette Life' by Yoshihisa Hirano  -- 2025-02-06T12:04:31.477Z
+
+---
+
 asking yourself "what would carmack do?" -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AeAnRrF.png) -- 2025-02-01T16:41:15.772Z
 
 ---
@@ -102,12 +106,6 @@ Ok this account is not the official wenfeng lmao  -- 2025-01-28T14:03:42.890Z
 listening to marc andreessen on lex fridman...
 
 https://x.com/TnvMadhav/status/1862128639531499725  -- 2025-01-28T13:30:02.882Z
-
----
-
-"...and oh yes almost forgot that deepseek was a side project"
-
-https://x.com/karpathy/status/1872362712958906460  -- 2025-01-27T14:00:24.691Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
