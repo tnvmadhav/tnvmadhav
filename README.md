@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+🎧🧑‍💻 Listening to 'Deep Dive into LLMs like ChatGPT' by Andrej Karpathy[^1]
+
+
+[^1]: [On Youtube](https://www.youtube.com/watch?v=7xTGNNLPyMI)   -- 2025-02-08T06:06:16.757Z
+
+---
+
 🎧😌🧘🎶 listening to 'To Give a Marionette Life' by Yoshihisa Hirano  -- 2025-02-06T12:04:31.477Z
 
 ---
@@ -100,12 +107,6 @@ https://x.com/LiangWenfeng_/status/1884080875450818754
 
 
 Ok this account is not the official wenfeng lmao  -- 2025-01-28T14:03:42.890Z
-
----
-
-listening to marc andreessen on lex fridman...
-
-https://x.com/TnvMadhav/status/1862128639531499725  -- 2025-01-28T13:30:02.882Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
