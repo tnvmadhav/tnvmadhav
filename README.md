@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"An idea like a ghost, must be spoken to a little before it will explain itself" - Charles Dickens  -- 2025-02-08T07:20:22.014Z
+
+---
+
 🎧🧑‍💻 Listening to 'Deep Dive into LLMs like ChatGPT' by Andrej Karpathy[^1]
 
 
@@ -98,15 +102,6 @@ everyone too busy worried what u think of them to notice u [^2]
 > "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
 
   -- 2025-01-28T15:00:03.002Z
-
----
-
-Genuinely think the race to A.G.I. needs the rivalry of this ilk and yes it has begun.
-
-https://x.com/LiangWenfeng_/status/1884080875450818754
-
-
-Ok this account is not the official wenfeng lmao  -- 2025-01-28T14:03:42.890Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
