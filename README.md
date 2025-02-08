@@ -1,14 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-"An idea like a ghost, must be spoken to a little before it will explain itself" - Charles Dickens  -- 2025-02-08T07:20:22.014Z
+🎧🧑‍💻 Listening to 'Deep Dive into LLMs like ChatGPT' by Andrej Karpathy[^llmguide]
+
+
+[^llmguide]: [On Youtube](https://www.youtube.com/watch?v=7xTGNNLPyMI)   -- 2025-02-08T07:46:01.447Z
 
 ---
 
-🎧🧑‍💻 Listening to 'Deep Dive into LLMs like ChatGPT' by Andrej Karpathy[^1]
-
-
-[^1]: [On Youtube](https://www.youtube.com/watch?v=7xTGNNLPyMI)   -- 2025-02-08T06:06:16.757Z
+"An idea like a ghost, must be spoken to a little before it will explain itself" - Charles Dickens  -- 2025-02-08T07:20:22.014Z
 
 ---
 
