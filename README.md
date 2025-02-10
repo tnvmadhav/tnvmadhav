@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+🎧😌🎶 Listening to 'Light no Theme' by Hideki Taniuchi
+
+Simple yet a banger.  -- 2025-02-10T13:55:37.501Z
+
+---
+
 Generative A.I. models are a result of capturing & reproducing expertise from a moment in time.
 
 Instead of vertices, the edges' scaler properties are replicated with the statistical preface.
@@ -91,19 +97,6 @@ everyone too busy worried what u think of them to notice u [^2]
 [^1]: https://x.com/anuatluru/status/1884748104550752573
 
 [^2]: https://x.com/george__mack/status/1884854028950970605  -- 2025-01-30T13:19:35.632Z
-
----
-
-> “In a world where the cost of intelligence will continue to drop rapidly, more value will accrues back into the app layer." - Aaron Levie, Box[^1]
-
-> “The App Layer is the only durable category. Intelligence is going to continue to compress at unprecedented levels.” - Suhail, Playground, Mixpanel[^2]
-
-
-[^1]: https://x.com/levie/status/1884053695626875123
-
-[^2]: https://x.com/Suhail/status/1884353125362065559
-
-  -- 2025-01-29T06:30:05.350Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
