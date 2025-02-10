@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Generative A.I. models are a result of capturing & reproducing expertise from a moment in time.
+
+Instead of vertices, the edges' scaler properties are replicated with the statistical preface.
+
+So zooming out, this could be viewed as / an apparent attempt to recreate a time machine **gone wrong**, or just having reached a local maximum, if you will.  -- 2025-02-10T03:00:24.572Z
+
+---
+
 🎧🧑‍💻 Listening to 'Deep Dive into LLMs like ChatGPT' by Andrej Karpathy[^llmguide]
 
 
@@ -96,12 +104,6 @@ everyone too busy worried what u think of them to notice u [^2]
 [^2]: https://x.com/Suhail/status/1884353125362065559
 
   -- 2025-01-29T06:30:05.350Z
-
----
-
-> "open source everything"  ~ Jack, via [X](https://x.com/jack/status/1883976555686420844)
-
-  -- 2025-01-28T15:00:03.002Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
