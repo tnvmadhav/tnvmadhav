@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I should read the SOCK protocol https://www.rfc-editor.org/rfc/rfc1928 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_FE8JDEs.jpeg) -- 2025-02-21T08:30:22.221Z
+
+---
+
 🎧😌🎶 Listening to 'Light no Theme' by Hideki Taniuchi
 
 Simple yet a banger.  -- 2025-02-10T13:55:37.501Z
@@ -57,46 +61,6 @@ https://twitter.com/twitter/status/1885179324224925752/  -- 2025-02-01T05:28:50.
 ---
 
 so much to do so little time...  -- 2025-01-31T07:06:42.798Z
-
----
-
-List of phrases from lives of high agency people:
-
-you can just do things
-you need to be more delusional
-it’s time to build
-don’t ask for permission
-move fast and break things
-the quick shall inherit the earth
-live players
-go direct
-founder mode
-man in the arena
-don’t die [^1]
-—-
-does it defy the laws of physics?
-there's no unsolvable problem
-everything is a skill issue
-adults don't exist
-there's no way
-all normal behaviour is forgotten. only weird behaviour survives.
-one giant game of Roy
-optimise for the best story
-the amygdala is outdated hardware
-experiments > decisions
-end of day > end of week
-what have you got done this week?
-what is ignored by the media that will be studied by historians?
-questions are the answers you might need
-have you tried just doing the thing 100 times?
-specific ambition gives direction. general ambition gives anxiety.
-modern schooling is the low agency industrial complex
-everyone too busy worried what u think of them to notice u [^2]
-
-
-[^1]: https://x.com/anuatluru/status/1884748104550752573
-
-[^2]: https://x.com/george__mack/status/1884854028950970605  -- 2025-01-30T13:19:35.632Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
