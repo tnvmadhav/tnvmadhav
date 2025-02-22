@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"If you think like a noob, you're a noob" - GeoHotz
+
+good advice.  -- 2025-02-22T04:59:48.613Z
+
+---
+
 I should read the SOCK protocol https://www.rfc-editor.org/rfc/rfc1928 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_FE8JDEs.jpeg) -- 2025-02-21T08:30:22.221Z
 
 ---
@@ -57,10 +63,6 @@ plain text only interaction for only those who prefer it.
 
 For full utilisation, app layer innovation is the key (to support a larger part of market). 
 https://twitter.com/twitter/status/1885179324224925752/  -- 2025-02-01T05:28:50.825Z
-
----
-
-so much to do so little time...  -- 2025-01-31T07:06:42.798Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
