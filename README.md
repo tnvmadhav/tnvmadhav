@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Really good blog post by Harper Reed:
+https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/  -- 2025-02-22T10:47:16.632Z
+
+---
+
 TIL about an in-built browser feature in V.S. Code (and likely why I didn't know about it sooner)
 https://tnvmadhav.me/til/vscode-has-a-simple-browser/  -- 2025-02-22T09:39:28.519Z
 
@@ -48,10 +53,6 @@ So zooming out, this could be viewed as / an apparent attempt to recreate a time
 ---
 
 🎧😌🧘🎶 listening to 'To Give a Marionette Life' by Yoshihisa Hirano  -- 2025-02-06T12:04:31.477Z
-
----
-
-asking yourself "what would carmack do?" -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AeAnRrF.png) -- 2025-02-01T16:41:15.772Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
