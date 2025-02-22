@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL about an in-built browser feature in V.S. Code (and likely why I didn't know about it sooner)
+https://tnvmadhav.me/til/vscode-has-a-simple-browser/  -- 2025-02-22T09:39:28.519Z
+
+---
+
 I'd like to vouch for a tool that has contributed to my significant productivity boost (as a developer).
 
 I've been using the `lazygit` C.L.I. tool on my machine and with a certain hotkey combo, the whole standard GIT ops (to ship changes) has been pleasurable.  -- 2025-02-22T09:36:07.369Z
@@ -47,21 +52,6 @@ So zooming out, this could be viewed as / an apparent attempt to recreate a time
 ---
 
 asking yourself "what would carmack do?" -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AeAnRrF.png) -- 2025-02-01T16:41:15.772Z
-
----
-
-But to increase collective IQ (rather than collective output), there needs to be something else.
-
-— Think about problems differently than they’re used to
-
-— For people who want to grind and solve problems in a better way, you now have a infinitely patient copilot/agent to help you complete the journey that you couldn’t complete before
-
-— So, Intrinsic motivation is also necessary
-
-— People need to start believing in increased individual agency and gain hunger to do things better
-
-— Seems like we’re gonna be stuck in a local maxima otherwise
-https://twitter.com/twitter/status/1885560914000437650/  -- 2025-02-01T05:37:26.664Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
