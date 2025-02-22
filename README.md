@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'd like to vouch for a tool that has contributed to my significant productivity boost (as a developer).
+
+I've been using the `lazygit` C.L.I. tool on my machine and with a certain hotkey combo, the whole standard GIT ops (to ship changes) has been pleasurable.  -- 2025-02-22T09:36:07.369Z
+
+---
+
 "If you think like a noob, you're a noob" - GeoHotz
 
 good advice.  -- 2025-02-22T04:59:48.613Z
@@ -56,13 +62,6 @@ But to increase collective IQ (rather than collective output), there needs to be
 
 — Seems like we’re gonna be stuck in a local maxima otherwise
 https://twitter.com/twitter/status/1885560914000437650/  -- 2025-02-01T05:37:26.664Z
-
----
-
-plain text only interaction for only those who prefer it.
-
-For full utilisation, app layer innovation is the key (to support a larger part of market). 
-https://twitter.com/twitter/status/1885179324224925752/  -- 2025-02-01T05:28:50.825Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
@@ -111,6 +110,8 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 ## Latest TILs
 
 <!-- til starts -->
+[V.S. Code Has a Simple Browser](https://tnvmadhav.me/til/vscode-has-a-simple-browser/) -- 2025-02-22T09:15:32+00:00
+
 [About SSH Host Key Verification](https://tnvmadhav.me/til/ssh-host-key-verification/) -- 2024-09-12T15:11:31+00:00
 
 [Network Address Types in Postgres](https://tnvmadhav.me/til/network-address-types-in-postgres/) -- 2024-09-10T04:03:27+00:00
@@ -118,8 +119,6 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 [Nested Functions in Go](https://tnvmadhav.me/til/nested-functions-in-go/) -- 2024-07-07T04:11:51+00:00
 
 [Custom Pagination Html in Django](https://tnvmadhav.me/til/custom-pagination-html-in-django/) -- 2024-07-05T03:17:47+00:00
-
-[Sort Slice of Composite Structures in Go](https://tnvmadhav.me/til/sort-slice-of-composite-structures-in-go/) -- 2024-06-15T05:35:13+00:00
 
 More on [My TILS](https://tnvmadhav.me/til/)
 <!-- til ends -->
