@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL what a .har file is (and how to generate them)
+https://tnvmadhav.me/til/http-archiving/  -- 2025-02-23T09:56:27.235Z
+
+---
+
 "If you think like a noob, you're a noob" - GeoHotz
 
 good advice.  -- 2025-02-23T09:11:15.933Z
@@ -51,10 +56,6 @@ So zooming out, this could be viewed as / an apparent attempt to recreate a time
 
 
 [^llmguide]: [On Youtube](https://www.youtube.com/watch?v=7xTGNNLPyMI)   -- 2025-02-08T18:30:05.348Z
-
----
-
-"An idea like a ghost, must be spoken to a little before it will explain itself" - Charles Dickens  -- 2025-02-08T12:30:03.057Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
