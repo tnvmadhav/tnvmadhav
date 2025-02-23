@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+just when i thought the x algorithm was doing a good job for me, it started to raid my timeline with posts from one account that I might’ve spent a couple of more seconds on than I should’ve.
+
+(it was a robotics based post)  -- 2025-02-23T04:33:08.657Z
+
+---
+
 Really good blog post by Harper Reed:
 https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/  -- 2025-02-22T12:30:03.071Z
 
@@ -49,10 +55,6 @@ So zooming out, this could be viewed as / an apparent attempt to recreate a time
 ---
 
 "An idea like a ghost, must be spoken to a little before it will explain itself" - Charles Dickens  -- 2025-02-08T12:30:03.057Z
-
----
-
-🎧😌🧘🎶 listening to 'To Give a Marionette Life' by Yoshihisa Hirano  -- 2025-02-06T12:04:31.477Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
