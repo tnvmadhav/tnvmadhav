@@ -2,7 +2,7 @@
 
 <!-- feed starts -->
 TIL what a .har file is (and how to generate them)
-https://tnvmadhav.me/til/http-archiving/  -- 2025-02-23T09:56:27.235Z
+https://tnvmadhav.me/til/http-archiving/  -- 2025-02-23T12:30:02.857Z
 
 ---
 
