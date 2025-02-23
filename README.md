@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'm seeing an increasing amount of x posts as ads. These are just random posts that don't seem to sell or influence actively. These are just (seemingly) random posts about random stuff. What is the goal? gain a following through relatability? bizarre.  -- 2025-02-23T16:36:09.957Z
+
+---
+
 TIL what a .har file is (and how to generate them)
 https://tnvmadhav.me/til/http-archiving/  -- 2025-02-23T12:30:02.857Z
 
@@ -49,13 +53,6 @@ Generative A.I. models are a result of capturing & reproducing expertise from a 
 Instead of vertices, the edges' scaler properties are replicated with the statistical preface.
 
 So zooming out, this could be viewed as / an apparent attempt to recreate a time machine **gone wrong**, or just having reached a local maximum, if you will.  -- 2025-02-10T03:00:24.572Z
-
----
-
-🎧🧑‍💻 Listening to 'Deep Dive into LLMs like ChatGPT' by Andrej Karpathy[^llmguide]
-
-
-[^llmguide]: [On Youtube](https://www.youtube.com/watch?v=7xTGNNLPyMI)   -- 2025-02-08T18:30:05.348Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
