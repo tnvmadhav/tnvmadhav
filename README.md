@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"If you think like a noob, you're a noob" - GeoHotz
+
+good advice.  -- 2025-02-23T09:11:15.933Z
+
+---
+
 just when i thought the x algorithm was doing a good job for me, it started to raid my timeline with posts from one account that I might’ve spent a couple of more seconds on than I should’ve.
 
 (it was a robotics based post)  -- 2025-02-23T04:33:08.657Z
@@ -20,12 +26,6 @@ https://tnvmadhav.me/til/vscode-has-a-simple-browser/  -- 2025-02-22T09:39:28.51
 I'd like to vouch for a tool that has contributed to my significant productivity boost (as a developer).
 
 I've been using the `lazygit` C.L.I. tool on my machine and with a certain hotkey combo, the whole standard GIT ops (to ship changes) has been pleasurable.  -- 2025-02-22T09:36:07.369Z
-
----
-
-"If you think like a noob, you're a noob" - GeoHotz
-
-good advice.  -- 2025-02-22T04:59:48.613Z
 
 ---
 
