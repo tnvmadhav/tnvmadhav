@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+intellectually stimulating puzzles to solve rather than burdens to bear.  -- 2025-02-26T06:15:28.603Z
+
+---
+
 I'm seeing an increasing amount of x posts as ads. These are just random posts that don't seem to sell or influence actively. These are just (seemingly) random posts about random stuff. What is the goal? gain a following through relatability? bizarre.  -- 2025-02-23T16:36:09.957Z
 
 ---
@@ -45,14 +49,6 @@ I should read the SOCK protocol https://www.rfc-editor.org/rfc/rfc1928 -- [🏞�
 🎧😌🎶 Listening to 'Light no Theme' by Hideki Taniuchi
 
 Simple yet a banger.  -- 2025-02-10T13:55:37.501Z
-
----
-
-Generative A.I. models are a result of capturing & reproducing expertise from a moment in time.
-
-Instead of vertices, the edges' scaler properties are replicated with the statistical preface.
-
-So zooming out, this could be viewed as / an apparent attempt to recreate a time machine **gone wrong**, or just having reached a local maximum, if you will.  -- 2025-02-10T03:00:24.572Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
