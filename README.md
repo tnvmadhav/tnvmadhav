@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Writing tests to validate your understanding of a piece of code should be something I must do more.  -- 2025-03-08T04:07:59.254Z
+
+---
+
 intellectually stimulating puzzles to solve rather than burdens to bear.  -- 2025-02-26T07:12:50.671Z
 
 ---
@@ -43,12 +47,6 @@ I've been using the `lazygit` C.L.I. tool on my machine and with a certain hotke
 ---
 
 I should read the SOCK protocol https://www.rfc-editor.org/rfc/rfc1928 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_FE8JDEs.jpeg) -- 2025-02-21T08:30:22.221Z
-
----
-
-🎧😌🎶 Listening to 'Light no Theme' by Hideki Taniuchi
-
-Simple yet a banger.  -- 2025-02-10T13:55:37.501Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
