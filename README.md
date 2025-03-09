@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+optimizing for cathartic experiences  -- 2025-03-09T13:01:37.731Z
+
+---
+
 Writing tests to validate your understanding of a piece of code should be something I must do more.  -- 2025-03-08T04:07:59.254Z
 
 ---
@@ -43,10 +47,6 @@ https://tnvmadhav.me/til/vscode-has-a-simple-browser/  -- 2025-02-22T09:39:28.51
 I'd like to vouch for a tool that has contributed to my significant productivity boost (as a developer).
 
 I've been using the `lazygit` C.L.I. tool on my machine and with a certain hotkey combo, the whole standard GIT ops (to ship changes) has been pleasurable.  -- 2025-02-22T09:36:07.369Z
-
----
-
-I should read the SOCK protocol https://www.rfc-editor.org/rfc/rfc1928 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_FE8JDEs.jpeg) -- 2025-02-21T08:30:22.221Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
