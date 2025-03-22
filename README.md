@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The new research on using F.F.T. based optimization could help in making L.L.M.s faster, cheaper and able to handle longer contexts.
+
+Linking the arxiv paper here: https://bagel.ink/c/kBT5Uw  -- 2025-03-22T16:06:20.417Z
+
+---
+
 linking original FFT paper.
 
 An Algorithm for the Machine Calculation of Complex Fourier Series:
@@ -43,11 +49,6 @@ just when i thought the x algorithm was doing a good job for me, it started to r
 
 Really good blog post by Harper Reed:
 https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/  -- 2025-02-22T12:30:03.071Z
-
----
-
-TIL about an in-built browser feature in V.S. Code (and likely why I didn't know about it sooner)
-https://tnvmadhav.me/til/vscode-has-a-simple-browser/  -- 2025-02-22T09:39:28.519Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
