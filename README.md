@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+linking original FFT paper.
+
+An Algorithm for the Machine Calculation of Complex Fourier Series:
+https://bagel.ink/c/74YPp0  -- 2025-03-22T15:36:08.316Z
+
+---
+
 optimizing for cathartic experiences  -- 2025-03-09T13:01:37.731Z
 
 ---
@@ -41,12 +48,6 @@ https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/  -- 2025-02-22T12:30
 
 TIL about an in-built browser feature in V.S. Code (and likely why I didn't know about it sooner)
 https://tnvmadhav.me/til/vscode-has-a-simple-browser/  -- 2025-02-22T09:39:28.519Z
-
----
-
-I'd like to vouch for a tool that has contributed to my significant productivity boost (as a developer).
-
-I've been using the `lazygit` C.L.I. tool on my machine and with a certain hotkey combo, the whole standard GIT ops (to ship changes) has been pleasurable.  -- 2025-02-22T09:36:07.369Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
