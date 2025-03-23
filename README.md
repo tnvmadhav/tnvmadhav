@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Suhail shares his playbook on building A.I. powered products and services:
+
+https://twitter.com/twitter/status/1903812003757736086/  -- 2025-03-23T15:05:09.438Z
+
+---
+
 that feeling when two orgs. you like because (they're technically awesome) start throwing sh*t at each other -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_xMqwoD9.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_MHmXxhj.png) -- 2025-03-23T06:19:32.201Z
 
 ---
@@ -40,12 +46,6 @@ I'm seeing an increasing amount of x posts as ads. These are just random posts t
 
 TIL what a .har file is (and how to generate them)
 https://tnvmadhav.me/til/http-archiving/  -- 2025-02-23T12:30:02.857Z
-
----
-
-"If you think like a noob, you're a noob" - GeoHotz
-
-good advice.  -- 2025-02-23T09:11:15.933Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
