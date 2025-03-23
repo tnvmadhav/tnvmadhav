@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+that feeling when two orgs. you like because (they're technically awesome) start throwing sh*t at each other -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_xMqwoD9.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_MHmXxhj.png) -- 2025-03-23T06:19:32.201Z
+
+---
+
 I've always had an appreciation to teams that ship products and features at an incredible pace. I've always thought it's possible to do it without making mistakes. Still do.  -- 2025-03-23T04:14:47.888Z
 
 ---
@@ -42,12 +46,6 @@ https://tnvmadhav.me/til/http-archiving/  -- 2025-02-23T12:30:02.857Z
 "If you think like a noob, you're a noob" - GeoHotz
 
 good advice.  -- 2025-02-23T09:11:15.933Z
-
----
-
-just when i thought the x algorithm was doing a good job for me, it started to raid my timeline with posts from one account that I might’ve spent a couple of more seconds on than I should’ve.
-
-(it was a robotics based post)  -- 2025-02-23T04:33:08.657Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
