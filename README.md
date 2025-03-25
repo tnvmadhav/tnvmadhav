@@ -1,9 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-The cost of doing code reviews is that you're obligated to burden the whole context before you start reviewing the code.
+The cost of doing code reviews is the obligatory burden of the whole context loaded in your brain before you start reviewing.
 
-I try to take it as a self enforceable rule. It's the least you can do.  -- 2025-03-25T07:42:28.685Z
+I try to take it as a self enforceable rule. It's the least you can do.
+
+It's crazy that this has to be explicit.  -- 2025-03-25T08:39:59.980Z
 
 ---
 
