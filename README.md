@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+While skimming through Simon's list of posts[^1], I realised that I've found the term that I'd been looking for --  "Semantic Diffusion" (where the original idea/meaning is dampens with time/loose adoption)
+
+> Semantic diffusion occurs when you have a word that is coined by a person or group, often with a pretty good definition, but then gets spread through the wider community in a way that weakens that definition. This weakening risks losing the definition entirely - and with it any usefulness to the term.
+
+[^1]: https://simonwillison.net/2025/Mar/23/semantic-diffusion/  -- 2025-03-25T04:46:51.924Z
+
+---
+
 Suhail shares his playbook on building A.I. powered products and services:
 
 https://twitter.com/twitter/status/1903812003757736086/  -- 2025-03-23T15:05:09.438Z
@@ -41,11 +49,6 @@ intellectually stimulating puzzles to solve rather than burdens to bear.  -- 202
 ---
 
 I'm seeing an increasing amount of x posts as ads. These are just random posts that don't seem to sell or influence actively. These are just (seemingly) random posts about random stuff. What is the goal? gain a following through relatability? bizarre.  -- 2025-02-23T16:36:09.957Z
-
----
-
-TIL what a .har file is (and how to generate them)
-https://tnvmadhav.me/til/http-archiving/  -- 2025-02-23T12:30:02.857Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
