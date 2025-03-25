@@ -5,7 +5,7 @@ The cost of doing code reviews is the obligatory burden of the whole context loa
 
 I try to take it as a self enforceable rule. It's the least you can do.
 
-It's crazy that this has to be explicit.  -- 2025-03-25T08:39:59.980Z
+It's crazy that this has to be explicit.  -- 2025-03-25T09:35:22.557Z
 
 ---
 
