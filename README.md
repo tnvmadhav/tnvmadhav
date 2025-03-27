@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+so much to do, so little time…  -- 2025-03-27T03:11:29.824Z
+
+---
+
 The cost of doing code reviews is the obligatory burden of the whole context loaded in your brain before you start reviewing.
 
 I try to take it as a self enforceable rule. It's the least you can do.
@@ -53,10 +57,6 @@ https://bagel.ink/c/74YPp0  -- 2025-03-22T15:36:08.316Z
 ---
 
 optimizing for cathartic experiences  -- 2025-03-09T13:01:37.731Z
-
----
-
-Writing tests to validate your understanding of a piece of code should be something I must do more.  -- 2025-03-08T04:07:59.254Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
