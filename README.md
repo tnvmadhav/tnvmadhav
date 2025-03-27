@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+the only way around a problem is through it.  -- 2025-03-27T05:59:43.108Z
+
+---
+
 so much to do, so little time…  -- 2025-03-27T03:11:29.824Z
 
 ---
@@ -53,10 +57,6 @@ linking original FFT paper.
 
 An Algorithm for the Machine Calculation of Complex Fourier Series:
 https://bagel.ink/c/74YPp0  -- 2025-03-22T15:36:08.316Z
-
----
-
-optimizing for cathartic experiences  -- 2025-03-09T13:01:37.731Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
