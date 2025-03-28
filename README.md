@@ -1,6 +1,25 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I came across an impressive thing while sipping my morning coffee.
+
+A dude behind a twitter account (@PJaccetturo) generated the 'Lord of the Rings: Fellowship of the Ring' trailer in the style of Studio Ghibli (and it's pretty impressive to reiterate).
+
+The A.I. Filmmaker shared how the trailer was made.
+
+> My process was:
+> Screenshot all 102 shots in the trailer
+> Remix them to Ghibli style in @OpenAI's Sora Animate in @Kling_ai and @LumaLabsAI
+ >
+> Re-edit in sync with trailer.
+
+I'm attaching a hyperlink to the tweet that contains the generated trailer: 
+https://x.com/PJaccetturo/status/1905151190872309907
+
+Right now, it's possible to do incredible stuff by duct-taping a bunch of tools together. I only see this method getting easier and easier as more people do nice and wholesome things with them.  -- 2025-03-28T03:37:56.858Z
+
+---
+
 the only way around a problem is through it.  -- 2025-03-27T05:59:43.108Z
 
 ---
@@ -50,13 +69,6 @@ I've always had an appreciation to teams that ship products and features at an i
 The new research on using F.F.T. based optimization could help in making L.L.M.s faster, cheaper and able to handle longer contexts.
 
 Linking the arxiv paper here: https://bagel.ink/c/kBT5Uw  -- 2025-03-22T16:06:20.417Z
-
----
-
-linking original FFT paper.
-
-An Algorithm for the Machine Calculation of Complex Fourier Series:
-https://bagel.ink/c/74YPp0  -- 2025-03-22T15:36:08.316Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
