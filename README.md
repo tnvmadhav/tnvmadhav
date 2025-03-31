@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+notes to self based on what i've observed:
+
+if you think you're slipping up often, try to spend more time and energy staying as low level as possible.
+
+low level execution punctuated by high level calibration.
+
+  -- 2025-03-31T04:20:01.843Z
+
+---
+
 I came across an impressive thing while sipping my morning coffee.
 
 A dude behind a twitter account (@PJaccetturo) generated the 'Lord of the Rings: Fellowship of the Ring' trailer in the style of Studio Ghibli (and it's pretty impressive to reiterate).
@@ -63,12 +73,6 @@ that feeling when two orgs. you like because (they're technically awesome) start
 ---
 
 I've always had an appreciation to teams that ship products and features at an incredible pace. I've always thought it's possible to do it without making mistakes. Still do.  -- 2025-03-23T04:14:47.888Z
-
----
-
-The new research on using F.F.T. based optimization could help in making L.L.M.s faster, cheaper and able to handle longer contexts.
-
-Linking the arxiv paper here: https://bagel.ink/c/kBT5Uw  -- 2025-03-22T16:06:20.417Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
