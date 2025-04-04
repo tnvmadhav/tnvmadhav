@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+whatever the equivalent of this is in your field -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/vegeta.gif) -- 2025-04-04T06:30:05.784Z
+
+---
+
 notes to self based on what i've observed:
 
 if you think you're slipping up often, try to spend more time and energy staying as low level as possible.
@@ -69,10 +73,6 @@ https://twitter.com/twitter/status/1903812003757736086/  -- 2025-03-23T15:05:09.
 ---
 
 that feeling when two orgs. you like because (they're technically awesome) start throwing sh*t at each other -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_xMqwoD9.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_MHmXxhj.png) -- 2025-03-23T06:19:32.201Z
-
----
-
-I've always had an appreciation to teams that ship products and features at an incredible pace. I've always thought it's possible to do it without making mistakes. Still do.  -- 2025-03-23T04:14:47.888Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
