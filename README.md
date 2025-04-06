@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I witnessed a guy build a functional piano in his FPS game. 
+
+This dude is a legend. You have to leave being inspired.
+
+https://www.youtube.com/live/ys5hays0TYo  -- 2025-04-06T04:28:01.471Z
+
+---
+
 whatever the equivalent of this is in your field -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/vegeta.gif) -- 2025-04-04T06:30:05.784Z
 
 ---
@@ -69,10 +77,6 @@ One can use it as a compass 🧭 (perspective wise) while solving hard problems 
 Suhail shares his playbook on building A.I. powered products and services:
 
 https://twitter.com/twitter/status/1903812003757736086/  -- 2025-03-23T15:05:09.438Z
-
----
-
-that feeling when two orgs. you like because (they're technically awesome) start throwing sh*t at each other -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_xMqwoD9.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_MHmXxhj.png) -- 2025-03-23T06:19:32.201Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
