@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+working on the slopes instead of the y-intercepts is the secret to optimism.  -- 2025-04-06T08:19:57.893Z
+
+---
+
 I witnessed a guy build a functional piano in his FPS game. 
 
 This dude is a legend. You have to leave being inspired.
@@ -71,12 +75,6 @@ I stumbled upon (by the magic of the internet) this piece on Agency.
 [High Agency in 30 Minutes](https://www.highagency.com/)
 
 One can use it as a compass 🧭 (perspective wise) while solving hard problems / making decisions.  -- 2025-03-25T07:22:59.751Z
-
----
-
-Suhail shares his playbook on building A.I. powered products and services:
-
-https://twitter.com/twitter/status/1903812003757736086/  -- 2025-03-23T15:05:09.438Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
