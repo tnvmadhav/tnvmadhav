@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+it suddenly struck me that sustained self vigilance stops becoming a battle with the elimination of self imposed, limiting lens and that trigger to change isn’t always a moment in time but can be (and is initially) relentless sustained vigilance across several contiguous moments in time.  -- 2025-04-06T08:42:39.893Z
+
+---
+
 working on the slopes instead of the y-intercepts is the secret to optimism.  -- 2025-04-06T08:19:57.893Z
 
 ---
@@ -67,14 +71,6 @@ While skimming through Simon's list of posts[^1], I realised that I've found the
 > Semantic diffusion occurs when you have a word that is coined by a person or group, often with a pretty good definition, but then gets spread through the wider community in a way that weakens that definition. This weakening risks losing the definition entirely - and with it any usefulness to the term.
 
 [^1]: https://simonwillison.net/2025/Mar/23/semantic-diffusion/  -- 2025-03-25T07:25:35.323Z
-
----
-
-I stumbled upon (by the magic of the internet) this piece on Agency.
-
-[High Agency in 30 Minutes](https://www.highagency.com/)
-
-One can use it as a compass 🧭 (perspective wise) while solving hard problems / making decisions.  -- 2025-03-25T07:22:59.751Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
