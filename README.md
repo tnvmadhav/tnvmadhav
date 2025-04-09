@@ -1,6 +1,24 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Make moves to bring about positive change instead of proving / disproving existing data points about results of the moves pool (not a pool as it's unbounded)  -- 2025-04-09T03:36:32.146Z
+
+---
+
+I came across a post by @DHH about hiring developers[^1]. 
+I opened it and this piece hit hard:
+
+> Maybe it sounds a little harsh, but a programmer who's been working professionally for five years has likely already revealed their potential. What you're going to get is roughly what you see. That doesn't mean that people can't get better after that, but it means that the trajectory by which they improve has already been plotted.
+
+[^1]: [I've included an excerpt from a recent post by DHH]
+(https://world.hey.com/dhh/why-we-won-t-hire-a-junior-with-five-years-of-experience-0a548994)  -- 2025-04-09T03:28:56.281Z
+
+---
+
+"low level execution punctuated by high level calibration"  -- 2025-04-09T03:24:46.553Z
+
+---
+
 it suddenly struck me that sustained self vigilance stops becoming a battle with the elimination of self imposed, limiting lens and that trigger to change isn’t always a moment in time but can be (and is initially) relentless sustained vigilance across several contiguous moments in time.  -- 2025-04-06T08:42:39.893Z
 
 ---
@@ -51,26 +69,6 @@ Right now, it's possible to do incredible stuff by duct-taping a bunch of tools 
 ---
 
 the only way around a problem is through it.  -- 2025-03-27T05:59:43.108Z
-
----
-
-so much to do, so little time…  -- 2025-03-27T03:11:29.824Z
-
----
-
-The cost of doing code reviews is the obligatory burden of the whole context loaded in your brain before you start reviewing.
-
-I try to take it as a self enforceable rule. It's the least you can do.
-
-It's crazy that this has to be explicit.  -- 2025-03-25T09:35:22.557Z
-
----
-
-While skimming through Simon's list of posts[^1], I realised that I've found the term that I'd been looking for --  "Semantic Diffusion" (where the original idea/meaning dampens with time/loose adoption)
-
-> Semantic diffusion occurs when you have a word that is coined by a person or group, often with a pretty good definition, but then gets spread through the wider community in a way that weakens that definition. This weakening risks losing the definition entirely - and with it any usefulness to the term.
-
-[^1]: https://simonwillison.net/2025/Mar/23/semantic-diffusion/  -- 2025-03-25T07:25:35.323Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
