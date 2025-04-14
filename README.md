@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+maybe my job at the end of the day is to decrease entropy.  -- 2025-04-14T11:58:36.192Z
+
+---
+
 Make moves to bring about positive change instead of proving / disproving existing data points about results of the moves pool (not a pool as it's unbounded)  -- 2025-04-09T03:36:32.146Z
 
 ---
@@ -65,10 +69,6 @@ I'm attaching a hyperlink to the tweet that contains the generated trailer:
 https://x.com/PJaccetturo/status/1905151190872309907
 
 Right now, it's possible to do incredible stuff by duct-taping a bunch of tools together. I only see this method getting easier and easier as more people do nice and wholesome things with them.  -- 2025-03-28T03:37:56.858Z
-
----
-
-the only way around a problem is through it.  -- 2025-03-27T05:59:43.108Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
