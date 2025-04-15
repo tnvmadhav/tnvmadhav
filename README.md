@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+not me listening to 'Bauklötze' on repeat.
+
+thank you @sawano_nZk 🙌🏻  -- 2025-04-15T03:00:24.813Z
+
+---
+
+not me listening to 'Bauklötze' on repeat.
+
+thank you @sawano_nZk 🙌🏻 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_4261.jpeg) -- 2025-04-15T02:58:49.646Z
+
+---
+
 maybe my job at the end of the day is to decrease entropy.  -- 2025-04-14T11:58:36.192Z
 
 ---
@@ -40,35 +52,6 @@ https://www.youtube.com/live/ys5hays0TYo  -- 2025-04-06T04:28:01.471Z
 ---
 
 whatever the equivalent of this is in your field -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/vegeta.gif) -- 2025-04-04T06:30:05.784Z
-
----
-
-notes to self based on what i've observed:
-
-if you think you're slipping up often, try to spend more time and energy staying as low level as possible.
-
-low level execution punctuated by high level calibration.
-
-  -- 2025-03-31T04:20:01.843Z
-
----
-
-I came across an impressive thing while sipping my morning coffee.
-
-A dude behind a twitter account (@PJaccetturo) generated the 'Lord of the Rings: Fellowship of the Ring' trailer in the style of Studio Ghibli (and it's pretty impressive to reiterate).
-
-The A.I. Filmmaker shared how the trailer was made.
-
-> My process was:
-> Screenshot all 102 shots in the trailer
-> Remix them to Ghibli style in @OpenAI's Sora Animate in @Kling_ai and @LumaLabsAI
- >
-> Re-edit in sync with trailer.
-
-I'm attaching a hyperlink to the tweet that contains the generated trailer: 
-https://x.com/PJaccetturo/status/1905151190872309907
-
-Right now, it's possible to do incredible stuff by duct-taping a bunch of tools together. I only see this method getting easier and easier as more people do nice and wholesome things with them.  -- 2025-03-28T03:37:56.858Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
