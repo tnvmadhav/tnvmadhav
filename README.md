@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'm strangely attracted to the idea of commit driven development.
+
+Break down the task into list of commits annotated by the commit messages in great detail.
+
+Tackle each of them in sequence.
+
+It helps me keep stick to commit message while doing the changes.
+
+
+It's like a todo list but specific to low level implementation details.  -- 2025-04-17T07:15:58.092Z
+
+---
+
 not me listening to 'Bauklötze' on repeat.
 
 thank you @sawano_nZk 🙌🏻  -- 2025-04-15T03:00:24.813Z
@@ -48,10 +61,6 @@ I witnessed a guy build a functional piano in his FPS game.
 This dude is a legend. You have to leave being inspired.
 
 https://www.youtube.com/live/ys5hays0TYo  -- 2025-04-06T04:28:01.471Z
-
----
-
-whatever the equivalent of this is in your field -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/vegeta.gif) -- 2025-04-04T06:30:05.784Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
