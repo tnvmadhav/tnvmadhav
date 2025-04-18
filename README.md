@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+an A.I. fine-tuned to make your pool of engineers efficient and faster every day.  -- 2025-04-18T12:10:16.812Z
+
+---
+
 scrolling social media is like incentivising perpetual ephemeral thoughts and ideas.
 
 ideally one should gain something out of it but we ignore going deeper into certain interesting thoughts and instead, keep surfing 🏄 
@@ -59,10 +63,6 @@ I opened it and this piece hit hard:
 ---
 
 it suddenly struck me that sustained self vigilance stops becoming a battle with the elimination of self imposed, limiting lens and that trigger to change isn’t always a moment in time but can be (and is initially) relentless sustained vigilance across several contiguous moments in time.  -- 2025-04-06T08:42:39.893Z
-
----
-
-working on the slopes instead of the y-intercepts is the secret to optimism.  -- 2025-04-06T08:19:57.893Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
