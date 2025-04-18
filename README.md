@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+scrolling social media is like incentivising perpetual ephemeral thoughts and ideas.
+
+ideally one should gain something out of it but we ignore going deeper into certain interesting thoughts and instead, keep surfing 🏄 
+
+that is not why we should use social media.
+
+posters are getting something done and posting about it but consumers are just window-shopping (weird way to put it)  -- 2025-04-18T04:28:15.490Z
+
+---
+
 I'm strangely attracted to the idea of commit driven development.
 
 Break down the task into list of commits annotated by the commit messages in great detail.
@@ -53,14 +63,6 @@ it suddenly struck me that sustained self vigilance stops becoming a battle with
 ---
 
 working on the slopes instead of the y-intercepts is the secret to optimism.  -- 2025-04-06T08:19:57.893Z
-
----
-
-I witnessed a guy build a functional piano in his FPS game. 
-
-This dude is a legend. You have to leave being inspired.
-
-https://www.youtube.com/live/ys5hays0TYo  -- 2025-04-06T04:28:01.471Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
