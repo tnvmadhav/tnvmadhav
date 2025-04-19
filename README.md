@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I came across a post that sheds light on the origin of VIM:
+https://pikuma.com/blog/origins-of-vim-text-editor  -- 2025-04-19T10:36:41.816Z
+
+---
+
 an A.I. fine-tuned to make your pool of engineers efficient and faster every day.  -- 2025-04-18T12:10:16.812Z
 
 ---
@@ -59,10 +64,6 @@ I opened it and this piece hit hard:
 ---
 
 "low level execution punctuated by high level calibration"  -- 2025-04-09T03:24:46.553Z
-
----
-
-it suddenly struck me that sustained self vigilance stops becoming a battle with the elimination of self imposed, limiting lens and that trigger to change isn’t always a moment in time but can be (and is initially) relentless sustained vigilance across several contiguous moments in time.  -- 2025-04-06T08:42:39.893Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
