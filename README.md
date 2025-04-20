@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I got caught off guard LMAO 🤣  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_yN0Hxpm.png) -- 2025-04-20T17:20:07.554Z
+
+---
+
 I came across a post that sheds light on the origin of VIM:
 https://pikuma.com/blog/origins-of-vim-text-editor  -- 2025-04-19T10:36:41.816Z
 
@@ -60,10 +64,6 @@ I opened it and this piece hit hard:
 
 [^1]: [I've included an excerpt from a recent post by DHH]
 (https://world.hey.com/dhh/why-we-won-t-hire-a-junior-with-five-years-of-experience-0a548994)  -- 2025-04-09T03:28:56.281Z
-
----
-
-"low level execution punctuated by high level calibration"  -- 2025-04-09T03:24:46.553Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
