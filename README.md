@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+intellectually stimulating problems to solve rather than burdens to bear  -- 2025-04-22T05:55:14.405Z
+
+---
+
 I got caught off guard LMAO 🤣  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_yN0Hxpm.png) -- 2025-04-20T17:20:07.554Z
 
 ---
@@ -54,16 +58,6 @@ maybe my job at the end of the day is to decrease entropy.  -- 2025-04-14T11:58:
 ---
 
 Make moves to bring about positive change instead of proving / disproving existing data points about results of the moves pool (not a pool as it's unbounded)  -- 2025-04-09T03:36:32.146Z
-
----
-
-I came across a post by @DHH about hiring developers[^1]. 
-I opened it and this piece hit hard:
-
-> Maybe it sounds a little harsh, but a programmer who's been working professionally for five years has likely already revealed their potential. What you're going to get is roughly what you see. That doesn't mean that people can't get better after that, but it means that the trajectory by which they improve has already been plotted.
-
-[^1]: [I've included an excerpt from a recent post by DHH]
-(https://world.hey.com/dhh/why-we-won-t-hire-a-junior-with-five-years-of-experience-0a548994)  -- 2025-04-09T03:28:56.281Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
