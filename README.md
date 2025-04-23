@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The struggle to not let time (and by generalization, entropy) affect the quality of our actions only gets bigger until it’s fully internalized by the mind and body.  -- 2025-04-23T07:36:58.589Z
+
+---
+
 intellectually stimulating problems to solve rather than burdens to bear  -- 2025-04-22T05:55:14.405Z
 
 ---
@@ -54,10 +58,6 @@ thank you @sawano_nZk 🙌🏻 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/
 ---
 
 maybe my job at the end of the day is to decrease entropy.  -- 2025-04-14T11:58:36.192Z
-
----
-
-Make moves to bring about positive change instead of proving / disproving existing data points about results of the moves pool (not a pool as it's unbounded)  -- 2025-04-09T03:36:32.146Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
