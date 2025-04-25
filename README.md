@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+overthinking is anticipating the nth order effect of an action or lack thereof.
+
+overthinking often collapses to a delusion. then, emotional turmoil. 
+
+instead, how about we try to stack actions that seem to yield only positive growth regardless of feedbacks leading to different nth order effects?
+
+then, we're just indirectly limiting decisions to 1st order effects only make things easier on the mind. This curtails  overthinking & its negative effects by several orders.
+
+Not speaking for positive effects of overthinking cuz it's not productive 😅 for me.  -- 2025-04-25T08:29:05.399Z
+
+---
+
 For the long term, it's important to know what is actually going on because a project is subject to modifications and extensions.
 
 Speaking of extensions and modifications, vibe coding on the other hand calls for complete rewrite and, though A.I could eventually do a complete rewrite to support further updates. It feels we're disrespecting the G.P.U.s and resources to get things done in a suboptimal way (if you will).
@@ -56,12 +68,6 @@ It's like a todo list but specific to low level implementation details.  -- 2025
 not me listening to 'Bauklötze' on repeat.
 
 thank you @sawano_nZk 🙌🏻  -- 2025-04-15T03:00:24.813Z
-
----
-
-not me listening to 'Bauklötze' on repeat.
-
-thank you @sawano_nZk 🙌🏻 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_4261.jpeg) -- 2025-04-15T02:58:49.646Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
