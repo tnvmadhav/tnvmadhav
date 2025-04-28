@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I really hope vibe coding stops after going from zero to one.
+
+The term vibe engineering sends shivers down my spine but one man's fear is another man's opportunity.
+
+When push comes to shove, we must be able to turn a vibe coded product to a well engineered sound product and business.
+
+
+...or am I being myopic about all this?  -- 2025-04-28T01:37:09.021Z
+
+---
+
 overthinking is anticipating the nth order effect of an action or lack thereof.
 
 overthinking often collapses to a delusion. then, emotional turmoil. 
@@ -62,12 +73,6 @@ It helps me keep stick to commit message while doing the changes.
 
 
 It's like a todo list but specific to low level implementation details.  -- 2025-04-17T07:15:58.092Z
-
----
-
-not me listening to 'Bauklötze' on repeat.
-
-thank you @sawano_nZk 🙌🏻  -- 2025-04-15T03:00:24.813Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
