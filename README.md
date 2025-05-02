@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Quoting comment on the License change of Redis  from SSPL to AGPL
+
+> “I have a great deal of respect for antirez and rec[o]gnize him as a kind and benevolent member of the FOSS community, but no matter what Redis, Inc. announced or does, they have lost my trust for good, and I will continue to use Redis forks for as long as they exist.”
+
+[via HN](https://news.ycombinator.com/item?id=43859854)
+
+loss of trust is a one way door . Once you cross it, in most situations it’s hard to get back and needs incredible effort and sacrifice to gain back lost trust.
+
+Integrity on the fly is important. I know that things won’t be smooth sailing always and the absurdist in us agrees that we may have to take decisions that we ideally won’t.
+
+that is exactly why decision makers need to have skin in the game on the long run.  -- 2025-05-02T04:49:52.220Z
+
+---
+
 I really hope vibe coding stops after going from zero to one.
 
 The term vibe engineering sends shivers down my spine but one man's fear is another man's opportunity.
@@ -60,19 +74,6 @@ ideally one should gain something out of it but we ignore going deeper into cert
 that is not why we should use social media.
 
 posters are getting something done and posting about it but consumers are just window-shopping (weird way to put it)  -- 2025-04-18T04:28:15.490Z
-
----
-
-I'm strangely attracted to the idea of commit driven development.
-
-Break down the task into list of commits annotated by the commit messages in great detail.
-
-Tackle each of them in sequence.
-
-It helps me keep stick to commit message while doing the changes.
-
-
-It's like a todo list but specific to low level implementation details.  -- 2025-04-17T07:15:58.092Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
