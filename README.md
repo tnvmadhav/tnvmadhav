@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I "vibe coded" a @github action to archive my daily live feed as markdown blog posts.
+
+This was initially done using a manually scaffolded LaunchDaemon plist on my macbook but the issue was if the device was offline (without internet connection) at the time of archiving, it would sometimes not run at all.
+
+Debugging why plist cron jobs couldn't run was something I didn't want to do so I now delegated it to github actions instead.  -- 2025-05-03T11:43:25.324Z
+
+---
+
 Quoting comment on the License change of Redis  from SSPL to AGPL
 
 > “I have a great deal of respect for antirez and rec[o]gnize him as a kind and benevolent member of the FOSS community, but no matter what Redis, Inc. announced or does, they have lost my trust for good, and I will continue to use Redis forks for as long as they exist.”
@@ -64,16 +72,6 @@ https://pikuma.com/blog/origins-of-vim-text-editor  -- 2025-04-19T10:36:41.816Z
 ---
 
 an A.I. fine-tuned to make your pool of engineers efficient and faster every day.  -- 2025-04-18T12:10:16.812Z
-
----
-
-scrolling social media is like incentivising perpetual ephemeral thoughts and ideas.
-
-ideally one should gain something out of it but we ignore going deeper into certain interesting thoughts and instead, keep surfing 🏄 
-
-that is not why we should use social media.
-
-posters are getting something done and posting about it but consumers are just window-shopping (weird way to put it)  -- 2025-04-18T04:28:15.490Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
