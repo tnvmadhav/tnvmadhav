@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+finally sat down and solved a icky bug in my content publishing software. practiced by debugging muscle on a relatively legacy piece of software. felt good. thanks ipdb.  -- 2025-05-03T12:33:13.668Z
+
+---
+
 I "vibe coded" a @github action to archive my daily live feed as markdown blog posts.
 
 This was initially done using a manually scaffolded LaunchDaemon plist on my macbook but the issue was if the device was offline (without internet connection) at the time of archiving, it would sometimes not run at all.
@@ -68,10 +72,6 @@ I got caught off guard LMAO 🤣  -- [🏞️ Context #1](https://cpx.tnvmadhav.
 
 I came across a post that sheds light on the origin of VIM:
 https://pikuma.com/blog/origins-of-vim-text-editor  -- 2025-04-19T10:36:41.816Z
-
----
-
-an A.I. fine-tuned to make your pool of engineers efficient and faster every day.  -- 2025-04-18T12:10:16.812Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
