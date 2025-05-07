@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"timelines are determined by members of technical staff" should be an axiom.  -- 2025-05-07T02:46:09.894Z
+
+---
+
 finally sat down and solved a icky bug in my content publishing software. practiced by debugging muscle on a relatively legacy piece of software. felt good. thanks ipdb.  -- 2025-05-03T12:33:13.668Z
 
 ---
@@ -67,11 +71,6 @@ intellectually stimulating problems to solve rather than burdens to bear  -- 202
 ---
 
 I got caught off guard LMAO 🤣  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_yN0Hxpm.png) -- 2025-04-20T17:20:07.554Z
-
----
-
-I came across a post that sheds light on the origin of VIM:
-https://pikuma.com/blog/origins-of-vim-text-editor  -- 2025-04-19T10:36:41.816Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
