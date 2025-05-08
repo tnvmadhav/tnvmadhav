@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL that you can initiate GitHub action workflow from local using `gh` client as opposed to clicking through cluncky buttons for manual runs.
+
+This is such a productivity boost for me.
+
+```sh
+gh workflow run deploy.yml --ref main
+```
+
+Appalled that I didn't look for alternatives like this sooner.  -- 2025-05-08T10:04:57.036Z
+
+---
+
 "timelines are determined by members of technical staff" should be an axiom.  -- 2025-05-07T02:46:09.894Z
 
 ---
@@ -67,10 +79,6 @@ The struggle to not let time (and by generalization, entropy) affect the quality
 ---
 
 intellectually stimulating problems to solve rather than burdens to bear  -- 2025-04-22T05:55:14.405Z
-
----
-
-I got caught off guard LMAO 🤣  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_yN0Hxpm.png) -- 2025-04-20T17:20:07.554Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
