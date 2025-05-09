@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+something about unyielding primal rage in works of fiction that gives me goosebumps. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9HBbyKQ.jpeg) -- 2025-05-09T17:20:07.247Z
+
+---
+
 TIL that you can initiate GitHub action workflow from local using `gh` client as opposed to clicking through cluncky buttons for manual runs.
 
 This is such a productivity boost for me.
@@ -75,10 +79,6 @@ https://x.com/karpathy/status/1915581920022585597  -- 2025-04-25T03:33:43.901Z
 ---
 
 The struggle to not let time (and by generalization, entropy) affect the quality of our actions only gets bigger until it’s fully internalized by the mind and body.  -- 2025-04-23T07:36:58.589Z
-
----
-
-intellectually stimulating problems to solve rather than burdens to bear  -- 2025-04-22T05:55:14.405Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
