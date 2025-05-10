@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+twitch dot tv but private, within the org.
+
+this has potential to be fun, keep yourself and team accountable and be productive.
+
+
+i believe there will be atleast 100 orgs that will be onboard this idea.
+
+
+i didn’t google if there is already an existing solution or product for this. if yes it’s not popular enough.  -- 2025-05-10T05:11:50.010Z
+
+---
+
 something about unyielding primal rage in works of fiction that gives me goosebumps. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9HBbyKQ.jpeg) -- 2025-05-09T17:20:07.247Z
 
 ---
@@ -75,10 +87,6 @@ For the long term, it's important to know what is actually going on because a pr
 Speaking of extensions and modifications, vibe coding on the other hand calls for complete rewrite and, though A.I could eventually do a complete rewrite to support further updates. It feels we're disrespecting the G.P.U.s and resources to get things done in a suboptimal way (if you will).
 
 https://x.com/karpathy/status/1915581920022585597  -- 2025-04-25T03:33:43.901Z
-
----
-
-The struggle to not let time (and by generalization, entropy) affect the quality of our actions only gets bigger until it’s fully internalized by the mind and body.  -- 2025-04-23T07:36:58.589Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
