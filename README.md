@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+true understanding is about knowing and confidently predicting interaction and not just isolated behaviour.
+https://twitter.com/twitter/status/1921119501846016115/  -- 2025-05-10T08:31:06.376Z
+
+---
+
+I’m beginning to believe that a good learning process (leading to proper understanding) will emerge through a bottom up and top down encounters serendipitously.
+
+akin to a pincer operation.  -- 2025-05-10T08:26:07.268Z
+
+---
+
 twitch dot tv but private, within the org.
 
 this has potential to be fun, keep yourself and team accountable and be productive.
@@ -67,26 +78,6 @@ When push comes to shove, we must be able to turn a vibe coded product to a well
 
 
 ...or am I being myopic about all this?  -- 2025-04-28T01:37:09.021Z
-
----
-
-overthinking is anticipating the nth order effect of an action or lack thereof.
-
-overthinking often collapses to a delusion. then, emotional turmoil. 
-
-instead, how about we try to stack actions that seem to yield only positive growth regardless of feedbacks leading to different nth order effects?
-
-then, we're just indirectly limiting decisions to 1st order effects only make things easier on the mind. This curtails  overthinking & its negative effects by several orders.
-
-Not speaking for positive effects of overthinking cuz it's not productive 😅 for me.  -- 2025-04-25T08:29:05.399Z
-
----
-
-For the long term, it's important to know what is actually going on because a project is subject to modifications and extensions.
-
-Speaking of extensions and modifications, vibe coding on the other hand calls for complete rewrite and, though A.I could eventually do a complete rewrite to support further updates. It feels we're disrespecting the G.P.U.s and resources to get things done in a suboptimal way (if you will).
-
-https://x.com/karpathy/status/1915581920022585597  -- 2025-04-25T03:33:43.901Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
