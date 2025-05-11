@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+eren jaeger was fighting an internal struggle within himself since the infamous medal ceremony oscillating between "There is no free will" and "I did all of this with my free will".
+
+
+he couldn't take it. he needed help from Armin to digest and reconcile that he is a "slave to freedom".
+
+
+and, this was triggered by that flash back to grisha holding new born eren in his arms saying "You are free" is such a powerful cathartic moment.
+
+
+yes cathartic moments in pieces of fiction is my weakness. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/6bd41735c95869dbc5b729645e4891dc-2988048953.jpg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/159e06ffb1a71e79f3b56718791f22d1-555933217.jpg) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/image_7wtgKYS.png) [🏞️ Context #4](https://cpx.tnvmadhav.me/content/image/content-images/image_Pd52BB8.png) [🏞️ Context #5](https://cpx.tnvmadhav.me/content/image/content-images/eren-in-139-saw-his-anime-future-self-being-held-by-grisha-v0-hz22gaalq7d_sjkgrZ3.jpg) -- 2025-05-11T16:28:02.561Z
+
+---
+
 true understanding is about knowing and confidently predicting interaction and not just isolated behaviour.
 https://twitter.com/twitter/status/1921119501846016115/  -- 2025-05-10T08:31:06.376Z
 
@@ -67,17 +80,6 @@ loss of trust is a one way door . Once you cross it, in most situations it’s h
 Integrity on the fly is important. I know that things won’t be smooth sailing always and the absurdist in us agrees that we may have to take decisions that we ideally won’t.
 
 that is exactly why decision makers need to have skin in the game on the long run.  -- 2025-05-02T04:49:52.220Z
-
----
-
-I really hope vibe coding stops after going from zero to one.
-
-The term vibe engineering sends shivers down my spine but one man's fear is another man's opportunity.
-
-When push comes to shove, we must be able to turn a vibe coded product to a well engineered sound product and business.
-
-
-...or am I being myopic about all this?  -- 2025-04-28T01:37:09.021Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
