@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Even with technology, the Darwinian natural selection is coming into play.
+https://twitter.com/twitter/status/1921687346946179419/  -- 2025-05-12T02:21:06.098Z
+
+---
+
 eren jaeger was fighting an internal struggle within himself since the infamous medal ceremony oscillating between "There is no free will" and "I did all of this with my free will".
 
 
@@ -66,20 +71,6 @@ I "vibe coded" a @github action to archive my daily live feed as markdown blog p
 This was initially done using a manually scaffolded LaunchDaemon plist on my macbook but the issue was if the device was offline (without internet connection) at the time of archiving, it would sometimes not run at all.
 
 Debugging why plist cron jobs couldn't run was something I didn't want to do so I now delegated it to github actions instead.  -- 2025-05-03T11:43:25.324Z
-
----
-
-Quoting comment on the License change of Redis  from SSPL to AGPL
-
-> “I have a great deal of respect for antirez and rec[o]gnize him as a kind and benevolent member of the FOSS community, but no matter what Redis, Inc. announced or does, they have lost my trust for good, and I will continue to use Redis forks for as long as they exist.”
-
-[via HN](https://news.ycombinator.com/item?id=43859854)
-
-loss of trust is a one way door . Once you cross it, in most situations it’s hard to get back and needs incredible effort and sacrifice to gain back lost trust.
-
-Integrity on the fly is important. I know that things won’t be smooth sailing always and the absurdist in us agrees that we may have to take decisions that we ideally won’t.
-
-that is exactly why decision makers need to have skin in the game on the long run.  -- 2025-05-02T04:49:52.220Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
