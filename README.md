@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I should maintain a running notes of blogs, articles and stuff that I read.  -- 2025-05-14T14:25:30.693Z
+
+---
+
+the type of person to do things that don't scale.  -- 2025-05-14T14:07:45.166Z
+
+---
+
 Even with technology, the Darwinian natural selection is coming into play.
 https://twitter.com/twitter/status/1921687346946179419/  -- 2025-05-12T02:21:06.098Z
 
@@ -59,18 +67,6 @@ Appalled that I didn't look for alternatives like this sooner.  -- 2025-05-08T10
 ---
 
 "timelines are determined by members of technical staff" should be an axiom.  -- 2025-05-07T02:46:09.894Z
-
----
-
-finally sat down and solved a icky bug in my content publishing software. practiced by debugging muscle on a relatively legacy piece of software. felt good. thanks ipdb.  -- 2025-05-03T12:33:13.668Z
-
----
-
-I "vibe coded" a @github action to archive my daily live feed as markdown blog posts.
-
-This was initially done using a manually scaffolded LaunchDaemon plist on my macbook but the issue was if the device was offline (without internet connection) at the time of archiving, it would sometimes not run at all.
-
-Debugging why plist cron jobs couldn't run was something I didn't want to do so I now delegated it to github actions instead.  -- 2025-05-03T11:43:25.324Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
