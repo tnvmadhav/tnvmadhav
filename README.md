@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+ 🎶 Not me listening to Zero Eclipse instrumental by Hiroyuki Sawano on repeat  -- 2025-05-15T03:28:14.261Z
+
+---
+
 I should maintain a running notes of blogs, articles and stuff that I read.  -- 2025-05-14T14:25:30.693Z
 
 ---
@@ -63,10 +67,6 @@ gh workflow run deploy.yml --ref main
 ```
 
 Appalled that I didn't look for alternatives like this sooner.  -- 2025-05-08T10:04:57.036Z
-
----
-
-"timelines are determined by members of technical staff" should be an axiom.  -- 2025-05-07T02:46:09.894Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
