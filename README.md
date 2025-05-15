@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+you are the moat  -- 2025-05-15T11:35:39.648Z
+
+---
+
  🎶 Not me listening to Zero Eclipse instrumental by Hiroyuki Sawano on repeat  -- 2025-05-15T03:28:14.261Z
 
 ---
@@ -55,18 +59,6 @@ i didn’t google if there is already an existing solution or product for this. 
 ---
 
 something about unyielding primal rage in works of fiction that gives me goosebumps. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9HBbyKQ.jpeg) -- 2025-05-09T17:20:07.247Z
-
----
-
-TIL that you can initiate GitHub action workflow from local using `gh` client as opposed to clicking through cluncky buttons for manual runs.
-
-This is such a productivity boost for me.
-
-```sh
-gh workflow run deploy.yml --ref main
-```
-
-Appalled that I didn't look for alternatives like this sooner.  -- 2025-05-08T10:04:57.036Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
