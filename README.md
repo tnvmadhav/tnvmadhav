@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+With inaction, entropic ruin is imminent.  -- 2025-05-16T11:27:37.151Z
+
+---
+
 you are the moat  -- 2025-05-15T11:35:39.648Z
 
 ---
@@ -55,10 +59,6 @@ i believe there will be atleast 100 orgs that will be onboard this idea.
 
 
 i didn’t google if there is already an existing solution or product for this. if yes it’s not popular enough.  -- 2025-05-10T05:11:50.010Z
-
----
-
-something about unyielding primal rage in works of fiction that gives me goosebumps. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_9HBbyKQ.jpeg) -- 2025-05-09T17:20:07.247Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
