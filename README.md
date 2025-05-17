@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+relaxing the learning muscle is a superposition problem and it needs to stop being one. 
+
+will you get back to it or will you let it go? thankfully you have agency to make this choice.  -- 2025-05-17T07:36:18.128Z
+
+---
+
 I recently stumbled upon a nice explainer of the dutch flag sorting algorithm.
 
 [via YT search feature](https://www.youtube.com/watch?v=9pdkbqGwUhs)
@@ -52,12 +58,6 @@ yes cathartic moments in pieces of fiction is my weakness. -- [🏞️ Context #
 
 true understanding is about knowing and confidently predicting interaction and not just isolated behaviour.
 https://twitter.com/twitter/status/1921119501846016115/  -- 2025-05-10T08:31:06.376Z
-
----
-
-I’m beginning to believe that a good learning process (leading to proper understanding) will emerge through a bottom up and top down encounters serendipitously.
-
-akin to a pincer operation.  -- 2025-05-10T08:26:07.268Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
