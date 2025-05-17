@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I recently stumbled upon a nice explainer of the dutch flag sorting algorithm.
+
+[via YT search feature](https://www.youtube.com/watch?v=9pdkbqGwUhs)
+
+With this you can sort three things in one pass without using extra space.
+
+
+Next time I'll use this to sort my sock drawer (if I get the time) 😂 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_P8eA63t.png) -- 2025-05-17T04:17:21.619Z
+
+---
+
 With inaction, entropic ruin is imminent.  -- 2025-05-16T11:27:37.151Z
 
 ---
@@ -47,18 +58,6 @@ https://twitter.com/twitter/status/1921119501846016115/  -- 2025-05-10T08:31:06.
 I’m beginning to believe that a good learning process (leading to proper understanding) will emerge through a bottom up and top down encounters serendipitously.
 
 akin to a pincer operation.  -- 2025-05-10T08:26:07.268Z
-
----
-
-twitch dot tv but private, within the org.
-
-this has potential to be fun, keep yourself and team accountable and be productive.
-
-
-i believe there will be atleast 100 orgs that will be onboard this idea.
-
-
-i didn’t google if there is already an existing solution or product for this. if yes it’s not popular enough.  -- 2025-05-10T05:11:50.010Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
