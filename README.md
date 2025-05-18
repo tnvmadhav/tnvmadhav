@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+if anything, llms have helped us appreciate authentic human thoughts and ideas. long way to go.  -- 2025-05-18T13:22:08.682Z
+
+---
+
 bias is a hurdle to unlearning. bias is a hurdle. bias is overfitting.  -- 2025-05-17T07:45:44.840Z
 
 ---
@@ -44,19 +48,6 @@ the type of person to do things that don't scale.  -- 2025-05-14T14:07:45.166Z
 
 Even with technology, the Darwinian natural selection is coming into play.
 https://twitter.com/twitter/status/1921687346946179419/  -- 2025-05-12T02:21:06.098Z
-
----
-
-eren jaeger was fighting an internal struggle within himself since the infamous medal ceremony oscillating between "There is no free will" and "I did all of this with my free will".
-
-
-he couldn't take it. he needed help from Armin to digest and reconcile that he is a "slave to freedom".
-
-
-and, this was triggered by that flash back to grisha holding new born eren in his arms saying "You are free" is such a powerful cathartic moment.
-
-
-yes cathartic moments in pieces of fiction is my weakness. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/6bd41735c95869dbc5b729645e4891dc-2988048953.jpg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/159e06ffb1a71e79f3b56718791f22d1-555933217.jpg) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/image_7wtgKYS.png) [🏞️ Context #4](https://cpx.tnvmadhav.me/content/image/content-images/image_Pd52BB8.png) [🏞️ Context #5](https://cpx.tnvmadhav.me/content/image/content-images/eren-in-139-saw-his-anime-future-self-being-held-by-grisha-v0-hz22gaalq7d_sjkgrZ3.jpg) -- 2025-05-11T16:28:02.561Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
