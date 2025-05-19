@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+optimising for not getting nerd sniped  -- 2025-05-19T08:12:14.234Z
+
+---
+
 the tendency to optimize for the wrong loss function will eventually go belly up.  -- 2025-05-19T06:20:35.472Z
 
 ---
@@ -43,10 +47,6 @@ you are the moat  -- 2025-05-15T11:35:39.648Z
 ---
 
 I should maintain a running notes of blogs, articles and stuff that I read.  -- 2025-05-14T14:25:30.693Z
-
----
-
-the type of person to do things that don't scale.  -- 2025-05-14T14:07:45.166Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
