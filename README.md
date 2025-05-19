@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+the tendency to optimize for the wrong loss function will eventually go belly up.  -- 2025-05-19T06:20:35.472Z
+
+---
+
 if anything, llms have helped us appreciate authentic human thoughts and ideas. long way to go.  -- 2025-05-18T13:22:08.682Z
 
 ---
@@ -43,11 +47,6 @@ I should maintain a running notes of blogs, articles and stuff that I read.  -- 
 ---
 
 the type of person to do things that don't scale.  -- 2025-05-14T14:07:45.166Z
-
----
-
-Even with technology, the Darwinian natural selection is coming into play.
-https://twitter.com/twitter/status/1921687346946179419/  -- 2025-05-12T02:21:06.098Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
