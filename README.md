@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+mustering the courage to write integration tests (it's too time consuming)  -- 2025-05-19T11:20:43.930Z
+
+---
+
 optimising for not getting nerd sniped  -- 2025-05-19T08:12:14.234Z
 
 ---
@@ -43,10 +47,6 @@ you are the moat  -- 2025-05-15T11:35:39.648Z
 ---
 
  🎶 Not me listening to Zero Eclipse instrumental by Hiroyuki Sawano on repeat  -- 2025-05-15T03:28:14.261Z
-
----
-
-I should maintain a running notes of blogs, articles and stuff that I read.  -- 2025-05-14T14:25:30.693Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
