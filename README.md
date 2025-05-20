@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+optimizing for easy addition/updation/removal of integration tests  -- 2025-05-20T06:08:28.693Z
+
+---
+
 mustering the courage to write integration tests (it's too time consuming)  -- 2025-05-19T11:20:43.930Z
 
 ---
@@ -43,10 +47,6 @@ With inaction, entropic ruin is imminent.  -- 2025-05-16T11:27:37.151Z
 ---
 
 you are the moat  -- 2025-05-15T11:35:39.648Z
-
----
-
- 🎶 Not me listening to Zero Eclipse instrumental by Hiroyuki Sawano on repeat  -- 2025-05-15T03:28:14.261Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
