@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+daniel pemberton's OST composition for guy ritchie's king arthur movie is underrated. it's a shame that it didn't do well in the box office. 
+
+barring the janky boss fight, there are some really powerful moments in the movie.  -- 2025-05-25T12:22:37.183Z
+
+---
+
 optimizing for easy addition/updation/removal of integration tests  -- 2025-05-20T06:08:28.693Z
 
 ---
@@ -43,10 +49,6 @@ Next time I'll use this to sort my sock drawer (if I get the time) 😂 -- [🏞
 ---
 
 With inaction, entropic ruin is imminent.  -- 2025-05-16T11:27:37.151Z
-
----
-
-you are the moat  -- 2025-05-15T11:35:39.648Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
