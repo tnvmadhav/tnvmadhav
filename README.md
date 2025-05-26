@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+GitHub is down (partially)  -- 2025-05-26T09:35:59.669Z
+
+---
+
 doing something and not knowing why so is not intentional enough. either find out why or do something else.  -- 2025-05-26T03:57:55.012Z
 
 ---
@@ -38,17 +42,6 @@ bias is a hurdle to unlearning. bias is a hurdle. bias is overfitting.  -- 2025-
 relaxing the learning muscle is a superposition problem and it needs to stop being one. 
 
 will you get back to it or will you let it go? thankfully you have agency to make this choice.  -- 2025-05-17T07:36:18.128Z
-
----
-
-I recently stumbled upon a nice explainer of the dutch flag sorting algorithm.
-
-[via YT search feature](https://www.youtube.com/watch?v=9pdkbqGwUhs)
-
-With this you can sort three things in one pass without using extra space.
-
-
-Next time I'll use this to sort my sock drawer (if I get the time) 😂 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_P8eA63t.png) -- 2025-05-17T04:17:21.619Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
