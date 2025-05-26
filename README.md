@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+doing something and not knowing why so is not intentional enough. either find out why or do something else.  -- 2025-05-26T03:57:55.012Z
+
+---
+
 daniel pemberton's OST composition for guy ritchie's king arthur movie is underrated. it's a shame that it didn't do well in the box office. 
 
 barring the janky boss fight, there are some really powerful moments in the movie.  -- 2025-05-25T12:22:37.183Z
@@ -45,10 +49,6 @@ With this you can sort three things in one pass without using extra space.
 
 
 Next time I'll use this to sort my sock drawer (if I get the time) 😂 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_P8eA63t.png) -- 2025-05-17T04:17:21.619Z
-
----
-
-With inaction, entropic ruin is imminent.  -- 2025-05-16T11:27:37.151Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
