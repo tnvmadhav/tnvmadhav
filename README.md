@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today I learned about `tee` terminal command. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_y73GfFk.png) -- 2025-05-29T09:53:33.126Z
+
+---
+
 GitHub is down (partially)  -- 2025-05-26T09:35:59.669Z
 
 ---
@@ -36,12 +40,6 @@ if anything, llms have helped us appreciate authentic human thoughts and ideas. 
 ---
 
 bias is a hurdle to unlearning. bias is a hurdle. bias is overfitting.  -- 2025-05-17T07:45:44.840Z
-
----
-
-relaxing the learning muscle is a superposition problem and it needs to stop being one. 
-
-will you get back to it or will you let it go? thankfully you have agency to make this choice.  -- 2025-05-17T07:36:18.128Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
