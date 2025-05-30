@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Tim Sweeney says that we gotta do a lot of different types of work to gain maturity and like don't focus on only one type. 
+
+
+do a lot of things do a lot of coding a lot of practicing a lot of different styles and only then you will know the true sense of coding and then you can choose to go deep once you've gain mastery in all different strokes
+
+
+This is super interesting coming from a hardcore engineer where specialisation seems to be the thing but craft is honed though creativity and exploration.
+
+
+I’ve been listening to the epic games CEO on lexfridman, i knew that he had been against apple’s store monopoly but i did not know about his background.
+
+
+I loved fortnite during its peak 2019 i think, played almost daily with friends and strangers around the internet. smooth gameplay. dont miss being headshot by noobs though.  -- 2025-05-30T12:49:44.982Z
+
+---
+
 I just got jump-scared by @GitHub. 
 
 (all I did was merge a PR to main branch)
@@ -40,10 +56,6 @@ optimising for not getting nerd sniped  -- 2025-05-19T08:12:14.234Z
 ---
 
 the tendency to optimize for the wrong loss function will eventually go belly up.  -- 2025-05-19T06:20:35.472Z
-
----
-
-if anything, llms have helped us appreciate authentic human thoughts and ideas. long way to go.  -- 2025-05-18T13:22:08.682Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
