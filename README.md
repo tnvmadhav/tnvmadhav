@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I just got jump-scared by @GitHub. 
+
+(all I did was merge a PR to main brain)
+
+This seems to be a bug or something in the GitHub news feed on org dashboard. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/Screenshot_2025-05-30_at_11.57.42.png) -- 2025-05-30T06:31:42.809Z
+
+---
+
 Today I learned about `tee` terminal command. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_y73GfFk.png) -- 2025-05-29T09:53:33.126Z
 
 ---
@@ -36,10 +44,6 @@ the tendency to optimize for the wrong loss function will eventually go belly up
 ---
 
 if anything, llms have helped us appreciate authentic human thoughts and ideas. long way to go.  -- 2025-05-18T13:22:08.682Z
-
----
-
-bias is a hurdle to unlearning. bias is a hurdle. bias is overfitting.  -- 2025-05-17T07:45:44.840Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
