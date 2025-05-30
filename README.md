@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Little late to the party and I just finished watching Mindhunter season 2.
+
+OMG just a fascinating gripping show. 
+
+it's a shame netflix canceled season 3. come on @netflix you can still make it happen.  -- 2025-05-30T15:56:29.365Z
+
+---
+
 Tim Sweeney says that we gotta do a lot of different types of work to gain maturity and like don't focus on only one type. 
 
 
@@ -52,10 +60,6 @@ mustering the courage to write integration tests (it's too time consuming)  -- 2
 ---
 
 optimising for not getting nerd sniped  -- 2025-05-19T08:12:14.234Z
-
----
-
-the tendency to optimize for the wrong loss function will eventually go belly up.  -- 2025-05-19T06:20:35.472Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
