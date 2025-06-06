@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+the type of person that listens to 10+ minutes of lexfridman ad. reads just to feel something  -- 2025-06-06T07:11:50.575Z
+
+---
+
 Little late to the party and I just finished watching Mindhunter season 2.
 
 OMG just a fascinating gripping show. 
@@ -56,10 +60,6 @@ optimizing for easy addition/updation/removal of integration tests  -- 2025-05-2
 ---
 
 mustering the courage to write integration tests (it's too time consuming)  -- 2025-05-19T11:20:43.930Z
-
----
-
-optimising for not getting nerd sniped  -- 2025-05-19T08:12:14.234Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
