@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+making a dog vibe code an app should be something someone should attempt.
+
+transcribe dog barking, ask chatGPT to translate to english with a context of B2B SaaS, ask cursor to process it, build it.  -- 2025-06-08T08:18:19.725Z
+
+---
+
 I stumbled upon a post from 2010 with a very interesting title.
 https://www.lesswrong.com/posts/ufBYjpi9gK6uvtkh5/for-progress-to-be-by-accumulation-and-not-by-random-walk
 
@@ -62,10 +68,6 @@ doing something and not knowing why so is not intentional enough. either find ou
 daniel pemberton's OST composition for guy ritchie's king arthur movie is underrated. it's a shame that it didn't do well in the box office. 
 
 barring the janky boss fight, there are some really powerful moments in the movie.  -- 2025-05-25T12:22:37.183Z
-
----
-
-optimizing for easy addition/updation/removal of integration tests  -- 2025-05-20T06:08:28.693Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
