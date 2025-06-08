@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I stumbled upon a post from 2010 with a very interesting title.
+https://www.lesswrong.com/posts/ufBYjpi9gK6uvtkh5/for-progress-to-be-by-accumulation-and-not-by-random-walk
+
+
+I agree with the fact that top down learning(intentional progress) is much more efficient than bottom up learning (random walks). 
+
+I believe this was something I supported for a long time now.  -- 2025-06-08T07:11:47.543Z
+
+---
+
 the type of person that listens to 10+ minutes of lexfridman ad. reads just to feel something  -- 2025-06-06T07:11:50.575Z
 
 ---
@@ -56,10 +66,6 @@ barring the janky boss fight, there are some really powerful moments in the movi
 ---
 
 optimizing for easy addition/updation/removal of integration tests  -- 2025-05-20T06:08:28.693Z
-
----
-
-mustering the courage to write integration tests (it's too time consuming)  -- 2025-05-19T11:20:43.930Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
