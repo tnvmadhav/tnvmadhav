@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+On the foolishness of nature programming by Dijkstra
+
+https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html   -- 2025-06-11T14:02:22.010Z
+
+---
+
 making a dog vibe code an app should be something someone should attempt.
 
 transcribe dog barking, ask chatGPT to translate to english with a context of B2B SaaS, ask cursor to process it, build it.  -- 2025-06-08T08:18:19.725Z
@@ -62,12 +68,6 @@ GitHub is down (partially)  -- 2025-05-26T09:35:59.669Z
 ---
 
 doing something and not knowing why so is not intentional enough. either find out why or do something else.  -- 2025-05-26T03:57:55.012Z
-
----
-
-daniel pemberton's OST composition for guy ritchie's king arthur movie is underrated. it's a shame that it didn't do well in the box office. 
-
-barring the janky boss fight, there are some really powerful moments in the movie.  -- 2025-05-25T12:22:37.183Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
