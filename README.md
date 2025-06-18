@@ -1,6 +1,23 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/
+
+
+Some sentences that caught my attention:
+
+> “What I cannot create, I do not understand”
+> "[...]the joy in building toy projects like this comes from an exploration of the unknown, without polluting one’s mind with an existing solution.[...]"
+
+
+> "I’ve been consistently surprised by just how often some arcane nugget of knowledge I’ve acquired when working on a toy project has turned out to be immensely valuable in my day job, either by giving me a head-start on tracking down a problem in a tool or library, or by recognising mistakes before they’re made."
+
+
+> "If you’ve been using LLMs for a while, this cold-turkey approach might even be painful at first, but persist. There is no joy without pain."
+> "The runner’s high doesn’t come to those that take the bus."  -- 2025-06-18T03:01:30.620Z
+
+---
+
 On the foolishness of nature programming by Dijkstra
 
 https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html   -- 2025-06-11T14:02:22.010Z
@@ -64,10 +81,6 @@ Today I learned about `tee` terminal command. -- [🏞️ Context #1](https://cp
 ---
 
 GitHub is down (partially)  -- 2025-05-26T09:35:59.669Z
-
----
-
-doing something and not knowing why so is not intentional enough. either find out why or do something else.  -- 2025-05-26T03:57:55.012Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
