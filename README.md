@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Content I consumed today:
+
+1. Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/ (good arguments)
+
+2. The Grug Brained Developer https://grugbrain.dev (confusing, funny,  relatable)  -- 2025-06-18T09:05:11.454Z
+
+---
+
 Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/
 
 
@@ -77,10 +85,6 @@ This seems to be a bug or something in the GitHub news feed on org dashboard. --
 ---
 
 Today I learned about `tee` terminal command. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_y73GfFk.png) -- 2025-05-29T09:53:33.126Z
-
----
-
-GitHub is down (partially)  -- 2025-05-26T09:35:59.669Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
