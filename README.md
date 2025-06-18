@@ -1,21 +1,21 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-I came across a website while surfing hacker news today. 
-
-https://theoremoftheday.org
-
-Daily dose of theorems. Neat :)  -- 2025-06-18T12:30:02.826Z
-
----
-
 Content I consumed today:
 
 1. Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/ (good arguments)
 
 2. The Grug Brained Developer https://grugbrain.dev (funny,  relatable)
 
-3 “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-18T10:07:53.001Z
+3 “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-18T16:08:01.250Z
+
+---
+
+I came across a website while surfing hacker news today. 
+
+https://theoremoftheday.org
+
+Daily dose of theorems. Neat :)  -- 2025-06-18T12:30:02.826Z
 
 ---
 
