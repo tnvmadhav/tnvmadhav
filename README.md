@@ -1,11 +1,33 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I came across a website while surfing hacker news today. 
+
+https://theoremoftheday.org
+
+Daily dose of theorems. Neat :)  -- 2025-06-18T10:16:55.450Z
+
+---
+
 Content I consumed today:
 
 1. Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/ (good arguments)
 
-2. The Grug Brained Developer https://grugbrain.dev (confusing, funny,  relatable)  -- 2025-06-18T09:05:11.454Z
+2. The Grug Brained Developer https://grugbrain.dev (funny,  relatable)
+
+3 “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-18T10:07:53.001Z
+
+---
+
+“Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/
+
+
+Some points that caught my attention:
+
+> To keep your business code testable and idiomatic, avoid directly using third-party dependencies in it.
+
+
+> Business logic is ultimately the reason you write software. It’s the reason an application exists. Having clean and idiomatic business logic pays dividends for as long as the software exists which is always longer than you think.  -- 2025-06-18T10:07:04.704Z
 
 ---
 
@@ -73,18 +95,6 @@ I’ve been listening to the epic games CEO on lexfridman, i knew that he had be
 
 
 I loved fortnite during its peak 2019 i think, played almost daily with friends and strangers around the internet. smooth gameplay. dont miss being headshot by noobs though.  -- 2025-05-30T12:49:44.982Z
-
----
-
-I just got jump-scared by @GitHub. 
-
-(all I did was merge a PR to main branch)
-
-This seems to be a bug or something in the GitHub news feed on org dashboard. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/Screenshot_2025-05-30_at_11.57.42.png) -- 2025-05-30T06:52:09.270Z
-
----
-
-Today I learned about `tee` terminal command. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_y73GfFk.png) -- 2025-05-29T09:53:33.126Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
