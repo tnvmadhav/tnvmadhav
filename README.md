@@ -5,7 +5,7 @@ I came across a website while surfing hacker news today.
 
 https://theoremoftheday.org
 
-Daily dose of theorems. Neat :)  -- 2025-06-18T10:16:55.450Z
+Daily dose of theorems. Neat :)  -- 2025-06-18T12:30:02.826Z
 
 ---
 
