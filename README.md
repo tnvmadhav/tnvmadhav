@@ -1,13 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+what i can't fix i don't understand
+https://twitter.com/twitter/status/1935170294467211626/  -- 2025-06-19T02:46:47.967Z
+
+---
+
 Content I consumed today:
 
 1. Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/ (good arguments)
 
 2. The Grug Brained Developer https://grugbrain.dev (funny,  relatable)
 
-3 “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-18T16:08:01.250Z
+3. “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-19T02:44:06.353Z
 
 ---
 
@@ -79,22 +84,6 @@ Little late to the party and I just finished watching Mindhunter season 2.
 OMG just a fascinating gripping show. 
 
 it's a shame netflix canceled season 3. come on @netflix you can still make it happen.  -- 2025-05-30T15:56:29.365Z
-
----
-
-Tim Sweeney says that we gotta do a lot of different types of work to gain maturity and like don't focus on only one type. 
-
-
-do a lot of things do a lot of coding a lot of practicing a lot of different styles and only then you will know the true sense of coding and then you can choose to go deep once you've gain mastery in all different strokes
-
-
-This is super interesting coming from a hardcore engineer where specialisation seems to be the thing but craft is honed though creativity and exploration.
-
-
-I’ve been listening to the epic games CEO on lexfridman, i knew that he had been against apple’s store monopoly but i did not know about his background.
-
-
-I loved fortnite during its peak 2019 i think, played almost daily with friends and strangers around the internet. smooth gameplay. dont miss being headshot by noobs though.  -- 2025-05-30T12:49:44.982Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
