@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Content I consumed today
+
+1. Software is changing again [Video] https://www.youtube.com/watch?v=LCEmiRjPEtQ
+
+2.Future of AI [Video] https://youtu.be/mZUG0pr5hBo (weird and wholesome to hear sama without his signature vocal fry)  -- 2025-06-19T17:30:02.614Z
+
+---
+
 Content I consumed today:
 
 1. Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/ (good arguments)
@@ -118,10 +126,6 @@ https://www.lesswrong.com/posts/ufBYjpi9gK6uvtkh5/for-progress-to-be-by-accumula
 I agree with the fact that top down learning(intentional progress) is much more efficient than bottom up learning (random walks). 
 
 I believe this was something I supported for a long time now.  -- 2025-06-08T07:11:47.543Z
-
----
-
-the type of person that listens to 10+ minutes of lexfridman ad. reads just to feel something  -- 2025-06-06T07:11:50.575Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
