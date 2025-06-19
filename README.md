@@ -1,18 +1,64 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-what i can't fix i don't understand
-https://twitter.com/twitter/status/1935170294467211626/  -- 2025-06-19T02:46:47.967Z
-
----
-
 Content I consumed today:
 
 1. Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/ (good arguments)
 
 2. The Grug Brained Developer https://grugbrain.dev (funny,  relatable)
 
-3. “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-19T02:44:06.353Z
+
+3. “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-19T03:44:01.710Z
+
+---
+
+Running notes from [Software is changing (again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+
+software 1.0 -> computer code
+software 2.0 -> language model weights
+
+Software 2.0 is eating Software 1.0
+
+
+A lot of software 1.0 or even 2.0 is being rewritten.
+
+
+> "LLMs are people spirits"
+
+a time machine gone wrong (if you will)
+
+
+LLMs are like a person when their character-arc is complete.
+
+
+LLMs generate while humans need to verify (as of today)
+
+Going forward we gotta (as humans) setup systems that are intuitive, easy to modify and use. Fast recognition of LLM induced BS.
+
+
+Karpathy's Slide:
+
+>1. describe single, next concrete, >incremental change
+>2. don't ask for code, ask for approaches
+>3. test
+>4. git commit
+>5. ask for suggestion on what could be implemented next
+>6. repeat
+
+
+vague prompts implies vague verification bias. spend time strengthening verification. prompts get stronger as a result.
+
+
+So test driven development with more steps but when done right, we can get a lot more done. 
+many people will not like this and they'd spend money 💰 to get it done for them. good business opportunity.
+
+
+however being money minded without having the tenacity to solve the problem will lead to blow up. consumers of such businesses/solutions should decide before jumping in on the hype. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XGHMZbD.png) -- 2025-06-19T03:42:21.003Z
+
+---
+
+what i can't fix i don't understand
+https://twitter.com/twitter/status/1935170294467211626/  -- 2025-06-19T02:46:47.967Z
 
 ---
 
@@ -76,14 +122,6 @@ I believe this was something I supported for a long time now.  -- 2025-06-08T07:
 ---
 
 the type of person that listens to 10+ minutes of lexfridman ad. reads just to feel something  -- 2025-06-06T07:11:50.575Z
-
----
-
-Little late to the party and I just finished watching Mindhunter season 2.
-
-OMG just a fascinating gripping show. 
-
-it's a shame netflix canceled season 3. come on @netflix you can still make it happen.  -- 2025-05-30T15:56:29.365Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
