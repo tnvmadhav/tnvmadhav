@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+T.I.L. that A.R.M. initially stood for Acorn R.I.S.C. Machine and was rebranded to A.R.M. which stands for Advanced R.I.S.C. Machines Ltd.  -- 2025-06-22T08:02:47.409Z
+
+---
+
+T.I.L. that PowerPC was an alliance between Apple, Motorola and I.B.M.  -- 2025-06-22T07:59:48.395Z
+
+---
+
 I was almost certain that @digitalocean had a way to configure event alerts using webhooks.
 
 after a clunky search, any attempt to land on an opportunity on closing this requirement led me to a haven of expectations or just ideas dot digitalocean dot com.
@@ -116,18 +124,6 @@ Some sentences that caught my attention:
 
 > "If you’ve been using LLMs for a while, this cold-turkey approach might even be painful at first, but persist. There is no joy without pain."
 > "The runner’s high doesn’t come to those that take the bus."  -- 2025-06-18T03:01:30.620Z
-
----
-
-On the foolishness of nature programming by Dijkstra
-
-https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html   -- 2025-06-11T14:02:22.010Z
-
----
-
-making a dog vibe code an app should be something someone should attempt.
-
-transcribe dog barking, ask chatGPT to translate to english with a context of B2B SaaS, ask cursor to process it, build it.  -- 2025-06-08T08:18:19.725Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
