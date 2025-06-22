@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+While trying to learn about setting keyboard shortcuts via vanilla javascript, I learned that
+`navigator.platform` showed  `MacIntel`  despite my device being a post 2020 Apple M2 Pro .
+
+I was confused. I needed to know if I should be.
+
+
+Turns out that I needn't because there was this thing called Rosetta 2 that was intentionally returning `MacIntel` because it supported applications compiled to run on previously intended Intel X86 chips on now Apple owned silicon stack.
+
+
+What is Rosetta 2? My notes: https://tnvmadhav.me/til/rosetta-2/  -- 2025-06-22T08:42:25.411Z
+
+---
+
 T.I.L. that A.R.M. initially stood for Acorn R.I.S.C. Machine and was rebranded to A.R.M. which stands for Advanced R.I.S.C. Machines Ltd.  -- 2025-06-22T08:02:47.409Z
 
 ---
@@ -107,23 +120,6 @@ Some points that caught my attention:
 
 
 > Business logic is ultimately the reason you write software. It’s the reason an application exists. Having clean and idiomatic business logic pays dividends for as long as the software exists which is always longer than you think.  -- 2025-06-18T10:07:04.704Z
-
----
-
-Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/
-
-
-Some sentences that caught my attention:
-
-> “What I cannot create, I do not understand”
-> "[...]the joy in building toy projects like this comes from an exploration of the unknown, without polluting one’s mind with an existing solution.[...]"
-
-
-> "I’ve been consistently surprised by just how often some arcane nugget of knowledge I’ve acquired when working on a toy project has turned out to be immensely valuable in my day job, either by giving me a head-start on tracking down a problem in a tool or library, or by recognising mistakes before they’re made."
-
-
-> "If you’ve been using LLMs for a while, this cold-turkey approach might even be painful at first, but persist. There is no joy without pain."
-> "The runner’s high doesn’t come to those that take the bus."  -- 2025-06-18T03:01:30.620Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
@@ -172,6 +168,8 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 ## Latest TILs
 
 <!-- til starts -->
+[Rosetta 2: Apple's Temporary Fix](https://tnvmadhav.me/til/rosetta-2/) -- 2025-06-22T08:16:35+00:00
+
 [Http Archiving -- Capturing a moment in time](https://tnvmadhav.me/til/http-archiving/) -- 2025-02-23T09:43:37+00:00
 
 [V.S. Code Has a Simple Browser](https://tnvmadhav.me/til/vscode-has-a-simple-browser/) -- 2025-02-22T09:15:32+00:00
@@ -179,8 +177,6 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 [About SSH Host Key Verification](https://tnvmadhav.me/til/ssh-host-key-verification/) -- 2024-09-12T15:11:31+00:00
 
 [Network Address Types in Postgres](https://tnvmadhav.me/til/network-address-types-in-postgres/) -- 2024-09-10T04:03:27+00:00
-
-[Nested Functions in Go](https://tnvmadhav.me/til/nested-functions-in-go/) -- 2024-07-07T04:11:51+00:00
 
 More on [My TILS](https://tnvmadhav.me/til/)
 <!-- til ends -->
