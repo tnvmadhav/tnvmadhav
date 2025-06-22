@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I was almost certain that @digitalocean had a way to configure event alerts using webhooks.
+
+after a clunky search, any attempt to land on an opportunity on closing this requirement led me to a haven of expectations or just ideas dot digitalocean dot com.
+
+like what even?
+
+
+The aforementioned haven of expectations:
+https://ideas.digitalocean.com/core-compute-platform/p/add-webhooks-to-monitoring  -- 2025-06-22T07:07:29.289Z
+
+---
+
 Content I consumed today
 
 1. Software is changing again [Video] https://www.youtube.com/watch?v=LCEmiRjPEtQ
@@ -116,16 +128,6 @@ https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html   -- 2025-06-1
 making a dog vibe code an app should be something someone should attempt.
 
 transcribe dog barking, ask chatGPT to translate to english with a context of B2B SaaS, ask cursor to process it, build it.  -- 2025-06-08T08:18:19.725Z
-
----
-
-I stumbled upon a post from 2010 with a very interesting title.
-https://www.lesswrong.com/posts/ufBYjpi9gK6uvtkh5/for-progress-to-be-by-accumulation-and-not-by-random-walk
-
-
-I agree with the fact that top down learning(intentional progress) is much more efficient than bottom up learning (random walks). 
-
-I believe this was something I supported for a long time now.  -- 2025-06-08T07:11:47.543Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
