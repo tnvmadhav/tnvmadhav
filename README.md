@@ -150,6 +150,8 @@ More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 ## Latest Guides
 
 <!-- guide starts -->
+[Fzf for Code Review](https://tnvmadhav.me/guides/fzf-for-code-review/) -- 2025-06-22T10:52:58+00:00
+
 [On Using Godoc tool for your Go Programs](https://tnvmadhav.me/guides/on-using-godoc-tool/) -- 2024-08-07T08:18:53+00:00
 
 [How to Perform Null Checks for Structs in Golang?](https://tnvmadhav.me/guides/how-to-perform-null-checks-for-structs-in-golang/) -- 2024-02-03T16:10:53+00:00
@@ -157,8 +159,6 @@ More on [MY BLOG POSTS](https://tnvmadhav.me/blog/)
 [How to Build a Simple Websocket Server and Client in Go and Javascript?](https://tnvmadhav.me/guides/how-to-build-a-simple-websocket-server-and-client-in-go/) -- 2023-12-16T14:14:18+00:00
 
 [How to Use Buttons in SwiftUI?](https://tnvmadhav.me/guides/how-to-use-buttons-in-swiftui/) -- 2023-10-26T04:06:07+00:00
-
-[How to go to a Line Number in Visual Studio Code?](https://tnvmadhav.me/guides/how-to-go-to-line-in-visual-studio-code/) -- 2023-09-24T09:55:27+00:00
 
 More on [MY GUIDES](https://tnvmadhav.me/guides/)
 <!-- guide ends -->
