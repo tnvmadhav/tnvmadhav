@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+code that runs a million times needs thinking atleast twice.  -- 2025-06-23T06:57:22.757Z
+
+---
+
 a court order over trademark dispute from "iYO" against "iO" to take down an announcement page is crazy
 
 > "We don’t agree with the complaint and are reviewing our options." ~ OpenAI
@@ -108,14 +112,6 @@ however being money minded without having the tenacity to solve the problem will
 
 what i can't fix i don't understand
 https://twitter.com/twitter/status/1935170294467211626/  -- 2025-06-19T02:46:47.967Z
-
----
-
-I came across a website while surfing hacker news today. 
-
-https://theoremoftheday.org
-
-Daily dose of theorems. Neat :)  -- 2025-06-18T12:30:02.826Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
