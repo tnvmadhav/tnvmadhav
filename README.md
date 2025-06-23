@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+a court order over trademark dispute from "iYO" against "iO" to take down an announcement page is crazy
+
+> "We don’t agree with the complaint and are reviewing our options." ~ OpenAI
+
+https://x.com/OpenAINewsroom/status/1936910167867863053  -- 2025-06-23T02:45:29.812Z
+
+---
+
 While trying to learn about setting keyboard shortcuts via vanilla javascript, I learned that
 `navigator.platform` showed  `MacIntel`  despite my device being a post 2020 Apple M2 Pro .
 
@@ -108,18 +116,6 @@ I came across a website while surfing hacker news today.
 https://theoremoftheday.org
 
 Daily dose of theorems. Neat :)  -- 2025-06-18T12:30:02.826Z
-
----
-
-“Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/
-
-
-Some points that caught my attention:
-
-> To keep your business code testable and idiomatic, avoid directly using third-party dependencies in it.
-
-
-> Business logic is ultimately the reason you write software. It’s the reason an application exists. Having clean and idiomatic business logic pays dividends for as long as the software exists which is always longer than you think.  -- 2025-06-18T10:07:04.704Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
