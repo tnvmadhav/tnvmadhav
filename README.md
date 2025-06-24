@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Excerpts from "The Shape of the Essay Field" https://paulgraham.com/field.html
+
+> So the three reasons readers might not already know what you tell them are (a) that it's not important, (b) that they're obtuse, or (c) that they're inexperienced.
+
+so by implication,
+
+>  If you're writing for smart people about important things, you're writing for the young.
+
+
+> Now that I know it, should I change anything? I don't think so. In fact seeing the shape of the field that writers work in has reminded me that I'm not optimizing for returns in it. I'm not trying to surprise readers of any particular age; I'm trying to surprise myself.  -- 2025-06-24T04:08:40.622Z
+
+---
+
 code that runs a million times needs thinking atleast twice.  -- 2025-06-23T06:57:22.757Z
 
 ---
@@ -107,11 +120,6 @@ many people will not like this and they'd spend money 💰 to get it done for th
 
 
 however being money minded without having the tenacity to solve the problem will lead to blow up. consumers of such businesses/solutions should decide before jumping in on the hype. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XGHMZbD.png) -- 2025-06-19T03:42:21.003Z
-
----
-
-what i can't fix i don't understand
-https://twitter.com/twitter/status/1935170294467211626/  -- 2025-06-19T02:46:47.967Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
