@@ -1,6 +1,39 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Rosetta 2 creator on efficiency:
+
+> Q(zmb_ ): [...]As someone frustrated in a team of 10+ that is struggling to ship even seemingly trivial things due to processes and overheads and inefficiencies, I would really appreciate some insights on how do you organize the work to allow a single developer to achieve this.
+
+> A(cwzwarich): Well, the first thing to realize about scaling codebases with developers is that an N developer team will usually produce a codebase that requires N developers to maintain. So by starting small and staying small until you reach a certain critical mass of fundamental decisions, you can avoid some of the problems that you get from having too many developers too early. You can easily also fall into the reverse trap: a historical core with pieces that fit too well together, but most of the developers on the team don’t intuitively understand the reasons behind all of the past decisions (because they weren’t there when they happened). This can lead to poorly affixed additions to a system in response to new features or requirements.
+As far as Rosetta in particular was concerned, I think I was just in the right environment to consistently be in a flow state. I have had fleeting moments of depression upon the realization that I will probably never be this productive for an extended period of time ever again.
+
+
+sourced via comments to the HN post [Rosetta 2 creator leaves Apple to work on Lean full-time](https://news.ycombinator.com/item?id=42483895)  -- 2025-06-26T03:23:52.279Z
+
+---
+
+I rewatched Manchester by the Sea last night.
+
+Casey Affleck really did a phenomenal job portraying unease and depression but Michelle Williams stole every scene she was in.
+
+Moreover what kept me fascinated was the portrayal of climate/weather metaphorically *and* literally carrying the emotional journey *and* plot respectively.
+
+The latter which is something that stood out to me because I've been dabbling with such metaphors in a story I've been brewing in my head.  -- 2025-06-26T02:55:44.675Z
+
+---
+
+I've been doing this *fun* thing lately.
+
+Whenever I recall a concept that is practically not relevant to what I'm doing in my daily life (you can call me a normie) and I wanna see how people are dealing with said concept in their daily lives, I do this simple trick.
+
+I search  `site:news.ycombinator.com {{concept}}` on google and honestly I'm not disappointed. Instant rabbit hole material.
+
+
+all this given that I have time to kill :P  -- 2025-06-26T02:45:22.954Z
+
+---
+
 Excerpts from "The Shape of the Essay Field" https://paulgraham.com/field.html
 
 > So the three reasons readers might not already know what you tell them are (a) that it's not important, (b) that they're obtuse, or (c) that they're inexperienced.
@@ -56,70 +89,6 @@ like what even?
 
 The aforementioned haven of expectations:
 https://ideas.digitalocean.com/core-compute-platform/p/add-webhooks-to-monitoring  -- 2025-06-22T07:07:29.289Z
-
----
-
-Content I consumed today
-
-1. Software is changing again [Video] https://www.youtube.com/watch?v=LCEmiRjPEtQ
-
-2.Future of AI [Video] https://youtu.be/mZUG0pr5hBo (weird and wholesome to hear sama without his signature vocal fry)  -- 2025-06-19T17:30:02.614Z
-
----
-
-Content I consumed today:
-
-1. Writing Toy Software Is A Joy https://www.jsbarretto.com/blog/software-is-joy/ (good arguments)
-
-2. The Grug Brained Developer https://grugbrain.dev (funny,  relatable)
-
-
-3. “Don’t Mock What You Don’t Own” in 5 Minutes https://hynek.me/articles/what-to-mock-in-5-mins/ (obvious in hindsight)  -- 2025-06-19T03:44:01.710Z
-
----
-
-Running notes from [Software is changing (again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
-
-software 1.0 -> computer code
-software 2.0 -> language model weights
-
-Software 2.0 is eating Software 1.0
-
-
-A lot of software 1.0 or even 2.0 is being rewritten.
-
-
-> "LLMs are people spirits"
-
-a time machine gone wrong (if you will)
-
-
-LLMs are like a person when their character-arc is complete.
-
-
-LLMs generate while humans need to verify (as of today)
-
-Going forward we gotta (as humans) setup systems that are intuitive, easy to modify and use. Fast recognition of LLM induced BS.
-
-
-Karpathy's Slide:
-
->1. describe single, next concrete, >incremental change
->2. don't ask for code, ask for approaches
->3. test
->4. git commit
->5. ask for suggestion on what could be implemented next
->6. repeat
-
-
-vague prompts implies vague verification bias. spend time strengthening verification. prompts get stronger as a result.
-
-
-So test driven development with more steps but when done right, we can get a lot more done. 
-many people will not like this and they'd spend money 💰 to get it done for them. good business opportunity.
-
-
-however being money minded without having the tenacity to solve the problem will lead to blow up. consumers of such businesses/solutions should decide before jumping in on the hype. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_XGHMZbD.png) -- 2025-06-19T03:42:21.003Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
