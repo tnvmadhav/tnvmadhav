@@ -4,7 +4,7 @@
 I wanted to improve my code review capability and I found this blog post useful!
 
 so sharing it here just because:
-https://consulting.drmaciver.com/code-review-quick-fixes/  -- 2025-06-26T08:36:37.831Z
+https://consulting.drmaciver.com/code-review-quick-fixes/  -- 2025-06-26T12:30:02.812Z
 
 ---
 
