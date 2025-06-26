@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I wanted to improve my code review capability and I found this blog post useful!
+
+so sharing it here just because:
+https://consulting.drmaciver.com/code-review-quick-fixes/  -- 2025-06-26T08:36:37.831Z
+
+---
+
 Rosetta 2 creator on efficiency:
 
 > Q(zmb_ ): [...]As someone frustrated in a team of 10+ that is struggling to ship even seemingly trivial things due to processes and overheads and inefficiencies, I would really appreciate some insights on how do you organize the work to allow a single developer to achieve this.
@@ -77,18 +84,6 @@ T.I.L. that A.R.M. initially stood for Acorn R.I.S.C. Machine and was rebranded 
 ---
 
 T.I.L. that PowerPC was an alliance between Apple, Motorola and I.B.M.  -- 2025-06-22T07:59:48.395Z
-
----
-
-I was almost certain that @digitalocean had a way to configure event alerts using webhooks.
-
-after a clunky search, any attempt to land on an opportunity on closing this requirement led me to a haven of expectations or just ideas dot digitalocean dot com.
-
-like what even?
-
-
-The aforementioned haven of expectations:
-https://ideas.digitalocean.com/core-compute-platform/p/add-webhooks-to-monitoring  -- 2025-06-22T07:07:29.289Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
