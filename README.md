@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+>  The Pen Is Mightier Than the Keyboard by Mueller and Oppenheimer found that students who took handwritten notes retained concepts better than those who typed them. 
+
+Taking notes in your own words along with verbatim (quotes) and can help later validate and rethink your assumptions.
+
+Hand writing in your own words + digital / analog verbatim transcribing i feel is in line with the Lollapalooza[^1]
+
+
+[^1]: "Lollapalooza effect: Munger used the term "Lollapalooza effect" for multiple biases, tendencies or mental models acting in compound with each other at the same time in the same direction. With the Lollapalooza effect, itself a mental model, the result is often extreme, due to the confluence of the mental models, biases or tendencies acting together, greatly increasing the likelihood of acting irrationally" ~ [via wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger)  -- 2025-06-28T05:12:55.521Z
+
+---
+
 I wanted to improve my code review capability and I found this blog post useful!
 
 so sharing it here just because:
@@ -80,10 +91,6 @@ What is Rosetta 2? My notes: https://tnvmadhav.me/til/rosetta-2/  -- 2025-06-22T
 ---
 
 T.I.L. that A.R.M. initially stood for Acorn R.I.S.C. Machine and was rebranded to A.R.M. which stands for Advanced R.I.S.C. Machines Ltd.  -- 2025-06-22T08:02:47.409Z
-
----
-
-T.I.L. that PowerPC was an alliance between Apple, Motorola and I.B.M.  -- 2025-06-22T07:59:48.395Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
