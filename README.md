@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+i wrote myself a neovim command and a keybinding on top of that to help me save and push the current file to remote git branch.
+
+If I want to quickly save current file and push to remote all i need to do it
+
+<Leader>gp
+
+This is super helpful when working with personal single file notes and scripts.
+
+[my full chatGPT conversation transcript](https://bagel.ink/c/V5l6Y8)  -- 2025-06-28T07:14:07.655Z
+
+---
+
 >  The Pen Is Mightier Than the Keyboard by Mueller and Oppenheimer found that students who took handwritten notes retained concepts better than those who typed them. 
 
 Taking notes in your own words along with verbatim (quotes) and can help later validate and rethink your assumptions.
@@ -87,10 +99,6 @@ Turns out that I needn't because there was this thing called Rosetta 2 that was 
 
 
 What is Rosetta 2? My notes: https://tnvmadhav.me/til/rosetta-2/  -- 2025-06-22T08:42:25.411Z
-
----
-
-T.I.L. that A.R.M. initially stood for Acorn R.I.S.C. Machine and was rebranded to A.R.M. which stands for Advanced R.I.S.C. Machines Ltd.  -- 2025-06-22T08:02:47.409Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
