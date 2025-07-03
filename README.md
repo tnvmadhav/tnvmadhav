@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I might have to experiment with daily setup and teardown rituals because mission critical work can be energy draining.  -- 2025-07-03T08:39:13.146Z
+
+---
+
 i wrote myself a neovim command and a keybinding on top of that to help me save and push the current file to remote git branch.
 
 If I want to quickly save current file and push to remote all i need to do it
@@ -86,19 +90,6 @@ a court order over trademark dispute from "iYO" against "iO" to take down an ann
 > "We don’t agree with the complaint and are reviewing our options." ~ OpenAI
 
 https://x.com/OpenAINewsroom/status/1936910167867863053  -- 2025-06-23T02:45:29.812Z
-
----
-
-While trying to learn about setting keyboard shortcuts via vanilla javascript, I learned that
-`navigator.platform` showed  `MacIntel`  despite my device being a post 2020 Apple M2 Pro .
-
-I was confused. I needed to know if I should be.
-
-
-Turns out that I needn't because there was this thing called Rosetta 2 that was intentionally returning `MacIntel` because it supported applications compiled to run on previously intended Intel X86 chips on now Apple owned silicon stack.
-
-
-What is Rosetta 2? My notes: https://tnvmadhav.me/til/rosetta-2/  -- 2025-06-22T08:42:25.411Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
