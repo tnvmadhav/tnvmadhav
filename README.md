@@ -1,6 +1,23 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"I know you think you understand what you thought I said, but I am not sure you realize that what you heard is not what I meant"  -- 2025-07-05T11:50:10.012Z
+
+---
+
+Watching a video is like skimming the material where by the end, you'll know where it's all headed and the mind is already working on recognizing the independent points of agency, a traversal in the graph if you will.
+
+
+Then as a second pass, slowing re-reading the transcript to help the mind affirm/reaffirm or even break assumptions, is gonna have a lasting impact in the learning process.
+
+
+This explains why I remember random lore/moments in stories I adore. Watch something end to end and then meticulously revisit parts with a new perspective (akin to multimodal recall).
+
+
+Inspired by this wonderful piece of writing: https://cse.buffalo.edu/~rapaport/howtostudy.htm  -- 2025-07-05T11:49:23.200Z
+
+---
+
 I might have to experiment with daily setup and teardown rituals because mission critical work can be energy draining.  -- 2025-07-03T08:39:13.146Z
 
 ---
@@ -78,18 +95,6 @@ so by implication,
 
 
 > Now that I know it, should I change anything? I don't think so. In fact seeing the shape of the field that writers work in has reminded me that I'm not optimizing for returns in it. I'm not trying to surprise readers of any particular age; I'm trying to surprise myself.  -- 2025-06-24T04:08:40.622Z
-
----
-
-code that runs a million times needs thinking atleast twice.  -- 2025-06-23T06:57:22.757Z
-
----
-
-a court order over trademark dispute from "iYO" against "iO" to take down an announcement page is crazy
-
-> "We don’t agree with the complaint and are reviewing our options." ~ OpenAI
-
-https://x.com/OpenAINewsroom/status/1936910167867863053  -- 2025-06-23T02:45:29.812Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
