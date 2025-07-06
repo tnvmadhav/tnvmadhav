@@ -10,7 +10,7 @@ Then as a second pass, slowing re-reading the transcript to help the mind affirm
 This explains why I remember random lore/moments in stories I adore. Watch something end to end and then meticulously revisit parts with a new perspective (akin to multimodal recall).
 
 
-Inspired by this wonderful piece of writing: https://cse.buffalo.edu/~rapaport/howtostudy.htm  -- 2025-07-05T11:49:23.200Z
+Inspired by this wonderful piece of writing: https://cse.buffalo.edu/~rapaport/howtostudy.htm  -- 2025-07-06T17:30:09.778Z
 
 ---
 
