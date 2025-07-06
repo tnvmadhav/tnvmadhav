@@ -1,10 +1,6 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-"I know you think you understand what you thought I said, but I am not sure you realize that what you heard is not what I meant"  -- 2025-07-05T11:50:10.012Z
-
----
-
 Watching a video is like skimming the material where by the end, you'll know where it's all headed and the mind is already working on recognizing the independent points of agency, a traversal in the graph if you will.
 
 
@@ -95,6 +91,10 @@ so by implication,
 
 
 > Now that I know it, should I change anything? I don't think so. In fact seeing the shape of the field that writers work in has reminded me that I'm not optimizing for returns in it. I'm not trying to surprise readers of any particular age; I'm trying to surprise myself.  -- 2025-06-24T04:08:40.622Z
+
+---
+
+code that runs a million times needs thinking atleast twice.  -- 2025-06-23T06:57:22.757Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
