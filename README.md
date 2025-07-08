@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+"someone please..."
+
+"...please..."
+
+"...please review my code" -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_FZZ6uNn.png) -- 2025-07-08T08:49:21.688Z
+
+---
+
 Watching a video is like skimming the material where by the end, you'll know where it's all headed and the mind is already working on recognizing the independent points of agency, a traversal in the graph if you will.
 
 
@@ -91,10 +99,6 @@ so by implication,
 
 
 > Now that I know it, should I change anything? I don't think so. In fact seeing the shape of the field that writers work in has reminded me that I'm not optimizing for returns in it. I'm not trying to surprise readers of any particular age; I'm trying to surprise myself.  -- 2025-06-24T04:08:40.622Z
-
----
-
-code that runs a million times needs thinking atleast twice.  -- 2025-06-23T06:57:22.757Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
