@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Brian Armstrong on "Share a piece of lore about yourself"
+
+He shared  a struggle he faced during the early phases of Coinbase. It's a long post, so I'm linking it [here for reference](https://x.com/brian_armstrong/status/1942673835381383289).
+
+He ends the story with this,
+
+>  It's a great testament to how constraints breed creativity, top talent matters in startups, and teams are often capable of more than they think when there is no other option.
+> Most products that succeed have early moments like this, where someone has to step up and make a play on the field that defies all the odds. As we face new challenges and deadlines across our many products, I always look out for who on the team is ready to step up and make the game-winning play on the field.
+
+I do recommend that you read his entire post.  -- 2025-07-09T03:25:54.394Z
+
+---
+
 "someone please..."
 
 "...please..."
@@ -86,19 +99,6 @@ I search  `site:news.ycombinator.com {{concept}}` on google and honestly I'm not
 
 
 all this given that I have time to kill :P  -- 2025-06-26T02:45:22.954Z
-
----
-
-Excerpts from "The Shape of the Essay Field" https://paulgraham.com/field.html
-
-> So the three reasons readers might not already know what you tell them are (a) that it's not important, (b) that they're obtuse, or (c) that they're inexperienced.
-
-so by implication,
-
->  If you're writing for smart people about important things, you're writing for the young.
-
-
-> Now that I know it, should I change anything? I don't think so. In fact seeing the shape of the field that writers work in has reminded me that I'm not optimizing for returns in it. I'm not trying to surprise readers of any particular age; I'm trying to surprise myself.  -- 2025-06-24T04:08:40.622Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
