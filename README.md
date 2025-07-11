@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Jack starts [permissionlesstech](https://github.com/permissionlesstech)
+
+> i did this as a weekend project to understand a few technologies: bluetooth mesh, store and forward and relay models, and various encryption models. this was one part of a series of challenges i've given myself: to build something every day that i didn't think i was capable of, and that i didn't think the current set of AI tools were capable of, namely block's tool goose (https://block.github.io/goose/). i'm always surprised at how much...just works. we have a new way of programming now, with an entirely new language and compiler: english and intelligence models.
+
+ref: https://github.com/orgs/permissionlesstech/discussions/139  -- 2025-07-11T03:34:20.910Z
+
+---
+
 Brian Armstrong on "Share a piece of lore about yourself"
 
 He shared  a struggle he faced during the early phases of Coinbase. It's a long post, so I'm linking it [here for reference](https://x.com/brian_armstrong/status/1942673835381383289).
@@ -88,17 +96,6 @@ Casey Affleck really did a phenomenal job portraying unease and depression but M
 Moreover what kept me fascinated was the portrayal of climate/weather metaphorically *and* literally carrying the emotional journey *and* plot respectively.
 
 The latter which is something that stood out to me because I've been dabbling with such metaphors in a story I've been brewing in my head.  -- 2025-06-26T02:55:44.675Z
-
----
-
-I've been doing this *fun* thing lately.
-
-Whenever I recall a concept that is practically not relevant to what I'm doing in my daily life (you can call me a normie) and I wanna see how people are dealing with said concept in their daily lives, I do this simple trick.
-
-I search  `site:news.ycombinator.com {{concept}}` on google and honestly I'm not disappointed. Instant rabbit hole material.
-
-
-all this given that I have time to kill :P  -- 2025-06-26T02:45:22.954Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
