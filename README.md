@@ -3,7 +3,7 @@
 <!-- feed starts -->
 wrote a safari extension to block youtube shorts. installed on laptop and phone.
 
-let's see if my productivity goes up 🤞🏻  -- 2025-07-12T13:12:20.043Z
+let's see if my productivity goes up 🤞🏻  -- 2025-07-12T17:30:02.555Z
 
 ---
 
