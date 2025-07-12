@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+wrote a safari extension to block youtube shorts. installed on laptop and phone.
+
+let's see if my productivity goes up 🤞🏻  -- 2025-07-12T13:12:20.043Z
+
+---
+
 Jack starts [permissionlesstech](https://github.com/permissionlesstech)
 
 > i did this as a weekend project to understand a few technologies: bluetooth mesh, store and forward and relay models, and various encryption models. this was one part of a series of challenges i've given myself: to build something every day that i didn't think i was capable of, and that i didn't think the current set of AI tools were capable of, namely block's tool goose (https://block.github.io/goose/). i'm always surprised at how much...just works. we have a new way of programming now, with an entirely new language and compiler: english and intelligence models.
@@ -86,16 +92,6 @@ As far as Rosetta in particular was concerned, I think I was just in the right e
 
 
 sourced via comments to the HN post [Rosetta 2 creator leaves Apple to work on Lean full-time](https://news.ycombinator.com/item?id=42483895)  -- 2025-06-26T03:23:52.279Z
-
----
-
-I rewatched Manchester by the Sea last night.
-
-Casey Affleck really did a phenomenal job portraying unease and depression but Michelle Williams stole every scene she was in.
-
-Moreover what kept me fascinated was the portrayal of climate/weather metaphorically *and* literally carrying the emotional journey *and* plot respectively.
-
-The latter which is something that stood out to me because I've been dabbling with such metaphors in a story I've been brewing in my head.  -- 2025-06-26T02:55:44.675Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
