@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+10r x 6s Chest (fly ups & chest press)
+10r x 3s Biceps
+20 min Cardio
+10 pushups
+
+today's light workout  -- 2025-07-13T05:42:53.882Z
+
+---
+
 TIL: that john carmack once used Anki [^1] to learn vim keybindings.
 
 
@@ -82,13 +91,6 @@ Hand writing in your own words + digital / analog verbatim transcribing i feel i
 
 
 [^1]: "Lollapalooza effect: Munger used the term "Lollapalooza effect" for multiple biases, tendencies or mental models acting in compound with each other at the same time in the same direction. With the Lollapalooza effect, itself a mental model, the result is often extreme, due to the confluence of the mental models, biases or tendencies acting together, greatly increasing the likelihood of acting irrationally" ~ [via wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger)  -- 2025-06-28T05:12:55.521Z
-
----
-
-I wanted to improve my code review capability and I found this blog post useful!
-
-so sharing it here just because:
-https://consulting.drmaciver.com/code-review-quick-fixes/  -- 2025-06-26T12:30:02.812Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
