@@ -1,12 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+today's light workout
+
 10r x 6s Chest (fly ups & chest press)
 10r x 3s Biceps
 20 min Cardio
 10 pushups
-
-today's light workout  -- 2025-07-13T05:42:53.882Z
+  -- 2025-07-13T07:42:47.542Z
 
 ---
 
