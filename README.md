@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL: that john carmack once used Anki [^1] to learn vim keybindings.
+
+
+reference: https://youtu.be/tzr7hRXcwkw?si=Tm7dFf0d_nqILXb2&t=746 at 12:29 mark
+
+[^1] https://apps.ankiweb.net  -- 2025-07-13T17:30:05.064Z
+
+---
+
 today's light workout
 
 10r x 6s Chest (fly ups & chest press)
@@ -8,15 +17,6 @@ today's light workout
 20 min Cardio
 10 pushups
   -- 2025-07-13T07:42:47.542Z
-
----
-
-TIL: that john carmack once used Anki [^1] to learn vim keybindings.
-
-
-reference: https://youtu.be/tzr7hRXcwkw?si=Tm7dFf0d_nqILXb2&t=746 at 12:29 mark
-
-[^1] https://apps.ankiweb.net  -- 2025-07-13T04:56:21.603Z
 
 ---
 
