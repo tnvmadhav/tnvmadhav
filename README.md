@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL: that john carmack once used Anki [^1] to learn vim keybindings.
+
+
+reference: https://youtu.be/tzr7hRXcwkw?si=Tm7dFf0d_nqILXb2&t=746 at 12:29 mark
+
+[^1] https://apps.ankiweb.net  -- 2025-07-13T04:56:21.603Z
+
+---
+
 wrote a safari extension to block youtube shorts. installed on laptop and phone.
 
 let's see if my productivity goes up 🤞🏻  -- 2025-07-12T17:30:02.555Z
@@ -80,18 +89,6 @@ I wanted to improve my code review capability and I found this blog post useful!
 
 so sharing it here just because:
 https://consulting.drmaciver.com/code-review-quick-fixes/  -- 2025-06-26T12:30:02.812Z
-
----
-
-Rosetta 2 creator on efficiency:
-
-> Q(zmb_ ): [...]As someone frustrated in a team of 10+ that is struggling to ship even seemingly trivial things due to processes and overheads and inefficiencies, I would really appreciate some insights on how do you organize the work to allow a single developer to achieve this.
-
-> A(cwzwarich): Well, the first thing to realize about scaling codebases with developers is that an N developer team will usually produce a codebase that requires N developers to maintain. So by starting small and staying small until you reach a certain critical mass of fundamental decisions, you can avoid some of the problems that you get from having too many developers too early. You can easily also fall into the reverse trap: a historical core with pieces that fit too well together, but most of the developers on the team don’t intuitively understand the reasons behind all of the past decisions (because they weren’t there when they happened). This can lead to poorly affixed additions to a system in response to new features or requirements.
-As far as Rosetta in particular was concerned, I think I was just in the right environment to consistently be in a flow state. I have had fleeting moments of depression upon the realization that I will probably never be this productive for an extended period of time ever again.
-
-
-sourced via comments to the HN post [Rosetta 2 creator leaves Apple to work on Lean full-time](https://news.ycombinator.com/item?id=42483895)  -- 2025-06-26T03:23:52.279Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
