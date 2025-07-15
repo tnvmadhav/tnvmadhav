@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+today’s light workout
+
+6s x 10r chest (fly ups & press)
+3s x 10r biceps
+20 minute cardio  -- 2025-07-15T04:26:45.615Z
+
+---
+
 TIL: that john carmack once used Anki [^1] to learn vim keybindings.
 
 
@@ -81,17 +89,6 @@ If I want to quickly save current file and push to remote all i need to do it
 This is super helpful when working with personal single file notes and scripts.
 
 [my full chatGPT conversation transcript](https://bagel.ink/c/V5l6Y8)  -- 2025-06-28T07:14:07.655Z
-
----
-
->  The Pen Is Mightier Than the Keyboard by Mueller and Oppenheimer found that students who took handwritten notes retained concepts better than those who typed them. 
-
-Taking notes in your own words along with verbatim (quotes) and can help later validate and rethink your assumptions.
-
-Hand writing in your own words + digital / analog verbatim transcribing i feel is in line with the Lollapalooza[^1]
-
-
-[^1]: "Lollapalooza effect: Munger used the term "Lollapalooza effect" for multiple biases, tendencies or mental models acting in compound with each other at the same time in the same direction. With the Lollapalooza effect, itself a mental model, the result is often extreme, due to the confluence of the mental models, biases or tendencies acting together, greatly increasing the likelihood of acting irrationally" ~ [via wikipedia](https://en.wikipedia.org/wiki/Charlie_Munger)  -- 2025-06-28T05:12:55.521Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
