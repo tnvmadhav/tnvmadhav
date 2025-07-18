@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+i should 2x my agency and then lock in -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_beCEBzZ.jpeg) -- 2025-07-18T03:06:20.307Z
+
+---
+
 today’s light workout
 
 6s x 10r chest (fly ups & press)
@@ -77,18 +81,6 @@ Inspired by this wonderful piece of writing: https://cse.buffalo.edu/~rapaport/h
 ---
 
 I might have to experiment with daily setup and teardown rituals because mission critical work can be energy draining.  -- 2025-07-03T08:39:13.146Z
-
----
-
-i wrote myself a neovim command and a keybinding on top of that to help me save and push the current file to remote git branch.
-
-If I want to quickly save current file and push to remote all i need to do it
-
-<Leader>gp
-
-This is super helpful when working with personal single file notes and scripts.
-
-[my full chatGPT conversation transcript](https://bagel.ink/c/V5l6Y8)  -- 2025-06-28T07:14:07.655Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
