@@ -1,6 +1,23 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I found this tweet from naval:
+
+> Technology will eventually have to
+> drive human evolution (embryo
+> selection, gene editing). 
+> 
+> Otherwise, our technology will 
+> evolve faster than our biology and 
+> lead to Paleolithic humans facing 
+> Neolithic stressors. 
+
+it does link to the idea of the great filter and this statement popped into my head immediately after:
+
+the great filter is just stressors in different costumes  -- 2025-07-19T04:28:28.687Z
+
+---
+
 i should 2x my agency and then lock in -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_beCEBzZ.jpeg) -- 2025-07-18T03:06:20.307Z
 
 ---
@@ -77,10 +94,6 @@ This explains why I remember random lore/moments in stories I adore. Watch somet
 
 
 Inspired by this wonderful piece of writing: https://cse.buffalo.edu/~rapaport/howtostudy.htm  -- 2025-07-06T17:30:09.778Z
-
----
-
-I might have to experiment with daily setup and teardown rituals because mission critical work can be energy draining.  -- 2025-07-03T08:39:13.146Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
