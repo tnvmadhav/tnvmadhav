@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I fed an LLM a journal entry asking it specific questions about different problems I’ve have been facing and after the long discussion, it told one thing that resonated with me:
+
+“perfectionism is surgical and not blanket”  -- 2025-07-19T17:30:02.527Z
+
+---
+
 TIL: golang has a sort package that has sort string method.
 
 and the strings will be sorted by alphabetical/lexicographical order.
@@ -9,12 +15,6 @@ and the strings will be sorted by alphabetical/lexicographical order.
 
 
 ...an alternative way (and a much better way) is using the slices package and calling `slices.Sort()` which is agnostic of the data type.  -- 2025-07-19T11:44:06.798Z
-
----
-
-I fed an LLM a journal entry asking it specific questions about different problems I’ve have been facing and after the long discussion, it told one thing that resonated with me:
-
-“perfectionism is surgical and not blanket”  -- 2025-07-19T10:45:26.693Z
 
 ---
 
