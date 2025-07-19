@@ -3,31 +3,12 @@
 <!-- feed starts -->
 TIL: golang has a sort package that has sort string method.
 
-```go
-package main
-
-import (
-	"fmt"
-	"sort"
-)
-
-func main() {
-
-	folder := []string{"a", "b", "c", "ab", "bd", "ca"}
-
-	fmt.Printf("before sorting: %+v
-", folder)
-	sort.Strings(folder)
-	fmt.Printf("sorted: %+v
-", folder)
-}
-```
 and the strings will be sorted by alphabetical/lexicographical order.
 
-https://go.dev/play/p/R5ev464yUkd
+[Playground Instance Link](https://go.dev/play/p/R5ev464yUkd)
 
 
-an alternative way (and a much better way) is using the slices package and calling `slices.Sort()` which is agnostic of the data type.  -- 2025-07-19T11:37:47.720Z
+...an alternative way (and a much better way) is using the slices package and calling `slices.Sort()` which is agnostic of the data type.  -- 2025-07-19T11:44:06.798Z
 
 ---
 
