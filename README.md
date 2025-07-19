@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I fed an LLM a journal entry asking it specific questions about different problems I’ve have been facing and after the long discussion, it told one thing that resonated with me:
+
+“perfectionism is surgical and not blanket”  -- 2025-07-19T10:45:26.693Z
+
+---
+
 I found this tweet from naval:
 
 > Technology will eventually have to
@@ -81,19 +87,6 @@ I do recommend that you read his entire post.  -- 2025-07-09T03:25:54.394Z
 "...please..."
 
 "...please review my code" -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_FZZ6uNn.png) -- 2025-07-08T08:49:21.688Z
-
----
-
-Watching a video is like skimming the material where by the end, you'll know where it's all headed and the mind is already working on recognizing the independent points of agency, a traversal in the graph if you will.
-
-
-Then as a second pass, slowing re-reading the transcript to help the mind affirm/reaffirm or even break assumptions, is gonna have a lasting impact in the learning process.
-
-
-This explains why I remember random lore/moments in stories I adore. Watch something end to end and then meticulously revisit parts with a new perspective (akin to multimodal recall).
-
-
-Inspired by this wonderful piece of writing: https://cse.buffalo.edu/~rapaport/howtostudy.htm  -- 2025-07-06T17:30:09.778Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
