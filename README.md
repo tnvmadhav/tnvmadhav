@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+i really wish @x had a free tier API access to retrieve bookmarks.  -- 2025-07-20T13:19:41.356Z
+
+---
+
 back in my day, vibe coding meant copy-pasting code from stackoverflow.
  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_Hoo9WkF.png) -- 2025-07-20T09:40:39.377Z
 
@@ -74,14 +78,6 @@ today's light workout
 wrote a safari extension to block youtube shorts. installed on laptop and phone.
 
 let's see if my productivity goes up 🤞🏻  -- 2025-07-12T17:30:02.555Z
-
----
-
-Jack starts [permissionlesstech](https://github.com/permissionlesstech)
-
-> i did this as a weekend project to understand a few technologies: bluetooth mesh, store and forward and relay models, and various encryption models. this was one part of a series of challenges i've given myself: to build something every day that i didn't think i was capable of, and that i didn't think the current set of AI tools were capable of, namely block's tool goose (https://block.github.io/goose/). i'm always surprised at how much...just works. we have a new way of programming now, with an entirely new language and compiler: english and intelligence models.
-
-ref: https://github.com/orgs/permissionlesstech/discussions/139  -- 2025-07-11T03:34:20.910Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
