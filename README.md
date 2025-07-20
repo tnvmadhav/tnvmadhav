@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+back in my day, vibe coding meant copy-pasting code from stackoverflow.
+ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_Hoo9WkF.png) -- 2025-07-20T09:40:39.377Z
+
+---
+
 I fed an LLM a journal entry asking it specific questions about different problems I’ve have been facing and after the long discussion, it told one thing that resonated with me:
 
 “perfectionism is surgical and not blanket”  -- 2025-07-19T17:30:02.527Z
@@ -77,19 +82,6 @@ Jack starts [permissionlesstech](https://github.com/permissionlesstech)
 > i did this as a weekend project to understand a few technologies: bluetooth mesh, store and forward and relay models, and various encryption models. this was one part of a series of challenges i've given myself: to build something every day that i didn't think i was capable of, and that i didn't think the current set of AI tools were capable of, namely block's tool goose (https://block.github.io/goose/). i'm always surprised at how much...just works. we have a new way of programming now, with an entirely new language and compiler: english and intelligence models.
 
 ref: https://github.com/orgs/permissionlesstech/discussions/139  -- 2025-07-11T03:34:20.910Z
-
----
-
-Brian Armstrong on "Share a piece of lore about yourself"
-
-He shared  a struggle he faced during the early phases of Coinbase. It's a long post, so I'm linking it [here for reference](https://x.com/brian_armstrong/status/1942673835381383289).
-
-He ends the story with this,
-
->  It's a great testament to how constraints breed creativity, top talent matters in startups, and teams are often capable of more than they think when there is no other option.
-> Most products that succeed have early moments like this, where someone has to step up and make a play on the field that defies all the odds. As we face new challenges and deadlines across our many products, I always look out for who on the team is ready to step up and make the game-winning play on the field.
-
-I do recommend that you read his entire post.  -- 2025-07-09T03:25:54.394Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
