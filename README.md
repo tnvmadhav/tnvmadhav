@@ -1,6 +1,29 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Salvatore Sanfilippo uses Gemini 2.5 Pro / Claude to fix vector set bugs in redis core.
+
+Here are some excerpts that I found interesting:
+
+>The most famous LLMs are not the best. Coding activities should be performed mostly with:
+>
+>* Gemini 2.5 PRO
+>* Claude Opus 4
+>
+>Gemini 2.5 PRO is, in my experience, semantically more powerful. Can spot more complex bugs, reason about more complex problems. Claude Opus may be better at writing new code sometimes (sometimes not), the user interface is more pleasant, and in general you need at least two LLMs to do some back and forth for complex problems in order to enlarge your (human) understanding of the design space. If you can pick just one, go for Gemini 2.5 PRO.
+
+I have been using only chatGPT whenever I use an LLM to help me get some coding/knowledge work done. Looks like I gotta start using Gemini 2.5 pro now.
+
+> Always be part of the loop by moving code by hand from your terminal to the LLM web interface: this guarantees that you follow every process.
+> You are still the coder, but augmented.
+
+I too prefer keeping my llm answers in my terminal or web browser itself.
+I don't use A.I. in my IDE (vscode and sometimes neovim) because I like to keep control on what goes in my editor.
+
+full post: https://antirez.com/news/154  -- 2025-07-20T13:52:11.441Z
+
+---
+
 i really wish @x had a free tier API access to retrieve bookmarks.  -- 2025-07-20T13:19:41.356Z
 
 ---
@@ -72,12 +95,6 @@ today's light workout
 20 min Cardio
 10 pushups
   -- 2025-07-13T07:42:47.542Z
-
----
-
-wrote a safari extension to block youtube shorts. installed on laptop and phone.
-
-let's see if my productivity goes up 🤞🏻  -- 2025-07-12T17:30:02.555Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
