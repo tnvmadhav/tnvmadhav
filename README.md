@@ -1,6 +1,24 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+advice to young kids by john carmack:
+
+>"knowledge and depth"
+>"through and through"
+>"find inefficiencies that can be bypassed"
+>"its not necessary, be reliable, do quality work"
+>"but people who do have inclination to doing things deeper, there are layers of things out there, it's amazing"
+>"it's better than ever"
+>"whole new worlds to explore"
+>"hard work, understand as much as you can"
+>"you will make more total progress, by telling yourself that there is a whole broad world around me"
+>"preparing myself with broad tools and im being aware of change"
+>"looking for opportunies to deploy the tools you've built"
+>"go deeper and bypass inefficiencies"
+>"make things better"  -- 2025-07-20T14:32:30.407Z
+
+---
+
 Salvatore Sanfilippo uses Gemini 2.5 Pro / Claude to fix vector set bugs in redis core.
 
 Here are some excerpts that I found interesting:
@@ -85,16 +103,6 @@ TIL: that john carmack once used Anki [^1] to learn vim keybindings.
 reference: https://youtu.be/tzr7hRXcwkw?si=Tm7dFf0d_nqILXb2&t=746 at 12:29 mark
 
 [^1] https://apps.ankiweb.net  -- 2025-07-13T17:30:05.064Z
-
----
-
-today's light workout
-
-10r x 6s Chest (fly ups & chest press)
-10r x 3s Biceps
-20 min Cardio
-10 pushups
-  -- 2025-07-13T07:42:47.542Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
