@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+i really wish @x had a free tier API access to retrieve bookmarks.  -- 2025-07-20T17:30:02.646Z
+
+---
+
 advice to young kids by john carmack:
 
 >"knowledge and depth"
@@ -39,10 +43,6 @@ I too prefer keeping my llm answers in my terminal or web browser itself.
 I don't use A.I. in my IDE (vscode and sometimes neovim) because I like to keep control on what goes in my editor.
 
 full post: https://antirez.com/news/154  -- 2025-07-20T13:52:11.441Z
-
----
-
-i really wish @x had a free tier API access to retrieve bookmarks.  -- 2025-07-20T13:19:41.356Z
 
 ---
 
