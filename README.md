@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+it's not agi if it starts every reply with "you're absolutely right"  -- 2025-07-22T01:16:05.206Z
+
+---
+
 i really wish @x had a free tier API access to retrieve bookmarks.  -- 2025-07-20T17:30:02.646Z
 
 ---
@@ -94,15 +98,6 @@ today’s light workout
 6s x 10r chest (fly ups & press)
 3s x 10r biceps
 20 minute cardio  -- 2025-07-15T04:26:45.615Z
-
----
-
-TIL: that john carmack once used Anki [^1] to learn vim keybindings.
-
-
-reference: https://youtu.be/tzr7hRXcwkw?si=Tm7dFf0d_nqILXb2&t=746 at 12:29 mark
-
-[^1] https://apps.ankiweb.net  -- 2025-07-13T17:30:05.064Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
