@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Quoting Paul Graham on starting a software startup:
+
+> If you want to start a software startup, you should still learn to program. Even if AI writes most of your code, you'll still be in the position of an engineering manager, and to be a good engineering manager you have to be a programmer yourself.
+
+> But there's another even more important reason to learn to program. That's how you get ideas for startups: when you look around the world with a programmer's eye, you see all the things that could be built but haven't been yet.
+
+If you have the ability to exercise agency, you will find a way to get things done. The easiest way to get things done is do it first in your head. 
+
+ref: https://x.com/paulg/status/1947639333214687700  -- 2025-07-22T13:39:22.071Z
+
+---
+
 it's not agi if it starts every reply with "you're absolutely right"  -- 2025-07-22T01:16:05.206Z
 
 ---
@@ -90,14 +102,6 @@ the great filter is just stressors in different costumes  -- 2025-07-19T04:28:28
 ---
 
 i should 2x my agency and then lock in -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_beCEBzZ.jpeg) -- 2025-07-18T03:06:20.307Z
-
----
-
-today’s light workout
-
-6s x 10r chest (fly ups & press)
-3s x 10r biceps
-20 minute cardio  -- 2025-07-15T04:26:45.615Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
