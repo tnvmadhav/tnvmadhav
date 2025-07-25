@@ -1,6 +1,26 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+the only thing about A.I. prompting that bothers me is that I'm not thinking... 
+
+i'm not in flow state. 
+
+it's like im constantly being interrupted by slop. 
+
+i don't mind being wrong and retrying...
+
+it's always like here's the requirement, here's the function signature, now give full function. I just copy and paste, test, review, git commit.
+
+it's lovely for small bug fixes, not great for learning something.
+
+i get why technical founders who are looking to increase customer-value per effort really love it. 
+
+using A.I. forces you to be an owner looking for value. 
+
+the denominator is falling exponentially. i need to change by mindset.  -- 2025-07-25T13:09:05.699Z
+
+---
+
 Uncle Bob on SQL
 
 > SQL was never intended to be used by computer programs. It was a console language for printing reports. Embedding it into programs was one of the gravest errors of our industry.
@@ -90,23 +110,6 @@ and the strings will be sorted by alphabetical/lexicographical order.
 
 
 ...an alternative way (and a much better way) is using the slices package and calling `slices.Sort()` which is agnostic of the data type.  -- 2025-07-19T11:44:06.798Z
-
----
-
-I found this tweet from naval:
-
-> Technology will eventually have to
-> drive human evolution (embryo
-> selection, gene editing). 
-> 
-> Otherwise, our technology will 
-> evolve faster than our biology and 
-> lead to Paleolithic humans facing 
-> Neolithic stressors. 
-
-it does link to the idea of the great filter and this statement popped into my head immediately after:
-
-the great filter is just stressors in different costumes  -- 2025-07-19T04:28:28.687Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
