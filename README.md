@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Uncle Bob on SQL
+
+> SQL was never intended to be used by computer programs. It was a console language for printing reports. Embedding it into programs was one of the gravest errors of our industry.
+
+
+ref: https://x.com/unclebobmartin/status/1917410469150597430  -- 2025-07-25T17:30:04.929Z
+
+---
+
 the only thing about A.I. prompting that bothers me is that I'm not thinking... 
 
 i'm not in flow state. 
@@ -18,15 +27,6 @@ i get why technical founders who are looking to increase customer-value per effo
 using A.I. forces you to be an owner looking for value. 
 
 the denominator is falling exponentially. i need to change by mindset.  -- 2025-07-25T13:09:05.699Z
-
----
-
-Uncle Bob on SQL
-
-> SQL was never intended to be used by computer programs. It was a console language for printing reports. Embedding it into programs was one of the gravest errors of our industry.
-
-
-ref: https://x.com/unclebobmartin/status/1917410469150597430  -- 2025-07-25T03:38:24.283Z
 
 ---
 
