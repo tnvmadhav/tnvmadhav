@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Uncle Bob on SQL
+
+> SQL was never intended to be used by computer programs. It was a console language for printing reports. Embedding it into programs was one of the gravest errors of our industry.
+
+
+ref: https://x.com/unclebobmartin/status/1917410469150597430  -- 2025-07-25T03:38:24.283Z
+
+---
+
 Quoting Paul Graham on starting a software startup:
 
 > If you want to start a software startup, you should still learn to program. Even if AI writes most of your code, you'll still be in the position of an engineering manager, and to be a good engineering manager you have to be a programmer yourself.
@@ -98,10 +107,6 @@ I found this tweet from naval:
 it does link to the idea of the great filter and this statement popped into my head immediately after:
 
 the great filter is just stressors in different costumes  -- 2025-07-19T04:28:28.687Z
-
----
-
-i should 2x my agency and then lock in -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_beCEBzZ.jpeg) -- 2025-07-18T03:06:20.307Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
