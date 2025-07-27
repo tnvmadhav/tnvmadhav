@@ -6,7 +6,7 @@ Quoting Tim Sweeney on monitors
 > if you’re gonna spend 4500 hours per year in front of a monitor, buy the best.
 
 
-ref: https://x.com/timsweeneyepic/status/1949224032827846954?s=46  -- 2025-07-27T03:22:44.481Z
+ref: https://x.com/timsweeneyepic/status/1949224032827846954?s=46  -- 2025-07-27T17:30:04.983Z
 
 ---
 
