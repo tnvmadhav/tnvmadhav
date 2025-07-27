@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Quoting Tim Sweeney on monitors
+
+> if you’re gonna spend 4500 hours per year in front of a monitor, buy the best.
+
+
+ref: https://x.com/timsweeneyepic/status/1949224032827846954?s=46  -- 2025-07-27T03:22:44.481Z
+
+---
+
 Uncle Bob on SQL
 
 > SQL was never intended to be used by computer programs. It was a console language for printing reports. Embedding it into programs was one of the gravest errors of our industry.
@@ -99,17 +108,6 @@ back in my day, vibe coding meant copy-pasting code from stackoverflow.
 I fed an LLM a journal entry asking it specific questions about different problems I’ve have been facing and after the long discussion, it told one thing that resonated with me:
 
 “perfectionism is surgical and not blanket”  -- 2025-07-19T17:30:02.527Z
-
----
-
-TIL: golang has a sort package that has sort string method.
-
-and the strings will be sorted by alphabetical/lexicographical order.
-
-[Playground Instance Link](https://go.dev/play/p/R5ev464yUkd)
-
-
-...an alternative way (and a much better way) is using the slices package and calling `slices.Sort()` which is agnostic of the data type.  -- 2025-07-19T11:44:06.798Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
