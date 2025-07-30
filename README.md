@@ -5,7 +5,7 @@ An excerpt from a rant by Salvatore Sanfilippo on X.
 
 > Companies discover that complexity is a form of vendor lock-in, among the other things. People that created a mess get promoted, since IT no longer evaluates design quality as one of the metrics for success. 
 
-ref: https://x.com/antirez/status/1950483014938484928  -- 2025-07-30T15:41:46.119Z
+ref: https://x.com/antirez/status/1950483014938484928  -- 2025-07-30T17:30:02.595Z
 
 ---
 
