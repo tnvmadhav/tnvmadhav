@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Excerpt from "Agentic Coding Things That Didn’t Work"
+
+>Forcing myself to evaluate the automation has another benefit: I’m less likely to just blindly assume it helps me.
+>
+>Because there is a big hidden risk with automation through LLMs: it encourages mental disengagement. When you stop thinking like an engineer, quality drops, time gets wasted and you don’t understand and learn. LLMs are already bad enough as they are, but whenever I lean in on automation I notice that it becomes even easier to disengage. I tend to overestimate the agent’s capabilities with time. There are real dragons there!
+>
+>You can still review things as they land, but it becomes increasingly harder to do so later. While LLMs are reducing the cost of refactoring, the cost doesn’t drop to zero, and regressions are common.
+
+I too have experienced this "mental disengagement". I think this traces back to my mindset of "DRY" (Don't repeat yourself) and "Solve once, use forever"
+
+It's funny how literal my subconsicous takes these rules. I have to consicously remind myself that I don't live in an ideal world where everything is deterministic.
+
+REF: https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/ by @mitsuhiko  -- 2025-07-30T15:29:10.019Z
+
+---
+
 Terence Tao on applying Blue team vs Red team concepts to LLMs:
 
 >
@@ -119,11 +135,6 @@ I too prefer keeping my llm answers in my terminal or web browser itself.
 I don't use A.I. in my IDE (vscode and sometimes neovim) because I like to keep control on what goes in my editor.
 
 full post: https://antirez.com/news/154  -- 2025-07-20T13:52:11.441Z
-
----
-
-back in my day, vibe coding meant copy-pasting code from stackoverflow.
- -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_Hoo9WkF.png) -- 2025-07-20T09:40:39.377Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
