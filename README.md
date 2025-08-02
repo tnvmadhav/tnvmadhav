@@ -1,16 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+there are fewer known pleasures than listening to trinity while working weights.  -- 2025-08-02T17:30:07.591Z
+
+---
+
 Paul Graham writes all his essays in vim.
 
 I think I already knew that but also didn’t.
 
 
-ref: https://x.com/paulg/status/1951377078114460075?s=46  -- 2025-08-02T05:38:00.610Z
-
----
-
-there are fewer known pleasures than listening to trinity while working weights.  -- 2025-08-02T05:00:48.546Z
+ref: https://x.com/paulg/status/1951377078114460075?s=46  -- 2025-08-02T17:30:05.027Z
 
 ---
 
