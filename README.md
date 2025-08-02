@@ -6,7 +6,7 @@ Paul Graham writes all his essays in vim.
 I think I already knew that but also didn’t.
 
 
-ref: https://x.com/paulg/status/1951377078114460075?s=46  -- 2025-08-02T05:37:26.585Z
+ref: https://x.com/paulg/status/1951377078114460075?s=46  -- 2025-08-02T05:38:00.610Z
 
 ---
 
