@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Paul Graham writes all his essays in vim.
+
+I think I already knew that but also didn’t.
+
+
+ref: https://x.com/paulg/status/1951377078114460075?s=46  -- 2025-08-02T05:37:26.585Z
+
+---
+
+there are fewer known pleasures than listening to trinity while working weights.  -- 2025-08-02T05:00:48.546Z
+
+---
+
 An excerpt from a rant by Salvatore Sanfilippo on X.
 
 > Companies discover that complexity is a form of vendor lock-in, among the other things. People that created a mess get promoted, since IT no longer evaluates design quality as one of the metrics for success. 
@@ -98,28 +111,6 @@ ref: https://x.com/paulg/status/1947639333214687700  -- 2025-07-22T13:39:22.071Z
 ---
 
 it's not agi if it starts every reply with "you're absolutely right"  -- 2025-07-22T01:16:05.206Z
-
----
-
-i really wish @x had a free tier API access to retrieve bookmarks.  -- 2025-07-20T17:30:02.646Z
-
----
-
-advice to young kids by john carmack:
-
->"knowledge and depth"
->"through and through"
->"find inefficiencies that can be bypassed"
->"its not necessary, be reliable, do quality work"
->"but people who do have inclination to doing things deeper, there are layers of things out there, it's amazing"
->"it's better than ever"
->"whole new worlds to explore"
->"hard work, understand as much as you can"
->"you will make more total progress, by telling yourself that there is a whole broad world around me"
->"preparing myself with broad tools and im being aware of change"
->"looking for opportunies to deploy the tools you've built"
->"go deeper and bypass inefficiencies"
->"make things better"  -- 2025-07-20T14:32:30.407Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
