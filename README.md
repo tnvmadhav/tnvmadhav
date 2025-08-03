@@ -1,6 +1,23 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+“you can either spend $100/mo on groceries or claude max and only one of those is going to make you a millionaire”
+
+replace subjects and numbers with anything and that’s a good argument.
+
+it brings out two things:
+
+1. it takes away the focus from lower limit onto the upper limit
+
+2. sprinkles specificity and subjectivity
+
+arguments against don’t seem to hold for the person making the statement in a acute perspective.
+
+
+ref: https://x.com/rhyssullivan/status/1951832934245433700?s=46  -- 2025-08-03T06:48:51.934Z
+
+---
+
 there are fewer known pleasures than listening to trinity while working weights.  -- 2025-08-02T17:30:07.591Z
 
 ---
@@ -107,10 +124,6 @@ Quoting Paul Graham on starting a software startup:
 If you have the ability to exercise agency, you will find a way to get things done. The easiest way to get things done is do it first in your head. 
 
 ref: https://x.com/paulg/status/1947639333214687700  -- 2025-07-22T13:39:22.071Z
-
----
-
-it's not agi if it starts every reply with "you're absolutely right"  -- 2025-07-22T01:16:05.206Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
