@@ -14,7 +14,7 @@ it brings out two things:
 arguments against don’t seem to hold for the person making the statement in a acute perspective.
 
 
-ref: https://x.com/rhyssullivan/status/1951832934245433700?s=46  -- 2025-08-03T06:48:51.934Z
+ref: https://x.com/rhyssullivan/status/1951832934245433700?s=46  -- 2025-08-03T17:30:05.315Z
 
 ---
 
