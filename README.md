@@ -11,7 +11,7 @@ Armin ends the post with a very interesting commentary:
 
 > I think it’s an interesting question whether this behavior of LLMs today will influence future language design. I don’t know if it will, but I think it gives a lot of credence to some of the decisions that led to languages like Go and Java. As critical as I have been in the past about their rather simple approaches to problems and having a design that maybe doesn’t hold developers in a particularly high regard, I now think that they actually are measurably in a very good spot. There is more elegance to their design than I gave it credit for.
 
-I believe A.I. can be a lens to appreciate/depreciate decisions whose value that may not have been fully evident.  -- 2025-08-05T08:52:39.565Z
+I believe A.I. can be a lens to appreciate/depreciate decisions whose value that may not have been fully evident.  -- 2025-08-05T17:30:02.819Z
 
 ---
 
