@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Notes from ["In Support of Shitty Types"](https://lucumr.pocoo.org/2025/8/4/shitty-types/) by Mitsuhiko
+
+> Go’s types are much less expressive and very structural. Things conform to interfaces purely by having certain methods. The LLM does not need to understand much to comprehend that. Also, the types that Go has are rather strictly enforced. If they are wrong, it won’t compile. Because Go has a much simpler type system that doesn’t support complicated constructs, it works much better—both for LLMs to understand the code they produce and for the LLM to understand real-world libraries you might give to an LLM.
+
+one mustn't forget that if interface{} and type-casting are used, they can still lead to runtime errors. This post primarily speaks about compile-time efficiencies.
+
+Armin ends the post with a very interesting commentary:
+
+> I think it’s an interesting question whether this behavior of LLMs today will influence future language design. I don’t know if it will, but I think it gives a lot of credence to some of the decisions that led to languages like Go and Java. As critical as I have been in the past about their rather simple approaches to problems and having a design that maybe doesn’t hold developers in a particularly high regard, I now think that they actually are measurably in a very good spot. There is more elegance to their design than I gave it credit for.
+
+I believe A.I. can be a lens to appreciate/depreciate decisions whose value that may not have been fully evident.  -- 2025-08-05T08:52:39.565Z
+
+---
+
 “you can either spend $100/mo on groceries or claude max and only one of those is going to make you a millionaire”
 
 replace subjects and numbers with anything and that’s a good argument.
@@ -112,18 +126,6 @@ i get why technical founders who are looking to increase customer-value per effo
 using A.I. forces you to be an owner looking for value. 
 
 the denominator is falling exponentially. i need to change by mindset.  -- 2025-07-25T13:09:05.699Z
-
----
-
-Quoting Paul Graham on starting a software startup:
-
-> If you want to start a software startup, you should still learn to program. Even if AI writes most of your code, you'll still be in the position of an engineering manager, and to be a good engineering manager you have to be a programmer yourself.
-
-> But there's another even more important reason to learn to program. That's how you get ideas for startups: when you look around the world with a programmer's eye, you see all the things that could be built but haven't been yet.
-
-If you have the ability to exercise agency, you will find a way to get things done. The easiest way to get things done is do it first in your head. 
-
-ref: https://x.com/paulg/status/1947639333214687700  -- 2025-07-22T13:39:22.071Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
