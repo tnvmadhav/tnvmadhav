@@ -4,7 +4,7 @@
 > "the hype is how sama whips the members of technical staff into shape" ~ Roon
 
 
-ref: https://x.com/tszzl/status/1953601056526807456  -- 2025-08-08T00:38:28.340Z
+ref: https://x.com/tszzl/status/1953601056526807456  -- 2025-08-08T06:30:05.135Z
 
 ---
 
