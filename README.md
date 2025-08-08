@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> "the hype is how sama whips the members of technical staff into shape" ~ Roon
+
+
+ref: https://x.com/tszzl/status/1953601056526807456  -- 2025-08-08T00:38:28.340Z
+
+---
+
 Notes from ["In Support of Shitty Types"](https://lucumr.pocoo.org/2025/8/4/shitty-types/) by Mitsuhiko
 
 > Go’s types are much less expressive and very structural. Things conform to interfaces purely by having certain methods. The LLM does not need to understand much to comprehend that. Also, the types that Go has are rather strictly enforced. If they are wrong, it won’t compile. Because Go has a much simpler type system that doesn’t support complicated constructs, it works much better—both for LLMs to understand the code they produce and for the LLM to understand real-world libraries you might give to an LLM.
@@ -106,26 +113,6 @@ Uncle Bob on SQL
 
 
 ref: https://x.com/unclebobmartin/status/1917410469150597430  -- 2025-07-25T17:30:04.929Z
-
----
-
-the only thing about A.I. prompting that bothers me is that I'm not thinking... 
-
-i'm not in flow state. 
-
-it's like im constantly being interrupted by slop. 
-
-i don't mind being wrong and retrying...
-
-it's always like here's the requirement, here's the function signature, now give full function. I just copy and paste, test, review, git commit.
-
-it's lovely for small bug fixes, not great for learning something.
-
-i get why technical founders who are looking to increase customer-value per effort really love it. 
-
-using A.I. forces you to be an owner looking for value. 
-
-the denominator is falling exponentially. i need to change by mindset.  -- 2025-07-25T13:09:05.699Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
