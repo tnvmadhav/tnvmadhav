@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+it's a good world to live in when you engineer surprises to be good ones.  -- 2025-08-10T16:52:13.404Z
+
+---
+
 > "the hype is how sama whips the members of technical staff into shape" ~ Roon
 
 
@@ -104,15 +108,6 @@ Quoting Tim Sweeney on monitors
 
 
 ref: https://x.com/timsweeneyepic/status/1949224032827846954?s=46  -- 2025-07-27T17:30:04.983Z
-
----
-
-Uncle Bob on SQL
-
-> SQL was never intended to be used by computer programs. It was a console language for printing reports. Embedding it into programs was one of the gravest errors of our industry.
-
-
-ref: https://x.com/unclebobmartin/status/1917410469150597430  -- 2025-07-25T17:30:04.929Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
