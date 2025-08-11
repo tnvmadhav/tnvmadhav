@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+inefficiencies, inefficiencies everywhere -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_nKhy145.png) -- 2025-08-11T10:19:13.602Z
+
+---
+
 it's a good world to live in when you engineer surprises to be good ones.  -- 2025-08-10T18:00:02.869Z
 
 ---
@@ -99,15 +103,6 @@ Terence Tao on applying Blue team vs Red team concepts to LLMs:
 
 
 [via Mastodon](https://mathstodon.xyz/@tao/114915604830689046)  -- 2025-07-30T10:18:04.780Z
-
----
-
-Quoting Tim Sweeney on monitors
-
-> if you’re gonna spend 4500 hours per year in front of a monitor, buy the best.
-
-
-ref: https://x.com/timsweeneyepic/status/1949224032827846954?s=46  -- 2025-07-27T17:30:04.983Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
