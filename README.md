@@ -1,11 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-I'd like to believe that the intended purpose of multimodality is to invoke a cached catharsis if you will.  -- 2025-08-12T14:30:02.650Z
+looking up your own guide from a few years ago to do something is *very* satisfying.  -- 2025-08-12T17:30:02.503Z
 
 ---
 
-looking up your own guide from a few years ago to do something is *very* satisfying.  -- 2025-08-12T11:44:49.066Z
+I'd like to believe that the intended purpose of multimodality is to invoke a cached catharsis if you will.  -- 2025-08-12T14:30:02.650Z
 
 ---
 
