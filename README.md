@@ -1,15 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I'd like to believe that the intended purpose of multimodality is to invoke a cached catharsis if you will.  -- 2025-08-12T14:30:02.650Z
+
+---
+
 looking up your own guide from a few years ago to do something is *very* satisfying.  -- 2025-08-12T11:44:49.066Z
 
 ---
 
 The internet runs because of a couple of goto statements in the lower levels of technological stack. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_I4NFnyR.png) -- 2025-08-12T09:20:20.680Z
-
----
-
-I'd like to believe that the intended purpose of multimodality is to invoke a cached catharsis if you will.  -- 2025-08-12T07:08:49.142Z
 
 ---
 
