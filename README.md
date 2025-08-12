@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The internet runs because of a couple of goto statements in the lower levels of technological stack. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_I4NFnyR.png) -- 2025-08-12T09:20:20.680Z
+
+---
+
 I'd like to believe that the intended purpose of multimodality is to invoke a cached catharsis if you will.  -- 2025-08-12T07:08:49.142Z
 
 ---
@@ -69,22 +73,6 @@ An excerpt from a rant by Salvatore Sanfilippo on X.
 > Companies discover that complexity is a form of vendor lock-in, among the other things. People that created a mess get promoted, since IT no longer evaluates design quality as one of the metrics for success. 
 
 ref: https://x.com/antirez/status/1950483014938484928  -- 2025-07-30T17:30:02.595Z
-
----
-
-Excerpt from "Agentic Coding Things That Didn’t Work"
-
->Forcing myself to evaluate the automation has another benefit: I’m less likely to just blindly assume it helps me.
->
->Because there is a big hidden risk with automation through LLMs: it encourages mental disengagement. When you stop thinking like an engineer, quality drops, time gets wasted and you don’t understand and learn. LLMs are already bad enough as they are, but whenever I lean in on automation I notice that it becomes even easier to disengage. I tend to overestimate the agent’s capabilities with time. There are real dragons there!
->
->You can still review things as they land, but it becomes increasingly harder to do so later. While LLMs are reducing the cost of refactoring, the cost doesn’t drop to zero, and regressions are common.
-
-I too have experienced this "mental disengagement". I think this traces back to my mindset of "DRY" (Don't repeat yourself) and "Solve once, use forever"
-
-It's funny how literal my subconsicous takes these rules. I have to consicously remind myself that I don't live in an ideal world where everything is deterministic.
-
-REF: https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/ by @mitsuhiko  -- 2025-07-30T15:29:10.019Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
