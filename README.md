@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+looking up your own guide from a few years ago to do something is *very* satisfying.  -- 2025-08-12T11:44:49.066Z
+
+---
+
 The internet runs because of a couple of goto statements in the lower levels of technological stack. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_I4NFnyR.png) -- 2025-08-12T09:20:20.680Z
 
 ---
@@ -65,14 +69,6 @@ I think I already knew that but also didn’t.
 
 
 ref: https://x.com/paulg/status/1951377078114460075?s=46  -- 2025-08-02T17:30:05.027Z
-
----
-
-An excerpt from a rant by Salvatore Sanfilippo on X.
-
-> Companies discover that complexity is a form of vendor lock-in, among the other things. People that created a mess get promoted, since IT no longer evaluates design quality as one of the metrics for success. 
-
-ref: https://x.com/antirez/status/1950483014938484928  -- 2025-07-30T17:30:02.595Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
