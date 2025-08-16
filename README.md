@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+On the future of client-side A.I.
+
+Traditional operating systems and client-side applications could be replaced so the compute can be saved for client side models instead.
+
+> The phone/computer will just become an edge node for AI, directly rendering pixels with no real operating system or apps in the traditional sense. 
+> There isn’t enough bandwidth to transmit video to all devices from the servers and there won’t always be good connectivity, so there still needs to be significant client-side AI compute.
+
+[Quoting Elon Musk via X](https://x.com/elonmusk/status/1956583412203958733)  -- 2025-08-16T17:00:02.682Z
+
+---
+
 You can use github codespaces to bootstrap a piece of reproducible behaviour in a particular repository.
 
 This is quite great for showcasing a piece of software. You can also run the software as if you're running it locally without actually running it locally.
@@ -52,17 +63,6 @@ At least all of this can now be done without carrying your laptops to that park 
 ---
 
 Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T07:05:11.210Z
-
----
-
-On the future of client-side A.I.
-
-Traditional operating systems and client-side applications could be replaced so the compute can be saved for client side models instead.
-
-> The phone/computer will just become an edge node for AI, directly rendering pixels with no real operating system or apps in the traditional sense. 
-> There isn’t enough bandwidth to transmit video to all devices from the servers and there won’t always be good connectivity, so there still needs to be significant client-side AI compute.
-
-[Quoting Elon Musk via X](https://x.com/elonmusk/status/1956583412203958733)  -- 2025-08-16T07:05:02.513Z
 
 ---
 
