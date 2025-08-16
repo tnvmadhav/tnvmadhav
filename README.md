@@ -1,6 +1,56 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+You can use github codespaces to bootstrap a piece of reproducible behaviour in a particular repository.
+
+This is quite great for showcasing a piece of software. You can also run the software as if you're running it locally without actually running it locally.
+
+This includes GitHub copilot and other plugins.
+
+I was more curious about GitHub Codespaces in general so I asked Claude Sonnet 3.5 that was within my Github Codespace how it all worked:
+
+> How It Works
+>
+>When you create a codespace, GitHub:
+>Spins up a container using your devcontainer.json configuration
+>Sets up the development environment with specified tools and extensions
+>Clones your repository into the container
+>Connects it to VS Code (web or desktop)
+
+> "Code from anywhere with a browser"
+
+Like for instance you can run, test and review code properly as you would from a pc/laptop.
+
+> "No local setup needed"
+
+While this is technically true, but in practice, one would have to be well-versed with setup commands to make effective use of GitHub workspaces. 
+Not an issue for the initiated.
+
+Another major concern I had while learning about Codespaces was would the data be lost if code changes weren't commited and pushed to remote source.
+
+But looks like this concern was now relieved. The whole selling point of GitHub Codespaces was that a single codespace persists between sessions, meaning if you accidently close the tab "changes" can be restored.
+
+However there are caveats!
+
+If you're personal account codespace wasn't touched or used in last 30 days it will wipe the codespace clean.
+
+
+While it's a bummer, most of the workflows may not be hindered because almost everyone has a personal computer with them at most times. Codespace would mainly be used as a convenience layer to work out of a low computer hardware like a phone or tablets like Ipads.
+
+Me personally, I like to make small commits and push to remote if it's my personal projects. Also since this is remote, this is akin to having a VPS with OS and dependencies pre-installed for free to perform some cool experiments.
+
+Moreover, it's perfect for code-reviews.
+
+All changes can be tested on a remote server without worrying about affecting your local server persistence or compute states.
+
+Run a test, write a spec, edit typos, "quick fixes" and many more.
+
+At least all of this can now be done without carrying your laptops to that park or cafe, if you have your tablets or iPads at your disposal.
+
+[Via Simon Willison's TIL post on Configuring GitHub Codespaces](https://til.simonwillison.net/github/codespaces-devcontainers)  -- 2025-08-16T07:55:28.817Z
+
+---
+
 Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T07:05:11.210Z
 
 ---
@@ -54,23 +104,6 @@ Armin ends the post with a very interesting commentary:
 > I think it’s an interesting question whether this behavior of LLMs today will influence future language design. I don’t know if it will, but I think it gives a lot of credence to some of the decisions that led to languages like Go and Java. As critical as I have been in the past about their rather simple approaches to problems and having a design that maybe doesn’t hold developers in a particularly high regard, I now think that they actually are measurably in a very good spot. There is more elegance to their design than I gave it credit for.
 
 I believe A.I. can be a lens to appreciate/depreciate decisions whose value that may not have been fully evident.  -- 2025-08-05T17:30:02.819Z
-
----
-
-“you can either spend $100/mo on groceries or claude max and only one of those is going to make you a millionaire”
-
-replace subjects and numbers with anything and that’s a good argument.
-
-it brings out two things:
-
-1. it takes away the focus from lower limit onto the upper limit
-
-2. sprinkles specificity and subjectivity
-
-arguments against don’t seem to hold for the person making the statement in a acute perspective.
-
-
-ref: https://x.com/rhyssullivan/status/1951832934245433700?s=46  -- 2025-08-03T17:30:05.315Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
