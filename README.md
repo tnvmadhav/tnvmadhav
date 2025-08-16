@@ -1,7 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think more often than not.  -- 2025-08-16T06:19:08.305Z
+Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T07:05:11.210Z
+
+---
+
+On the future of client-side A.I.
+
+Traditional operating systems and client-side applications could be replaced so the compute can be saved for client side models instead.
+
+> The phone/computer will just become an edge node for AI, directly rendering pixels with no real operating system or apps in the traditional sense. 
+> There isn’t enough bandwidth to transmit video to all devices from the servers and there won’t always be good connectivity, so there still needs to be significant client-side AI compute.
+
+[Quoting Elon Musk via X](https://x.com/elonmusk/status/1956583412203958733)  -- 2025-08-16T07:05:02.513Z
 
 ---
 
@@ -60,10 +71,6 @@ arguments against don’t seem to hold for the person making the statement in a 
 
 
 ref: https://x.com/rhyssullivan/status/1951832934245433700?s=46  -- 2025-08-03T17:30:05.315Z
-
----
-
-there are fewer known pleasures than listening to trinity while working weights.  -- 2025-08-02T17:30:07.591Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
