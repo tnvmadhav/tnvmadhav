@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T18:00:02.928Z
+
+---
+
 On the future of client-side A.I.
 
 Traditional operating systems and client-side applications could be replaced so the compute can be saved for client side models instead.
@@ -59,10 +63,6 @@ Run a test, write a spec, edit typos, "quick fixes" and many more.
 At least all of this can now be done without carrying your laptops to that park or cafe, if you have your tablets or iPads at your disposal.
 
 [Via Simon Willison's TIL post on Configuring GitHub Codespaces](https://til.simonwillison.net/github/codespaces-devcontainers)  -- 2025-08-16T07:55:28.817Z
-
----
-
-Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T07:05:11.210Z
 
 ---
 
