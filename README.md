@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think more often than not.  -- 2025-08-16T06:19:08.305Z
+
+---
+
 looking up your own guide from a few years ago to do something is *very* satisfying.  -- 2025-08-12T17:30:02.503Z
 
 ---
@@ -60,15 +64,6 @@ ref: https://x.com/rhyssullivan/status/1951832934245433700?s=46  -- 2025-08-03T1
 ---
 
 there are fewer known pleasures than listening to trinity while working weights.  -- 2025-08-02T17:30:07.591Z
-
----
-
-Paul Graham writes all his essays in vim.
-
-I think I already knew that but also didn’t.
-
-
-ref: https://x.com/paulg/status/1951377078114460075?s=46  -- 2025-08-02T17:30:05.027Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
