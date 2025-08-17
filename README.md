@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If you can’t recreate workflows from memory, you still haven’t done it enough.
+
+It’s crazy that this has to be made explicit. This is a note to self btw.
+
+
+🔗 You can read my other content pieces:
+
+https://twitter.com/twitter/status/1956966725578080277  -- 2025-08-17T12:30:05.260Z
+
+---
+
 real shopping 🛒  but in V.R. 🥽 
 
 was this ever attempted? if not can it be attempted now? with A.I. helping with generating aisles in real-time.
@@ -18,17 +29,6 @@ Most of the hype is about A.I. to eventually make more money, but the ultimate s
 >We measure human progress by technological revolutions; hard to internalize what it'd mean to have a computer which can do much of the work for breakthroughs.
 
 [Quoting Greg Brockman via X](https://x.com/gdb/status/1956893646550356247)  -- 2025-08-17T10:26:50.299Z
-
----
-
-If you can’t recreate workflows from memory, you still haven’t done it enough.
-
-It’s crazy that this has to be made explicit. This is a note to self btw.
-
-
-🔗 You can read my other content pieces:
-
-https://twitter.com/twitter/status/1956966725578080277  -- 2025-08-17T10:25:35.755Z
 
 ---
 
