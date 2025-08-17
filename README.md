@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If you can’t recreate workflows from memory, you still haven’t done it enough.
+
+It’s crazy that this has to be made explicit. This is a note to self btw.
+
+
+🔗 You can read my other content pieces:
+
+https://twitter.com/twitter/status/1956966725578080277  -- 2025-08-17T06:41:16.243Z
+
+---
+
 On Using A.I. for actualy invention and discovery:
 
 Most of the hype is about A.I. to eventually make more money, but the ultimate steelman has always been remove hurdles of group-think and instead generate unique ideas (with help of A.I.).
@@ -9,7 +20,15 @@ Most of the hype is about A.I. to eventually make more money, but the ultimate s
 >
 >We measure human progress by technological revolutions; hard to internalize what it'd mean to have a computer which can do much of the work for breakthroughs.
 
-[Quoting Greg Brockman via X](https://x.com/gdb/status/1956893646550356247)  -- 2025-08-17T03:26:14.603Z
+[Quoting Greg Brockman via X](https://x.com/gdb/status/1956893646550356247)  -- 2025-08-17T06:30:02.969Z
+
+---
+
+real shopping 🛒  but in V.R. 🥽 
+
+was this ever attempted? if not can it be attempted now? with A.I. helping with generating aisles in real-time.
+
+like at @ikea  -- 2025-08-17T06:29:47.287Z
 
 ---
 
@@ -91,17 +110,6 @@ The internet runs because of a couple of goto statements in the lower levels of 
 ---
 
 inefficiencies, inefficiencies everywhere -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_nKhy145.png) -- 2025-08-11T10:19:13.602Z
-
----
-
-it's a good world to live in when you engineer surprises to be good ones.  -- 2025-08-10T18:00:02.869Z
-
----
-
-> "the hype is how sama whips the members of technical staff into shape" ~ Roon
-
-
-ref: https://x.com/tszzl/status/1953601056526807456  -- 2025-08-08T06:30:05.135Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
