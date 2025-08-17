@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+On Using A.I. for actualy invention and discovery:
+
+Most of the hype is about A.I. to eventually make more money, but the ultimate steelman has always been remove hurdles of group-think and instead generate unique ideas (with help of A.I.).
+
+>A perspective that isn't yet getting enough attention: a way in which AI progress will soon deeply benefit the world is through the discovery and production of new technology.
+>
+>We measure human progress by technological revolutions; hard to internalize what it'd mean to have a computer which can do much of the work for breakthroughs.
+
+[Quoting Greg Brockman via X](https://x.com/gdb/status/1956893646550356247)  -- 2025-08-17T03:26:14.603Z
+
+---
+
 Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T18:00:02.928Z
 
 ---
@@ -90,20 +102,6 @@ it's a good world to live in when you engineer surprises to be good ones.  -- 20
 
 
 ref: https://x.com/tszzl/status/1953601056526807456  -- 2025-08-08T06:30:05.135Z
-
----
-
-Notes from ["In Support of Shitty Types"](https://lucumr.pocoo.org/2025/8/4/shitty-types/) by Mitsuhiko
-
-> Go’s types are much less expressive and very structural. Things conform to interfaces purely by having certain methods. The LLM does not need to understand much to comprehend that. Also, the types that Go has are rather strictly enforced. If they are wrong, it won’t compile. Because Go has a much simpler type system that doesn’t support complicated constructs, it works much better—both for LLMs to understand the code they produce and for the LLM to understand real-world libraries you might give to an LLM.
-
-one mustn't forget that if interface{} and type-casting are used, they can still lead to runtime errors. This post primarily speaks about compile-time efficiencies.
-
-Armin ends the post with a very interesting commentary:
-
-> I think it’s an interesting question whether this behavior of LLMs today will influence future language design. I don’t know if it will, but I think it gives a lot of credence to some of the decisions that led to languages like Go and Java. As critical as I have been in the past about their rather simple approaches to problems and having a design that maybe doesn’t hold developers in a particularly high regard, I now think that they actually are measurably in a very good spot. There is more elegance to their design than I gave it credit for.
-
-I believe A.I. can be a lens to appreciate/depreciate decisions whose value that may not have been fully evident.  -- 2025-08-05T17:30:02.819Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
