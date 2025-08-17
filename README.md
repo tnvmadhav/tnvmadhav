@@ -1,52 +1,6 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-If you can’t recreate workflows from memory, you still haven’t done it enough.
-
-It’s crazy that this has to be made explicit. This is a note to self btw.
-
-
-🔗 You can read my other content pieces:
-
-https://twitter.com/twitter/status/1956966725578080277  -- 2025-08-17T06:41:16.243Z
-
----
-
-On Using A.I. for actualy invention and discovery:
-
-Most of the hype is about A.I. to eventually make more money, but the ultimate steelman has always been remove hurdles of group-think and instead generate unique ideas (with help of A.I.).
-
->A perspective that isn't yet getting enough attention: a way in which AI progress will soon deeply benefit the world is through the discovery and production of new technology.
->
->We measure human progress by technological revolutions; hard to internalize what it'd mean to have a computer which can do much of the work for breakthroughs.
-
-[Quoting Greg Brockman via X](https://x.com/gdb/status/1956893646550356247)  -- 2025-08-17T06:30:02.969Z
-
----
-
-real shopping 🛒  but in V.R. 🥽 
-
-was this ever attempted? if not can it be attempted now? with A.I. helping with generating aisles in real-time.
-
-like at @ikea  -- 2025-08-17T06:29:47.287Z
-
----
-
-Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T18:00:02.928Z
-
----
-
-On the future of client-side A.I.
-
-Traditional operating systems and client-side applications could be replaced so the compute can be saved for client side models instead.
-
-> The phone/computer will just become an edge node for AI, directly rendering pixels with no real operating system or apps in the traditional sense. 
-> There isn’t enough bandwidth to transmit video to all devices from the servers and there won’t always be good connectivity, so there still needs to be significant client-side AI compute.
-
-[Quoting Elon Musk via X](https://x.com/elonmusk/status/1956583412203958733)  -- 2025-08-16T17:00:02.682Z
-
----
-
 You can use github codespaces to bootstrap a piece of reproducible behaviour in a particular repository.
 
 This is quite great for showcasing a piece of software. You can also run the software as if you're running it locally without actually running it locally.
@@ -93,7 +47,53 @@ Run a test, write a spec, edit typos, "quick fixes" and many more.
 
 At least all of this can now be done without carrying your laptops to that park or cafe, if you have your tablets or iPads at your disposal.
 
-[Via Simon Willison's TIL post on Configuring GitHub Codespaces](https://til.simonwillison.net/github/codespaces-devcontainers)  -- 2025-08-16T07:55:28.817Z
+[Via Simon Willison's TIL post on Configuring GitHub Codespaces](https://til.simonwillison.net/github/codespaces-devcontainers)  -- 2025-08-17T06:43:00.083Z
+
+---
+
+If you can’t recreate workflows from memory, you still haven’t done it enough.
+
+It’s crazy that this has to be made explicit. This is a note to self btw.
+
+
+🔗 You can read my other content pieces:
+
+https://twitter.com/twitter/status/1956966725578080277  -- 2025-08-17T06:41:16.243Z
+
+---
+
+On Using A.I. for actualy invention and discovery:
+
+Most of the hype is about A.I. to eventually make more money, but the ultimate steelman has always been remove hurdles of group-think and instead generate unique ideas (with help of A.I.).
+
+>A perspective that isn't yet getting enough attention: a way in which AI progress will soon deeply benefit the world is through the discovery and production of new technology.
+>
+>We measure human progress by technological revolutions; hard to internalize what it'd mean to have a computer which can do much of the work for breakthroughs.
+
+[Quoting Greg Brockman via X](https://x.com/gdb/status/1956893646550356247)  -- 2025-08-17T06:30:02.969Z
+
+---
+
+real shopping 🛒  but in V.R. 🥽 
+
+was this ever attempted? if not can it be attempted now? with A.I. helping with generating aisles in real-time.
+
+like at @ikea  -- 2025-08-17T06:29:47.287Z
+
+---
+
+Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T18:00:02.928Z
+
+---
+
+On the future of client-side A.I.
+
+Traditional operating systems and client-side applications could be replaced so the compute can be saved for client side models instead.
+
+> The phone/computer will just become an edge node for AI, directly rendering pixels with no real operating system or apps in the traditional sense. 
+> There isn’t enough bandwidth to transmit video to all devices from the servers and there won’t always be good connectivity, so there still needs to be significant client-side AI compute.
+
+[Quoting Elon Musk via X](https://x.com/elonmusk/status/1956583412203958733)  -- 2025-08-16T17:00:02.682Z
 
 ---
 
