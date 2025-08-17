@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+a man who is perpetually in the arena, will eventually act like there is nothing to lose.  -- 2025-08-17T15:05:33.259Z
+
+---
+
 Bash scripts are great, if lesser than 30-50 LoC.  -- 2025-08-17T13:33:32.891Z
 
 ---
@@ -106,10 +110,6 @@ looking up your own guide from a few years ago to do something is *very* satisfy
 ---
 
 I'd like to believe that the intended purpose of multimodality is to invoke a cached catharsis if you will.  -- 2025-08-12T14:30:02.650Z
-
----
-
-The internet runs because of a couple of goto statements in the lower levels of technological stack. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_I4NFnyR.png) -- 2025-08-12T09:20:20.680Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
