@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I've implemented individual post archival per day so each post can be linked to independently.
+
+@GoHugoIO is amazing for post archival management.
+
+https://tnvmadhav.me/feed/2025/08/17/  -- 2025-08-18T03:01:52.351Z
+
+---
+
 a man who is perpetually in the arena, will eventually act like there is nothing to lose.  -- 2025-08-17T15:05:33.259Z
 
 ---
@@ -106,10 +114,6 @@ Traditional operating systems and client-side applications could be replaced so 
 ---
 
 looking up your own guide from a few years ago to do something is *very* satisfying.  -- 2025-08-12T17:30:02.503Z
-
----
-
-I'd like to believe that the intended purpose of multimodality is to invoke a cached catharsis if you will.  -- 2025-08-12T14:30:02.650Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
