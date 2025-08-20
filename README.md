@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Ah! NotionHQ finally launches offline mode.
+
+https://x.com/notionhq/status/1957820181197000908?s=46  -- 2025-08-20T04:14:17.510Z
+
+---
+
+Excerpt from contributing guidelines from Ghostty repository:
+
+> In a perfect world, AI assistance would produce equal or higher quality
+work than any human. That isn't the world we live in today, and in most cases it's generating slop. I say this despite being a fan of and using them
+successfully myself (with heavy supervision)!
+
+[via GitHub](https://github.com/ghostty-org/ghostty/pull/8289/files)  -- 2025-08-20T04:05:43.114Z
+
+---
+
 I've implemented individual post archival per day so each post can be linked to independently.
 
 @GoHugoIO is amazing for post archival management.
@@ -99,21 +115,6 @@ At least all of this can now be done without carrying your laptops to that park 
 ---
 
 Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T18:00:02.928Z
-
----
-
-On the future of client-side A.I.
-
-Traditional operating systems and client-side applications could be replaced so the compute can be saved for client side models instead.
-
-> The phone/computer will just become an edge node for AI, directly rendering pixels with no real operating system or apps in the traditional sense. 
-> There isn’t enough bandwidth to transmit video to all devices from the servers and there won’t always be good connectivity, so there still needs to be significant client-side AI compute.
-
-[Quoting Elon Musk via X](https://x.com/elonmusk/status/1956583412203958733)  -- 2025-08-16T17:00:02.682Z
-
----
-
-looking up your own guide from a few years ago to do something is *very* satisfying.  -- 2025-08-12T17:30:02.503Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
