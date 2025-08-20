@@ -1,19 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Ah! NotionHQ finally launches offline mode.
-
-https://x.com/notionhq/status/1957820181197000908?s=46  -- 2025-08-20T04:14:17.510Z
-
----
-
 Excerpt from contributing guidelines from Ghostty repository:
 
 > In a perfect world, AI assistance would produce equal or higher quality
 work than any human. That isn't the world we live in today, and in most cases it's generating slop. I say this despite being a fan of and using them
 successfully myself (with heavy supervision)!
 
-[via GitHub](https://github.com/ghostty-org/ghostty/pull/8289/files)  -- 2025-08-20T04:05:43.114Z
+[via GitHub](https://github.com/ghostty-org/ghostty/pull/8289/files)  -- 2025-08-20T06:30:05.330Z
+
+---
+
+Ah! NotionHQ finally launches offline mode.
+
+https://x.com/notionhq/status/1957820181197000908?s=46  -- 2025-08-20T06:30:02.762Z
 
 ---
 
