@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+so A.G.I. is just a database with agency  -- 2025-08-24T08:46:30.387Z
+
+---
+
 Excerpt from contributing guidelines from Ghostty repository:
 
 > In a perfect world, AI assistance would produce equal or higher quality
@@ -111,10 +115,6 @@ Run a test, write a spec, edit typos, "quick fixes" and many more.
 At least all of this can now be done without carrying your laptops to that park or cafe, if you have your tablets or iPads at your disposal.
 
 [Via Simon Willison's TIL post on Configuring GitHub Codespaces](https://til.simonwillison.net/github/codespaces-devcontainers)  -- 2025-08-17T10:23:56.679Z
-
----
-
-Killua going back and one-shotting the hunter exam during the greed island arc speaks volumes and is something I think about more often than not.  -- 2025-08-16T18:00:02.928Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
