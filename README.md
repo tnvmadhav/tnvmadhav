@@ -1,7 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-so A.G.I. is just a database with agency  -- 2025-08-24T08:46:30.387Z
+I've found that technology is best used to help develop (or even change) habits.
+
+The process of unlearning can also be something technology can make accessible.  -- 2025-08-25T07:51:30.676Z
+
+---
+
+so A.G.I. is just a database with agency  -- 2025-08-25T07:48:02.942Z
+
+---
+
+what is something no one has ever asked chatGPT, if asked it would unravel something drastically novel?  -- 2025-08-25T07:47:50.805Z
 
 ---
 
@@ -53,68 +63,6 @@ It’s crazy that this has to be made explicit. This is a note to self btw.
 🔗 You can read my other content pieces:
 
 https://twitter.com/twitter/status/1956966725578080277  -- 2025-08-17T12:30:05.260Z
-
----
-
-On Using A.I. for actualy invention and discovery:
-
-Most of the hype is about A.I. to eventually make more money, but the ultimate steelman has always been remove hurdles of group-think and instead generate unique ideas (with help of A.I.).
-
->A perspective that isn't yet getting enough attention: a way in which AI progress will soon deeply benefit the world is through the discovery and production of new technology.
->
->We measure human progress by technological revolutions; hard to internalize what it'd mean to have a computer which can do much of the work for breakthroughs.
-
-[Quoting Greg Brockman via X](https://x.com/gdb/status/1956893646550356247)  -- 2025-08-17T10:26:50.299Z
-
----
-
-You can use github codespaces to bootstrap a piece of reproducible behaviour in a particular repository.
-
-This is quite great for showcasing a piece of software. You can also run the software as if you're running it locally without actually running it locally.
-
-This includes GitHub copilot and other plugins.
-
-I was more curious about GitHub Codespaces in general so I asked Claude Sonnet 3.5 that was within my Github Codespace how it all worked:
-
-> How It Works
->
->When you create a codespace, GitHub:
->Spins up a container using your devcontainer.json configuration
->Sets up the development environment with specified tools and extensions
->Clones your repository into the container
->Connects it to VS Code (web or desktop)
-
-> "Code from anywhere with a browser"
-
-Like for instance you can run, test and review code properly as you would from a pc/laptop.
-
-> "No local setup needed"
-
-While this is technically true, but in practice, one would have to be well-versed with setup commands to make effective use of GitHub workspaces. 
-Not an issue for the initiated.
-
-Another major concern I had while learning about Codespaces was would the data be lost if code changes weren't commited and pushed to remote source.
-
-But looks like this concern was now relieved. The whole selling point of GitHub Codespaces was that a single codespace persists between sessions, meaning if you accidently close the tab "changes" can be restored.
-
-However there are caveats!
-
-If you're personal account codespace wasn't touched or used in last 30 days it will wipe the codespace clean.
-
-
-While it's a bummer, most of the workflows may not be hindered because almost everyone has a personal computer with them at most times. Codespace would mainly be used as a convenience layer to work out of a low computer hardware like a phone or tablets like Ipads.
-
-Me personally, I like to make small commits and push to remote if it's my personal projects. Also since this is remote, this is akin to having a VPS with OS and dependencies pre-installed for free to perform some cool experiments.
-
-Moreover, it's perfect for code-reviews.
-
-All changes can be tested on a remote server without worrying about affecting your local server persistence or compute states.
-
-Run a test, write a spec, edit typos, "quick fixes" and many more.
-
-At least all of this can now be done without carrying your laptops to that park or cafe, if you have your tablets or iPads at your disposal.
-
-[Via Simon Willison's TIL post on Configuring GitHub Codespaces](https://til.simonwillison.net/github/codespaces-devcontainers)  -- 2025-08-17T10:23:56.679Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
