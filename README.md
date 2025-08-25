@@ -3,15 +3,15 @@
 <!-- feed starts -->
 I've found that technology is best used to help develop (or even change) habits.
 
-The process of unlearning can also be something technology can make accessible.  -- 2025-08-25T07:51:30.676Z
+The process of unlearning can also be something technology can make accessible.  -- 2025-08-25T12:30:05.528Z
+
+---
+
+what is something no one has ever asked chatGPT, if asked it would unravel something drastically novel?  -- 2025-08-25T12:30:02.921Z
 
 ---
 
 so A.G.I. is just a database with agency  -- 2025-08-25T07:48:02.942Z
-
----
-
-what is something no one has ever asked chatGPT, if asked it would unravel something drastically novel?  -- 2025-08-25T07:47:50.805Z
 
 ---
 
