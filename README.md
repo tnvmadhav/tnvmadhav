@@ -1,6 +1,26 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If you're not able to communicate your state of mind about something in a RESTful way, you're likely doing it wrong.
+
+Because this could lead to jarring results rooting back to this miscommunication incident.
+
+
+People arguing that sharing written pieces is the way to prevent this because being verbose and redundant in somethings works really well but the point is we gotta ensure the information reaches and is processed in their brains the way you intended it.
+
+So written pieces make it easy for the author to place it all on the table but it doesn't guarantee that the reading happens the way you intended it to.
+
+This can be fixed with technology. Introducing multi-modality. A layer on top of the written piece.
+
+
+A video of you explaining it the way you wanna intend it. Or even an audio piece.
+
+If writing is layer 1, then video, audio can be a layer 2 and layer 3. Looking at problems like this can help appreciate technology more and more everyday.
+
+NotebookLM product sort of attempts to solve this but nothing is as good as the original author attempting to convey the same thing through many modalities.  -- 2025-08-28T07:33:35.431Z
+
+---
+
 I've found that technology is best used to help develop (or even change) habits.
 
 The process of unlearning can also be something technology can make accessible.  -- 2025-08-25T12:30:05.528Z
@@ -52,17 +72,6 @@ real shopping 🛒  but in V.R. 🥽
 was this ever attempted? if not can it be attempted now? with A.I. helping with generating aisles in real-time.
 
 like at @ikea  -- 2025-08-17T13:00:02.748Z
-
----
-
-If you can’t recreate workflows from memory, you still haven’t done it enough.
-
-It’s crazy that this has to be made explicit. This is a note to self btw.
-
-
-🔗 You can read my other content pieces:
-
-https://twitter.com/twitter/status/1956966725578080277  -- 2025-08-17T12:30:05.260Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
