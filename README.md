@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I am convinced that most inefficiencies are due to a lack of robust setup and teardown routines or their implementations.  -- 2025-08-28T11:54:36.853Z
+
+---
+
 If you're not able to communicate your state of mind about something in a RESTful way, you're likely doing it wrong.
 
 Because this could lead to jarring results rooting back to this miscommunication incident.
@@ -64,14 +68,6 @@ a man who is perpetually in the arena, will eventually act like there is nothing
 ---
 
 Bash scripts are great, if lesser than 30-50 LoC.  -- 2025-08-17T13:33:32.891Z
-
----
-
-real shopping 🛒  but in V.R. 🥽 
-
-was this ever attempted? if not can it be attempted now? with A.I. helping with generating aisles in real-time.
-
-like at @ikea  -- 2025-08-17T13:00:02.748Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
