@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I am convinced that most inefficiencies are due to a lack of robust setup and teardown routines or their implementations.  -- 2025-08-28T15:30:02.810Z
+
+---
+
 If you're not able to communicate your state of mind about something in a RESTful way, you're likely doing it wrong.
 
 Because this could lead to jarring results rooting back to this miscommunication incident.
@@ -18,10 +22,6 @@ A video of you explaining it the way you wanna intend it. Or even an audio piece
 If writing is layer 1, then video, audio can be a layer 2 and layer 3. Looking at problems like this can help appreciate technology more and more everyday.
 
 NotebookLM product sort of attempts to solve this but nothing is as good as the original author attempting to convey the same thing through many modalities.  -- 2025-08-28T12:30:07.853Z
-
----
-
-I am convinced that most inefficiencies are due to a lack of robust setup and teardown routines or their implementations.  -- 2025-08-28T11:54:36.853Z
 
 ---
 
