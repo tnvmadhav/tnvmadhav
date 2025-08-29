@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+you can like just just postpone worry indefinitely.
+
+
+references https://x.com/bryan_johnson/status/1960425544023236701  -- 2025-08-29T08:16:59.790Z
+
+---
+
 Maybe just maybe the meaning of life is getting the next idea and learning (ideally the hard way) that it's not that good. 
 Because it's stochastic knowledge that most ideas a not that good. 
 
@@ -70,10 +77,6 @@ I've implemented individual post archival per day so each post can be linked to 
 @GoHugoIO is amazing for post archival management.
 
 https://tnvmadhav.me/feed/2025/08/17/  -- 2025-08-18T03:01:52.351Z
-
----
-
-a man who is perpetually in the arena, will eventually act like there is nothing to lose.  -- 2025-08-17T15:05:33.259Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
