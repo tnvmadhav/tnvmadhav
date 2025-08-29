@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Maybe just maybe the meaning of life is getting the next idea and learning (ideally the hard way) that it's not that good. 
+Because it's stochastic knowledge that most ideas a not that good. 
+
+So sooner you learn why your next idea isn't good enough the sooner you land on a really good one.
+
+
+This thought was influenced by a note from John Carmack.  -- 2025-08-29T07:10:16.267Z
+
+---
+
 I am convinced that most inefficiencies are due to a lack of robust setup and teardown routines or their implementations.  -- 2025-08-28T15:30:02.810Z
 
 ---
@@ -64,10 +74,6 @@ https://tnvmadhav.me/feed/2025/08/17/  -- 2025-08-18T03:01:52.351Z
 ---
 
 a man who is perpetually in the arena, will eventually act like there is nothing to lose.  -- 2025-08-17T15:05:33.259Z
-
----
-
-Bash scripts are great, if lesser than 30-50 LoC.  -- 2025-08-17T13:33:32.891Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
