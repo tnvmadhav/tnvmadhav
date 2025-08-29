@@ -1,10 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Better to get your dopamine from improving your ideas than from having them validated.
+
+
+source https://nat.org -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_D3xUeFS.png) -- 2025-08-29T12:36:31.972Z
+
+---
+
 you can like just just postpone worry indefinitely.
 
 
-references https://x.com/bryan_johnson/status/1960425544023236701  -- 2025-08-29T08:16:59.790Z
+references https://x.com/bryan_johnson/status/1960425544023236701  -- 2025-08-29T12:30:05.436Z
 
 ---
 
@@ -69,14 +76,6 @@ successfully myself (with heavy supervision)!
 Ah! NotionHQ finally launches offline mode.
 
 https://x.com/notionhq/status/1957820181197000908?s=46  -- 2025-08-20T06:30:02.762Z
-
----
-
-I've implemented individual post archival per day so each post can be linked to independently.
-
-@GoHugoIO is amazing for post archival management.
-
-https://tnvmadhav.me/feed/2025/08/17/  -- 2025-08-18T03:01:52.351Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
