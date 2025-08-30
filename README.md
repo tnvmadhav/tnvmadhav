@@ -1,6 +1,38 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Go for it. Don’t be afraid. Nobody cares. Even if they do, they’re just people.
+
+source: https://x.com/melqtx/status/1961264778485387429 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_X3qQYdG.jpeg) -- 2025-08-30T11:21:15.578Z
+
+---
+
+> “I get it; ideas are hard to come by. If you let the X timeline brain rot you, you’ll have same 3 ideas everyone has else has.
+
+I’ve been dealing with similar thoughts on social media in general.
+
+Social media like X with algorithmic feed can end up becoming echo chambers. It’s not bad or wrong.
+
+Suhail shares this sentiment after opening the following rant.
+
+> we do not need another loveable clone
+
+
+> Why is the world configured in such a manner?
+
+> These are not inherently startup ideas but if you can ask why and follow thread long enough you will find broken opportunities everywhere. 
+
+True.
+
+> Most people don’t even ask why.
+
+Many do actually but the trail is left sooner than later onto the next thing.
+
+
+you can check the original post yourself: https://x.com/Suhail/thread/1961636664599875913  -- 2025-08-30T11:05:45.854Z
+
+---
+
 Better to get your dopamine from improving your ideas than from having them validated.
 
 
@@ -60,22 +92,6 @@ what is something no one has ever asked chatGPT, if asked it would unravel somet
 ---
 
 so A.G.I. is just a database with agency  -- 2025-08-25T07:48:02.942Z
-
----
-
-Excerpt from contributing guidelines from Ghostty repository:
-
-> In a perfect world, AI assistance would produce equal or higher quality
-work than any human. That isn't the world we live in today, and in most cases it's generating slop. I say this despite being a fan of and using them
-successfully myself (with heavy supervision)!
-
-[via GitHub](https://github.com/ghostty-org/ghostty/pull/8289/files)  -- 2025-08-20T06:30:05.330Z
-
----
-
-Ah! NotionHQ finally launches offline mode.
-
-https://x.com/notionhq/status/1957820181197000908?s=46  -- 2025-08-20T06:30:02.762Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
