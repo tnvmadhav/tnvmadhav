@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Perhaps the meaning of life is just to minimize context-switch per scroll function in the roaring twenties.  -- 2025-08-30T13:52:49.223Z
+
+---
+
 Go for it. Don’t be afraid. Nobody cares. Even if they do, they’re just people.
 
 source: https://x.com/melqtx/status/1961264778485387429 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_X3qQYdG.jpeg) -- 2025-08-30T12:03:58.475Z
@@ -88,10 +92,6 @@ The process of unlearning can also be something technology can make accessible. 
 ---
 
 what is something no one has ever asked chatGPT, if asked it would unravel something drastically novel?  -- 2025-08-25T12:30:02.921Z
-
----
-
-so A.G.I. is just a database with agency  -- 2025-08-25T07:48:02.942Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
