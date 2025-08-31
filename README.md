@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+What is the loss function you’re optimizing for in this day and age, fellow traveller?  -- 2025-08-31T06:30:02.890Z
+
+---
+
 Perhaps the meaning of life is just to minimize context-switch per scroll function in the roaring twenties.  -- 2025-08-30T13:52:49.223Z
 
 ---
@@ -88,10 +92,6 @@ NotebookLM product sort of attempts to solve this but nothing is as good as the 
 I've found that technology is best used to help develop (or even change) habits.
 
 The process of unlearning can also be something technology can make accessible.  -- 2025-08-25T12:30:05.528Z
-
----
-
-what is something no one has ever asked chatGPT, if asked it would unravel something drastically novel?  -- 2025-08-25T12:30:02.921Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
