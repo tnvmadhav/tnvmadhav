@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+It works well to not give 3rd party algorithms root access of your brain.  -- 2025-09-01T12:30:02.933Z
+
+---
+
 I came across a low-key diabolical quote:
 
 > "Hard work may pay off in the end, but procrastination pays off now." ~ Neil Fraser  -- 2025-09-01T11:51:42.427Z
@@ -10,10 +14,6 @@ I came across a low-key diabolical quote:
 The sooner you test ideas, the more time you waste holding on to it before you realise it wasn't the best of the ideas.
 
 The best ideas come with a significant volume of lame or laughable ones.  -- 2025-09-01T10:19:07.282Z
-
----
-
-It works well to not give 3rd party algorithms root access of your brain.  -- 2025-09-01T08:51:28.748Z
 
 ---
 
