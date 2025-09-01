@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+It works well to not give 3rd party algorithms root access of your brain.  -- 2025-09-01T08:51:28.748Z
+
+---
+
 What is the loss function you’re optimizing for in this day and age, fellow traveller?  -- 2025-08-31T06:30:02.890Z
 
 ---
@@ -86,12 +90,6 @@ A video of you explaining it the way you wanna intend it. Or even an audio piece
 If writing is layer 1, then video, audio can be a layer 2 and layer 3. Looking at problems like this can help appreciate technology more and more everyday.
 
 NotebookLM product sort of attempts to solve this but nothing is as good as the original author attempting to convey the same thing through many modalities.  -- 2025-08-28T12:30:07.853Z
-
----
-
-I've found that technology is best used to help develop (or even change) habits.
-
-The process of unlearning can also be something technology can make accessible.  -- 2025-08-25T12:30:05.528Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
