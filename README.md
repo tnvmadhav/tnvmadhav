@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The sooner you test ideas, the more time you waste holding on to it before you realise it wasn't the best of the ideas.
+
+The best ideas come with a significant volume of lame or laughable ones.  -- 2025-09-01T10:19:07.282Z
+
+---
+
 It works well to not give 3rd party algorithms root access of your brain.  -- 2025-09-01T08:51:28.748Z
 
 ---
@@ -70,26 +76,6 @@ This thought was influenced by a note from John Carmack.  -- 2025-08-29T07:10:16
 ---
 
 I am convinced that most inefficiencies are due to a lack of robust setup and teardown routines or their implementations.  -- 2025-08-28T15:30:02.810Z
-
----
-
-If you're not able to communicate your state of mind about something in a RESTful way, you're likely doing it wrong.
-
-Because this could lead to jarring results rooting back to this miscommunication incident.
-
-
-People arguing that sharing written pieces is the way to prevent this because being verbose and redundant in somethings works really well but the point is we gotta ensure the information reaches and is processed in their brains the way you intended it.
-
-So written pieces make it easy for the author to place it all on the table but it doesn't guarantee that the reading happens the way you intended it to.
-
-This can be fixed with technology. Introducing multi-modality. A layer on top of the written piece.
-
-
-A video of you explaining it the way you wanna intend it. Or even an audio piece.
-
-If writing is layer 1, then video, audio can be a layer 2 and layer 3. Looking at problems like this can help appreciate technology more and more everyday.
-
-NotebookLM product sort of attempts to solve this but nothing is as good as the original author attempting to convey the same thing through many modalities.  -- 2025-08-28T12:30:07.853Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
