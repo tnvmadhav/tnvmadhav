@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I came across a low-key diabolical quote:
+
+> "Hard work may pay off in the end, but procrastination pays off now." ~ Neil Fraser  -- 2025-09-01T11:51:42.427Z
+
+---
+
 The sooner you test ideas, the more time you waste holding on to it before you realise it wasn't the best of the ideas.
 
 The best ideas come with a significant volume of lame or laughable ones.  -- 2025-09-01T10:19:07.282Z
@@ -72,10 +78,6 @@ So sooner you learn why your next idea isn't good enough the sooner you land on 
 
 
 This thought was influenced by a note from John Carmack.  -- 2025-08-29T07:10:16.267Z
-
----
-
-I am convinced that most inefficiencies are due to a lack of robust setup and teardown routines or their implementations.  -- 2025-08-28T15:30:02.810Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
