@@ -1,6 +1,27 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> Many current programmers remember the Moore’s law curve. That was the period from the 70s through the 90s where clock rates and memory doubled every year or so. But that doubling stopped in 2005. Memory continued to get denser for a while, but even that has stopped. The current way that we increase computing power is by doubling the number of GPUs in server farms every year or so. But that can’t continue much longer. The power requirements, the space requirements, the capital requirements, and the sheer mass of it all, will exceed feasibility within a few more doublings.
+> So don’t expect AIs to continue to improve exponentially.  They’re headed for a brick wall, and that brick wall is not that far away.
+
+This is definitely something to think about by zooming out. However, one must be optimistic towards new scaling laws towards A.S.I. and beyond.
+
+
+You can checkout the original post by Uncle Bob [*on x here*](https://x.com/unclebobmartin/status/1962627912471097590)  -- 2025-09-02T13:37:20.826Z
+
+---
+
+### we're soo back!
+
+> "Huge day for 0.0005% of followers" ~ Pewdiepie
+
+pewd's here might've thought "it's a small thing, lemme just make a GitHub account and start pushing my files" but this could be a beginning of a beautiful (and sometimes unforgiving) rabbit-hole of things that bring joy to so many.
+
+
+and yes, here's a link [Pewd's GitHub account](https://github.com/pewdiepie-archdaemon) btw. Be kind :P -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/Gzz_4sCawAAlQ87.jpeg) -- 2025-09-02T13:31:12.628Z
+
+---
+
 Today, I learned that you can format SQL statements in Postico 2 without worrying too much. There is an in-built feature in the query editor that allows you to do so.
 
 Just select the SQL query, you want to format and right-click and choose `Format SQL statement` option.
@@ -53,39 +74,6 @@ Perhaps the meaning of life is just to minimize context-switch per scroll functi
 Go for it. Don’t be afraid. Nobody cares. Even if they do, they’re just people.
 
 source: https://x.com/melqtx/status/1961264778485387429 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_X3qQYdG.jpeg) -- 2025-08-30T12:03:58.475Z
-
----
-
-> “I get it; ideas are hard to come by. If you let the X timeline brain rot you, you’ll have same 3 ideas everyone has else has.
-
-I’ve been dealing with similar thoughts on social media in general.
-
-Social media like X with algorithmic feed can end up becoming echo chambers. It’s not bad or wrong.
-
-Suhail shares this sentiment after opening the following rant.
-
-> we do not need another loveable clone
-
-
-> Why is the world configured in such a manner?
-
-> These are not inherently startup ideas but if you can ask why and follow thread long enough you will find broken opportunities everywhere. 
-
-True.
-
-> Most people don’t even ask why.
-
-Many do actually but the trail is left sooner than later onto the next thing.
-
-
-you can check the original post yourself: https://x.com/Suhail/thread/1961636664599875913  -- 2025-08-30T11:05:45.854Z
-
----
-
-Better to get your dopamine from improving your ideas than from having them validated.
-
-
-source https://nat.org -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_D3xUeFS.png) -- 2025-08-29T12:36:31.972Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
