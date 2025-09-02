@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today, I learned that you can format SQL statements in Postico 2 without worrying too much. There is inbuilt feature in the query editor that allows you to do so.
+
+Just select the SQL query, you want to format and click and choose `Format SQL statement` option.
+
+Alternatively, we could also choose the statement and hit control F.
+
+although, I'd prefer to not use such keyboard shortcuts because it could get dramatically problematic by bringing muscle memory to all this.  -- 2025-09-02T07:42:28.504Z
+
+---
+
 The sooner you test ideas, the more time you waste holding on to it before you realise it wasn't the best of the ideas.
 
 The best ideas come with a significant volume of lame or laughable ones.  -- 2025-09-02T06:30:07.998Z
@@ -76,13 +86,6 @@ Better to get your dopamine from improving your ideas than from having them vali
 
 
 source https://nat.org -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_D3xUeFS.png) -- 2025-08-29T12:36:31.972Z
-
----
-
-you can like just just postpone worry indefinitely.
-
-
-references https://x.com/bryan_johnson/status/1960425544023236701  -- 2025-08-29T12:30:05.436Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
