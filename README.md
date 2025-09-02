@@ -4,10 +4,10 @@
 > Many current programmers remember the Moore’s law curve. That was the period from the 70s through the 90s where clock rates and memory doubled every year or so. But that doubling stopped in 2005. Memory continued to get denser for a while, but even that has stopped. The current way that we increase computing power is by doubling the number of GPUs in server farms every year or so. But that can’t continue much longer. The power requirements, the space requirements, the capital requirements, and the sheer mass of it all, will exceed feasibility within a few more doublings.
 > So don’t expect AIs to continue to improve exponentially.  They’re headed for a brick wall, and that brick wall is not that far away.
 
-This is definitely something to think about by zooming out. However, one must be optimistic towards new scaling laws towards A.S.I. and beyond.
+This is definitely something to think about by zooming out. However, one must be optimistic towards (and prepare for) new scaling laws towards A.S.I. and beyond.
 
 
-You can checkout the original post by Uncle Bob [*on x here*](https://x.com/unclebobmartin/status/1962627912471097590)  -- 2025-09-02T13:37:20.826Z
+You can checkout the original post by [Uncle Bob *on x dot com*](https://x.com/unclebobmartin/status/1962627912471097590).  -- 2025-09-02T13:38:35.697Z
 
 ---
 
