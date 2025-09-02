@@ -1,13 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Today, I learned that you can format SQL statements in Postico 2 without worrying too much. There is inbuilt feature in the query editor that allows you to do so.
+Today, I learned that you can format SQL statements in Postico 2 without worrying too much. There is an in-built feature in the query editor that allows you to do so.
 
-Just select the SQL query, you want to format and click and choose `Format SQL statement` option.
+Just select the SQL query, you want to format and right-click and choose `Format SQL statement` option.
 
 Alternatively, we could also choose the statement and hit control F.
 
-although, I'd prefer to not use such keyboard shortcuts because it could get dramatically problematic by bringing muscle memory to all this.  -- 2025-09-02T07:42:28.504Z
+although, I'd prefer to not use such keyboard shortcuts because it could get dramatically problematic by bringing muscle memory to all this.  -- 2025-09-02T10:03:01.222Z
 
 ---
 
