@@ -1,6 +1,27 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The sooner you test ideas, the more time you waste holding on to it before you realise it wasn't the best of the ideas.
+
+The best ideas come with a significant volume of lame or laughable ones.  -- 2025-09-02T06:30:07.998Z
+
+---
+
+Some interesting quotes:
+
+> My mind fills up with a few key projects and that’s it. I’m absorbed by those. That’s where my attention is.
+
+If your mind isn’t filled with 2-3 key projects where you can riff your attention towards new things every day, then you’re doing something wrong.
+
+> Time and attention aren’t the same thing. They're barely related.
+
+They maybe two different dimensions but they’re definitely intertwined like Space-Time & Electro-Magnetic waves etc.
+
+
+full reference on jason’s hey blog: https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb  -- 2025-09-02T06:30:05.514Z
+
+---
+
 It works well to not give 3rd party algorithms root access of your brain.  -- 2025-09-01T12:30:02.933Z
 
 ---
@@ -8,12 +29,6 @@ It works well to not give 3rd party algorithms root access of your brain.  -- 20
 I came across a low-key diabolical quote:
 
 > "Hard work may pay off in the end, but procrastination pays off now." ~ Neil Fraser  -- 2025-09-01T11:51:42.427Z
-
----
-
-The sooner you test ideas, the more time you waste holding on to it before you realise it wasn't the best of the ideas.
-
-The best ideas come with a significant volume of lame or laughable ones.  -- 2025-09-01T10:19:07.282Z
 
 ---
 
@@ -68,16 +83,6 @@ you can like just just postpone worry indefinitely.
 
 
 references https://x.com/bryan_johnson/status/1960425544023236701  -- 2025-08-29T12:30:05.436Z
-
----
-
-Maybe just maybe the meaning of life is getting the next idea and learning (ideally the hard way) that it's not that good. 
-Because it's stochastic knowledge that most ideas a not that good. 
-
-So sooner you learn why your next idea isn't good enough the sooner you land on a really good one.
-
-
-This thought was influenced by a note from John Carmack.  -- 2025-08-29T07:10:16.267Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
