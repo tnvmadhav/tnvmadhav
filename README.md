@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> “….starting to use Postgres now after 12 years of scaling fine with SQLite!”
+
+
+full thread for context: https://x.com/levelsio/status/1963358597213204691  -- 2025-09-04T01:07:31.319Z
+
+---
+
 > Many current programmers remember the Moore’s law curve. That was the period from the 70s through the 90s where clock rates and memory doubled every year or so. But that doubling stopped in 2005. Memory continued to get denser for a while, but even that has stopped. The current way that we increase computing power is by doubling the number of GPUs in server farms every year or so. But that can’t continue much longer. The power requirements, the space requirements, the capital requirements, and the sheer mass of it all, will exceed feasibility within a few more doublings.
 > So don’t expect AIs to continue to improve exponentially.  They’re headed for a brick wall, and that brick wall is not that far away.
 
@@ -68,12 +75,6 @@ What is the loss function you’re optimizing for in this day and age, fellow tr
 ---
 
 Perhaps the meaning of life is just to minimize context-switch per scroll function in the roaring twenties.  -- 2025-08-30T13:52:49.223Z
-
----
-
-Go for it. Don’t be afraid. Nobody cares. Even if they do, they’re just people.
-
-source: https://x.com/melqtx/status/1961264778485387429 -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_X3qQYdG.jpeg) -- 2025-08-30T12:03:58.475Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
