@@ -4,7 +4,7 @@
 > “….starting to use Postgres now after 12 years of scaling fine with SQLite!”
 
 
-full thread for context: https://x.com/levelsio/status/1963358597213204691  -- 2025-09-04T01:07:31.319Z
+full thread for context [from pieter levels on *x dot com*](https://x.com/levelsio/status/1963358597213204691/)  -- 2025-09-04T02:11:32.429Z
 
 ---
 
