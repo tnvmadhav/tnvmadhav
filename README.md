@@ -7,7 +7,7 @@ Well one can easily guess how it feels now that I've enabled that feature.
 
 What blew my mind is that it works even with neovim text editor (decently enough).
 
-This is best for journaling and maintaining work logs.  -- 2025-09-05T09:40:55.269Z
+This is best for journaling and maintaining work logs. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_fw9y6z7.png) -- 2025-09-05T10:01:57.485Z
 
 ---
 
