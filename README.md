@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Think, Plan and then let A.I. execute.
+
+Tell it how you think. Then it will teach you how to think better.
+
+
+This helps tackle some [*"frustrations"* I've encountered](https://x.com/TnvMadhav/status/1948732227786821928) in the past.
+  -- 2025-09-05T13:42:57.587Z
+
+---
+
 I've been a fan of Founder's podcast ever since my first listen.
 
 I think it's all in the delivery, where repetitions and redundancy helps a lot in keeping things in context.
@@ -84,12 +94,6 @@ full reference on jason’s hey blog: https://world.hey.com/jason/the-difference
 ---
 
 It works well to not give 3rd party algorithms root access of your brain.  -- 2025-09-01T12:30:02.933Z
-
----
-
-I came across a low-key diabolical quote:
-
-> "Hard work may pay off in the end, but procrastination pays off now." ~ Neil Fraser  -- 2025-09-01T11:51:42.427Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
