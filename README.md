@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I have always used the voice dictation feature on the iPhone cuz I dislike typing on the phone, but I've never thought of enabling it on my MacBook. 
+
+Well one can easily guess how it feels now that I've enabled that feature.
+
+What blew my mind is that it works even with neovim text editor (decently enough).
+
+This is best for journaling and maintaining work logs.  -- 2025-09-05T09:40:55.269Z
+
+---
+
 > “….starting to use Postgres now after 12 years of scaling fine with SQLite!”
 
 
@@ -71,10 +81,6 @@ I came across a low-key diabolical quote:
 ---
 
 What is the loss function you’re optimizing for in this day and age, fellow traveller?  -- 2025-08-31T06:30:02.890Z
-
----
-
-Perhaps the meaning of life is just to minimize context-switch per scroll function in the roaring twenties.  -- 2025-08-30T13:52:49.223Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
