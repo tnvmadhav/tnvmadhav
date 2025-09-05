@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I've been a fan of Founder's podcast ever since my first listen.
+
+I think it's all in the delivery, where repetitions and redundancy helps a lot in keeping things in context.
+
+The latest episode on Elon Musk was really inspiring. It must've been hard to make but the end result are worth listening to many many times.
+
+Kudos to David Senra 👏🏻 for keeping the quality top-tier.
+
+
+You can listen to ['How Elon Works' episode on *Apple Podcasts*](https://podcasts.apple.com/in/podcast/founders/id1141877104?i=1000723471754)  -- 2025-09-05T10:54:14.861Z
+
+---
+
 I have always used the voice dictation feature on the iPhone cuz I dislike typing on the phone, but I've never thought of enabling it on my MacBook. 
 
 Well one can easily guess how it feels now that I've enabled that feature.
@@ -77,10 +90,6 @@ It works well to not give 3rd party algorithms root access of your brain.  -- 20
 I came across a low-key diabolical quote:
 
 > "Hard work may pay off in the end, but procrastination pays off now." ~ Neil Fraser  -- 2025-09-01T11:51:42.427Z
-
----
-
-What is the loss function you’re optimizing for in this day and age, fellow traveller?  -- 2025-08-31T06:30:02.890Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
