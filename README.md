@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Try to optimize for lowering context switching per scroll action.
+
+
+this was intended to be a note to self, but also… -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_PcIZseU.jpeg) -- 2025-09-05T14:00:33.906Z
+
+---
+
 Think, Plan and then let A.I. execute.
 
 Tell it how you think. Then it will teach you how to think better.
@@ -90,10 +97,6 @@ They maybe two different dimensions but they’re definitely intertwined like Sp
 
 
 full reference on jason’s hey blog: https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb  -- 2025-09-02T06:30:05.514Z
-
----
-
-It works well to not give 3rd party algorithms root access of your brain.  -- 2025-09-01T12:30:02.933Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
