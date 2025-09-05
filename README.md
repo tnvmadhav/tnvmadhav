@@ -1,20 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Try to optimize for lowering context switching per scroll action.
-
-
-this was intended to be a note to self, but also… -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_PcIZseU.jpeg) -- 2025-09-05T14:00:33.906Z
-
----
-
 Think, Plan and then let A.I. execute.
 
 Tell it how you think. Then it will teach you how to think better.
 
 
 This helps tackle some [*"frustrations"* I've encountered](https://x.com/TnvMadhav/status/1948732227786821928) in the past.
-  -- 2025-09-05T13:42:57.587Z
+  -- 2025-09-05T17:30:05.445Z
+
+---
+
+Try to optimize for lowering context switching per scroll action.
+
+
+this was intended to be a note to self, but also… -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_PcIZseU.jpeg) -- 2025-09-05T14:00:33.906Z
 
 ---
 
