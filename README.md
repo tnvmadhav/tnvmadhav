@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+All the world's problems because you couldn't load production scale data in your local and test the true performance.  -- 2025-09-07T12:16:27.774Z
+
+---
+
 Think, Plan and then let A.I. execute.
 
 Tell it how you think. Then it will teach you how to think better.
@@ -82,21 +86,6 @@ although, I'd prefer to not use such keyboard shortcuts because it could get dra
 The sooner you test ideas, the more time you waste holding on to it before you realise it wasn't the best of the ideas.
 
 The best ideas come with a significant volume of lame or laughable ones.  -- 2025-09-02T06:30:07.998Z
-
----
-
-Some interesting quotes:
-
-> My mind fills up with a few key projects and that’s it. I’m absorbed by those. That’s where my attention is.
-
-If your mind isn’t filled with 2-3 key projects where you can riff your attention towards new things every day, then you’re doing something wrong.
-
-> Time and attention aren’t the same thing. They're barely related.
-
-They maybe two different dimensions but they’re definitely intertwined like Space-Time & Electro-Magnetic waves etc.
-
-
-full reference on jason’s hey blog: https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb  -- 2025-09-02T06:30:05.514Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
