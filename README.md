@@ -3,7 +3,7 @@
 <!-- feed starts -->
 I was today years old when I learned that Atom and R.S.S. feeds aren't really the same thing.
 
-[*Here's what I learned*](https://bagel.ink/c/sBt5Mx)  -- 2025-09-08T13:35:45.822Z
+[*Here's what I learned*](https://bagel.ink/c/sBt5Mx)  -- 2025-09-08T17:30:02.743Z
 
 ---
 
