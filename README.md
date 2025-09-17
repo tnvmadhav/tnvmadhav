@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Listening to the ‘tenet’ album while driving to work and I’m not going to tell you if it’s a good or a bad idea (I think you already know)  -- 2025-09-17T05:17:11.747Z
+
+---
+
 I was today years old when I learned that Atom and R.S.S. feeds aren't really the same thing.
 
 [*Here's what I learned*](https://bagel.ink/c/sBt5Mx)  -- 2025-09-08T17:30:02.743Z
@@ -76,16 +80,6 @@ pewd's here might've thought "it's a small thing, lemme just make a GitHub accou
 
 
 and yes, here's a link [Pewd's GitHub account](https://github.com/pewdiepie-archdaemon) btw. Be kind :P -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/Gzz_4sCawAAlQ87.jpeg) -- 2025-09-02T13:31:12.628Z
-
----
-
-Today, I learned that you can format SQL statements in Postico 2 without worrying too much. There is an in-built feature in the query editor that allows you to do so.
-
-Just select the SQL query, you want to format and right-click and choose `Format SQL statement` option.
-
-Alternatively, we could also choose the statement and hit control F.
-
-although, I'd prefer to not use such keyboard shortcuts because it could get dramatically problematic by bringing muscle memory to all this.  -- 2025-09-02T10:03:01.222Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
