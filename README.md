@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+An A.I. Agent is an L.L.M. call inside a for loop with a definite end state/goal. Basically a state machine.
+
+An A.G.I. is a long running process (perhaps a daemon even) with access to disk based memory, a callback and trigger point for agentic invocation.
+
+Inspired by note from @simonw: https://simonwillison.net/2025/Sep/18/agents/
+  -- 2025-09-20T09:39:24.421Z
+
+---
+
 Listening to the ‘tenet’ album while driving to work and I’m not going to tell you if it’s a good or a bad idea (I think you already know)  -- 2025-09-17T05:17:11.747Z
 
 ---
@@ -69,17 +78,6 @@ This is definitely something to think about by zooming out. However, one must be
 
 
 You can checkout the original post by [Uncle Bob *on x dot com*](https://x.com/unclebobmartin/status/1962627912471097590).  -- 2025-09-02T13:38:35.697Z
-
----
-
-### we're soo back!
-
-> "Huge day for 0.0005% of followers" ~ Pewdiepie
-
-pewd's here might've thought "it's a small thing, lemme just make a GitHub account and start pushing my files" but this could be a beginning of a beautiful (and sometimes unforgiving) rabbit-hole of things that bring joy to so many.
-
-
-and yes, here's a link [Pewd's GitHub account](https://github.com/pewdiepie-archdaemon) btw. Be kind :P -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/Gzz_4sCawAAlQ87.jpeg) -- 2025-09-02T13:31:12.628Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
