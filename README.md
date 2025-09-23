@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I think technology has transformed humans to edge nodes unintentionally (Nth Order Effect)  -- 2025-09-23T03:14:59.314Z
+
+---
+
 An A.I. Agent is an L.L.M. call inside a for loop with a definite end state/goal. Basically a state machine.
 
 An A.G.I. is a long running process (perhaps a daemon even) with access to disk based memory, a callback and trigger point for agentic invocation.
@@ -68,16 +72,6 @@ This is best for journaling and maintaining work logs. -- [🏞️ Context #1](h
 
 
 full thread for context [from pieter levels on *x dot com*](https://x.com/levelsio/status/1963358597213204691/)  -- 2025-09-04T02:11:32.429Z
-
----
-
-> Many current programmers remember the Moore’s law curve. That was the period from the 70s through the 90s where clock rates and memory doubled every year or so. But that doubling stopped in 2005. Memory continued to get denser for a while, but even that has stopped. The current way that we increase computing power is by doubling the number of GPUs in server farms every year or so. But that can’t continue much longer. The power requirements, the space requirements, the capital requirements, and the sheer mass of it all, will exceed feasibility within a few more doublings.
-> So don’t expect AIs to continue to improve exponentially.  They’re headed for a brick wall, and that brick wall is not that far away.
-
-This is definitely something to think about by zooming out. However, one must be optimistic towards (and prepare for) new scaling laws towards A.S.I. and beyond.
-
-
-You can checkout the original post by [Uncle Bob *on x dot com*](https://x.com/unclebobmartin/status/1962627912471097590).  -- 2025-09-02T13:38:35.697Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
