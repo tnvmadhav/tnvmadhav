@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Getting fit isn’t rocket science but the execution requires rocket science level of determination and mindset:
+
+>1. 500-800 calories deficit
+>2. Minimum 150g protein
+>3. Lift full body 3x / week
+>4. 10K step a day, non-negotiable
+>
+> That's what we do inside our crew.
+
+
+source on [_x dot com_](https://x.com/rippedabroad/status/1970999820040143329?s=46)  -- 2025-09-25T05:15:56.132Z
+
+---
+
 I think technology has transformed humans to edge nodes unintentionally (Nth Order Effect)  -- 2025-09-23T03:14:59.314Z
 
 ---
@@ -65,13 +79,6 @@ Well one can easily guess how it feels now that I've enabled that feature.
 What blew my mind is that it works even with neovim text editor (decently enough).
 
 This is best for journaling and maintaining work logs. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_fw9y6z7.png) -- 2025-09-05T10:01:57.485Z
-
----
-
-> “….starting to use Postgres now after 12 years of scaling fine with SQLite!”
-
-
-full thread for context [from pieter levels on *x dot com*](https://x.com/levelsio/status/1963358597213204691/)  -- 2025-09-04T02:11:32.429Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
