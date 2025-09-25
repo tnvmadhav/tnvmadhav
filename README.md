@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> Sometimes I say things so profound that people that it’s stupid. 
+> And sometimes I say things so stupid that people thinks it’s profound.
+
+
+reference: https://twitter.com/twitter/status/1971120497267180008/  -- 2025-09-25T12:18:05.376Z
+
+---
+
 Getting fit isn’t rocket science but the execution requires rocket science level of determination and mindset:
 
 >1. 500-800 calories deficit
@@ -72,16 +80,6 @@ Kudos to David Senra 👏🏻 for keeping the quality top-tier.
 
 
 You can listen to ['How Elon Works' episode on *Apple Podcasts*](https://podcasts.apple.com/in/podcast/founders/id1141877104?i=1000723471754)  -- 2025-09-05T10:54:14.861Z
-
----
-
-I have always used the voice dictation feature on the iPhone cuz I dislike typing on the phone, but I've never thought of enabling it on my MacBook. 
-
-Well one can easily guess how it feels now that I've enabled that feature.
-
-What blew my mind is that it works even with neovim text editor (decently enough).
-
-This is best for journaling and maintaining work logs. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_fw9y6z7.png) -- 2025-09-05T10:01:57.485Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
