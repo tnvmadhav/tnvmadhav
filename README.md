@@ -11,7 +11,10 @@ Getting fit isn’t rocket science but the execution requires rocket science lev
 > That's what we do inside our crew.
 
 
-source on [_x dot com_](https://x.com/rippedabroad/status/1970999820040143329?s=46)  -- 2025-09-25T05:15:56.132Z
+source on [_x dot com_](https://x.com/rippedabroad/status/1970999820040143329?s=46)
+
+
+biggest hurdle is a significant dependency on motivation and dependency is tech-debt.  -- 2025-09-25T05:50:45.881Z
 
 ---
 
