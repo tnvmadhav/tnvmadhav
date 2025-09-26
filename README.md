@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+How you write, should it affect how you think?  -- 2025-09-26T15:08:40.588Z
+
+---
+
 > Sometimes I say things so profound that people that it’s stupid. 
 > And sometimes I say things so stupid that people thinks it’s profound.
 
@@ -67,19 +71,6 @@ Try to optimize for lowering context switching per scroll action.
 
 
 this was intended to be a note to self, but also… -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_PcIZseU.jpeg) -- 2025-09-05T14:00:33.906Z
-
----
-
-I've been a fan of Founder's podcast ever since my first listen.
-
-I think it's all in the delivery, where repetitions and redundancy helps a lot in keeping things in context.
-
-The latest episode on Elon Musk was really inspiring. It must've been hard to make but the end result are worth listening to many many times.
-
-Kudos to David Senra 👏🏻 for keeping the quality top-tier.
-
-
-You can listen to ['How Elon Works' episode on *Apple Podcasts*](https://podcasts.apple.com/in/podcast/founders/id1141877104?i=1000723471754)  -- 2025-09-05T10:54:14.861Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
