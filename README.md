@@ -1,6 +1,20 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Veritasium posted another all timer on their channel called  "Something Strange Happens When You Trace How Connected We Are"[^1]
+
+This piece helps answer some questions I've been pondering about for a while now. Really well made video. 
+
+👏 Kudos to Derek and the entire team! 
+
+Now, I need to go deeper into Network Sociology and Emergent Behaviours to get my answers.
+
+
+References:
+[^1]: [The full video available on Youtube](https://www.youtube.com/watch?v=CYlon2tvywA )  -- 2025-10-01T08:30:05.093Z
+
+---
+
 How you write, should it affect how you think?  -- 2025-09-26T15:08:40.588Z
 
 ---
@@ -64,13 +78,6 @@ Tell it how you think. Then it will teach you how to think better.
 
 This helps tackle some [*"frustrations"* I've encountered](https://x.com/TnvMadhav/status/1948732227786821928) in the past.
   -- 2025-09-05T17:30:05.445Z
-
----
-
-Try to optimize for lowering context switching per scroll action.
-
-
-this was intended to be a note to self, but also… -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_PcIZseU.jpeg) -- 2025-09-05T14:00:33.906Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
