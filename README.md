@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The type of person to make the jump without the rope.  -- 2025-10-03T12:30:02.796Z
+
+---
+
 Veritasium posted another all timer on their channel called  "Something Strange Happens When You Trace How Connected We Are"[^1]
 
 This piece helps answer some questions I've been pondering about for a while now. Really well made video. 
@@ -68,16 +72,6 @@ I was today years old when I learned that Atom and R.S.S. feeds aren't really th
 ---
 
 All the world's problems because you couldn't load production scale data in your local and test the true performance.  -- 2025-09-07T12:16:27.774Z
-
----
-
-Think, Plan and then let A.I. execute.
-
-Tell it how you think. Then it will teach you how to think better.
-
-
-This helps tackle some [*"frustrations"* I've encountered](https://x.com/TnvMadhav/status/1948732227786821928) in the past.
-  -- 2025-09-05T17:30:05.445Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
