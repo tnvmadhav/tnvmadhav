@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Start by copying and you end up with some new entirely. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_NAf4t3H.png) -- 2025-10-04T05:39:56.416Z
+
+---
+
 I fell into a rabbit hole on Twitter.
 
 I was scrolling and I found a footage of how the maker of prince of persia rotoscoped VHS recording of his younger brother into the game
@@ -103,15 +107,6 @@ biggest hurdle is a significant dependency on motivation and dependency is tech-
 ---
 
 I think technology has transformed humans to edge nodes unintentionally (Nth Order Effect)  -- 2025-09-23T03:14:59.314Z
-
----
-
-An A.I. Agent is an L.L.M. call inside a for loop with a definite end state/goal. Basically a state machine.
-
-An A.G.I. is a long running process (perhaps a daemon even) with access to disk based memory, a callback and trigger point for agentic invocation.
-
-Inspired by note from @simonw: https://simonwillison.net/2025/Sep/18/agents/
-  -- 2025-09-20T09:39:24.421Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
