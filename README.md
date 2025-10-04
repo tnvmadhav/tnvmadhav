@@ -1,6 +1,28 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I fell into a rabbit hole on Twitter.
+
+I was scrolling and I found a footage of how the maker of prince of persia rotoscoped VHS recording of his younger brother into the game
+mechanics.[^1]
+
+I then found a link to a behind the Scenes sort of thing in retrospect[^2]
+
+> "Your initial vision is just the first draft. You discover things along the way"
+
+The designer Jordan kept a journal ( a log if you will) on every piece of inspiration or idea that he got from either media (or) just general feedback that his colleagues and friends gave while he was showing it to them.
+
+> "Whenever you are faced with two choices, through two voices, ask youself, which one speaks towards the overall picture" ~ paraphrased version
+
+
+Reference:
+
+[^1]: [Making of the 1989 video game "Prince of Persia". Designer Jordan Mechner used rotoscoping to animate the movements of the game's characters](https://x.com/ComputerLove_/status/1973950992233140300)
+
+[^2]: [Excerpt from The making of Prince of Persia by Jordan Mechner | War Stories](https://www.youtube.com/watch?v=sw0VfmXKq54)  -- 2025-10-04T05:19:46.410Z
+
+---
+
 ### Excerpts from Signal’s post in response to E.U.’s Chat Control Policy Proposal[^1]
 
 > We are alarmed by reports that Germany is on the verge of a catastrophic about-face, reversing its longstanding and principled
@@ -90,10 +112,6 @@ An A.G.I. is a long running process (perhaps a daemon even) with access to disk 
 
 Inspired by note from @simonw: https://simonwillison.net/2025/Sep/18/agents/
   -- 2025-09-20T09:39:24.421Z
-
----
-
-Listening to the ‘tenet’ album while driving to work and I’m not going to tell you if it’s a good or a bad idea (I think you already know)  -- 2025-09-17T05:17:11.747Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
