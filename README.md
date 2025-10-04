@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+One doesn’t simply get handed fast feedback loops off the bat. 
+
+They have to build one for themselves.  -- 2025-10-04T06:30:02.888Z
+
+---
+
 Start by copying and you end up with some new entirely. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_NAf4t3H.png) -- 2025-10-04T05:39:56.416Z
 
 ---
@@ -50,12 +56,6 @@ References:
 [^1]: [For a future with privacy, post by Signal](https://signal.org/blog/pdfs/germany-chat-control.pdf)
 
 [^2]: [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/pdf/2110.07450)  -- 2025-10-04T02:40:15.003Z
-
----
-
-One doesn’t simply get handed fast feedback loops off the bat. 
-
-They have to build one for themselves.  -- 2025-10-04T01:30:10.190Z
 
 ---
 
