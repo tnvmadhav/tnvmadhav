@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+One doesn’t simply get handed fast feedback loops off the bat. 
+
+They have to build one for themselves.  -- 2025-10-04T01:30:10.190Z
+
+---
+
 The type of person to make the jump without the rope.  -- 2025-10-03T12:30:02.796Z
 
 ---
@@ -68,10 +74,6 @@ Listening to the ‘tenet’ album while driving to work and I’m not going to 
 I was today years old when I learned that Atom and R.S.S. feeds aren't really the same thing.
 
 [*Here's what I learned*](https://bagel.ink/c/sBt5Mx)  -- 2025-09-08T17:30:02.743Z
-
----
-
-All the world's problems because you couldn't load production scale data in your local and test the true performance.  -- 2025-09-07T12:16:27.774Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
