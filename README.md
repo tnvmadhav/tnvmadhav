@@ -1,6 +1,32 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+### Excerpts from Signal’s post in response to E.U.’s Chat Control Policy Proposal[^1]
+
+> We are alarmed by reports that Germany is on the verge of a catastrophic about-face, reversing its longstanding and principled
+opposition to the EU’s Chat Control proposal.
+
+> Under the guise of protecting children, the latest Chat Control proposals would require mass scanning of every message, photo,
+and video on a person’s device, assessing these via a government-mandated database or AI model to determine whether they are permissible content or not.
+
+> These proposals ignore the strategic importance of private communications, and the longstanding technical consensus that you cannot create a backdoor that only lets the “good guys” in. 
+
+Signal shares a research paper on the dangers of client side scanning[^2]
+
+> we were given a choice between building a surveillance machine into Signal or leaving the
+market, we would leave the market.
+
+> We urge Germany to be wise and to stand firm in its principles. We cannot let history repeat itself, this
+time with bigger databases and much much more sensitive data.
+
+References:
+
+[^1]: [For a future with privacy, post by Signal](https://signal.org/blog/pdfs/germany-chat-control.pdf)
+
+[^2]: [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/pdf/2110.07450)  -- 2025-10-04T02:40:15.003Z
+
+---
+
 One doesn’t simply get handed fast feedback loops off the bat. 
 
 They have to build one for themselves.  -- 2025-10-04T01:30:10.190Z
@@ -68,12 +94,6 @@ Inspired by note from @simonw: https://simonwillison.net/2025/Sep/18/agents/
 ---
 
 Listening to the ‘tenet’ album while driving to work and I’m not going to tell you if it’s a good or a bad idea (I think you already know)  -- 2025-09-17T05:17:11.747Z
-
----
-
-I was today years old when I learned that Atom and R.S.S. feeds aren't really the same thing.
-
-[*Here's what I learned*](https://bagel.ink/c/sBt5Mx)  -- 2025-09-08T17:30:02.743Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
