@@ -1,6 +1,25 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> Imo what makes Cursor great is using it as an additional tool vs a replacement - it’s rare you will one shot anything, that you can efficiently have an agent write all of the code for you
+> 
+> Things like typeahead or using the agent to do boilerplate generations is key
+
+Typing manually is layer 1 and boilerplate generation is the prime subject to building additional layers.
+
+Code generation tools are just a convenience layer to help when we’re constrained on resources like time, brain power etc.
+
+Code generation can be used to automate testing boilerplate and test case transcription. 
+
+The test cases themselves could ideally be handwritten or designed to keep the context in the operators’ flow states.
+
+https://x.com/zeeg/status/1976026560374485419?s=46
+
+
+I really like terry tao’s take on red team vs blue team and how llms can be used effectively as red team agents.  -- 2025-10-09T11:51:40.685Z
+
+---
+
 # TIL How to open any file in browser from the terminal
 
 I always knew we could open any file in the browser on my Mac but I didn't know how.
@@ -116,23 +135,6 @@ How you write, should it affect how you think?  -- 2025-09-26T15:08:40.588Z
 
 
 reference: https://twitter.com/twitter/status/1971120497267180008/  -- 2025-09-25T12:18:05.376Z
-
----
-
-Getting fit isn’t rocket science but the execution requires rocket science level of determination and mindset:
-
->1. 500-800 calories deficit
->2. Minimum 150g protein
->3. Lift full body 3x / week
->4. 10K step a day, non-negotiable
->
-> That's what we do inside our crew.
-
-
-source on [_x dot com_](https://x.com/rippedabroad/status/1970999820040143329?s=46)
-
-
-biggest hurdle is a significant dependency on motivation and dependency is tech-debt.  -- 2025-09-25T05:50:45.881Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
