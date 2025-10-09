@@ -181,6 +181,8 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 ## Latest TILs
 
 <!-- til starts -->
+[How to Open a File in Browser From Terminal?](https://tnvmadhav.me/til/how-to-open-a-file-in-browser-from-terminal/) -- 2025-10-09T07:46:17+00:00
+
 [Rosetta 2: Apple's Temporary Fix](https://tnvmadhav.me/til/rosetta-2/) -- 2025-06-22T08:16:35+00:00
 
 [Http Archiving -- Capturing a moment in time](https://tnvmadhav.me/til/http-archiving/) -- 2025-02-23T09:43:37+00:00
@@ -188,8 +190,6 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 [V.S. Code Has a Simple Browser](https://tnvmadhav.me/til/vscode-has-a-simple-browser/) -- 2025-02-22T09:15:32+00:00
 
 [About SSH Host Key Verification](https://tnvmadhav.me/til/ssh-host-key-verification/) -- 2024-09-12T15:11:31+00:00
-
-[Network Address Types in Postgres](https://tnvmadhav.me/til/network-address-types-in-postgres/) -- 2024-09-10T04:03:27+00:00
 
 More on [My TILS](https://tnvmadhav.me/til/)
 <!-- til ends -->
