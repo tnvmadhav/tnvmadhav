@@ -3,7 +3,7 @@
 <!-- feed starts -->
 # TIL How to open any file in browser from the terminal
 
-I always new we could open any file in the browser on my Mac but I didn't know how.
+I always knew we could open any file in the browser on my Mac but I didn't know how.
 Today I did and it's super simple.
 
 > open -a Safari notes.txt
@@ -27,7 +27,7 @@ The existing solution is to use Visual Studio Code. with the inbuilt preview mar
 Command + Shift + V to preview the existing markdown file. It's great for most use-cases. 
 
 If you need a simpler setup, one can use Neovim plugins. They are generally faster than electron app based
-solutions (not that it matters a lot but the inner purists in use can  disagree).   -- 2025-10-09T06:34:20.428Z
+solutions (not that it matters a lot but the inner purists in use can  disagree).   -- 2025-10-09T07:54:47.495Z
 
 ---
 
