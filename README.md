@@ -1,6 +1,36 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+# TIL How to open any file in browser from the terminal
+
+I always new we could open any file in the browser on my Mac but I didn't know how.
+Today I did and it's super simple.
+
+> open -a Safari notes.txt
+
+It's the same for any file. Here's an example of a markdown file:
+
+> open -a Safari notes.md
+
+
+## Side note
+This knowledge opens a way to better deal with situations in real life. Like,
+if we have a markdown previewer extension on the browser of our choice, then
+it's super useful during demos and presentations where we can keep the text  editor and 
+preview windows decoupled from each other.
+
+Ideally, we don't want to have two applications but have a single app showing
+editing and previewing mode.
+
+## Visual Studio Code is a great alternative
+The existing solution is to use Visual Studio Code. with the inbuilt preview markdown  feature. 
+Command + Shift + V to preview the existing markdown file. It's great for most use-cases. 
+
+If you need a simpler setup, one can use Neovim plugins. They are generally faster than electron app based
+solutions (not that it matters a lot but the inner purists in use can  disagree).   -- 2025-10-09T06:34:20.428Z
+
+---
+
 One doesn’t simply get handed fast feedback loops off the bat. 
 
 They have to build one for themselves.  -- 2025-10-04T06:30:02.888Z
@@ -103,10 +133,6 @@ source on [_x dot com_](https://x.com/rippedabroad/status/1970999820040143329?s=
 
 
 biggest hurdle is a significant dependency on motivation and dependency is tech-debt.  -- 2025-09-25T05:50:45.881Z
-
----
-
-I think technology has transformed humans to edge nodes unintentionally (Nth Order Effect)  -- 2025-09-23T03:14:59.314Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
