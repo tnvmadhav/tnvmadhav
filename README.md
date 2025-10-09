@@ -16,7 +16,7 @@ The test cases themselves could ideally be handwritten or designed to keep the c
 https://x.com/zeeg/status/1976026560374485419?s=46
 
 
-I really like terry tao’s take on red team vs blue team and how llms can be used effectively as red team agents.  -- 2025-10-09T11:51:40.685Z
+I really like terry tao’s take on red team vs blue team and how llms can be used effectively as red team agents.  -- 2025-10-09T12:30:05.408Z
 
 ---
 
