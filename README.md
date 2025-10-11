@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I don’t particularly like resource content irl  -- 2025-10-11T09:40:37.804Z
+
+---
+
 > Imo what makes Cursor great is using it as an additional tool vs a replacement - it’s rare you will one shot anything, that you can efficiently have an agent write all of the code for you
 > 
 > Things like typeahead or using the agent to do boilerplate generations is key
@@ -127,14 +131,6 @@ References:
 ---
 
 How you write, should it affect how you think?  -- 2025-09-26T15:08:40.588Z
-
----
-
-> Sometimes I say things so profound that people that it’s stupid. 
-> And sometimes I say things so stupid that people thinks it’s profound.
-
-
-reference: https://twitter.com/twitter/status/1971120497267180008/  -- 2025-09-25T12:18:05.376Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
