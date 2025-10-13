@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Manifesting cost control with abundance mindset.  -- 2025-10-13T02:51:08.529Z
+
+---
+
 I don’t particularly like resource content irl  -- 2025-10-11T09:40:37.804Z
 
 ---
@@ -127,10 +131,6 @@ Now, I need to go deeper into Network Sociology and Emergent Behaviours to get m
 
 References:
 [^1]: [The full video available on Youtube](https://www.youtube.com/watch?v=CYlon2tvywA )  -- 2025-10-01T08:30:05.093Z
-
----
-
-How you write, should it affect how you think?  -- 2025-09-26T15:08:40.588Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
