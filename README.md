@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Shipping with assertion turned on, should ideally be done from the projects' inception and not when project is already being used by customers.
+
+The point I'm trying to make is that if you and you're team are still working on fast iteration cycles and aren't there yet, you can slowly adapt to using asserts in production code, and not all at once.
+
+
+Turning asserts on in production codebase is definitely a way to help team build fast iteration cycles in terms of Nth order effects.
+
+They learn (or) you go belly up. You choose. It's a do or die thing.  -- 2025-10-17T08:50:20.963Z
+
+---
+
 Manifesting cost control with abundance mindset.  -- 2025-10-13T06:30:02.695Z
 
 ---
@@ -117,20 +128,6 @@ References:
 ---
 
 The type of person to make the jump without the rope.  -- 2025-10-03T12:30:02.796Z
-
----
-
-Veritasium posted another all timer on their channel called  "Something Strange Happens When You Trace How Connected We Are"[^1]
-
-This piece helps answer some questions I've been pondering about for a while now. Really well made video. 
-
-👏 Kudos to Derek and the entire team! 
-
-Now, I need to go deeper into Network Sociology and Emergent Behaviours to get my answers.
-
-
-References:
-[^1]: [The full video available on Youtube](https://www.youtube.com/watch?v=CYlon2tvywA )  -- 2025-10-01T08:30:05.093Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
