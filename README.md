@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> “… It's to my detriment because sometimes my speaking thread out-executes my thinking thread”
+
+I too speak faster than I think and this is similar to explanation I give to my peers 😂😭😭
+
+https://x.com/karpathy/status/1979644538185752935?s=46  -- 2025-10-19T01:33:31.533Z
+
+---
+
 Shipping with assertion turned on, should ideally be done from the projects' inception and not when project is already being used by customers.
 
 The point I'm trying to make is that if you and you're team are still working on fast iteration cycles and aren't there yet, you can slowly adapt to using asserts in production code, and not all at once.
@@ -124,10 +132,6 @@ References:
 [^1]: [For a future with privacy, post by Signal](https://signal.org/blog/pdfs/germany-chat-control.pdf)
 
 [^2]: [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/pdf/2110.07450)  -- 2025-10-04T02:40:15.003Z
-
----
-
-The type of person to make the jump without the rope.  -- 2025-10-03T12:30:02.796Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
