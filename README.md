@@ -5,7 +5,7 @@
 
 I too speak faster than I think and this is similar to explanation I give to my peers 😂😭😭
 
-https://x.com/karpathy/status/1979644538185752935?s=46  -- 2025-10-19T01:33:31.533Z
+https://x.com/karpathy/status/1979644538185752935?s=46  -- 2025-10-19T06:30:02.784Z
 
 ---
 
