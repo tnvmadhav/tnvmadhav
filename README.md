@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today I learned that the generic function with multiple implementations based on the types of the a single arguments are called as single dispatch functions.
+
+I'm dropping a reference to the mention on [__*the official python 3 documentation*__](https://docs.python.org/3/glossary.html#term-single-dispatch)  -- 2025-10-20T04:40:13.342Z
+
+---
+
 I don’t particularly like resource contention irl  -- 2025-10-20T02:07:28.743Z
 
 ---
@@ -88,28 +94,6 @@ They have to build one for themselves.  -- 2025-10-04T06:30:02.888Z
 ---
 
 Start by copying and you end up with some new entirely. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_NAf4t3H.png) -- 2025-10-04T05:39:56.416Z
-
----
-
-I fell into a rabbit hole on Twitter.
-
-I was scrolling and I found a footage of how the maker of prince of persia rotoscoped VHS recording of his younger brother into the game
-mechanics.[^1]
-
-I then found a link to a behind the Scenes sort of thing in retrospect[^2]
-
-> "Your initial vision is just the first draft. You discover things along the way"
-
-The designer Jordan kept a journal ( a log if you will) on every piece of inspiration or idea that he got from either media (or) just general feedback that his colleagues and friends gave while he was showing it to them.
-
-> "Whenever you are faced with two choices, through two voices, ask youself, which one speaks towards the overall picture" ~ paraphrased version
-
-
-Reference:
-
-[^1]: [Making of the 1989 video game "Prince of Persia". Designer Jordan Mechner used rotoscoping to animate the movements of the game's characters](https://x.com/ComputerLove_/status/1973950992233140300)
-
-[^2]: [Excerpt from The making of Prince of Persia by Jordan Mechner | War Stories](https://www.youtube.com/watch?v=sw0VfmXKq54)  -- 2025-10-04T05:19:46.410Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
@@ -158,6 +142,8 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 ## Latest TILs
 
 <!-- til starts -->
+[Single Dispatch Functions](https://tnvmadhav.me/til/single-dispatch-functions/) -- 2025-10-20T04:23:01+00:00
+
 [How to Open a File in Browser From Terminal?](https://tnvmadhav.me/til/how-to-open-a-file-in-browser-from-terminal/) -- 2025-10-09T07:46:17+00:00
 
 [Rosetta 2: Apple's Temporary Fix](https://tnvmadhav.me/til/rosetta-2/) -- 2025-06-22T08:16:35+00:00
@@ -165,8 +151,6 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 [Http Archiving -- Capturing a moment in time](https://tnvmadhav.me/til/http-archiving/) -- 2025-02-23T09:43:37+00:00
 
 [V.S. Code Has a Simple Browser](https://tnvmadhav.me/til/vscode-has-a-simple-browser/) -- 2025-02-22T09:15:32+00:00
-
-[About SSH Host Key Verification](https://tnvmadhav.me/til/ssh-host-key-verification/) -- 2024-09-12T15:11:31+00:00
 
 More on [My TILS](https://tnvmadhav.me/til/)
 <!-- til ends -->
