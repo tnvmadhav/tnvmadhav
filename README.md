@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I don’t particularly like resource contention irl  -- 2025-10-20T02:07:28.743Z
+
+---
+
+I found Guido Van Rossum casually answering python queries on X -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_DcWYqae.png) -- 2025-10-20T02:06:15.205Z
+
+---
+
 > “… It's to my detriment because sometimes my speaking thread out-executes my thinking thread”
 
 I too speak faster than I think and this is similar to explanation I give to my peers 😂😭😭
@@ -21,10 +29,6 @@ They learn (or) you go belly up. You choose. It's a do or die thing.  -- 2025-10
 ---
 
 Manifesting cost control with abundance mindset.  -- 2025-10-13T06:30:02.695Z
-
----
-
-I don’t particularly like resource content irl  -- 2025-10-11T09:40:37.804Z
 
 ---
 
@@ -106,32 +110,6 @@ Reference:
 [^1]: [Making of the 1989 video game "Prince of Persia". Designer Jordan Mechner used rotoscoping to animate the movements of the game's characters](https://x.com/ComputerLove_/status/1973950992233140300)
 
 [^2]: [Excerpt from The making of Prince of Persia by Jordan Mechner | War Stories](https://www.youtube.com/watch?v=sw0VfmXKq54)  -- 2025-10-04T05:19:46.410Z
-
----
-
-### Excerpts from Signal’s post in response to E.U.’s Chat Control Policy Proposal[^1]
-
-> We are alarmed by reports that Germany is on the verge of a catastrophic about-face, reversing its longstanding and principled
-opposition to the EU’s Chat Control proposal.
-
-> Under the guise of protecting children, the latest Chat Control proposals would require mass scanning of every message, photo,
-and video on a person’s device, assessing these via a government-mandated database or AI model to determine whether they are permissible content or not.
-
-> These proposals ignore the strategic importance of private communications, and the longstanding technical consensus that you cannot create a backdoor that only lets the “good guys” in. 
-
-Signal shares a research paper on the dangers of client side scanning[^2]
-
-> we were given a choice between building a surveillance machine into Signal or leaving the
-market, we would leave the market.
-
-> We urge Germany to be wise and to stand firm in its principles. We cannot let history repeat itself, this
-time with bigger databases and much much more sensitive data.
-
-References:
-
-[^1]: [For a future with privacy, post by Signal](https://signal.org/blog/pdfs/germany-chat-control.pdf)
-
-[^2]: [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/pdf/2110.07450)  -- 2025-10-04T02:40:15.003Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
