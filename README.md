@@ -9,7 +9,7 @@ If google chooses to participate, then it’s over. Google chrome has a large ma
 
 Prompt injections cannot be stopped until something novels comes about. but for time being it’s not looking good for google (in near term atleast). happy to be wrong about it. 
 
-i'm referencing a post that can be found here: https://x.com/daniellockyer/status/1980895459670634933?s=12  -- 2025-10-22T11:16:07.542Z
+i'm referencing a post that can be found here: https://x.com/daniellockyer/status/1980895459670634933?s=12  -- 2025-10-22T13:25:10.993Z
 
 ---
 
