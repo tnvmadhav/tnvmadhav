@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+DHH on freedom and software:
+
+> Omarchy, Rails, Kamal, Hotwire, and all the rest of it doesn't have to return anything on the investment beyond the joy of building something awesome and sharing it.
+
+> I have no interest in commercializing any of this.
+
+i'm referencing a post that can be found [here](https://x.com/dhh/status/1980706817073434760).  -- 2025-10-22T03:27:12.367Z
+
+---
+
 Today I learned that the generic function with multiple implementations based on the types of the a single arguments are called as single dispatch functions.
 
 I'm dropping a reference to the mention on [__*the official python 3 documentation*__](https://docs.python.org/3/glossary.html#term-single-dispatch)  -- 2025-10-20T04:40:13.342Z
@@ -90,10 +100,6 @@ solutions (not that it matters a lot but the inner purists in use can  disagree)
 One doesn’t simply get handed fast feedback loops off the bat. 
 
 They have to build one for themselves.  -- 2025-10-04T06:30:02.888Z
-
----
-
-Start by copying and you end up with some new entirely. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_NAf4t3H.png) -- 2025-10-04T05:39:56.416Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
