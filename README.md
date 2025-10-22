@@ -1,6 +1,42 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+You must’ve heard the “why is my washing machine sending soo much data to cloud?” joke from a few years ago.
+
+Well, now replace ‘washing machine’ with ‘bed’
+
+[Quoting Michael Zimmermann](https://x.com/zimm3rmann/status/1980491408948572167?s=46)
+
+> Is 16+gb/mo a normal amount of telemetry? Can you not do any local compute of “get hot” or “get cold” with a multi core processor and multiple gigabytes of memory? Can’t just repeat the previous nights settings? 
+> 
+> It’s bad enough that you slapped a $ 200/yr subscription on things, worse that it doesn’t work at all without internet.
+
+
+This whole thing came to light after many instances of EightSleep mattresses (pods) stopped functioning due to an AWS outage (which is hilarious and horrific at the same time).
+
+This reminds me of a joke (and a truth):
+
+> If you want to know how dependent something is to the world, turn it off
+ 
+A single high-value region on AWS went down recently and several external entities were disrupted and EightSleep pods were one of them.
+
+EightSleep is fine but anything else that’s very critical is not. 
+
+This global incident should be a wake up call for dependent services to plan and support failovers. For consumer products to support offline mode. (either ways for a temp controlled bed to depend on cloud to function normally is ridiculous to a layman).
+
+i'm referencing a post that can be found [here](https://x.com/m_franceschetti/status/1980419272766583262?s=12).
+
+
+I tried to make a joke on [x dot com](https://x.com/tnvmadhav/status/1980853076312633665?s=46)  -- 2025-10-22T04:28:05.994Z
+
+---
+
+feature, not a bug
+
+All on-call engineers should be hooked up to @eightsleep pods whose functioning is dependent on current uptime of the services they are up-keeping :)  -- 2025-10-22T04:25:52.737Z
+
+---
+
 DHH on freedom and software:
 
 > Omarchy, Rails, Kamal, Hotwire, and all the rest of it doesn't have to return anything on the investment beyond the joy of building something awesome and sharing it.
@@ -64,42 +100,6 @@ https://x.com/zeeg/status/1976026560374485419?s=46
 
 
 I really like terry tao’s take on red team vs blue team and how llms can be used effectively as red team agents.  -- 2025-10-09T12:30:05.408Z
-
----
-
-# TIL How to open any file in browser from the terminal
-
-I always knew we could open any file in the browser on my Mac but I didn't know how.
-Today I did and it's super simple.
-
-> open -a Safari notes.txt
-
-It's the same for any file. Here's an example of a markdown file:
-
-> open -a Safari notes.md
-
-
-## Side note
-This knowledge opens a way to better deal with situations in real life. Like,
-if we have a markdown previewer extension on the browser of our choice, then
-it's super useful during demos and presentations where we can keep the text  editor and 
-preview windows decoupled from each other.
-
-Ideally, we don't want to have two applications but have a single app showing
-editing and previewing mode.
-
-## Visual Studio Code is a great alternative
-The existing solution is to use Visual Studio Code. with the inbuilt preview markdown  feature. 
-Command + Shift + V to preview the existing markdown file. It's great for most use-cases. 
-
-If you need a simpler setup, one can use Neovim plugins. They are generally faster than electron app based
-solutions (not that it matters a lot but the inner purists in use can  disagree).   -- 2025-10-09T07:54:47.495Z
-
----
-
-One doesn’t simply get handed fast feedback loops off the bat. 
-
-They have to build one for themselves.  -- 2025-10-04T06:30:02.888Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
