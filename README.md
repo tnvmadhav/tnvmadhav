@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The browser wars have officially begun and whoever participates is forced to improve the agentic flows and there would be (IMO) a local maxima beyond which prompt injection becomes a catastrophic vector.
+
+If google chooses to not participate, a significant portion of people can choose to migrate off google chrome and google might lose a significant chunk of market share or something idk… only until things go belly up when really bad prompt injection events come to light 
+
+If google chooses to participate, then it’s over. Google chrome has a large market share and this means google will also be cornered into the aforementioned local maxima until damage is already done to small % of affected users. small % but large absolute number.
+
+Prompt injections cannot be stopped until something novels comes about. but for time being it’s not looking good for google (in near term atleast). happy to be wrong about it. 
+
+i'm referencing a post that can be found here: https://x.com/daniellockyer/status/1980895459670634933?s=12  -- 2025-10-22T11:16:07.542Z
+
+---
+
 You must’ve heard the “why is my washing machine sending soo much data to cloud?” joke from a few years ago.
 
 Well, now replace ‘washing machine’ with ‘bed’
@@ -81,25 +93,6 @@ They learn (or) you go belly up. You choose. It's a do or die thing.  -- 2025-10
 ---
 
 Manifesting cost control with abundance mindset.  -- 2025-10-13T06:30:02.695Z
-
----
-
-> Imo what makes Cursor great is using it as an additional tool vs a replacement - it’s rare you will one shot anything, that you can efficiently have an agent write all of the code for you
-> 
-> Things like typeahead or using the agent to do boilerplate generations is key
-
-Typing manually is layer 1 and boilerplate generation is the prime subject to building additional layers.
-
-Code generation tools are just a convenience layer to help when we’re constrained on resources like time, brain power etc.
-
-Code generation can be used to automate testing boilerplate and test case transcription. 
-
-The test cases themselves could ideally be handwritten or designed to keep the context in the operators’ flow states.
-
-https://x.com/zeeg/status/1976026560374485419?s=46
-
-
-I really like terry tao’s take on red team vs blue team and how llms can be used effectively as red team agents.  -- 2025-10-09T12:30:05.408Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
