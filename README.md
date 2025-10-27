@@ -1,6 +1,19 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The “making it” for variety of things have different time frames.
+
+>  “Fake it until you make it” is often dismissed as shallow, but it’s closer to Franklin’s truth. Faking it long enough is making it. The repetition of behavior, not the sincerity of belief, is what shapes character.
+
+The time frame is dependent on how aligned your honest self is to your phony self[^1]
+
+i'm referencing a post that can be found here: https://boz.com/articles/you-are-how-you-act
+
+
+[^1]: https://en.wikipedia.org/wiki/True_self_and_false_self?wprov=sfti1  -- 2025-10-27T04:45:00.042Z
+
+---
+
 The browser wars have officially begun and whoever participates is forced to improve the agentic flows and there would be (IMO) a local maxima beyond which prompt injection becomes a catastrophic vector.
 
 If google chooses to not participate, a significant portion of people can choose to migrate off google chrome and google might lose a significant chunk of market share or something idk… only until things go belly up when really bad prompt injection events come to light 
@@ -89,10 +102,6 @@ The point I'm trying to make is that if you and you're team are still working on
 Turning asserts on in production codebase is definitely a way to help team build fast iteration cycles in terms of Nth order effects.
 
 They learn (or) you go belly up. You choose. It's a do or die thing.  -- 2025-10-17T08:50:20.963Z
-
----
-
-Manifesting cost control with abundance mindset.  -- 2025-10-13T06:30:02.695Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
