@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> In the Survival Stage of your business, focus your efforts on creating the features that make your service noticeably better for the majority of your users without making the product harder to use. If a feature accomplishes this, go ahead and build it. If it doesn't, stash it for now and build something else that does.
+
+Excerpt from Kahl, Arvid. Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business (pp. 233-234). (Function). Kindle Edition.  -- 2025-10-31T13:40:57.986Z
+
+---
+
 I asked chatGPT help understand OpenAI’s PBC transition:
 
 WHAT IS A PUBLIC BENEFIT CORPORATION (PBC)?
@@ -170,14 +176,6 @@ I don’t particularly like resource contention irl  -- 2025-10-20T02:07:28.743Z
 ---
 
 I found Guido Van Rossum casually answering python queries on X -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_DcWYqae.png) -- 2025-10-20T02:06:15.205Z
-
----
-
-> “… It's to my detriment because sometimes my speaking thread out-executes my thinking thread”
-
-I too speak faster than I think and this is similar to explanation I give to my peers 😂😭😭
-
-https://x.com/karpathy/status/1979644538185752935?s=46  -- 2025-10-19T06:30:02.784Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
