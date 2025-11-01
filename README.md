@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The code I wrote a year ago to the same problem is identical to the code I wrote today and I don't know how I should feel about it.  -- 2025-11-01T05:17:24.600Z
+
+---
+
 > In the Survival Stage of your business, focus your efforts on creating the features that make your service noticeably better for the majority of your users without making the product harder to use. If a feature accomplishes this, go ahead and build it. If it doesn't, stash it for now and build something else that does.
 
 Excerpt from Kahl, Arvid. Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business (pp. 233-234). (Function). Kindle Edition.  -- 2025-10-31T13:40:57.986Z
@@ -172,10 +176,6 @@ I'm dropping a reference to the mention on [__*the official python 3 documentati
 ---
 
 I don’t particularly like resource contention irl  -- 2025-10-20T02:07:28.743Z
-
----
-
-I found Guido Van Rossum casually answering python queries on X -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_DcWYqae.png) -- 2025-10-20T02:06:15.205Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
