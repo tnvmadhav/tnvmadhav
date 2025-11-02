@@ -1,6 +1,11 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I went down a rabbit hole on the aws us-east-1 outage that happened on 20th October 2025 and learned a bunch of things. 
+Noted down some things I learned https://tnvmadhav.me/til/dynamodb-and-fips-compliance/  -- 2025-11-02T14:30:23.044Z
+
+---
+
 Read "The Day You Became a Better Writer" by Scott Adams. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_rnqguj5.png) -- 2025-11-02T14:23:44.711Z
 
 ---
@@ -164,16 +169,6 @@ I tried to make a joke on [x dot com](https://x.com/tnvmadhav/status/19808530763
 feature, not a bug
 
 All on-call engineers should be hooked up to @eightsleep pods whose functioning is dependent on current uptime of the services they are up-keeping :)  -- 2025-10-22T04:25:52.737Z
-
----
-
-DHH on freedom and software:
-
-> Omarchy, Rails, Kamal, Hotwire, and all the rest of it doesn't have to return anything on the investment beyond the joy of building something awesome and sharing it.
-
-> I have no interest in commercializing any of this.
-
-i'm referencing a post that can be found [here](https://x.com/dhh/status/1980706817073434760).  -- 2025-10-22T03:27:12.367Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
