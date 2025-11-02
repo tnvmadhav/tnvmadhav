@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The root cause of anything is the big bang.  -- 2025-11-02T13:08:25.690Z
+
+---
+
 The code I wrote a year ago to the same problem is identical to the code I wrote today and I don't know how I should feel about it.  -- 2025-11-01T05:17:24.600Z
 
 ---
@@ -172,10 +176,6 @@ i'm referencing a post that can be found [here](https://x.com/dhh/status/1980706
 Today I learned that the generic function with multiple implementations based on the types of the a single arguments are called as single dispatch functions.
 
 I'm dropping a reference to the mention on [__*the official python 3 documentation*__](https://docs.python.org/3/glossary.html#term-single-dispatch)  -- 2025-10-20T04:40:13.342Z
-
----
-
-I don’t particularly like resource contention irl  -- 2025-10-20T02:07:28.743Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
