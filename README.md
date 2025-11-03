@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Start by copying, you'll end up with something new.  -- 2025-11-03T12:30:02.866Z
+
+---
+
 I went down a rabbit hole on the aws us-east-1 outage that happened on 20th October 2025 and learned a bunch of things. 
 Noted down some things I learned https://tnvmadhav.me/til/dynamodb-and-fips-compliance/  -- 2025-11-02T14:30:23.044Z
 
@@ -163,12 +167,6 @@ i'm referencing a post that can be found [here](https://x.com/m_franceschetti/st
 
 
 I tried to make a joke on [x dot com](https://x.com/tnvmadhav/status/1980853076312633665?s=46)  -- 2025-10-22T04:28:05.994Z
-
----
-
-feature, not a bug
-
-All on-call engineers should be hooked up to @eightsleep pods whose functioning is dependent on current uptime of the services they are up-keeping :)  -- 2025-10-22T04:25:52.737Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
