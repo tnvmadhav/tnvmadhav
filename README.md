@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+A vigilant audience will keep you in check and technology is an enabler to this.
+
+Technology is useful for forming new habits if not maintaining them.  -- 2025-11-05T12:30:02.720Z
+
+---
+
 Bigger the failure, the larger the potential bounce back.  -- 2025-11-04T12:30:02.755Z
 
 ---
@@ -129,18 +135,6 @@ i'm referencing a post that can be found here: https://boz.com/articles/you-are-
 
 
 [^1]: https://en.wikipedia.org/wiki/True_self_and_false_self?wprov=sfti1  -- 2025-10-27T04:45:00.042Z
-
----
-
-The browser wars have officially begun and whoever participates is forced to improve the agentic flows and there would be (IMO) a local maxima beyond which prompt injection becomes a catastrophic vector.
-
-If google chooses to not participate, a significant portion of people can choose to migrate off google chrome and google might lose a significant chunk of market share or something idk… only until things go belly up when really bad prompt injection events come to light 
-
-If google chooses to participate, then it’s over. Google chrome has a large market share and this means google will also be cornered into the aforementioned local maxima until damage is already done to small % of affected users. small % but large absolute number.
-
-Prompt injections cannot be stopped until something novels comes about. but for time being it’s not looking good for google (in near term atleast). happy to be wrong about it. 
-
-i'm referencing a post that can be found here: https://x.com/daniellockyer/status/1980895459670634933?s=12  -- 2025-10-22T13:25:10.993Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
