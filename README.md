@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+sometimes you just gotta thug it out through indomitable human spirit.  -- 2025-11-06T03:49:31.784Z
+
+---
+
 A vigilant audience will keep you in check and technology is an enabler to this.
 
 Technology is useful for forming new habits if not maintaining them.  -- 2025-11-05T12:30:02.720Z
@@ -122,19 +126,6 @@ FURTHER NOTES / REAL-WORLD POINTS:
 
 i'm referencing a post that can be found here:
 https://openai.com/index/built-to-benefit-everyone/  -- 2025-10-29T04:44:28.114Z
-
----
-
-The “making it” for variety of things have different time frames.
-
->  “Fake it until you make it” is often dismissed as shallow, but it’s closer to Franklin’s truth. Faking it long enough is making it. The repetition of behavior, not the sincerity of belief, is what shapes character.
-
-The time frame is dependent on how aligned your honest self is to your phony self[^1]
-
-i'm referencing a post that can be found here: https://boz.com/articles/you-are-how-you-act
-
-
-[^1]: https://en.wikipedia.org/wiki/True_self_and_false_self?wprov=sfti1  -- 2025-10-27T04:45:00.042Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
