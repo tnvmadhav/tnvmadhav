@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Evolution comes about through drip feeds, not chugs of changes.  -- 2025-11-07T12:30:02.718Z
+
+---
+
 Habit maintenance needs to be intrinsic.  -- 2025-11-06T12:30:02.789Z
 
 ---
@@ -37,12 +41,6 @@ The root cause of anything is the big bang.  -- 2025-11-02T13:08:25.690Z
 ---
 
 The code I wrote a year ago to the same problem is identical to the code I wrote today and I don't know how I should feel about it.  -- 2025-11-01T05:17:24.600Z
-
----
-
-> In the Survival Stage of your business, focus your efforts on creating the features that make your service noticeably better for the majority of your users without making the product harder to use. If a feature accomplishes this, go ahead and build it. If it doesn't, stash it for now and build something else that does.
-
-Excerpt from Kahl, Arvid. Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business (pp. 233-234). (Function). Kindle Edition.  -- 2025-10-31T13:40:57.986Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
