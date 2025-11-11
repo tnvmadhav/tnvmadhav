@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+a tree with memoization collapses into a d.a.g.  -- 2025-11-11T04:31:56.874Z
+
+---
+
 Evolution comes about through drip feeds, not chugs of changes.  -- 2025-11-07T12:30:02.718Z
 
 ---
@@ -37,10 +41,6 @@ Read "The Day You Became a Better Writer" by Scott Adams. -- [🏞️ Context #1
 ---
 
 The root cause of anything is the big bang.  -- 2025-11-02T13:08:25.690Z
-
----
-
-The code I wrote a year ago to the same problem is identical to the code I wrote today and I don't know how I should feel about it.  -- 2025-11-01T05:17:24.600Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
