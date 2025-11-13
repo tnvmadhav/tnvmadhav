@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+youtube finally added a chat feature  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AyqTUWZ.png) -- 2025-11-13T04:14:26.502Z
+
+---
+
 a tree with memoization collapses into a d.a.g.  -- 2025-11-11T04:31:56.874Z
 
 ---
@@ -37,10 +41,6 @@ Noted down some things I learned https://tnvmadhav.me/til/dynamodb-and-fips-comp
 ---
 
 Read "The Day You Became a Better Writer" by Scott Adams. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_rnqguj5.png) -- 2025-11-02T14:23:44.711Z
-
----
-
-The root cause of anything is the big bang.  -- 2025-11-02T13:08:25.690Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
