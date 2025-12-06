@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Quoting BrendanGregg comment on his post 'Leaving Intel'
+
+> I like to measure things. In real life and on computers. But I also have a couple of work reasons for it:
+> As a remote worker, I'm under extra pressure to prove that remoteness works.
+> As a senior employee, I'm also under pressure to regularly report where my time is spent.
+
+
+reference to the hacker news comment: [https://news.ycombinator.com/item?id=46170913](https://news.ycombinator.com/item?id=46170913)  -- 2025-12-06T15:20:24.375Z
+
+---
+
 youtube finally added a chat feature  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AyqTUWZ.png) -- 2025-11-13T04:14:26.502Z
 
 ---
@@ -37,10 +48,6 @@ Start by copying, you'll end up with something new.  -- 2025-11-03T12:30:02.866Z
 
 I went down a rabbit hole on the aws us-east-1 outage that happened on 20th October 2025 and learned a bunch of things. 
 Noted down some things I learned https://tnvmadhav.me/til/dynamodb-and-fips-compliance/  -- 2025-11-02T14:30:23.044Z
-
----
-
-Read "The Day You Became a Better Writer" by Scott Adams. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_rnqguj5.png) -- 2025-11-02T14:23:44.711Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
