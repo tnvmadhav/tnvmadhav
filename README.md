@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Technical rumination was meant to be but emotional rumination wasn’t.  -- 2025-12-08T07:41:18.148Z
+
+---
+
 Quoting BrendanGregg comment on his post 'Leaving Intel'
 
 > I like to measure things. In real life and on computers. But I also have a couple of work reasons for it:
@@ -43,11 +47,6 @@ Bigger the failure, the larger the potential bounce back.  -- 2025-11-04T12:30:0
 ---
 
 Start by copying, you'll end up with something new.  -- 2025-11-03T12:30:02.866Z
-
----
-
-I went down a rabbit hole on the aws us-east-1 outage that happened on 20th October 2025 and learned a bunch of things. 
-Noted down some things I learned https://tnvmadhav.me/til/dynamodb-and-fips-compliance/  -- 2025-11-02T14:30:23.044Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
