@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+We are at a point where we don’t usually care whether content is pure / semi ai slop anymore because the prompters are so good at emulating content that we deem as real and this means, another cambrian explosion of content is imminent.
+
+This is just 3 years since the first milestone.  -- 2025-12-20T04:11:19.736Z
+
+---
+
 Technical rumination was meant to be but emotional rumination wasn’t.  -- 2025-12-08T07:41:18.148Z
 
 ---
@@ -43,10 +49,6 @@ Technology is useful for forming new habits if not maintaining them.  -- 2025-11
 ---
 
 Bigger the failure, the larger the potential bounce back.  -- 2025-11-04T12:30:02.755Z
-
----
-
-Start by copying, you'll end up with something new.  -- 2025-11-03T12:30:02.866Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
