@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I was able to close 30+ junk pull requests in essentially no time!
+
+I wrote about it here: https://tnvmadhav.me/til/closing-github-prs-in-bulk/  -- 2026-01-03T04:41:54.589Z
+
+---
+
 I am currently unable to add images to GitHub issues :(
 
 Is this an outage?
@@ -57,12 +63,6 @@ Habit maintenance needs to be intrinsic.  -- 2025-11-06T12:30:02.789Z
 ---
 
 sometimes you just gotta thug it out through indomitable human spirit.  -- 2025-11-06T03:49:31.784Z
-
----
-
-A vigilant audience will keep you in check and technology is an enabler to this.
-
-Technology is useful for forming new habits if not maintaining them.  -- 2025-11-05T12:30:02.720Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
@@ -111,6 +111,8 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 ## Latest TILs
 
 <!-- til starts -->
+[Closing Github Pull Requests in Bulk](https://tnvmadhav.me/til/closing-github-prs-in-bulk/) -- 2026-01-03T04:19:34+00:00
+
 [DynamoDB and F.I.P.S. Compliance](https://tnvmadhav.me/til/dynamodb-and-fips-compliance/) -- 2025-11-02T05:57:47+00:00
 
 [Single Dispatch Functions](https://tnvmadhav.me/til/single-dispatch-functions/) -- 2025-10-20T04:23:01+00:00
@@ -118,8 +120,6 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 [How to Open a File in Browser From Terminal?](https://tnvmadhav.me/til/how-to-open-a-file-in-browser-from-terminal/) -- 2025-10-09T07:46:17+00:00
 
 [Rosetta 2: Apple's Temporary Fix](https://tnvmadhav.me/til/rosetta-2/) -- 2025-06-22T08:16:35+00:00
-
-[Http Archiving -- Capturing a moment in time](https://tnvmadhav.me/til/http-archiving/) -- 2025-02-23T09:43:37+00:00
 
 More on [My TILS](https://tnvmadhav.me/til/)
 <!-- til ends -->
