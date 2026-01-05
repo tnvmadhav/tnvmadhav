@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> It genuinely feels to me like GPT-5.2 and Opus 4.5 in November represent an inflection point - one of those moments where the models get incrementally better in a way that tips across an invisible capability line where suddenly a whole bunch of much harder coding problems open up
+> It's possible Gemini 3 Pro should be included in that group as well, but I'm not seeing quite the same level of astonished buzz from hardened software engineers around that model as I am for the other two .
+
+
+sourced via [x](https://x.com/simonw/thread/2007905137914994795?s=46)  -- 2026-01-05T04:10:37.304Z
+
+---
+
 I was able to close 30+ junk pull requests in essentially no time!
 
 I wrote about it here: https://tnvmadhav.me/til/closing-github-prs-in-bulk/  -- 2026-01-03T04:41:54.589Z
@@ -59,10 +67,6 @@ Evolution comes about through drip feeds, not chugs of changes.  -- 2025-11-07T1
 ---
 
 Habit maintenance needs to be intrinsic.  -- 2025-11-06T12:30:02.789Z
-
----
-
-sometimes you just gotta thug it out through indomitable human spirit.  -- 2025-11-06T03:49:31.784Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
