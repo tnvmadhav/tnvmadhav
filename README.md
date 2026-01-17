@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+On Claude getting too myopic when working with large codebases
+
+“A skillful driver can mitigate this, but most lack the skill”
+
+i'm referencing a post that can be found here: https://x.com/steipete/status/2012346819372532094?s=12  -- 2026-01-17T02:57:41.999Z
+
+---
+
 “Just two missing characters in a Regex filter allowed unauthenticated attackers to infiltrate the build environment and leak privileged credentials”
 
 This is a well written disclosure document 👍 
@@ -69,10 +77,6 @@ reference to the hacker news comment: [https://news.ycombinator.com/item?id=4617
 ---
 
 youtube finally added a chat feature  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AyqTUWZ.png) -- 2025-11-13T04:14:26.502Z
-
----
-
-a tree with memoization collapses into a d.a.g.  -- 2025-11-11T04:31:56.874Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
