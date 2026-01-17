@@ -5,7 +5,7 @@ On Claude getting too myopic when working with large codebases
 
 “A skillful driver can mitigate this, but most lack the skill”
 
-i'm referencing a post that can be found here: https://x.com/steipete/status/2012346819372532094?s=12  -- 2026-01-17T02:57:41.999Z
+i'm referencing a post that can be found here: https://x.com/steipete/status/2012346819372532094?s=12  -- 2026-01-17T06:30:02.972Z
 
 ---
 
