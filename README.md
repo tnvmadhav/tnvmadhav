@@ -1,6 +1,18 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T03:47:39.343Z
+
+---
+
+You perform the best with a controlled amount of healthy stress.
+
+Too much or too little stress can have negative consequences. 
+
+Practice and know your levels and limits.  -- 2026-01-18T03:44:37.629Z
+
+---
+
 On Claude getting too myopic when working with large codebases
 
 “A skillful driver can mitigate this, but most lack the skill”
@@ -62,21 +74,6 @@ This is just 3 years since the first milestone.  -- 2025-12-20T04:11:19.736Z
 ---
 
 Technical rumination was meant to be but emotional rumination wasn’t.  -- 2025-12-08T07:41:18.148Z
-
----
-
-Quoting BrendanGregg comment on his post 'Leaving Intel'
-
-> I like to measure things. In real life and on computers. But I also have a couple of work reasons for it:
-> As a remote worker, I'm under extra pressure to prove that remoteness works.
-> As a senior employee, I'm also under pressure to regularly report where my time is spent.
-
-
-reference to the hacker news comment: [https://news.ycombinator.com/item?id=46170913](https://news.ycombinator.com/item?id=46170913)  -- 2025-12-06T15:20:24.375Z
-
----
-
-youtube finally added a chat feature  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_AyqTUWZ.png) -- 2025-11-13T04:14:26.502Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
