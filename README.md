@@ -1,7 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-I asked chatGPT to generate an image on how I’d treated it.  -- 2026-01-18T06:42:23.132Z
+I asked chatGPT to generate an image on how I’d treated it.
+
+
+Following the Pictorial trend on the idea of Roko's Basilisk. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_RzgH1SE.png) -- 2026-01-18T07:26:43.293Z
 
 ---
 
