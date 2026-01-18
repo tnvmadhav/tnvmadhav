@@ -1,7 +1,7 @@
 ## My Latest Feed
 
 <!-- feed starts -->
-Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T03:47:39.343Z
+I asked chatGPT to generate an image on how I’d treated it.  -- 2026-01-18T06:42:23.132Z
 
 ---
 
@@ -9,7 +9,11 @@ You perform the best with a controlled amount of healthy stress.
 
 Too much or too little stress can have negative consequences. 
 
-Practice and know your levels and limits.  -- 2026-01-18T03:44:37.629Z
+Practice and know your levels and limits.  -- 2026-01-18T06:30:02.716Z
+
+---
+
+Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T03:47:39.343Z
 
 ---
 
@@ -70,10 +74,6 @@ All good. Perhaps the issue was that the error response in @GitHub actions is di
 We are at a point where we don’t usually care whether content is pure / semi ai slop anymore because the prompters are so good at emulating content that we deem as real and this means, another cambrian explosion of content is imminent.
 
 This is just 3 years since the first milestone.  -- 2025-12-20T04:11:19.736Z
-
----
-
-Technical rumination was meant to be but emotional rumination wasn’t.  -- 2025-12-08T07:41:18.148Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
