@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T13:00:02.583Z
+
+---
+
 Following the pictorial trend on the idea of Roko's Basilisk, I asked chatGPT to generate an image on how I’d treated it.
 
 Check out the trend [here](https://bagel.ink/c/VZlNoI) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_RzgH1SE.png) -- 2026-01-18T07:36:07.540Z
@@ -12,10 +16,6 @@ You perform the best with a controlled amount of healthy stress.
 Too much or too little stress can have negative consequences. 
 
 Practice and know your levels and limits.  -- 2026-01-18T06:30:02.716Z
-
----
-
-Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T03:47:39.343Z
 
 ---
 
