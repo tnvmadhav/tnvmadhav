@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I decided to give in and setup a @clawdbot daemon today for fun. Remotely on a fresh ec2 instance.
+
+Apart from some hurdles, i got it working via telegram trigger.
+
+I see the vision, have some ideas and yes we’re getting close.
+
+Remote personal agents. Cambrian explosion. I see it.  -- 2026-01-25T12:31:07.842Z
+
+---
+
 Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T13:00:02.583Z
 
 ---
@@ -70,12 +80,6 @@ Ah, got it. The image file was too big (>10MB)
 I tried to add the file in a pull request and the error response told me this.
 
 All good. Perhaps the issue was that the error response in @GitHub actions is different from pull requests. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_BAN87tk.png) -- 2025-12-31T06:29:15.226Z
-
----
-
-We are at a point where we don’t usually care whether content is pure / semi ai slop anymore because the prompters are so good at emulating content that we deem as real and this means, another cambrian explosion of content is imminent.
-
-This is just 3 years since the first milestone.  -- 2025-12-20T04:11:19.736Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
