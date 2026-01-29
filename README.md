@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL about HTTP Range Headers
+
+https://tnvmadhav.me/til/about-http-range-headers/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_7c5oZw0.png) -- 2026-01-29T04:52:52.400Z
+
+---
+
 I decided to give in and setup a @clawdbot daemon today for fun. Remotely on a fresh ec2 instance.
 
 Apart from some hurdles, i got it working via telegram trigger.
@@ -62,24 +68,6 @@ sourced via [x](https://x.com/simonw/thread/2007905137914994795?s=46)  -- 2026-0
 I was able to close 30+ junk pull requests in essentially no time!
 
 I wrote about it here: https://tnvmadhav.me/til/closing-github-prs-in-bulk/  -- 2026-01-03T04:41:54.589Z
-
----
-
-I am currently unable to add images to GitHub issues :(
-
-Is this an outage?
-https://www.githubstatus.com says otherwise
-
-
-Posted about it on X
-https://x.com/TnvMadhav/status/2006248437457850703?s=20
-
-
-Ah, got it. The image file was too big (>10MB)
-
-I tried to add the file in a pull request and the error response told me this.
-
-All good. Perhaps the issue was that the error response in @GitHub actions is different from pull requests. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_BAN87tk.png) -- 2025-12-31T06:29:15.226Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
