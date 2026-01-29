@@ -128,6 +128,8 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 ## Latest TILs
 
 <!-- til starts -->
+[About Http Range Headers](https://tnvmadhav.me/til/about-http-range-headers/) -- 2026-01-29T03:54:45+00:00
+
 [Closing Github Pull Requests in Bulk](https://tnvmadhav.me/til/closing-github-prs-in-bulk/) -- 2026-01-03T04:19:34+00:00
 
 [DynamoDB and F.I.P.S. Compliance](https://tnvmadhav.me/til/dynamodb-and-fips-compliance/) -- 2025-11-02T05:57:47+00:00
@@ -135,8 +137,6 @@ More on [MY GUIDES](https://tnvmadhav.me/guides/)
 [Single Dispatch Functions](https://tnvmadhav.me/til/single-dispatch-functions/) -- 2025-10-20T04:23:01+00:00
 
 [How to Open a File in Browser From Terminal?](https://tnvmadhav.me/til/how-to-open-a-file-in-browser-from-terminal/) -- 2025-10-09T07:46:17+00:00
-
-[Rosetta 2: Apple's Temporary Fix](https://tnvmadhav.me/til/rosetta-2/) -- 2025-06-22T08:16:35+00:00
 
 More on [My TILS](https://tnvmadhav.me/til/)
 <!-- til ends -->
