@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Excerpts from “Code is cheap, show me talk” by Kailash Nadh
+
+> An experienced developer who can talk well, that is, imagine, articulate, define problem statements, architect and engineer, has a massive advantage over someone who cannot, more disproportionately than ever.
+
+for reference https://nadh.in/blog/code-is-cheap/  -- 2026-01-31T05:06:30.887Z
+
+---
+
 TIL about HTTP Range Headers
 
 https://tnvmadhav.me/til/about-http-range-headers/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_7c5oZw0.png) -- 2026-01-29T04:52:52.400Z
@@ -62,12 +70,6 @@ The value add is insane!  -- 2026-01-10T09:36:15.738Z
 
 
 sourced via [x](https://x.com/simonw/thread/2007905137914994795?s=46)  -- 2026-01-05T04:10:37.304Z
-
----
-
-I was able to close 30+ junk pull requests in essentially no time!
-
-I wrote about it here: https://tnvmadhav.me/til/closing-github-prs-in-bulk/  -- 2026-01-03T04:41:54.589Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
