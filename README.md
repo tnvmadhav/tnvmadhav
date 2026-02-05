@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+if you feel that you’re falling behind, then know that what you do between 5 to 9 will improve your 9 to 5 experience sooner than later.  -- 2026-02-05T03:06:22.072Z
+
+---
+
 Excerpts from “Code is cheap, show me talk” by Kailash Nadh
 
 > An experienced developer who can talk well, that is, imagine, articulate, define problem statements, architect and engineer, has a massive advantage over someone who cannot, more disproportionately than ever.
@@ -62,14 +66,6 @@ https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild  -- 
 I just installed opencode using the “oh-my-opencode” wrapper and asked it to add a feature which I wanted to build in my side project, and guess what… in just 2 big shots, it was able to make a working version of it with minor tweaks from my side.
 
 The value add is insane!  -- 2026-01-10T09:36:15.738Z
-
----
-
-> It genuinely feels to me like GPT-5.2 and Opus 4.5 in November represent an inflection point - one of those moments where the models get incrementally better in a way that tips across an invisible capability line where suddenly a whole bunch of much harder coding problems open up
-> It's possible Gemini 3 Pro should be included in that group as well, but I'm not seeing quite the same level of astonished buzz from hardened software engineers around that model as I am for the other two .
-
-
-sourced via [x](https://x.com/simonw/thread/2007905137914994795?s=46)  -- 2026-01-05T04:10:37.304Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
