@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+i found myself reading a post from go blog: https://go.dev/blog/defer-panic-and-recover  -- 2026-02-11T03:22:03.499Z
+
+---
+
 if you feel that you’re falling behind, then know that what you do between 5 to 9 will improve your 9 to 5 experience sooner than later.  -- 2026-02-05T03:06:22.072Z
 
 ---
@@ -60,12 +64,6 @@ i'm referencing a post that can be found here: https://x.com/steipete/status/201
 This is a well written disclosure document 👍 
 
 https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild  -- 2026-01-16T10:48:18.024Z
-
----
-
-I just installed opencode using the “oh-my-opencode” wrapper and asked it to add a feature which I wanted to build in my side project, and guess what… in just 2 big shots, it was able to make a working version of it with minor tweaks from my side.
-
-The value add is insane!  -- 2026-01-10T09:36:15.738Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
