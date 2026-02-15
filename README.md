@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+we have come to a point where we don’t know if anything is real or not. like if it’s found on digital media. which is why I feel there will be a Cambrian explosion of things that people build on the internet create and in terms of content (video content especially) and also for the other modalities, which is why we need to conclude that everything  is going to blow up like never seen before, and hence we should limit what we consume on the internet through pools of peer reviewed facts and news (if not already)  -- 2026-02-15T05:31:48.871Z
+
+---
+
 i found myself reading a post from go blog: https://go.dev/blog/defer-panic-and-recover  -- 2026-02-11T03:22:03.499Z
 
 ---
@@ -56,14 +60,6 @@ On Claude getting too myopic when working with large codebases
 “A skillful driver can mitigate this, but most lack the skill”
 
 i'm referencing a post that can be found here: https://x.com/steipete/status/2012346819372532094?s=12  -- 2026-01-17T06:30:02.972Z
-
----
-
-“Just two missing characters in a Regex filter allowed unauthenticated attackers to infiltrate the build environment and leak privileged credentials”
-
-This is a well written disclosure document 👍 
-
-https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild  -- 2026-01-16T10:48:18.024Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
