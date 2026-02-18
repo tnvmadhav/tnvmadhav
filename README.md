@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+TIL how to format strings in PostgreSQL using format function.
+
+It’s similar to formatting like that if go or c.
+
+https://www.postgresql.org/docs/current/functions-string.html#FUNCTIONS-STRING-FORMAT  -- 2026-02-18T03:13:38.330Z
+
+---
+
 we have come to a point where we don’t know if anything is real or not. like if it’s found on digital media. which is why I feel there will be a Cambrian explosion of things that people build on the internet create and in terms of content (video content especially) and also for the other modalities, which is why we need to conclude that everything  is going to blow up like never seen before, and hence we should limit what we consume on the internet through pools of peer reviewed facts and news (if not already)  -- 2026-02-15T05:31:48.871Z
 
 ---
@@ -52,14 +60,6 @@ You perform the best with a controlled amount of healthy stress.
 Too much or too little stress can have negative consequences. 
 
 Practice and know your levels and limits.  -- 2026-01-18T06:30:02.716Z
-
----
-
-On Claude getting too myopic when working with large codebases
-
-“A skillful driver can mitigate this, but most lack the skill”
-
-i'm referencing a post that can be found here: https://x.com/steipete/status/2012346819372532094?s=12  -- 2026-01-17T06:30:02.972Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
