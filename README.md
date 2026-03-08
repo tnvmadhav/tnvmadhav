@@ -1,6 +1,33 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today I learned how to convert an integer to binary string format in python using standard functions available.
+
+binary_string = format(n, '0Nb')
+
+where N is the number of digits we need
+
+```txt
+>>> format(10)
+'10'
+>>> format(10, 'b')
+'1010'
+>>> format(10, '9b')
+'     1010'
+>>> format(10, '09b')
+'000001010'
+```
+
+I also found another way to convert binary string back to integer.
+
+integer = int(binary_string, 2)
+
+Now, this means the following python statement will always be true for any integer (I guess there are no edge cases here but maybe I'm wrong):
+
+assert integer == int(format(integer, 'b'), 2)  -- 2026-03-08T12:08:11.952Z
+
+---
+
 TIL how to format strings in PostgreSQL using format function.
 
 It’s similar to formatting like that if go or c.
@@ -52,14 +79,6 @@ Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 20
 Following the pictorial trend on the idea of Roko's Basilisk, I asked chatGPT to generate an image on how I’d treated it.
 
 Check out the trend [here](https://bagel.ink/c/VZlNoI) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_RzgH1SE.png) -- 2026-01-18T07:36:07.540Z
-
----
-
-You perform the best with a controlled amount of healthy stress.
-
-Too much or too little stress can have negative consequences. 
-
-Practice and know your levels and limits.  -- 2026-01-18T06:30:02.716Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
