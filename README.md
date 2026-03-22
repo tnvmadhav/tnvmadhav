@@ -1,6 +1,16 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Today I learned that we can check if 2d **slices** are equal using `reflect.DeepEqual` function in golang. 
+
+This isn't fast because recursion is involved so writing an iterative loop is must faster.
+
+I always thought we could use `==` operator but looks like we can't (unlike 2d arrays) :/
+
+so `reflect.DeepEqual` seems to be a syntactical sugar of sorts, which was what I wanted :P  -- 2026-03-22T11:53:52.785Z
+
+---
+
 Today I learned how to convert an integer to binary string format in python using standard functions available.
 
 binary_string = format(n, '0Nb')
@@ -73,12 +83,6 @@ Remote personal agents. Cambrian explosion. I see it.  -- 2026-01-25T12:31:07.84
 ---
 
 Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T13:00:02.583Z
-
----
-
-Following the pictorial trend on the idea of Roko's Basilisk, I asked chatGPT to generate an image on how I’d treated it.
-
-Check out the trend [here](https://bagel.ink/c/VZlNoI) -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_RzgH1SE.png) -- 2026-01-18T07:36:07.540Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
