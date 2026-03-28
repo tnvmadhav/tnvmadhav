@@ -1,6 +1,26 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I've thought about this beforehand so don't fret too much. just follow.
+
+The answer is to be in "war mode" until you're "done".
+
+What "done" is depends on when you wanna stop but if you wanna do it more, you're not done.
+
+"War Mode" is basically falling back on "hard work" over "soft work"
+
+"Hard Work" is working with full concentration without context switching until a "milestone" is reached.
+
+A "Milestone" is anything that will help you do the same thing in lesser time and hopefully lesser effort. It's also something that will "up your attributes" to know what the next milestone is. If you don't know what you're next milestone is, you don't know what to do so that's where you're likely "done".
+
+Now you can think if you wanna do more of it but you don't know what to do, that means you've ascended to local maxima. You may have to backtrack and find the next "milestone" in the process. This is hard but you must walk it.
+
+The goal is to work until you don't know what to do next and you're ready to hang it and relax on that aspect.
+
+I generally think this would be at the age of 65 where you're not providing value to the world even with the best (90%) of your capability without hurting yourself more.  -- 2026-03-28T09:03:55.945Z
+
+---
+
 Today I learned that we can check if 2d **slices** are equal using `reflect.DeepEqual` function in golang. 
 
 This isn't fast because recursion is involved so writing an iterative loop is must faster.
@@ -79,10 +99,6 @@ Apart from some hurdles, i got it working via telegram trigger.
 I see the vision, have some ideas and yes we’re getting close.
 
 Remote personal agents. Cambrian explosion. I see it.  -- 2026-01-25T12:31:07.842Z
-
----
-
-Today, I shall try to do things that I couldn’t even attempt yesterday.  -- 2026-01-18T13:00:02.583Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
