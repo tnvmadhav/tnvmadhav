@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I had a delicious meal last night 😋  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6572_Large.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6573_Large.jpeg) -- 2026-03-28T09:24:42.697Z
+
+---
+
 I've thought about this beforehand so don't fret too much. just follow.
 
 The answer is to be in "war mode" until you're "done".
@@ -89,16 +93,6 @@ for reference https://nadh.in/blog/code-is-cheap/  -- 2026-01-31T05:06:30.887Z
 TIL about HTTP Range Headers
 
 https://tnvmadhav.me/til/about-http-range-headers/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_7c5oZw0.png) -- 2026-01-29T04:52:52.400Z
-
----
-
-I decided to give in and setup a @clawdbot daemon today for fun. Remotely on a fresh ec2 instance.
-
-Apart from some hurdles, i got it working via telegram trigger.
-
-I see the vision, have some ideas and yes we’re getting close.
-
-Remote personal agents. Cambrian explosion. I see it.  -- 2026-01-25T12:31:07.842Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
