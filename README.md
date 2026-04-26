@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Maturing is about the realisation that the absolute base invariant in life is the mental fortitude.
+
+#showerthoughts  -- 2026-04-26T05:40:22.274Z
+
+---
+
 I had a delicious meal last night 😋  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6572_Large.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6573_Large.jpeg) -- 2026-03-28T09:24:42.697Z
 
 ---
@@ -87,12 +93,6 @@ Excerpts from “Code is cheap, show me talk” by Kailash Nadh
 > An experienced developer who can talk well, that is, imagine, articulate, define problem statements, architect and engineer, has a massive advantage over someone who cannot, more disproportionately than ever.
 
 for reference https://nadh.in/blog/code-is-cheap/  -- 2026-01-31T05:06:30.887Z
-
----
-
-TIL about HTTP Range Headers
-
-https://tnvmadhav.me/til/about-http-range-headers/ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_7c5oZw0.png) -- 2026-01-29T04:52:52.400Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
