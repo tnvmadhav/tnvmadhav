@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+If a certain engineering solution is strong but the UX surrounding it is full of hurdles, then we must go the extra mile to make it as frictionless as possible.  -- 2026-04-30T07:36:38.683Z
+
+---
+
 I had a delicious meal last night 😌 #foodblog -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6699.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6703.jpeg) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6704.jpeg) -- 2026-04-30T03:44:19.899Z
 
 ---
@@ -85,10 +89,6 @@ we have come to a point where we don’t know if anything is real or not. like i
 ---
 
 i found myself reading a post from go blog: https://go.dev/blog/defer-panic-and-recover  -- 2026-02-11T03:22:03.499Z
-
----
-
-if you feel that you’re falling behind, then know that what you do between 5 to 9 will improve your 9 to 5 experience sooner than later.  -- 2026-02-05T03:06:22.072Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
