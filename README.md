@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I had a delicious meal last night 😌 #foodblog -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6699.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6703.jpeg) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6704.jpeg) -- 2026-04-30T03:44:19.899Z
+
+---
+
 Maturing is about the realisation that the absolute base invariant in life is the mental fortitude.
 
 #showerthoughts  -- 2026-04-26T05:40:22.274Z
@@ -85,14 +89,6 @@ i found myself reading a post from go blog: https://go.dev/blog/defer-panic-and-
 ---
 
 if you feel that you’re falling behind, then know that what you do between 5 to 9 will improve your 9 to 5 experience sooner than later.  -- 2026-02-05T03:06:22.072Z
-
----
-
-Excerpts from “Code is cheap, show me talk” by Kailash Nadh
-
-> An experienced developer who can talk well, that is, imagine, articulate, define problem statements, architect and engineer, has a massive advantage over someone who cannot, more disproportionately than ever.
-
-for reference https://nadh.in/blog/code-is-cheap/  -- 2026-01-31T05:06:30.887Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
