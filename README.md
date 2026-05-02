@@ -1,6 +1,22 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The process of building and deploying artefacts, products and tools isn’t (exactly) akin to other activities like eating food (which gets shit out later). 
+
+
+Structures live forever, as in they operate every second and crumble due to external factors (entropy in general).
+
+
+So it’s not fair to compare tinkering, building, testing pieces of artefacts to other menial activities.
+
+
+Habits can ensure purity of said artefacts but it’s not something that should be externally pushed (if there is a lack of meaningful effort).
+
+
+That signals an entire different problem altogether.  -- 2026-05-02T16:09:16.746Z
+
+---
+
 If a certain engineering solution is strong but the UX surrounding it is full of hurdles, then we must go the extra mile to make it as frictionless as possible.  -- 2026-04-30T07:36:38.683Z
 
 ---
@@ -85,10 +101,6 @@ https://www.postgresql.org/docs/current/functions-string.html#FUNCTIONS-STRING-F
 ---
 
 we have come to a point where we don’t know if anything is real or not. like if it’s found on digital media. which is why I feel there will be a Cambrian explosion of things that people build on the internet create and in terms of content (video content especially) and also for the other modalities, which is why we need to conclude that everything  is going to blow up like never seen before, and hence we should limit what we consume on the internet through pools of peer reviewed facts and news (if not already)  -- 2026-02-15T05:31:48.871Z
-
----
-
-i found myself reading a post from go blog: https://go.dev/blog/defer-panic-and-recover  -- 2026-02-11T03:22:03.499Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
