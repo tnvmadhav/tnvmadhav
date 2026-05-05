@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+You're likely at most 3 degrees of freedom away from where you want to be  -- 2026-05-05T07:19:11.936Z
+
+---
+
 The process of building and deploying artefacts, products and tools isn’t (exactly) akin to other activities like eating food (which gets shit out later). 
 
 
@@ -97,10 +101,6 @@ TIL how to format strings in PostgreSQL using format function.
 It’s similar to formatting like that if go or c.
 
 https://www.postgresql.org/docs/current/functions-string.html#FUNCTIONS-STRING-FORMAT  -- 2026-02-18T03:13:38.330Z
-
----
-
-we have come to a point where we don’t know if anything is real or not. like if it’s found on digital media. which is why I feel there will be a Cambrian explosion of things that people build on the internet create and in terms of content (video content especially) and also for the other modalities, which is why we need to conclude that everything  is going to blow up like never seen before, and hence we should limit what we consume on the internet through pools of peer reviewed facts and news (if not already)  -- 2026-02-15T05:31:48.871Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
