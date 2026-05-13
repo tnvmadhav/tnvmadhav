@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Shiny things can cause blinding to your eyes...and maybe they should.
+
+Allegory much https://boringtechnology.club/  -- 2026-05-13T09:58:30.145Z
+
+---
+
 You're likely at most 3 degrees of freedom away from where you want to be  -- 2026-05-05T07:19:11.936Z
 
 ---
@@ -93,14 +99,6 @@ integer = int(binary_string, 2)
 Now, this means the following python statement will always be true for any integer (I guess there are no edge cases here but maybe I'm wrong):
 
 assert integer == int(format(integer, 'b'), 2)  -- 2026-03-08T12:08:11.952Z
-
----
-
-TIL how to format strings in PostgreSQL using format function.
-
-It’s similar to formatting like that if go or c.
-
-https://www.postgresql.org/docs/current/functions-string.html#FUNCTIONS-STRING-FORMAT  -- 2026-02-18T03:13:38.330Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
