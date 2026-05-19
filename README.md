@@ -1,6 +1,12 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Good read!
+
+https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/  -- 2026-05-19T04:27:47.089Z
+
+---
+
 Shiny things can cause blinding to your eyes...and maybe they should.
 
 Allegory much https://boringtechnology.club/  -- 2026-05-13T09:58:30.145Z
@@ -72,33 +78,6 @@ This isn't fast because recursion is involved so writing an iterative loop is mu
 I always thought we could use `==` operator but looks like we can't (unlike 2d arrays) :/
 
 so `reflect.DeepEqual` seems to be a syntactical sugar of sorts, which was what I wanted :P  -- 2026-03-22T11:53:52.785Z
-
----
-
-Today I learned how to convert an integer to binary string format in python using standard functions available.
-
-binary_string = format(n, '0Nb')
-
-where N is the number of digits we need
-
-```txt
->>> format(10)
-'10'
->>> format(10, 'b')
-'1010'
->>> format(10, '9b')
-'     1010'
->>> format(10, '09b')
-'000001010'
-```
-
-I also found another way to convert binary string back to integer.
-
-integer = int(binary_string, 2)
-
-Now, this means the following python statement will always be true for any integer (I guess there are no edge cases here but maybe I'm wrong):
-
-assert integer == int(format(integer, 'b'), 2)  -- 2026-03-08T12:08:11.952Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
