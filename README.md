@@ -1,6 +1,35 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+In the age of A.I. based lightning fast execution, being good at finding problems just by thinking about it is a sought out skill.
+
+Idea guys with agency are surfing Shai-Hulud at this point.  -- 2026-06-21T12:29:50.484Z
+
+---
+
+I completed [Dune: Prophecy](https://www.imdb.com/title/tt10466872/) last night.
+
+An important disclaimer is that I have been a naive fan of Dune and Dune Part 2 (coming in just from my appreciation of Dennis Villeneuve), which means I haven't read Frank Herbert's books.
+
+I must say Dune:Prophecy hadn't succeeded in keeping me interested at first, however it's probably not a debate when I say the production quality is top notch.
+
+Needless to say, I do feel it's a good one. I am captivated by the lore of this story (especially when it comes to Shai-Hulud).
+
+
+Also, Thinking Machines?
+
+That's the name of [Mira Murati's A.I. company](https://thinkingmachines.ai). 
+
+Not sure if that was the inspiration but it loved the acknowledgement.
+
+It's strange that I didn't come across this nod/acknowledgement on my twitter timeline.
+
+
+I liked the cameo(ish) from Mark Addy. I just love the way he speaks.
+  -- 2026-06-21T12:06:03.177Z
+
+---
+
 Good read!
 
 https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/  -- 2026-05-19T04:27:47.089Z
@@ -48,36 +77,6 @@ Maturing is about the realisation that the absolute base invariant in life is th
 ---
 
 I had a delicious meal last night 😋  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6572_Large.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6573_Large.jpeg) -- 2026-03-28T09:24:42.697Z
-
----
-
-I've thought about this beforehand so don't fret too much. just follow.
-
-The answer is to be in "war mode" until you're "done".
-
-What "done" is depends on when you wanna stop but if you wanna do it more, you're not done.
-
-"War Mode" is basically falling back on "hard work" over "soft work"
-
-"Hard Work" is working with full concentration without context switching until a "milestone" is reached.
-
-A "Milestone" is anything that will help you do the same thing in lesser time and hopefully lesser effort. It's also something that will "up your attributes" to know what the next milestone is. If you don't know what you're next milestone is, you don't know what to do so that's where you're likely "done".
-
-Now you can think if you wanna do more of it but you don't know what to do, that means you've ascended to local maxima. You may have to backtrack and find the next "milestone" in the process. This is hard but you must walk it.
-
-The goal is to work until you don't know what to do next and you're ready to hang it and relax on that aspect.
-
-I generally think this would be at the age of 65 where you're not providing value to the world even with the best (90%) of your capability without hurting yourself more.  -- 2026-03-28T09:03:55.945Z
-
----
-
-Today I learned that we can check if 2d **slices** are equal using `reflect.DeepEqual` function in golang. 
-
-This isn't fast because recursion is involved so writing an iterative loop is must faster.
-
-I always thought we could use `==` operator but looks like we can't (unlike 2d arrays) :/
-
-so `reflect.DeepEqual` seems to be a syntactical sugar of sorts, which was what I wanted :P  -- 2026-03-22T11:53:52.785Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
