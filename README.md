@@ -1,6 +1,23 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> The hardest part of any task is overcoming the activation energy. The rest is just riding the momentum.
+
+Been thinking about this too https://x.com/tnvmadhav/status/1760205214555291714?s=46
+
+
+i'm referencing a post that can be found here: https://x.com/fchollet/status/2068771319341367390?s=12  -- 2026-06-22T05:03:33.931Z
+
+---
+
+>  it’s June 2026. Stop hand editing your prompts. Hold down the dictation button and ramble for 10 minutes. Give the model every fragment, caveat, example, and vibe in your head. It is literally a large language model. If it’s superhuman at anything, it’s reconstructing latent intent from language.
+
+I agree with this, i have been using codex’s dictation to paste my ramblings and it’s decent enough for small tasks that I give it.
+
+i'm referencing a post that can be found here: https://x.com/guinnesschen/status/2068744472528314811?s=12  -- 2026-06-22T04:58:00.436Z
+
+---
+
 In the age of A.I. based lightning fast execution, being good at finding problems just by thinking about it is a sought out skill.
 
 Idea guys with agency are surfing Shai-Hulud at this point.  -- 2026-06-21T12:29:50.484Z
@@ -67,16 +84,6 @@ If a certain engineering solution is strong but the UX surrounding it is full of
 ---
 
 I had a delicious meal last night 😌 #foodblog -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6699.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6703.jpeg) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6704.jpeg) -- 2026-04-30T03:44:19.899Z
-
----
-
-Maturing is about the realisation that the absolute base invariant in life is the mental fortitude.
-
-#showerthoughts  -- 2026-04-26T05:40:22.274Z
-
----
-
-I had a delicious meal last night 😋  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6572_Large.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6573_Large.jpeg) -- 2026-03-28T09:24:42.697Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
