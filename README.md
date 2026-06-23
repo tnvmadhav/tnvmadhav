@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> The best mobile software does not shrink a desktop interface. It identifies the decisions that matter when you are away from the desk and makes those decisions fast, legible, and safe.
+
+Optionality of convenience makes your software workflows anti-fragile
+
+i'm referencing a post that can be found here: https://developers.openai.com/blog/mastering-codex-remote-for-engineering  -- 2026-06-23T18:08:52.417Z
+
+---
+
 > The hardest part of any task is overcoming the activation energy. The rest is just riding the momentum.
 
 Been thinking about this too https://x.com/tnvmadhav/status/1760205214555291714?s=46
@@ -80,10 +88,6 @@ That signals an entire different problem altogether.  -- 2026-05-02T16:09:16.746
 ---
 
 If a certain engineering solution is strong but the UX surrounding it is full of hurdles, then we must go the extra mile to make it as frictionless as possible.  -- 2026-04-30T07:36:38.683Z
-
----
-
-I had a delicious meal last night 😌 #foodblog -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6699.jpeg) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6703.jpeg) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/IMG_6704.jpeg) -- 2026-04-30T03:44:19.899Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
