@@ -1,6 +1,17 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> This is correct, I think a number of people on the tl didn’t read past the title and made inferences and comparisons that are just wrong and then use it as an opportunity to take cheap shots. This is not a “feature” like some crappy Slack bot and it’s certainly not a Claw, though it has aspects of it. It is an org-level harness. The difference will become clearer over time.
+
+The idea of Org Level Harness is the key subject that caught my eye.
+
+Claude Code was a butterfly effect.
+
+
+i'm referencing a post that can be found here: https://x.com/karpathy/status/2069822834160124091?s=12  -- 2026-06-25T06:17:26.861Z
+
+---
+
 > The best mobile software does not shrink a desktop interface. It identifies the decisions that matter when you are away from the desk and makes those decisions fast, legible, and safe.
 
 Optionality of convenience makes your software workflows anti-fragile
@@ -84,10 +95,6 @@ Habits can ensure purity of said artefacts but it’s not something that should 
 
 
 That signals an entire different problem altogether.  -- 2026-05-02T16:09:16.746Z
-
----
-
-If a certain engineering solution is strong but the UX surrounding it is full of hurdles, then we must go the extra mile to make it as frictionless as possible.  -- 2026-04-30T07:36:38.683Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
