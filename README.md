@@ -1,6 +1,32 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+The more I work with A.I. for engineering , the more I got back to fundamental principles of a good system.
+
+Now is the best time to celebrate past efforts to get cleaner architecture.
+
+LLMs are truly autocomplete engines.
+
+Clean architecture yields clean architecture.
+
+Clean architecture helps human in loop comprehend autocompleted changes easily.
+
+Thus resulting in faster deployment cycles.
+
+Clean architecture won’t matter if there are no humans in the loop.
+
+But, if automated agents of all kinds are the workers of the future, clean architecture helps here as well.
+
+It’s a win-win strategy.
+
+Long term benefits outweigh the initial learning curves.
+
+Things can easily go wrong at the start with all the psychosis at first.
+
+Firm hand to get things put into place is a necessity.  -- 2026-07-08T09:17:18.852Z
+
+---
+
 > This is correct, I think a number of people on the tl didn’t read past the title and made inferences and comparisons that are just wrong and then use it as an opportunity to take cheap shots. This is not a “feature” like some crappy Slack bot and it’s certainly not a Claw, though it has aspects of it. It is an org-level harness. The difference will become clearer over time.
 
 The idea of Org Level Harness is the key subject that caught my eye.
@@ -79,22 +105,6 @@ Allegory much https://boringtechnology.club/  -- 2026-05-13T09:58:30.145Z
 ---
 
 You're likely at most 3 degrees of freedom away from where you want to be  -- 2026-05-05T07:19:11.936Z
-
----
-
-The process of building and deploying artefacts, products and tools isn’t (exactly) akin to other activities like eating food (which gets shit out later). 
-
-
-Structures live forever, as in they operate every second and crumble due to external factors (entropy in general).
-
-
-So it’s not fair to compare tinkering, building, testing pieces of artefacts to other menial activities.
-
-
-Habits can ensure purity of said artefacts but it’s not something that should be externally pushed (if there is a lack of meaningful effort).
-
-
-That signals an entire different problem altogether.  -- 2026-05-02T16:09:16.746Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
