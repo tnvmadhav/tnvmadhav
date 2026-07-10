@@ -58,7 +58,28 @@ ChatGPT iOS app has replaced codex tab with remote tab
 
 ---
 
-The slider feature for reasoning levels for the GPT 5.6 Sol is sort of interesting. Is this feature here to stay? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/ChatGPT.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/NiceShotPro_-_for_mac.png) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/15.6_So..png) [🏞️ Context #4](https://cpx.tnvmadhav.me/content/image/content-images/image_tQjHOeq.png) [🏞️ Context #5](https://cpx.tnvmadhav.me/content/image/content-images/Open_Codex.png) [🏞️ Context #6](https://cpx.tnvmadhav.me/content/image/content-images/Advanced__LIPIlJr.png) -- 2026-07-10T07:52:01.619Z
+The slider feature for reasoning levels for the GPT 5.6 Sol is sort of interesting. Is this feature here to stay?
+
+
+---
+It's also interesting that in the chatGPT app, without the remote connections, GPT 5.6 Terra and Luna aren't available and only Sol is. 
+
+
+---
+Another update then I noticed is that there are more options for selected text on the on the ChatGPT Codex app on the desktop.  
+
+More details seems to be slightly similar to ‘Ask in Side Chat’ (I think the naming wasn’t changed to Side Task or whatever)?
+
+I asked GPT 5.6 Sol about this and learned the following:
+
+1. The ask ‘for more details’ basically means explain this sentence or thing in more words without worrying about follow up questions (you still can if you want to)
+2. The ‘ask in side chat’ is a more generic one where you can take things (out of context?) and ask another agent to do something with it.  
+So basically ask for more details is a more specific implementation of side-chat.
+
+
+---
+There should be an /action in a /sidechat that essentially tells codex to update findings in the main thread
+ -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/ChatGPT.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/NiceShotPro_-_for_mac.png) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/15.6_So..png) [🏞️ Context #4](https://cpx.tnvmadhav.me/content/image/content-images/image_tQjHOeq.png) [🏞️ Context #5](https://cpx.tnvmadhav.me/content/image/content-images/Open_Codex.png) [🏞️ Context #6](https://cpx.tnvmadhav.me/content/image/content-images/Advanced__LIPIlJr.png) [🏞️ Context #7](https://cpx.tnvmadhav.me/content/image/content-images/OPT_S.6_Sol.png) [🏞️ Context #8](https://cpx.tnvmadhav.me/content/image/content-images/image_8xJe68W.png) [🏞️ Context #9](https://cpx.tnvmadhav.me/content/image/content-images/update_the_main_thread_with_these_findings_now.png) -- 2026-07-10T10:36:13.114Z
 
 ---
 
