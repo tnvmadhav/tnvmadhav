@@ -1,6 +1,67 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+# New Updates to ChatGPT and Codex
+
+- One super app for both chatGPT and Codex
+- You can create automations from chat itself
+
+https://x.com/OpenAI/status/2075274271845404744?s=20
+
+It’s codex but it’s re-introduced for non-coders to start work from ChatGPT work desktop!
+
+
+OpenAI chatGPT Twitter account also shared a look and feel, a dip toes in the water sort of dem video.
+https://x.com/ChatGPTapp/status/2075336584451539353?s=20
+
+
+While my work is intact on the Codex app, the icon itself has changed a bit, as in the name has changed to chatGPT instead. 
+
+The icon on the status bar, however, is still the chatGPT icon and not the Codex icon. I'm not sure if this is a bug but when I enforced custom icons to be the same as Codex itself, it didn't change on the status bar. 
+￼
+
+
+…and then I opened the app and noticed 3 new models available for use:
+
+- GPT 5.6 Sol
+- GPT 5.6 Terra
+- GPT 5.6 Luna
+ at this point I just don't know what they are but I want to find out quickly. 
+
+
+Most of the marketing content on my Twitter timeline doesn't talk about soul, luna, or terror. It just talks about GPT 5.6 so clearly you might have to do things and figure out by yourselves. 
+
+What if I asked ChatGPT itself? 
+
+
+ChatGPT also stated or cited the blog post from openAI. 
+
+> We’re launching the GPT‑5.6 family of models for general availability following our limited preview⁠: our new flagship, Sol, alongside Terra, a balanced model for everyday work, and Luna, our most cost-efficient model.
+
+> GPT‑5.6 Sol sets a new high of 53.6, eclipsing Claude Fable 5 (adaptive reasoning) by 13.1 points. Even at medium reasoning, it beats Fable 5 by 11.4 points at roughly one-quarter the estimated cost. 
+
+Results of a certain few benchmarks have been shared in this blog post.  https://openai.com/index/gpt-5-6/
+
+
+---
+
+For my automations that are setup, I asked chatGPT to compare the prices of GPT 4o mini and GPT 5.6 Luna and it looks like luna is 6.7x more expensive than the former. 
+> If you meant GPT‑4o mini, the gap is larger:
+> * GPT‑4o mini: $0.15 input / $0.60 output
+> * Luna: $1 input / $6 output
+> * Luna is approximately 6.7× more expensive on input and 10× on output. GPT‑4o mini pricing
+
+---
+
+ChatGPT iOS app has replaced codex tab with remote tab
+
+
+---
+
+The slider feature for reasoning levels for the GPT 5.6 Sol is sort of interesting. Is this feature here to stay? -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/ChatGPT.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/NiceShotPro_-_for_mac.png) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/15.6_So..png) [🏞️ Context #4](https://cpx.tnvmadhav.me/content/image/content-images/image_tQjHOeq.png) [🏞️ Context #5](https://cpx.tnvmadhav.me/content/image/content-images/Open_Codex.png) [🏞️ Context #6](https://cpx.tnvmadhav.me/content/image/content-images/Advanced__LIPIlJr.png) -- 2026-07-10T07:52:01.619Z
+
+---
+
 The more I work with A.I. for engineering , the more I got back to fundamental principles of a good system.
 
 Now is the best time to celebrate past efforts to get cleaner architecture.
@@ -101,10 +162,6 @@ https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/  -- 20
 Shiny things can cause blinding to your eyes...and maybe they should.
 
 Allegory much https://boringtechnology.club/  -- 2026-05-13T09:58:30.145Z
-
----
-
-You're likely at most 3 degrees of freedom away from where you want to be  -- 2026-05-05T07:19:11.936Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
