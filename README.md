@@ -1,6 +1,25 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+List of interesting links I found today:
+
+Read HN twice a day for the last decade. Here's my list of S-Tier HN links
+https://news.ycombinator.com/item?id=49183198
+
+
+Why Estonians invite strangers into their back gardens each summer
+https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer
+
+
+My emergent thoughts on ads
+https://x.com/TnvMadhav/status/2085657823099433121?s=20
+
+
+The Friendship That Made Google Huge
+https://archive.is/w4oWL  -- 2026-08-07T09:34:43.157Z
+
+---
+
 # New Updates to ChatGPT and Codex
 
 - One super app for both chatGPT and Codex
@@ -177,12 +196,6 @@ I liked the cameo(ish) from Mark Addy. I just love the way he speaks.
 Good read!
 
 https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/  -- 2026-05-19T04:27:47.089Z
-
----
-
-Shiny things can cause blinding to your eyes...and maybe they should.
-
-Allegory much https://boringtechnology.club/  -- 2026-05-13T09:58:30.145Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
