@@ -1,6 +1,13 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+> It will have strong privacy and security options so you can trust it to handle all of your personal content knowing that no one else can access your information, similar to how encryption works on WhatsApp
+
+
+https://www.meta.com/thefutureisforeveryone/#:~:text=It%20will%20have%20strong%20privacy%20and%20security%20options%20so%20you%20can%20trust%20it%20to%20handle%20all%20of%20your%20personal%20content%20knowing%20that%20no%20one%20else%20can%20access%20your%20information%2C%20similar%20to%20how%20encryption%20works%20on%20WhatsApp.  -- 2026-08-11T05:02:21.597Z
+
+---
+
 List of interesting links I found today:
 
 Read HN twice a day for the last decade. Here's my list of S-Tier HN links
@@ -190,12 +197,6 @@ It's strange that I didn't come across this nod/acknowledgement on my twitter ti
 
 I liked the cameo(ish) from Mark Addy. I just love the way he speaks.
   -- 2026-06-21T12:06:03.177Z
-
----
-
-Good read!
-
-https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/  -- 2026-05-19T04:27:47.089Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
