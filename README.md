@@ -1,6 +1,10 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I had a nice meal last night 😋 #foodblog -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_7563.jpeg) -- 2026-08-22T11:12:25.823Z
+
+---
+
 > It will have strong privacy and security options so you can trust it to handle all of your personal content knowing that no one else can access your information, similar to how encryption works on WhatsApp
 
 
@@ -174,29 +178,6 @@ i'm referencing a post that can be found here: https://x.com/guinnesschen/status
 In the age of A.I. based lightning fast execution, being good at finding problems just by thinking about it is a sought out skill.
 
 Idea guys with agency are surfing Shai-Hulud at this point.  -- 2026-06-21T12:29:50.484Z
-
----
-
-I completed [Dune: Prophecy](https://www.imdb.com/title/tt10466872/) last night.
-
-An important disclaimer is that I have been a naive fan of Dune and Dune Part 2 (coming in just from my appreciation of Dennis Villeneuve), which means I haven't read Frank Herbert's books.
-
-I must say Dune:Prophecy hadn't succeeded in keeping me interested at first, however it's probably not a debate when I say the production quality is top notch.
-
-Needless to say, I do feel it's a good one. I am captivated by the lore of this story (especially when it comes to Shai-Hulud).
-
-
-Also, Thinking Machines?
-
-That's the name of [Mira Murati's A.I. company](https://thinkingmachines.ai). 
-
-Not sure if that was the inspiration but it loved the acknowledgement.
-
-It's strange that I didn't come across this nod/acknowledgement on my twitter timeline.
-
-
-I liked the cameo(ish) from Mark Addy. I just love the way he speaks.
-  -- 2026-06-21T12:06:03.177Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
