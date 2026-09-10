@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+shopify acquires tailwind 😦
+https://tailwindcss.com/blog/tailwind-is-joining-shopify
+
+
+  -- 2026-09-10T04:15:56.959Z
+
+---
+
 I had a nice meal last night 😋 #foodblog -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/IMG_7563.jpeg) -- 2026-08-22T11:12:25.823Z
 
 ---
@@ -172,12 +180,6 @@ i'm referencing a post that can be found here: https://x.com/fchollet/status/206
 I agree with this, i have been using codex’s dictation to paste my ramblings and it’s decent enough for small tasks that I give it.
 
 i'm referencing a post that can be found here: https://x.com/guinnesschen/status/2068744472528314811?s=12  -- 2026-06-22T04:58:00.436Z
-
----
-
-In the age of A.I. based lightning fast execution, being good at finding problems just by thinking about it is a sought out skill.
-
-Idea guys with agency are surfing Shai-Hulud at this point.  -- 2026-06-21T12:29:50.484Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
