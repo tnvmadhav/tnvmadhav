@@ -1,6 +1,15 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+Shopify is doing a migration to from legacy react native system to native builds for android and iOS.
+
+https://x.com/TnvMadhav/status/2098265718831890565?s=20
+
+
+source: https://shopify.engineering/back-to-native  -- 2026-09-11T04:25:45.601Z
+
+---
+
 shopify acquires tailwind 😦
 https://tailwindcss.com/blog/tailwind-is-joining-shopify
 
@@ -172,14 +181,6 @@ Been thinking about this too https://x.com/tnvmadhav/status/1760205214555291714?
 
 
 i'm referencing a post that can be found here: https://x.com/fchollet/status/2068771319341367390?s=12  -- 2026-06-22T05:03:33.931Z
-
----
-
->  it’s June 2026. Stop hand editing your prompts. Hold down the dictation button and ramble for 10 minutes. Give the model every fragment, caveat, example, and vibe in your head. It is literally a large language model. If it’s superhuman at anything, it’s reconstructing latent intent from language.
-
-I agree with this, i have been using codex’s dictation to paste my ramblings and it’s decent enough for small tasks that I give it.
-
-i'm referencing a post that can be found here: https://x.com/guinnesschen/status/2068744472528314811?s=12  -- 2026-06-22T04:58:00.436Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
