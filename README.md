@@ -1,6 +1,112 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+I bought myself a copy of book on mobile engineering.
+
+Building Mobile Apps at Scale! by Gergely Orosz. -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_s10vFSm.png) -- 2026-10-04T11:38:53.506Z
+
+---
+
+First things first, I would like to open a file or folder in xcode, I need to do the following:
+
+```sh
+open -a xcode <file/folder>
+```
+
+Now, that's out of the way, I need to figure out what the hell xcode does on top of your existing project...
+
+I see that a folder contains a `.xcodeproj` file? folder?.
+
+I always get confused with that is or why is it ever required.
+
+If we open it using vs code, it turns out that it's a folder.
+
+```sh
+open -a Visual\ Studio\ Code <some>.xcodeproj
+```
+
+So, an xcodeproj folder is context managing folder for your xcode.
+
+if you don't use xcode to build and distribute your apps, then this is entirely not necessary.
+
+All of my personal iOS and macOS apps I have built in the past have been done so using Xcode, so I simply can't remove or drop the related .xcodeproj folder if I wanna keep the development and release flows same.
+
+Inside a xcodeproj file, I found 3 more files and folders:
+
+1. Project.pbxproj
+2. xcsharedata folder
+3. project.xcworkspace
+
+Project.pbxproj is a 1 file containing the config context on files, references & dependencies etc. 
+
+If this is wired wrongly, then when xcode builds your app for release, things could go wrong.
+
+Project.pbxproj settings and config is responsible for how the files and folders are wired and show up in the xcode UI in our projects.
+
+and finally, Project.xcworkspace inside .xcodeproj should never be tampered with.
+
+It contains information for running your xcode workspace and mainly won't contain changes to be commited to apps.
+
+However, swift package manager lock files should be commited.
+
+`swiftpm/Package.resolved`
+
+this can change when adding or removing dependencies using swift package manager. 
+
+all this, for doing something that go.mod and go.sum files do.
+
+for a novice, this seems like a declarative hell. honestly.
+
+I really wish this isn't normalized.  -- 2026-10-04T11:37:24.607Z
+
+---
+
+I wouldn't say I was really proficient with github comments formatting but today I learnt how to create a collapsable section.
+
+and, it's pretty straightforward!
+
+```html
+<details>
+<summary>More details:</summary>
+**the usual markdown gore**
+</details>
+``` -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/image_vqD9e8L.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/image_ZrwGEpE.png) -- 2026-10-04T09:58:36.072Z
+
+---
+
+I'm reading the Pragmatic Engineer Pulse newsletter...
+
+https://newsletter.pragmaticengineer.com/p/the-pulse-ror-creator-sparks-new
+
+
+This edition talks about the following:
+
+1. The shock of DHH's positioning and words ofc (I agree with DHH overall positioning)
+
+2. The angst in small, medium and big tech where nobody knows or owns decisions (I too feel the same recently, I'm trying to change the way I work)
+
+This hit me specifically. 
+
+At first, in early 2026, I felt that using AI for work would mean spend less time doing design and development and spend more time living life.
+
+Now that I'm leading a team, I am backtracking this thought right now. 
+
+No! When you are responsible in multiple areas, quality and speed, the work has increased significantly. More effort goes in to quality analysis. 
+
+So, for slow learners & fragile adopters of new tech, this is a warning call.
+
+More effort needs to be put into place for getting this productivity in code generation in the right path to higher ROI.
+
+It's a Gold Rush out there for people successfully navigating this wave and keeping their sanity while realising huge return of interest.
+
+One thing I'm noticing, people who have maintained high standards in product quality through diligent integrity and practices aren't affected much by this. In fact, they are the ones riding this monstrous wave.
+
+Those who have been building software the "right" are way more resilient from facing downsides right now.
+
+The Antifragile live on.  -- 2026-10-04T09:08:32.830Z
+
+---
+
 Shopify is doing a migration to from legacy react native system to native builds for android and iOS.
 
 https://x.com/TnvMadhav/status/2098265718831890565?s=20
@@ -127,60 +233,6 @@ So basically ask for more details is a more specific implementation of side-chat
 ---
 There should be an /action in a /sidechat that essentially tells codex to update findings in the main thread
  -- [🏞️ Context #1](https://cpx.tnvmadhav.me/content/image/content-images/ChatGPT.png) [🏞️ Context #2](https://cpx.tnvmadhav.me/content/image/content-images/NiceShotPro_-_for_mac.png) [🏞️ Context #3](https://cpx.tnvmadhav.me/content/image/content-images/15.6_So..png) [🏞️ Context #4](https://cpx.tnvmadhav.me/content/image/content-images/image_tQjHOeq.png) [🏞️ Context #5](https://cpx.tnvmadhav.me/content/image/content-images/Open_Codex.png) [🏞️ Context #6](https://cpx.tnvmadhav.me/content/image/content-images/Advanced__LIPIlJr.png) [🏞️ Context #7](https://cpx.tnvmadhav.me/content/image/content-images/OPT_S.6_Sol.png) [🏞️ Context #8](https://cpx.tnvmadhav.me/content/image/content-images/image_8xJe68W.png) [🏞️ Context #9](https://cpx.tnvmadhav.me/content/image/content-images/update_the_main_thread_with_these_findings_now.png) -- 2026-07-10T10:36:13.114Z
-
----
-
-The more I work with A.I. for engineering , the more I got back to fundamental principles of a good system.
-
-Now is the best time to celebrate past efforts to get cleaner architecture.
-
-LLMs are truly autocomplete engines.
-
-Clean architecture yields clean architecture.
-
-Clean architecture helps human in loop comprehend autocompleted changes easily.
-
-Thus resulting in faster deployment cycles.
-
-Clean architecture won’t matter if there are no humans in the loop.
-
-But, if automated agents of all kinds are the workers of the future, clean architecture helps here as well.
-
-It’s a win-win strategy.
-
-Long term benefits outweigh the initial learning curves.
-
-Things can easily go wrong at the start with all the psychosis at first.
-
-Firm hand to get things put into place is a necessity.  -- 2026-07-08T09:17:18.852Z
-
----
-
-> This is correct, I think a number of people on the tl didn’t read past the title and made inferences and comparisons that are just wrong and then use it as an opportunity to take cheap shots. This is not a “feature” like some crappy Slack bot and it’s certainly not a Claw, though it has aspects of it. It is an org-level harness. The difference will become clearer over time.
-
-The idea of Org Level Harness is the key subject that caught my eye.
-
-Claude Code was a butterfly effect.
-
-
-i'm referencing a post that can be found here: https://x.com/karpathy/status/2069822834160124091?s=12  -- 2026-06-25T06:17:26.861Z
-
----
-
-> The best mobile software does not shrink a desktop interface. It identifies the decisions that matter when you are away from the desk and makes those decisions fast, legible, and safe.
-
-Optionality of convenience makes your software workflows anti-fragile
-
-i'm referencing a post that can be found here: https://developers.openai.com/blog/mastering-codex-remote-for-engineering  -- 2026-06-23T18:08:52.417Z
-
----
-
-> The hardest part of any task is overcoming the activation energy. The rest is just riding the momentum.
-
-Been thinking about this too https://x.com/tnvmadhav/status/1760205214555291714?s=46
-
-
-i'm referencing a post that can be found here: https://x.com/fchollet/status/2068771319341367390?s=12  -- 2026-06-22T05:03:33.931Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
