@@ -1,6 +1,14 @@
 ## My Latest Feed
 
 <!-- feed starts -->
+My thoughts on relying on AI workflows, end to end
+
+Yes, it’s not good in high impact cases
+
+i'm referencing a post that can be found here: [https://x.com/tnvmadhav/status/2113144717911490947?s=12](https://x.com/tnvmadhav/status/2113144717911490947?s=12)  -- 2026-10-22T05:50:02.858Z
+
+---
+
 I've been using OpenAI's codex has my agentic harness application for personal use and at work too. And, I must say I've been tired of downloading new updates every single day on multiple devices.
 
 It's like they ship something twice or thrice a day (at-least on the macOS desktop app). And, I've been wondering ever since.
@@ -151,25 +159,6 @@ I had a nice meal last night 😋 #foodblog -- [🏞️ Context #1](https://cpx.
 
 
 https://www.meta.com/thefutureisforeveryone/#:~:text=It%20will%20have%20strong%20privacy%20and%20security%20options%20so%20you%20can%20trust%20it%20to%20handle%20all%20of%20your%20personal%20content%20knowing%20that%20no%20one%20else%20can%20access%20your%20information%2C%20similar%20to%20how%20encryption%20works%20on%20WhatsApp.  -- 2026-08-11T05:02:21.597Z
-
----
-
-List of interesting links I found today:
-
-Read HN twice a day for the last decade. Here's my list of S-Tier HN links
-https://news.ycombinator.com/item?id=49183198
-
-
-Why Estonians invite strangers into their back gardens each summer
-https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer
-
-
-My emergent thoughts on ads
-https://x.com/TnvMadhav/status/2085657823099433121?s=20
-
-
-The Friendship That Made Google Huge
-https://archive.is/w4oWL  -- 2026-08-07T09:34:43.157Z
 <!-- feed ends -->
 
 NOTE: This feed is a sliding window. One can find [a significant portion of a feed archive on my website](https://tnvmadhav.me/feed/).
